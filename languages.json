@@ -1,7 +1,7 @@
 {
   "en": {},
 
-  "jp": {
+  "ja": {
     "Settings": "設定",
     "Segments": "セグメント",
     "Messages": "メッセージ",
@@ -53,7 +53,24 @@
     "Help": "ヘルプ",
     "Documentation": "ドキュメント",
     "Logout": "ログアウト",
-    "Profile": "プロフィール"
+    "Profile": "プロフィール",
+    "Search...": "検索...",
+    "Search messages": "メッセージを検索",
+    "Search users": "ユーザーを検索",
+    "Enter name": "名前を入力",
+    "Enter email": "メールアドレスを入力",
+    "Required": "必須",
+    "This field is required": "この項目は必須です",
+    "Invalid email address": "メールアドレスが無効です",
+    "Something went wrong": "問題が発生しました",
+    "Please try again": "もう一度お試しください",
+    "No results found": "結果が見つかりません",
+    "Loading...": "読み込み中...",
+    "Save changes": "変更を保存",
+    "Unsaved changes": "未保存の変更",
+    "Are you sure?": "よろしいですか？",
+    "Copy to clipboard": "クリップボードにコピー",
+    "Learn more": "詳細を見る"
   },
 
   "es": {
@@ -108,10 +125,27 @@
     "Help": "Ayuda",
     "Documentation": "Documentación",
     "Logout": "Cerrar sesión",
-    "Profile": "Perfil"
+    "Profile": "Perfil",
+    "Search...": "Buscar...",
+    "Search messages": "Buscar mensajes",
+    "Search users": "Buscar usuarios",
+    "Enter name": "Introduce el nombre",
+    "Enter email": "Introduce el correo",
+    "Required": "Obligatorio",
+    "This field is required": "Este campo es obligatorio",
+    "Invalid email address": "Correo electrónico no válido",
+    "Something went wrong": "Algo salió mal",
+    "Please try again": "Inténtalo de nuevo",
+    "No results found": "No se encontraron resultados",
+    "Loading...": "Cargando...",
+    "Save changes": "Guardar cambios",
+    "Unsaved changes": "Cambios sin guardar",
+    "Are you sure?": "¿Estás seguro?",
+    "Copy to clipboard": "Copiar al portapapeles",
+    "Learn more": "Más información"
   },
 
   "pt": {
-    "_placeholder": "Add Portuguese translations here. Same shape as 'jp' or 'es': { \"English string\": \"Tradução\" }"
+    "_placeholder": "Add Portuguese translations here. Same shape as 'ja' or 'es': { \"English string\": \"Tradução\" }"
   }
 }

@@ -1,4 +1,4 @@
-const DEFAULT_LANG = "jp";
+const DEFAULT_LANG = "ja";
 const DASHBOARD_HOST = "dashboard.onesignal.com";
 
 const select = document.getElementById("lang");

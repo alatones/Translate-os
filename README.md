@@ -19,11 +19,13 @@ touched and no browsing data is collected.
 
 ## Supported Languages
 
+Language codes follow ISO 639-1.
+
 | Code | Language   | Status                     |
 | ---- | ---------- | -------------------------- |
 | `en` | English    | Passthrough (no changes)   |
-| `jp` | Japanese   | ~50 dashboard terms        |
-| `es` | Spanish    | ~50 dashboard terms        |
+| `ja` | Japanese   | ~65 dashboard terms        |
+| `es` | Spanish    | ~65 dashboard terms        |
 | `pt` | Portuguese | Placeholder — contribute!  |
 
 ## How Persistence Works
@@ -75,14 +77,24 @@ approaches (overwriting `innerHTML` or `element.textContent`) break React
 because they invalidate the virtual-DOM diff and often detach event
 listeners.
 
-This extension only mutates **Text node `nodeValue`**. A `TreeWalker`
-filtered to `SHOW_TEXT` visits every text node in the subtree; if the
-trimmed content exactly matches a key in the active dictionary, we rewrite
-just the text. Element nodes, attributes (`placeholder`, `title`,
-`aria-label`), and React-owned handlers are never touched. When React
-re-renders and replaces a text node, a `MutationObserver` catches the
-addition and re-translates. Bursts of mutations are batched with
-`requestAnimationFrame` so we don't thrash during rapid re-renders.
+This extension mutates two narrow surfaces:
+
+1. **Text node `nodeValue`.** A `TreeWalker` filtered to `SHOW_TEXT` visits
+   every text node in the subtree; if the trimmed content exactly matches a
+   key in the active dictionary, we rewrite just the text. Element nodes
+   and React-owned event handlers are never touched.
+2. **An attribute allowlist.** `placeholder`, `title`, `aria-label`,
+   `aria-placeholder`, `aria-description`, and `alt` are translated in
+   place via `setAttribute`. This covers form placeholders, tooltips,
+   screen-reader labels, and the ARIA surfaces that inline validation /
+   error messages ride on. Structural attributes (`class`, `id`, `data-*`,
+   event handlers) are left alone.
+
+A `MutationObserver` watches `childList`, `characterData`, and attribute
+changes filtered to the allowlist. When React re-renders, new nodes and
+changed attributes are re-translated automatically. Bursts of mutations
+are batched with `requestAnimationFrame` so we don't thrash during rapid
+re-renders.
 
 ## File Map
 
@@ -100,14 +112,13 @@ styles.css       CJK-friendly typography (line-height, font stack)
 - **Exact-match only.** "Settings" is translated, but "Project Settings"
   is not unless you add it as its own key. This prevents partial-substring
   corruption (e.g. translating "Settings" inside a URL fragment).
-- **Text nodes only.** Placeholders, tooltips (`title`), and ARIA labels
-  are still English.
 - **Short strings may collide.** A key like "Send" will translate every
-  standalone "Send" in the DOM. Prefer longer, context-specific keys where
-  possible.
-- **No ISO code nit:** We use `jp` instead of `ja` per the original spec.
-  If you prefer `ja`, rename the key in `languages.json` and the option
-  value in `popup.html` together.
+  standalone "Send" in the DOM — including attributes. Prefer longer,
+  context-specific keys where possible.
+- **Browser-native validation messages are not translated.** Messages
+  produced by the browser itself (e.g. the default tooltip on a `required`
+  field) are controlled by the browser locale, not the DOM, so the
+  extension cannot reach them. App-rendered error text is covered.
 
 ## Development
 

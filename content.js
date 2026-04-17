@@ -1,10 +1,21 @@
-// React-safety: only mutate Text nodes' nodeValue. Never touch innerHTML,
-// element.textContent, or attributes — React owns those and will clobber us
-// or detach event listeners.
+// React-safety: mutate only Text nodes' nodeValue and a narrow allowlist of
+// user-facing attributes (placeholder, title, aria-label, aria-placeholder,
+// alt). Never touch innerHTML, element.textContent, event handlers, or
+// structural attributes — React owns those and will clobber us or detach
+// event listeners. The allowlist covers placeholders, tooltips, and the ARIA
+// surfaces that screen-reader-announced error messages ride on.
 
 (() => {
-  const DEFAULT_LANG = "jp";
-  const SKIP_PARENT_TAGS = new Set(["SCRIPT", "STYLE", "NOSCRIPT", "TEXTAREA", "INPUT"]);
+  const DEFAULT_LANG = "ja";
+  const SKIP_PARENT_TAGS = new Set(["SCRIPT", "STYLE", "NOSCRIPT"]);
+  const TRANSLATABLE_ATTRS = [
+    "placeholder",
+    "title",
+    "aria-label",
+    "aria-placeholder",
+    "aria-description",
+    "alt",
+  ];
 
   let dictionaries = {};
   let activeLang = DEFAULT_LANG;
@@ -21,19 +32,43 @@
     return false;
   }
 
-  function translateTextNode(node) {
-    if (shouldSkip(node)) return;
-    const raw = node.nodeValue;
-    if (!raw) return;
+  function translateString(raw) {
+    if (typeof raw !== "string" || !raw) return null;
     const trimmed = raw.trim();
-    if (!trimmed) return;
+    if (!trimmed) return null;
     const hit = lookup.get(trimmed);
-    if (hit === undefined) return;
-    // Preserve leading/trailing whitespace so React-inserted spacing survives.
+    if (hit === undefined) return null;
     const leading = raw.slice(0, raw.indexOf(trimmed));
     const trailing = raw.slice(raw.indexOf(trimmed) + trimmed.length);
-    const next = leading + hit + trailing;
-    if (node.nodeValue !== next) node.nodeValue = next;
+    return leading + hit + trailing;
+  }
+
+  function translateAttributes(el) {
+    if (!el || el.nodeType !== Node.ELEMENT_NODE) return;
+    for (const attr of TRANSLATABLE_ATTRS) {
+      if (!el.hasAttribute(attr)) continue;
+      const next = translateString(el.getAttribute(attr));
+      if (next !== null && el.getAttribute(attr) !== next) {
+        el.setAttribute(attr, next);
+      }
+    }
+  }
+
+  function walkAttributes(root) {
+    if (!root) return;
+    if (root.nodeType === Node.ELEMENT_NODE) translateAttributes(root);
+    if (root.nodeType !== Node.ELEMENT_NODE && root.nodeType !== Node.DOCUMENT_NODE) return;
+    // One querySelectorAll per subtree is cheaper than a TreeWalker for
+    // element-only traversal, and React's updates are usually shallow.
+    const selector = TRANSLATABLE_ATTRS.map((a) => `[${a}]`).join(",");
+    const els = root.querySelectorAll(selector);
+    for (const el of els) translateAttributes(el);
+  }
+
+  function translateTextNode(node) {
+    if (shouldSkip(node)) return;
+    const next = translateString(node.nodeValue);
+    if (next !== null && node.nodeValue !== next) node.nodeValue = next;
   }
 
   function walk(root) {
@@ -48,6 +83,7 @@
     });
     let n;
     while ((n = walker.nextNode())) translateTextNode(n);
+    walkAttributes(root);
   }
 
   function flushPending() {
@@ -82,6 +118,12 @@
           m.addedNodes.forEach((n) => schedule(n));
         } else if (m.type === "characterData") {
           schedule(m.target);
+        } else if (m.type === "attributes") {
+          // React re-rendered an element with a fresh placeholder/title/etc.
+          // Re-translate just this element; don't re-walk the whole subtree.
+          if (m.target && m.target.nodeType === Node.ELEMENT_NODE) {
+            translateAttributes(m.target);
+          }
         }
       }
     });
@@ -89,6 +131,8 @@
       childList: true,
       subtree: true,
       characterData: true,
+      attributes: true,
+      attributeFilter: TRANSLATABLE_ATTRS,
     });
   }
 
