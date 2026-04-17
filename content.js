@@ -100,12 +100,15 @@
 
   function buildLookup() {
     lookup = new Map();
-    const dict = dictionaries[activeLang] || {};
-    // Skip sentinel keys used for placeholder language entries.
-    for (const [k, v] of Object.entries(dict)) {
-      if (k.startsWith("_")) continue;
-      if (typeof v !== "string" || !v) continue;
-      lookup.set(k, v);
+    const translations = (dictionaries && dictionaries.translations) || {};
+    // Shape: { "<English term>": { "<lang code>": "<translated>" } }
+    // Missing codes fall through silently — that term stays in English.
+    for (const [englishTerm, perLang] of Object.entries(translations)) {
+      if (!perLang || typeof perLang !== "object") continue;
+      const translated = perLang[activeLang];
+      if (typeof translated === "string" && translated) {
+        lookup.set(englishTerm, translated);
+      }
     }
   }
 

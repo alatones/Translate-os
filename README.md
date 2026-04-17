@@ -92,23 +92,58 @@ the `mailto:` URL construction in `background.js` and `popup.js` with
 your form URL — the code path (`chrome.tabs.create({ url })`) is
 identical, only the URL shape differs.
 
-## Adding a New Language
+## Dictionary Shape & Maintenance
 
-No JS changes required. Edit `languages.json`:
+`languages.json` is **keyed by English term**, with every language nested
+inside one block per term:
 
 ```json
 {
-  "fr": {
-    "Settings": "Paramètres",
-    "Segments": "Segments",
-    "Messages": "Messages"
+  "languages": {
+    "ja": "日本語 — Japanese",
+    "es": "Español — Spanish"
+  },
+  "translations": {
+    "Settings": { "ja": "設定", "es": "Ajustes" },
+    "Segments": { "ja": "セグメント", "es": "Segmentos" }
   }
 }
 ```
 
-Then add a matching `<option value="fr">French</option>` to the
-`<select id="lang">` in `popup.html`, reload the extension from
-`chrome://extensions`, and you're live.
+This shape is optimized for maintenance:
+
+- **Adding a term** = one new line. Add `"Save changes": { "ja": "変更を保存" }`
+  and you're done — fill in other languages later. Missing codes fall
+  through to English silently.
+- **Adding a language** = add one line to the top-level `languages` map
+  (e.g. `"fr": "Français — French"`) and start sprinkling `"fr": "..."`
+  into the term blocks you care about. The popup dropdown and content
+  script both read the registry at load — **no JS or HTML edits.**
+- **Reviewing coverage** = scan a column. One glance at `"Settings"`
+  shows every language that has translated it.
+
+### Adding a New Language (step-by-step)
+
+1. Add the code + display label to `languages` in `languages.json`:
+   ```json
+   "languages": { "fr": "Français — French", ... }
+   ```
+2. In the `translations` object, add `"fr": "..."` to whichever terms
+   you want to translate. Leave the rest — those show English.
+3. Reload the extension from `chrome://extensions`. The popup dropdown
+   picks up the new language automatically.
+
+### Adding a New Term
+
+One edit, one file:
+
+```json
+"translations": {
+  "Save changes": { "ja": "変更を保存", "es": "Guardar cambios" }
+}
+```
+
+No other files to touch.
 
 ## How Translation Works (and Why It's Safe With React)
 

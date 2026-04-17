@@ -13,9 +13,27 @@ function setStatus(msg) {
   status.textContent = msg;
 }
 
-chrome.storage.sync.get({ language: DEFAULT_LANG }, ({ language }) => {
+async function populateLanguageOptions() {
+  // Load the language registry from languages.json so adding a new language
+  // requires zero JS changes — just an entry in the "languages" map.
+  try {
+    const res = await fetch(chrome.runtime.getURL("languages.json"));
+    const data = await res.json();
+    const langs = (data && data.languages) || {};
+    for (const [code, label] of Object.entries(langs)) {
+      const opt = document.createElement("option");
+      opt.value = code;
+      opt.textContent = label;
+      select.appendChild(opt);
+    }
+  } catch (err) {
+    console.warn("[OneSignal Translator] failed to load language list:", err);
+  }
+  const { language } = await chrome.storage.sync.get({ language: DEFAULT_LANG });
   select.value = language;
-});
+}
+
+populateLanguageOptions();
 
 select.addEventListener("change", async () => {
   const next = select.value;
