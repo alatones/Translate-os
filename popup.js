@@ -3,7 +3,7 @@ const DASHBOARD_HOST = "dashboard.onesignal.com";
 
 // TODO: set this to the address that should receive translation feedback.
 // Keep it in sync with FEEDBACK_EMAIL in background.js.
-const FEEDBACK_EMAIL = "translations@example.com";
+const FEEDBACK_EMAIL = "bd@onesignal.com";
 
 const select = document.getElementById("lang");
 const status = document.getElementById("status");

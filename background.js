@@ -5,7 +5,7 @@
 
 // TODO: set this to the address that should receive translation feedback.
 // Keep it in sync with FEEDBACK_EMAIL in popup.js.
-const FEEDBACK_EMAIL = "translations@example.com";
+const FEEDBACK_EMAIL = "bd@onesignal.com";
 
 const MENU_ID = "suggest-translation";
 const DEFAULT_LANG = "ja";
