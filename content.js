@@ -20,9 +20,23 @@
   let dictionaries = {};
   let activeLang = DEFAULT_LANG;
   let lookup = new Map();
+  let compiledPatterns = [];
   let observer = null;
   let pendingNodes = new Set();
   let rafId = 0;
+
+  // Missed-string ledger: records English strings the translator couldn't
+  // resolve (neither exact-match nor pattern). Kept locally regardless of
+  // opt-in; background.js gates whether it leaves the machine.
+  const missedSession = new Map();
+  const MISSED_SEEN_THRESHOLD = 3;
+  const MISSED_FLUSH_DEBOUNCE_MS = 5000;
+  const MISSED_MIN_LEN = 2;
+  const MISSED_MAX_LEN = 80;
+  const MISSED_PII_RE = /@|https?:\/\/|\b[0-9]{6,}\b|[A-Za-z0-9+/=]{32,}/;
+  // SOH separator for composite ledger keys: no UI string will contain it.
+  const MISSED_KEY_SEP = "";
+  let missedFlushTimer = 0;
 
   function shouldSkip(textNode) {
     const parent = textNode.parentNode;
@@ -32,15 +46,74 @@
     return false;
   }
 
+  function applyPattern(trimmed) {
+    for (const { re, template } of compiledPatterns) {
+      const m = trimmed.match(re);
+      if (m) return template.replace(/\{(\d+)\}/g, (_, i) => m[+i] ?? "");
+    }
+    return null;
+  }
+
   function translateString(raw) {
     if (typeof raw !== "string" || !raw) return null;
     const trimmed = raw.trim();
     if (!trimmed) return null;
-    const hit = lookup.get(trimmed);
-    if (hit === undefined) return null;
+    let translated = lookup.get(trimmed);
+    if (translated === undefined) translated = applyPattern(trimmed);
+    if (translated === undefined || translated === null) {
+      trackMissed(trimmed);
+      return null;
+    }
     const leading = raw.slice(0, raw.indexOf(trimmed));
     const trailing = raw.slice(raw.indexOf(trimmed) + trimmed.length);
-    return leading + hit + trailing;
+    return leading + translated + trailing;
+  }
+
+  function couldBeUI(s) {
+    if (s.length < MISSED_MIN_LEN || s.length > MISSED_MAX_LEN) return false;
+    if (MISSED_PII_RE.test(s)) return false;
+    if (/^\d+$/.test(s)) return false;
+    if (!/[A-Za-z]/.test(s)) return false;
+    return true;
+  }
+
+  function pathKey() {
+    // Collapse long hex/uuid-shaped segments to ":id" so we never send a
+    // full app ID or resource ID to the ledger. Pathname only — no query,
+    // no hash, no host.
+    return (window.location.pathname || "/").replace(
+      /\/[A-Za-z0-9_-]{16,}/g,
+      "/:id",
+    );
+  }
+
+  function trackMissed(s) {
+    if (!couldBeUI(s)) return;
+    const next = (missedSession.get(s) || 0) + 1;
+    missedSession.set(s, next);
+    if (next < MISSED_SEEN_THRESHOLD) return;
+    if (!missedFlushTimer) {
+      missedFlushTimer = setTimeout(flushMissed, MISSED_FLUSH_DEBOUNCE_MS);
+    }
+  }
+
+  function flushMissed() {
+    missedFlushTimer = 0;
+    const promote = [];
+    for (const [s, count] of missedSession.entries()) {
+      if (count >= MISSED_SEEN_THRESHOLD) promote.push([s, count]);
+    }
+    if (promote.length === 0) return;
+    const path = pathKey();
+    chrome.storage.local.get({ ledger: {} }, (out) => {
+      const ledger = out.ledger || {};
+      for (const [s, count] of promote) {
+        const key = [activeLang, path, s].join(MISSED_KEY_SEP);
+        ledger[key] = (ledger[key] || 0) + count;
+        missedSession.delete(s);
+      }
+      chrome.storage.local.set({ ledger });
+    });
   }
 
   function translateAttributes(el) {
@@ -100,6 +173,7 @@
 
   function buildLookup() {
     lookup = new Map();
+    compiledPatterns = [];
     const translations = (dictionaries && dictionaries.translations) || {};
     // Shape: { "<English term>": { "<lang code>": "<translated>" } }
     // Missing codes fall through silently — that term stays in English.
@@ -110,11 +184,22 @@
         lookup.set(englishTerm, translated);
       }
     }
+    const patterns = (dictionaries && dictionaries.patterns) || [];
+    for (const p of patterns) {
+      if (!p || typeof p.match !== "string") continue;
+      const template = p.translations && p.translations[activeLang];
+      if (typeof template !== "string" || !template) continue;
+      try {
+        compiledPatterns.push({ re: new RegExp(p.match), template });
+      } catch (err) {
+        console.warn("[OneSignal Translator] bad pattern:", p.match, err);
+      }
+    }
   }
 
   function startObserver() {
     if (observer) observer.disconnect();
-    if (lookup.size === 0) return; // English / empty dictionary: do nothing.
+    if (lookup.size === 0 && compiledPatterns.length === 0) return; // English / empty dictionary: do nothing.
     observer = new MutationObserver((mutations) => {
       for (const m of mutations) {
         if (m.type === "childList") {
@@ -149,7 +234,7 @@
   function applyLanguage(lang) {
     activeLang = lang || DEFAULT_LANG;
     buildLookup();
-    if (lookup.size === 0) {
+    if (lookup.size === 0 && compiledPatterns.length === 0) {
       // Passthrough mode (English/none). Leave the DOM alone — a full page
       // reload from the popup restores original copy.
       stopObserver();

@@ -10,46 +10,6 @@
       "ja": "+ 作成...",
       "pt": "+ Criar..."
     },
-    "12 months": {
-      "es": "12 meses",
-      "ja": "12ヶ月",
-      "pt": "12 meses"
-    },
-    "24 hours": {
-      "es": "24 horas",
-      "ja": "24時間",
-      "pt": "24 horas"
-    },
-    "24 months": {
-      "es": "24 meses",
-      "ja": "24ヶ月",
-      "pt": "24 meses"
-    },
-    "30 days": {
-      "es": "30 días",
-      "ja": "30日間",
-      "pt": "30 dias"
-    },
-    "6 months": {
-      "es": "6 meses",
-      "ja": "6ヶ月",
-      "pt": "6 meses"
-    },
-    "60 minutes": {
-      "es": "60 minutos",
-      "ja": "60分",
-      "pt": "60 minutos"
-    },
-    "7 days": {
-      "es": "7 días",
-      "ja": "7日間",
-      "pt": "7 dias"
-    },
-    "90 days": {
-      "es": "90 días",
-      "ja": "90日間",
-      "pt": "90 dias"
-    },
     "A/B Tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
@@ -1039,26 +999,6 @@
       "es": "Imagen grande",
       "ja": "大きな画像",
       "pt": "Imagem grande"
-    },
-    "Last 14 days": {
-      "es": "Últimos 14 días",
-      "ja": "過去14日間",
-      "pt": "Últimos 14 dias"
-    },
-    "Last 30 days": {
-      "es": "Últimos 30 días",
-      "ja": "過去30日間",
-      "pt": "Últimos 30 dias"
-    },
-    "Last 7 days": {
-      "es": "Últimos 7 días",
-      "ja": "過去7日間",
-      "pt": "Últimos 7 dias"
-    },
-    "Last 90 days": {
-      "es": "Últimos 90 días",
-      "ja": "過去90日間",
-      "pt": "Últimos 90 dias"
     },
     "Last Active": {
       "es": "Última actividad",
@@ -2400,5 +2340,80 @@
       "ja": "はい",
       "pt": "verdadeiro"
     }
-  }
+  },
+
+  "patterns": [
+    {
+      "match": "^(\\d+) days$",
+      "translations": {
+        "es": "{1} días",
+        "ja": "{1}日間",
+        "pt": "{1} dias"
+      }
+    },
+    {
+      "match": "^(\\d+) hours$",
+      "translations": {
+        "es": "{1} horas",
+        "ja": "{1}時間",
+        "pt": "{1} horas"
+      }
+    },
+    {
+      "match": "^(\\d+) minutes$",
+      "translations": {
+        "es": "{1} minutos",
+        "ja": "{1}分",
+        "pt": "{1} minutos"
+      }
+    },
+    {
+      "match": "^(\\d+) months$",
+      "translations": {
+        "es": "{1} meses",
+        "ja": "{1}ヶ月",
+        "pt": "{1} meses"
+      }
+    },
+    {
+      "match": "^Last (\\d+) days$",
+      "translations": {
+        "es": "Últimos {1} días",
+        "ja": "過去{1}日間",
+        "pt": "Últimos {1} dias"
+      }
+    },
+    {
+      "match": "^(\\d+) selected$",
+      "translations": {
+        "es": "{1} seleccionados",
+        "ja": "{1}件を選択中",
+        "pt": "{1} selecionados"
+      }
+    },
+    {
+      "match": "^(\\d+) segments? selected$",
+      "translations": {
+        "es": "{1} segmentos seleccionados",
+        "ja": "{1}個のセグメントを選択中",
+        "pt": "{1} segmentos selecionados"
+      }
+    },
+    {
+      "match": "^Sent (\\d+) messages?$",
+      "translations": {
+        "es": "Enviados {1} mensajes",
+        "ja": "{1}件のメッセージを送信しました",
+        "pt": "{1} mensagens enviadas"
+      }
+    },
+    {
+      "match": "^Showing (\\d+)[-–](\\d+) of (\\d+)$",
+      "translations": {
+        "es": "Mostrando {1}–{2} de {3}",
+        "ja": "{3}件中 {1}〜{2} を表示",
+        "pt": "Mostrando {1}–{2} de {3}"
+      }
+    }
+  ]
 }
