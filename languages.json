@@ -159,127 +159,152 @@
     "All Time": {
       "es": "Todo el tiempo",
       "ja": "全期間",
-      "pt": "Todo o período"
+      "pt": "Todo o período",
+      "ko": "전체 기간"
     },
     "All Users": {
       "es": "Todos los usuarios",
       "ja": "全ユーザー",
-      "pt": "Todos os usuários"
+      "pt": "Todos os usuários",
+      "ko": "모든 사용자"
     },
     "All-time count": {
       "es": "Recuento total",
       "ja": "累計カウント",
-      "pt": "Contagem total"
+      "pt": "Contagem total",
+      "ko": "전체 기간 수"
     },
     "Allowed Origins": {
       "es": "Orígenes permitidos",
       "ja": "許可されたオリジン",
-      "pt": "Origens permitidas"
+      "pt": "Origens permitidas",
+      "ko": "허용된 출처"
     },
     "Alternatives": {
       "es": "Alternativas",
       "ja": "代替手段",
-      "pt": "Alternativas"
+      "pt": "Alternativas",
+      "ko": "대안"
     },
     "Amount Spent": {
       "es": "Monto gastado",
       "ja": "消費金額",
-      "pt": "Valor gasto"
+      "pt": "Valor gasto",
+      "ko": "지출 금액"
     },
     "Android": {
       "es": "Android",
       "ja": "Android",
-      "pt": "Android"
+      "pt": "Android",
+      "ko": "안드로이드"
     },
     "Announce and send follow-up reminders for sales.": {
       "es": "Anuncia y envía recordatorios de seguimiento para ventas.",
       "ja": "セール告知とフォローアップリマインダーを送信。",
-      "pt": "Anuncie e envie lembretes de acompanhamento para vendas."
+      "pt": "Anuncie e envie lembretes de acompanhamento para vendas.",
+      "ko": "영업을 위한 공지 및 후속 알림을 보내세요."
     },
     "Any/English": {
       "es": "Cualquiera/Inglés",
       "ja": "任意/英語",
-      "pt": "Qualquer/Inglês"
+      "pt": "Qualquer/Inglês",
+      "ko": "모두/영어"
     },
     "API": {
       "es": "API",
       "ja": "API",
-      "pt": "API"
+      "pt": "API",
+      "ko": "API"
     },
     "API Reference": {
       "es": "Referencia de API",
       "ja": "APIリファレンス",
-      "pt": "Referência de API"
+      "pt": "Referência de API",
+      "ko": "API 레퍼런스"
     },
     "App ID": {
       "es": "ID de la app",
       "ja": "アプリID",
-      "pt": "ID do app"
+      "pt": "ID do app",
+      "ko": "앱 ID"
     },
     "App Name": {
       "es": "Nombre de la app",
       "ja": "アプリ名",
-      "pt": "Nome do app"
+      "pt": "Nome do app",
+      "ko": "앱 이름"
     },
     "App Version": {
       "es": "Versión de la app",
       "ja": "アプリバージョン",
-      "pt": "Versão do app"
+      "pt": "Versão do app",
+      "ko": "앱 버전"
     },
     "App version": {
       "es": "Versión de la app",
       "ja": "アプリバージョン",
-      "pt": "Versão do app"
+      "pt": "Versão do app",
+      "ko": "앱 버전"
     },
     "Apply": {
       "es": "Aplicar",
       "ja": "適用",
-      "pt": "Aplicar"
+      "pt": "Aplicar",
+      "ko": "적용"
     },
     "Apr": {
       "es": "abr",
       "ja": "4月",
-      "pt": "abr"
+      "pt": "abr",
+      "ko": "4월"
     },
     "April": {
       "es": "abril",
       "ja": "4月",
-      "pt": "abril"
+      "pt": "abril",
+      "ko": "4월"
     },
     "Archive": {
       "es": "Archivar",
       "ja": "アーカイブ",
-      "pt": "Arquivar"
+      "pt": "Arquivar",
+      "ko": "보관"
     },
     "Archived": {
       "es": "Archivado",
       "ja": "アーカイブ済み",
-      "pt": "Arquivado"
+      "pt": "Arquivado",
+      "ko": "보관됨"
     },
     "Are you sure?": {
       "es": "¿Estás seguro?",
       "ja": "よろしいですか？",
-      "pt": "Tem certeza?"
+      "pt": "Tem certeza?",
+      "ko": "정말 하시겠습니까?"
     },
     "Attempted": {
       "es": "Intentados",
       "ja": "試行数",
-      "pt": "Tentativas"
+      "pt": "Tentativas",
+      "ko": "시도됨"
     },
     "Attempted Events": {
       "es": "Eventos intentados",
       "ja": "試行イベント数",
-      "pt": "Eventos tentados"
+      "pt": "Eventos tentados",
+      "ko": "시도된 이벤트"
     },
     "Attempted Updates": {
       "es": "Actualizaciones intentadas",
       "ja": "試行済み更新",
-      "pt": "Atualizações tentadas"
+      "pt": "Atualizações tentadas",
+      "ko": "시도된 업데이트"
     },
     "Audience": {
       "es": "Audiencia",
       "ja": "オーディエンス",
-      "pt": "Audiência"
+      "pt": "Audiência",
+      "ko": "고객"
     },
     "Audit Logs": {
       "es": "Registros de auditoría",
