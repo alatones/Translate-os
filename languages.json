@@ -2994,6 +2994,56 @@
       "ja": "リアルタイムでデータをストリーミングして、他のCRMツールでタイムリーなアクションやワークフローをトリガーする",
       "es": "Transmite datos en tiempo real para activar acciones o flujos de trabajo en otras herramientas de CRM",
       "pt": "Transmita dados em tempo real para acionar ações ou fluxos de trabalho em outras ferramentas de relacionamento"
+    },
+    "Data Warehouse": {
+      "ja": "データウェアハウス",
+      "es": "Almacén de datos",
+      "pt": "Armazém de dados"
+    },
+    "Database": {
+      "ja": "データベース",
+      "es": "Base de datos",
+      "pt": "Banco de dados"
+    },
+    "Data Streaming": {
+      "ja": "データストリーミング",
+      "es": "Transmisión de datos",
+      "pt": "Streaming de dados"
+    },
+    "Storage": {
+      "ja": "ストレージ",
+      "es": "Almacenamiento",
+      "pt": "Armazenamento"
+    },
+    "Spreadsheet": {
+      "ja": "スプレッドシート",
+      "es": "Hoja de cálculo",
+      "pt": "Planilha"
+    },
+    "Add Integration": {
+      "ja": "インテグレーションを追加",
+      "es": "Agregar integración",
+      "pt": "Adicionar integração"
+    },
+    "Search integrations...": {
+      "ja": "インテグレーションを検索...",
+      "es": "Buscar integraciones...",
+      "pt": "Pesquisar integrações..."
+    },
+    "Select type...": {
+      "ja": "タイプを選択...",
+      "es": "Seleccionar tipo...",
+      "pt": "Selecionar tipo..."
+    },
+    "No contents": {
+      "ja": "コンテンツがありません",
+      "es": "Sin contenido",
+      "pt": "Sem conteúdo"
+    },
+    "When you configure an integration, its status will be displayed here.": {
+      "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
+      "es": "Cuando configures una integración, su estado se mostrará aquí.",
+      "pt": "Quando você configurar uma integração, seu status será exibido aqui."
     }
   },
   "patterns": [
