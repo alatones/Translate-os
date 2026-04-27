@@ -1359,127 +1359,152 @@
     "IP address": {
       "es": "Dirección IP",
       "ja": "IPアドレス",
-      "pt": "Endereço IP"
+      "pt": "Endereço IP",
+      "ko": "IP 주소"
     },
     "is": {
       "es": "es igual a",
       "ja": "等しい",
-      "pt": "é igual a"
+      "pt": "é igual a",
+      "ko": "같음"
     },
     "is not": {
       "es": "no es igual a",
       "ja": "等しくない",
-      "pt": "não é igual a"
+      "pt": "não é igual a",
+      "ko": "같지 않음"
     },
     "Jan": {
       "es": "ene",
       "ja": "1月",
-      "pt": "jan"
+      "pt": "jan",
+      "ko": "1월"
     },
     "January": {
       "es": "enero",
       "ja": "1月",
-      "pt": "janeiro"
+      "pt": "janeiro",
+      "ko": "1월"
     },
     "Journey": {
       "es": "Journey",
       "ja": "ジャーニー",
-      "pt": "Journey"
+      "pt": "Journey",
+      "ko": "저니"
     },
     "Journey Webhook": {
       "es": "Webhook de Journey",
       "ja": "ジャーニーWebhook",
-      "pt": "Webhook de Journey"
+      "pt": "Webhook de Journey",
+      "ko": "저니 웹훅"
     },
     "Journey Webhooks": {
       "es": "Webhooks de Journey",
       "ja": "ジャーニーWebhook",
-      "pt": "Webhooks de Journey"
+      "pt": "Webhooks de Journey",
+      "ko": "저니 웹훅"
     },
     "Journeys": {
       "es": "Journeys",
       "ja": "ジャーニー",
-      "pt": "Journeys"
+      "pt": "Journeys",
+      "ko": "저니"
     },
     "Jul": {
       "es": "jul",
       "ja": "7月",
-      "pt": "jul"
+      "pt": "jul",
+      "ko": "7월"
     },
     "July": {
       "es": "julio",
       "ja": "7月",
-      "pt": "julho"
+      "pt": "julho",
+      "ko": "7월"
     },
     "Jump forward": {
       "es": "Avanzar",
       "ja": "先へ進む",
-      "pt": "Avançar"
+      "pt": "Avançar",
+      "ko": "앞으로 이동"
     },
     "Jun": {
       "es": "jun",
       "ja": "6月",
-      "pt": "jun"
+      "pt": "jun",
+      "ko": "6월"
     },
     "June": {
       "es": "junio",
       "ja": "6月",
-      "pt": "junho"
+      "pt": "junho",
+      "ko": "6월"
     },
     "Key": {
       "es": "Clave",
       "ja": "キー",
-      "pt": "Chave"
+      "pt": "Chave",
+      "ko": "키"
     },
     "Keys & IDs": {
       "es": "Claves e IDs",
       "ja": "キーとID",
-      "pt": "Chaves e IDs"
+      "pt": "Chaves e IDs",
+      "ko": "키 및 ID"
     },
     "Labels": {
       "es": "Etiquetas",
       "ja": "ラベル",
-      "pt": "Rótulos"
+      "pt": "Rótulos",
+      "ko": "라벨"
     },
     "Language": {
       "es": "Idioma",
       "ja": "言語",
-      "pt": "Idioma"
+      "pt": "Idioma",
+      "ko": "언어"
     },
     "Language code": {
       "es": "Código de idioma",
       "ja": "言語コード",
-      "pt": "Código de idioma"
+      "pt": "Código de idioma",
+      "ko": "언어 코드"
     },
     "Large Image": {
       "es": "Imagen grande",
       "ja": "大きな画像",
-      "pt": "Imagem grande"
+      "pt": "Imagem grande",
+      "ko": "큰 이미지"
     },
     "Last activated": {
       "es": "Última activación",
       "ja": "最終有効化",
-      "pt": "Última ativação"
+      "pt": "Última ativação",
+      "ko": "마지막 활성화"
     },
     "Last Active": {
       "es": "Última actividad",
       "ja": "最終アクティブ",
-      "pt": "Última atividade"
+      "pt": "Última atividade",
+      "ko": "마지막 활성"
     },
     "Last active": {
       "es": "Última actividad",
       "ja": "最終アクティブ",
-      "pt": "Última atividade"
+      "pt": "Última atividade",
+      "ko": "마지막 활성"
     },
     "Last month": {
       "es": "Mes pasado",
       "ja": "先月",
-      "pt": "Mês passado"
+      "pt": "Mês passado",
+      "ko": "지난달"
     },
     "Last received": {
       "es": "Última recepción",
       "ja": "最終受信",
-      "pt": "Último recebido"
+      "pt": "Último recebido",
+      "ko": "마지막 수신"
     },
     "Last sent": {
       "es": "Último envío",
