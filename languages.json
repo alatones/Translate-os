@@ -3909,127 +3909,152 @@
     "Dismiss": {
       "ja": "閉じる",
       "es": "Descartar",
-      "pt": "Descartar"
+      "pt": "Descartar",
+      "ko": "닫기"
     },
     "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
       "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
       "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Journeys, nuestra nueva herramienta de automatización.",
-      "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação."
+      "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação.",
+      "ko": "메시지를 다음 단계로 끌어올릴 준비가 되었다면 새로운 자동화 도구인 저니를 확인하세요."
     },
     "Journeys documentation": {
       "ja": "ジャーニーのドキュメント",
       "es": "Documentación de Journeys",
-      "pt": "Documentação de Journeys"
+      "pt": "Documentação de Journeys",
+      "ko": "저니 문서"
     },
     "New Automated Email": {
       "ja": "新しい自動メール",
       "es": "Nuevo email automatizado",
-      "pt": "Novo e-mail automatizado"
+      "pt": "Novo e-mail automatizado",
+      "ko": "새 자동화 이메일"
     },
     "Or start with one of our quickstart Journeys": {
       "ja": "またはクイックスタートジャーニーの1つから始める",
       "es": "O empieza con uno de nuestros Journeys de inicio rápido",
-      "pt": "Ou comece com um de nossos Journeys de início rápido"
+      "pt": "Ou comece com um de nossos Journeys de início rápido",
+      "ko": "또는 빠른 시작 저니 중 하나로 시작하세요"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
       "es": "Reactivación",
-      "pt": "Reengajamento"
+      "pt": "Reengajamento",
+      "ko": "재참여"
     },
     "Ready to automate your messages?": {
       "ja": "メッセージの自動化の準備はできていますか？",
       "es": "¿Listo para automatizar tus mensajes?",
-      "pt": "Pronto para automatizar suas mensagens?"
+      "pt": "Pronto para automatizar suas mensagens?",
+      "ko": "메시지 자동화 준비가 되셨나요?"
     },
     "Send the right message based on who users are and how they interact with your product": {
       "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
       "es": "Envía el mensaje correcto según quiénes son los usuarios y cómo interactúan con tu producto",
-      "pt": "Envie a mensagem certa com base em quem são os usuários e como interagem com seu produto"
+      "pt": "Envie a mensagem certa com base em quem são os usuários e como interagem com seu produto",
+      "ko": "사용자가 누구인지 및 제품과의 상호 작용을 기반으로 적절한 메시지를 보내세요"
     },
     "Set message standards for push and email": {
       "ja": "プッシュとメールのメッセージ基準を設定する",
       "es": "Establece estándares de mensajes para push y email",
-      "pt": "Defina padrões de mensagens para push e e-mail"
+      "pt": "Defina padrões de mensagens para push e e-mail",
+      "ko": "푸시 및 이메일 메시지 표준 설정"
     },
     "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
       "es": "Tu app tiene un límite de 500,000 envíos de email al mes. Si necesitas ayuda con tu límite, contacta a nuestro equipo de soporte.",
-      "pt": "Seu app está limitado a 500.000 envios de e-mail por mês. Se precisar de ajuda com seu limite, entre em contato com nossa equipe de suporte."
+      "pt": "Seu app está limitado a 500.000 envios de e-mail por mês. Se precisar de ajuda com seu limite, entre em contato com nossa equipe de suporte.",
+      "ko": "앱은 한 달에 최대 500,000개의 이메일을 발송할 수 있습니다. 한도에 대한 도움이 필요하면 지원팀에 문의하세요."
     },
     "Export a message list for your records": {
       "ja": "記録用のメッセージリストをエクスポートする",
       "es": "Exporta una lista de mensajes para tus registros",
-      "pt": "Exporte uma lista de mensagens para seus registros"
+      "pt": "Exporte uma lista de mensagens para seus registros",
+      "ko": "기록을 위해 메시지 목록 내보내기"
     },
     "Filter by delivery method (dashboard, API)": {
       "ja": "配信方法（ダッシュボード、API）でフィルタリングする",
       "es": "Filtrar por método de entrega (dashboard, API)",
-      "pt": "Filtrar por método de entrega (dashboard, API)"
+      "pt": "Filtrar por método de entrega (dashboard, API)",
+      "ko": "전달 방법 (대시보드, API)으로 필터링"
     },
     "Keep an eye on deliverability across campaigns": {
       "ja": "キャンペーン全体の配信率を監視する",
       "es": "Controla la capacidad de entrega en todas tus campañas",
-      "pt": "Monitore a capacidade de entrega em todas as campanhas"
+      "pt": "Monitore a capacidade de entrega em todas as campanhas",
+      "ko": "캠페인 전체의 전달률을 모니터링하세요"
     },
     "Keep an eye on what's ahead": {
       "ja": "今後の予定を確認する",
       "es": "Mantén un ojo en lo que viene",
-      "pt": "Fique de olho no que está por vir"
+      "pt": "Fique de olho no que está por vir",
+      "ko": "앞으로 있을 일을 주시하세요"
     },
     "Messages: All": {
       "ja": "メッセージ：すべて",
       "es": "Mensajes: Todos",
-      "pt": "Mensagens: Todos"
+      "pt": "Mensagens: Todos",
+      "ko": "메시지: 전체"
     },
     "Once you schedule a campaign, it will show up here": {
       "ja": "キャンペーンをスケジュールすると、ここに表示されます",
       "es": "Una vez que programes una campaña, aparecerá aquí",
-      "pt": "Quando você agendar uma campanha, ela aparecerá aqui"
+      "pt": "Quando você agendar uma campanha, ela aparecerá aqui",
+      "ko": "캠페인을 예약하면 여기에 표시됩니다"
     },
     "Once you send a campaign, it will show up here": {
       "ja": "キャンペーンを送信すると、ここに表示されます",
       "es": "Una vez que envíes una campaña, aparecerá aquí",
-      "pt": "Quando você enviar uma campanha, ela aparecerá aqui"
+      "pt": "Quando você enviar uma campanha, ela aparecerá aqui",
+      "ko": "캠페인을 발송하면 여기에 표시됩니다"
     },
     "Recently sent messages, all in one place": {
       "ja": "最近送信したメッセージをすべて一か所で確認",
       "es": "Mensajes enviados recientemente, todos en un solo lugar",
-      "pt": "Mensagens enviadas recentemente, todas em um só lugar"
+      "pt": "Mensagens enviadas recentemente, todas em um só lugar",
+      "ko": "최근 발송된 메시지를 한 곳에서"
     },
     "Scheduled Messages documentation": {
       "ja": "スケジュール済みメッセージのドキュメント",
       "es": "Documentación de mensajes programados",
-      "pt": "Documentação de mensagens agendadas"
+      "pt": "Documentação de mensagens agendadas",
+      "ko": "예약 메시지 문서"
     },
     "Sent Messages documentation": {
       "ja": "送信済みメッセージのドキュメント",
       "es": "Documentación de mensajes enviados",
-      "pt": "Documentação de mensagens enviadas"
+      "pt": "Documentação de mensagens enviadas",
+      "ko": "발송 메시지 문서"
     },
     "Active Subscriptions": {
       "ja": "アクティブなサブスクリプション",
       "es": "Suscripciones activas",
-      "pt": "Assinaturas ativas"
+      "pt": "Assinaturas ativas",
+      "ko": "활성 구독"
     },
     "All Email Subscriptions": {
       "ja": "すべてのメールサブスクリプション",
       "es": "Todas las suscripciones de email",
-      "pt": "Todas as assinaturas de e-mail"
+      "pt": "Todas as assinaturas de e-mail",
+      "ko": "모든 이메일 구독"
     },
     "All SMS Subscriptions": {
       "ja": "すべてのSMSサブスクリプション",
       "es": "Todas las suscripciones de SMS",
-      "pt": "Todas as assinaturas de SMS"
+      "pt": "Todas as assinaturas de SMS",
+      "ko": "모든 SMS 구독"
     },
     "Device Type is Email": {
       "ja": "デバイスタイプがメール",
       "es": "El tipo de dispositivo es Email",
-      "pt": "O tipo de dispositivo é E-mail"
+      "pt": "O tipo de dispositivo é E-mail",
+      "ko": "기기 유형: 이메일"
     },
     "Device Type is SMS": {
       "ja": "デバイスタイプがSMS",
       "es": "El tipo de dispositivo es SMS",
-      "pt": "O tipo de dispositivo é SMS"
+      "pt": "O tipo de dispositivo é SMS",
+      "ko": "기기 유형: SMS"
     },
     "Engaged Subscriptions": {
       "ja": "エンゲージドなサブスクリプション",
