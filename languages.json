@@ -609,127 +609,152 @@
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
       "ja": "指定した国のアクティブオーディエンスに連絡",
-      "pt": "Contate sua audiência ativa de um país específico"
+      "pt": "Contate sua audiência ativa de um país específico",
+      "ko": "특정 국가의 활성 고객에게 연락하세요"
     },
     "contains": {
       "es": "contiene",
       "ja": "含む",
-      "pt": "contém"
+      "pt": "contém",
+      "ko": "포함"
     },
     "Continue": {
       "es": "Continuar",
       "ja": "続ける",
-      "pt": "Continuar"
+      "pt": "Continuar",
+      "ko": "계속"
     },
     "Continue Setup": {
       "es": "Continuar configuración",
       "ja": "セットアップを続ける",
-      "pt": "Continuar configuração"
+      "pt": "Continuar configuração",
+      "ko": "설정 계속"
     },
     "Conversion": {
       "es": "Conversión",
       "ja": "コンバージョン",
-      "pt": "Conversão"
+      "pt": "Conversão",
+      "ko": "전환"
     },
     "Copied to clipboard": {
       "es": "Copiado al portapapeles",
       "ja": "クリップボードにコピーしました",
-      "pt": "Copiado para a área de transferência"
+      "pt": "Copiado para a área de transferência",
+      "ko": "클립보드에 복사됨"
     },
     "Copy": {
       "es": "Copiar",
       "ja": "コピー",
-      "pt": "Copiar"
+      "pt": "Copiar",
+      "ko": "복사"
     },
     "Count": {
       "es": "Recuento",
       "ja": "カウント",
-      "pt": "Contagem"
+      "pt": "Contagem",
+      "ko": "수"
     },
     "Country": {
       "es": "País",
       "ja": "国",
-      "pt": "País"
+      "pt": "País",
+      "ko": "국가"
     },
     "Create": {
       "es": "Crear",
       "ja": "作成",
-      "pt": "Criar"
+      "pt": "Criar",
+      "ko": "만들기"
     },
     "Create Segment": {
       "es": "Crear segmento",
       "ja": "セグメントを作成",
-      "pt": "Criar segmento"
+      "pt": "Criar segmento",
+      "ko": "세그먼트 만들기"
     },
     "Create Template": {
       "es": "Crear plantilla",
       "ja": "テンプレートを作成",
-      "pt": "Criar modelo"
+      "pt": "Criar modelo",
+      "ko": "템플릿 만들기"
     },
     "Create...": {
       "es": "Crear...",
       "ja": "作成...",
-      "pt": "Criar..."
+      "pt": "Criar...",
+      "ko": "만들기..."
     },
     "Created": {
       "es": "Creado",
       "ja": "作成日",
-      "pt": "Criado"
+      "pt": "Criado",
+      "ko": "생성됨"
     },
     "Created At": {
       "es": "Creado el",
       "ja": "作成日時",
-      "pt": "Criado em"
+      "pt": "Criado em",
+      "ko": "생성일시"
     },
     "Created at": {
       "es": "Creado el",
       "ja": "作成日時",
-      "pt": "Criado em"
+      "pt": "Criado em",
+      "ko": "생성일시"
     },
     "Created by": {
       "es": "Creado por",
       "ja": "作成者",
-      "pt": "Criado por"
+      "pt": "Criado por",
+      "ko": "생성자"
     },
     "CSV": {
       "es": "CSV",
       "ja": "CSV",
-      "pt": "CSV"
+      "pt": "CSV",
+      "ko": "CSV"
     },
     "CTR": {
       "es": "CTR",
       "ja": "CTR",
-      "pt": "CTR"
+      "pt": "CTR",
+      "ko": "CTR"
     },
     "Custom": {
       "es": "Personalizado",
       "ja": "カスタム",
-      "pt": "Personalizado"
+      "pt": "Personalizado",
+      "ko": "사용자 정의"
     },
     "Custom Audience": {
       "es": "Audiencia personalizada",
       "ja": "カスタムオーディエンス",
-      "pt": "Audiência personalizada"
+      "pt": "Audiência personalizada",
+      "ko": "맞춤 고객"
     },
     "Custom Data": {
       "es": "Datos personalizados",
       "ja": "カスタムデータ",
-      "pt": "Dados personalizados"
+      "pt": "Dados personalizados",
+      "ko": "사용자 정의 데이터"
     },
     "Custom Events": {
       "es": "Eventos personalizados",
       "ja": "カスタムイベント",
-      "pt": "Eventos personalizados"
+      "pt": "Eventos personalizados",
+      "ko": "사용자 정의 이벤트"
     },
     "Custom Range": {
       "es": "Rango personalizado",
       "ja": "カスタム範囲",
-      "pt": "Período personalizado"
+      "pt": "Período personalizado",
+      "ko": "사용자 정의 기간"
     },
     "Dashboard": {
       "es": "Panel de control",
       "ja": "ダッシュボード",
-      "pt": "Painel"
+      "pt": "Painel",
+      "ko": "대시보드"
     },
     "Data": {
       "es": "Datos",
