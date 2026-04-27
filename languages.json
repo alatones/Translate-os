@@ -3219,6 +3219,221 @@
       "ja": "アプリ内をセットアップ",
       "es": "Configurar In-App",
       "pt": "Configurar In-App"
+    },
+    "Automate onboarding, re-engagement, and more": {
+      "ja": "オンボーディング、再エンゲージメントなどを自動化する",
+      "es": "Automatiza el onboarding, la reactivación y más",
+      "pt": "Automatize onboarding, reengajamento e muito mais"
+    },
+    "Automate personalized messaging": {
+      "ja": "パーソナライズされたメッセージを自動化する",
+      "es": "Automatiza la mensajería personalizada",
+      "pt": "Automatize o envio de mensagens personalizadas"
+    },
+    "Avoid starting from scratch for every campaign": {
+      "ja": "キャンペーンのたびにゼロから始める手間をなくす",
+      "es": "Evita empezar desde cero en cada campaña",
+      "pt": "Evite começar do zero a cada campanha"
+    },
+    "Build custom templates to re-use": {
+      "ja": "再利用可能なカスタムテンプレートを作成する",
+      "es": "Crea plantillas personalizadas para reutilizar",
+      "pt": "Crie modelos personalizados para reutilizar"
+    },
+    "Combine channels, campaigns, and messaging logic in our drag-and-drop visual builder": {
+      "ja": "ドラッグ＆ドロップのビジュアルビルダーで、チャネル・キャンペーン・メッセージングロジックを組み合わせる",
+      "es": "Combina canales, campañas y lógica de mensajería en nuestro creador visual de arrastrar y soltar",
+      "pt": "Combine canais, campanhas e lógica de mensagens em nosso construtor visual de arrastar e soltar"
+    },
+    "Combine push, email, SMS, and in-app in a single Journey": {
+      "ja": "プッシュ、メール、SMS、アプリ内を1つのジャーニーに組み合わせる",
+      "es": "Combina push, email, SMS y mensajes en la app en un solo Journey",
+      "pt": "Combine push, e-mail, SMS e mensagens no app em um único Journey"
+    },
+    "Create reusable messages": {
+      "ja": "再利用可能なメッセージを作成する",
+      "es": "Crea mensajes reutilizables",
+      "pt": "Crie mensagens reutilizáveis"
+    },
+    "Dismiss": {
+      "ja": "閉じる",
+      "es": "Descartar",
+      "pt": "Descartar"
+    },
+    "If you're ready to take your messaging to the next level, check out Journeys, our new automation tool.": {
+      "ja": "メッセージングを次のレベルに引き上げる準備ができたら、新しい自動化ツール「ジャーニー」をご活用ください。",
+      "es": "Si estás listo para llevar tu mensajería al siguiente nivel, descubre Journeys, nuestra nueva herramienta de automatización.",
+      "pt": "Se você está pronto para levar suas mensagens ao próximo nível, confira o Journeys, nossa nova ferramenta de automação."
+    },
+    "Journeys documentation": {
+      "ja": "ジャーニーのドキュメント",
+      "es": "Documentación de Journeys",
+      "pt": "Documentação de Journeys"
+    },
+    "New Automated Email": {
+      "ja": "新しい自動メール",
+      "es": "Nuevo email automatizado",
+      "pt": "Novo e-mail automatizado"
+    },
+    "Or start with one of our quickstart Journeys": {
+      "ja": "またはクイックスタートジャーニーの1つから始める",
+      "es": "O empieza con uno de nuestros Journeys de inicio rápido",
+      "pt": "Ou comece com um de nossos Journeys de início rápido"
+    },
+    "Re-engagement": {
+      "ja": "再エンゲージメント",
+      "es": "Reactivación",
+      "pt": "Reengajamento"
+    },
+    "Ready to automate your messages?": {
+      "ja": "メッセージの自動化の準備はできていますか？",
+      "es": "¿Listo para automatizar tus mensajes?",
+      "pt": "Pronto para automatizar suas mensagens?"
+    },
+    "Send the right message based on who users are and how they interact with your product": {
+      "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
+      "es": "Envía el mensaje correcto según quiénes son los usuarios y cómo interactúan con tu producto",
+      "pt": "Envie a mensagem certa com base em quem são os usuários e como interagem com seu produto"
+    },
+    "Set message standards for push and email": {
+      "ja": "プッシュとメールのメッセージ基準を設定する",
+      "es": "Establece estándares de mensajes para push y email",
+      "pt": "Defina padrões de mensagens para push e e-mail"
+    },
+    "Your app is limited to 500,000 email sends a month. If you need help with your limit, contact our Support team.": {
+      "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
+      "es": "Tu app tiene un límite de 500,000 envíos de email al mes. Si necesitas ayuda con tu límite, contacta a nuestro equipo de soporte.",
+      "pt": "Seu app está limitado a 500.000 envios de e-mail por mês. Se precisar de ajuda com seu limite, entre em contato com nossa equipe de suporte."
+    },
+    "Export a message list for your records": {
+      "ja": "記録用のメッセージリストをエクスポートする",
+      "es": "Exporta una lista de mensajes para tus registros",
+      "pt": "Exporte uma lista de mensagens para seus registros"
+    },
+    "Filter by delivery method (dashboard, API)": {
+      "ja": "配信方法（ダッシュボード、API）でフィルタリングする",
+      "es": "Filtrar por método de entrega (dashboard, API)",
+      "pt": "Filtrar por método de entrega (dashboard, API)"
+    },
+    "Keep an eye on deliverability across campaigns": {
+      "ja": "キャンペーン全体の配信率を監視する",
+      "es": "Controla la capacidad de entrega en todas tus campañas",
+      "pt": "Monitore a capacidade de entrega em todas as campanhas"
+    },
+    "Keep an eye on what's ahead": {
+      "ja": "今後の予定を確認する",
+      "es": "Mantén un ojo en lo que viene",
+      "pt": "Fique de olho no que está por vir"
+    },
+    "Messages: All": {
+      "ja": "メッセージ：すべて",
+      "es": "Mensajes: Todos",
+      "pt": "Mensagens: Todos"
+    },
+    "Once you schedule a campaign, it will show up here": {
+      "ja": "キャンペーンをスケジュールすると、ここに表示されます",
+      "es": "Una vez que programes una campaña, aparecerá aquí",
+      "pt": "Quando você agendar uma campanha, ela aparecerá aqui"
+    },
+    "Once you send a campaign, it will show up here": {
+      "ja": "キャンペーンを送信すると、ここに表示されます",
+      "es": "Una vez que envíes una campaña, aparecerá aquí",
+      "pt": "Quando você enviar uma campanha, ela aparecerá aqui"
+    },
+    "Recently sent messages, all in one place": {
+      "ja": "最近送信したメッセージをすべて一か所で確認",
+      "es": "Mensajes enviados recientemente, todos en un solo lugar",
+      "pt": "Mensagens enviadas recentemente, todas em um só lugar"
+    },
+    "Scheduled Messages documentation": {
+      "ja": "スケジュール済みメッセージのドキュメント",
+      "es": "Documentación de mensajes programados",
+      "pt": "Documentação de mensagens agendadas"
+    },
+    "Sent Messages documentation": {
+      "ja": "送信済みメッセージのドキュメント",
+      "es": "Documentación de mensajes enviados",
+      "pt": "Documentação de mensagens enviadas"
+    },
+    "Active Subscriptions": {
+      "ja": "アクティブなサブスクリプション",
+      "es": "Suscripciones activas",
+      "pt": "Assinaturas ativas"
+    },
+    "All Email Subscriptions": {
+      "ja": "すべてのメールサブスクリプション",
+      "es": "Todas las suscripciones de email",
+      "pt": "Todas as assinaturas de e-mail"
+    },
+    "All SMS Subscriptions": {
+      "ja": "すべてのSMSサブスクリプション",
+      "es": "Todas las suscripciones de SMS",
+      "pt": "Todas as assinaturas de SMS"
+    },
+    "Device Type is Email": {
+      "ja": "デバイスタイプがメール",
+      "es": "El tipo de dispositivo es Email",
+      "pt": "O tipo de dispositivo é E-mail"
+    },
+    "Device Type is SMS": {
+      "ja": "デバイスタイプがSMS",
+      "es": "El tipo de dispositivo es SMS",
+      "pt": "O tipo de dispositivo é SMS"
+    },
+    "Engaged Subscriptions": {
+      "ja": "エンゲージドなサブスクリプション",
+      "es": "Suscripciones con engagement",
+      "pt": "Assinaturas com engajamento"
+    },
+    "Inactive Subscriptions": {
+      "ja": "非アクティブなサブスクリプション",
+      "es": "Suscripciones inactivas",
+      "pt": "Assinaturas inativas"
+    },
+    "Total Subscriptions": {
+      "ja": "サブスクリプション合計",
+      "es": "Suscripciones totales",
+      "pt": "Total de assinaturas"
+    },
+    "Search by name or keywords": {
+      "ja": "名前またはキーワードで検索",
+      "es": "Buscar por nombre o palabras clave",
+      "pt": "Pesquisar por nome ou palavras-chave"
+    },
+    "Try one of our quickstart segments": {
+      "ja": "クイックスタートセグメントをお試しください",
+      "es": "Prueba uno de nuestros segmentos de inicio rápido",
+      "pt": "Experimente um de nossos segmentos de início rápido"
+    },
+    "Export a list of users": {
+      "ja": "ユーザーリストをエクスポート",
+      "es": "Exportar una lista de usuarios",
+      "pt": "Exportar uma lista de usuários"
+    },
+    "Integrate SDK": {
+      "ja": "SDKを統合する",
+      "es": "Integrar SDK",
+      "pt": "Integrar SDK"
+    },
+    "Know your users": {
+      "ja": "ユーザーを把握する",
+      "es": "Conoce a tus usuarios",
+      "pt": "Conheça seus usuários"
+    },
+    "Manage user profiles": {
+      "ja": "ユーザープロフィールを管理する",
+      "es": "Gestionar perfiles de usuario",
+      "pt": "Gerenciar perfis de usuários"
+    },
+    "See recent message activity at the user level": {
+      "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認する",
+      "es": "Ver la actividad reciente de mensajes a nivel de usuario",
+      "pt": "Ver atividade recente de mensagens no nível do usuário"
+    },
+    "User documentation": {
+      "ja": "ユーザードキュメント",
+      "es": "Documentación de usuario",
+      "pt": "Documentação do usuário"
     }
   },
   "patterns": [
@@ -3436,6 +3651,30 @@
         "es": "{1} dic",
         "ja": "12月{1}日",
         "pt": "{1} dez"
+      }
+    },
+    {
+      "match": "^Last Session less than (\\d+) hours ago$",
+      "translations": {
+        "ja": "最後のセッションから{1}時間未満",
+        "es": "Última sesión hace menos de {1} horas",
+        "pt": "Última sessão há menos de {1} horas"
+      }
+    },
+    {
+      "match": "^Last Session greater than (\\d+) hours ago$",
+      "translations": {
+        "ja": "最後のセッションから{1}時間以上",
+        "es": "Última sesión hace más de {1} horas",
+        "pt": "Última sessão há mais de {1} horas"
+      }
+    },
+    {
+      "match": "^Session Count greater than (\\d+) sessions?$",
+      "translations": {
+        "ja": "セッション数が{1}回以上",
+        "es": "Conteo de sesiones mayor a {1}",
+        "pt": "Contagem de sessões maior que {1}"
       }
     }
   ]
