@@ -1509,127 +1509,152 @@
     "Last sent": {
       "es": "Último envío",
       "ja": "最終送信",
-      "pt": "Último envio"
+      "pt": "Último envio",
+      "ko": "마지막 발송"
     },
     "Last Session": {
       "es": "Última sesión",
       "ja": "最終セッション",
-      "pt": "Última sessão"
+      "pt": "Última sessão",
+      "ko": "마지막 세션"
     },
     "Last session": {
       "es": "Última sesión",
       "ja": "最終セッション",
-      "pt": "Última sessão"
+      "pt": "Última sessão",
+      "ko": "마지막 세션"
     },
     "Last Sync": {
       "es": "Última sincronización",
       "ja": "最終同期",
-      "pt": "Última sincronização"
+      "pt": "Última sincronização",
+      "ko": "마지막 동기화"
     },
     "Last unsubscribed": {
       "es": "Última cancelación",
       "ja": "最終購読解除",
-      "pt": "Último cancelamento"
+      "pt": "Último cancelamento",
+      "ko": "마지막 구독 취소"
     },
     "Last Updated": {
       "es": "Última actualización",
       "ja": "最終更新",
-      "pt": "Última atualização"
+      "pt": "Última atualização",
+      "ko": "마지막 업데이트"
     },
     "Launch CSV Importer": {
       "es": "Iniciar importador CSV",
       "ja": "CSVインポーターを起動",
-      "pt": "Iniciar importador CSV"
+      "pt": "Iniciar importador CSV",
+      "ko": "CSV 가져오기 실행"
     },
     "Launch URL": {
       "es": "URL de destino",
       "ja": "起動URL",
-      "pt": "URL de destino"
+      "pt": "URL de destino",
+      "ko": "실행 URL"
     },
     "less than": {
       "es": "menor que",
       "ja": "より小さい",
-      "pt": "menor que"
+      "pt": "menor que",
+      "ko": "미만"
     },
     "Live Activities": {
       "es": "Actividades en vivo",
       "ja": "ライブアクティビティ",
-      "pt": "Atividades ao vivo"
+      "pt": "Atividades ao vivo",
+      "ko": "라이브 액티비티"
     },
     "Live Activity": {
       "es": "Actividad en vivo",
       "ja": "ライブアクティビティ",
-      "pt": "Atividade ao vivo"
+      "pt": "Atividade ao vivo",
+      "ko": "라이브 액티비티"
     },
     "Load More": {
       "es": "Cargar más",
       "ja": "さらに読み込む",
-      "pt": "Carregar mais"
+      "pt": "Carregar mais",
+      "ko": "더 보기"
     },
     "Load segment count": {
       "es": "Cargar recuento de segmentos",
       "ja": "セグメント数を読み込む",
-      "pt": "Carregar contagem de segmentos"
+      "pt": "Carregar contagem de segmentos",
+      "ko": "세그먼트 수 로드"
     },
     "Loading": {
       "es": "Cargando",
       "ja": "読み込み中",
-      "pt": "Carregando"
+      "pt": "Carregando",
+      "ko": "로딩 중"
     },
     "Loading…": {
       "es": "Cargando…",
       "ja": "読み込み中…",
-      "pt": "Carregando…"
+      "pt": "Carregando…",
+      "ko": "로딩 중…"
     },
     "Local (EDT):": {
       "es": "Local (EDT):",
       "ja": "現地時間（EDT）：",
-      "pt": "Local (EDT):"
+      "pt": "Local (EDT):",
+      "ko": "현지 시간 (EDT):"
     },
     "Local:": {
       "es": "Local:",
       "ja": "現地時間：",
-      "pt": "Local:"
+      "pt": "Local:",
+      "ko": "현지:"
     },
     "Location": {
       "es": "Ubicación",
       "ja": "位置情報",
-      "pt": "Localização"
+      "pt": "Localização",
+      "ko": "위치"
     },
     "Location point": {
       "es": "Punto de ubicación",
       "ja": "位置情報ポイント",
-      "pt": "Ponto de localização"
+      "pt": "Ponto de localização",
+      "ko": "위치 지점"
     },
     "Manage App": {
       "es": "Administrar app",
       "ja": "アプリを管理",
-      "pt": "Gerenciar app"
+      "pt": "Gerenciar app",
+      "ko": "앱 관리"
     },
     "Manage or invite team members": {
       "es": "Administrar o invitar miembros del equipo",
       "ja": "チームメンバーの管理と招待",
-      "pt": "Gerenciar ou convidar membros da equipe"
+      "pt": "Gerenciar ou convidar membros da equipe",
+      "ko": "팀원 관리 또는 초대"
     },
     "Manage this app": {
       "es": "Administrar esta app",
       "ja": "このアプリを管理",
-      "pt": "Gerenciar este app"
+      "pt": "Gerenciar este app",
+      "ko": "이 앱 관리"
     },
     "Manually Add": {
       "es": "Agregar manualmente",
       "ja": "手動追加",
-      "pt": "Adicionar manualmente"
+      "pt": "Adicionar manualmente",
+      "ko": "수동 추가"
     },
     "Manually add users with emails or phone numbers": {
       "es": "Agrega usuarios con emails o números de teléfono",
       "ja": "メールアドレスまたは電話番号でユーザーを手動追加",
-      "pt": "Adicione usuários com emails ou números de telefone"
+      "pt": "Adicione usuários com emails ou números de telefone",
+      "ko": "이메일 또는 전화번호로 사용자 직접 추가"
     },
     "Mar": {
       "es": "mar",
       "ja": "3月",
-      "pt": "mar"
+      "pt": "mar",
+      "ko": "3월"
     },
     "March": {
       "es": "marzo",
