@@ -1209,127 +1209,152 @@
     "From Name": {
       "es": "Nombre del remitente",
       "ja": "送信者名",
-      "pt": "Nome do remetente"
+      "pt": "Nome do remetente",
+      "ko": "발신자 이름"
     },
     "Full Screen": {
       "es": "Pantalla completa",
       "ja": "全画面",
-      "pt": "Tela cheia"
+      "pt": "Tela cheia",
+      "ko": "전체 화면"
     },
     "General": {
       "es": "General",
       "ja": "一般",
-      "pt": "Geral"
+      "pt": "Geral",
+      "ko": "일반"
     },
     "Global outcomes": {
       "es": "Resultados globales",
       "ja": "グローバルアウトカム",
-      "pt": "Resultados globais"
+      "pt": "Resultados globais",
+      "ko": "전체 결과"
     },
     "greater than": {
       "es": "mayor que",
       "ja": "より大きい",
-      "pt": "maior que"
+      "pt": "maior que",
+      "ko": "초과"
     },
     "icon for prebuilt": {
       "es": "ícono predefinido",
       "ja": "既定アイコン",
-      "pt": "ícone predefinido"
+      "pt": "ícone predefinido",
+      "ko": "사전 제작 아이콘"
     },
     "ID": {
       "es": "ID",
       "ja": "ID",
-      "pt": "ID"
+      "pt": "ID",
+      "ko": "ID"
     },
     "Import": {
       "es": "Importar",
       "ja": "インポート",
-      "pt": "Importar"
+      "pt": "Importar",
+      "ko": "가져오기"
     },
     "Import data tags": {
       "es": "Importar data tags",
       "ja": "データタグをインポート",
-      "pt": "Importar data tags"
+      "pt": "Importar data tags",
+      "ko": "데이터 태그 가져오기"
     },
     "Import Users": {
       "es": "Importar usuarios",
       "ja": "ユーザーをインポート",
-      "pt": "Importar usuários"
+      "pt": "Importar usuários",
+      "ko": "사용자 가져오기"
     },
     "Impressions": {
       "es": "Impresiones",
       "ja": "インプレッション",
-      "pt": "Impressões"
+      "pt": "Impressões",
+      "ko": "노출 수"
     },
     "In Progress": {
       "es": "En progreso",
       "ja": "処理中",
-      "pt": "Em andamento"
+      "pt": "Em andamento",
+      "ko": "진행 중"
     },
     "In-App": {
       "es": "In-App",
       "ja": "アプリ内",
-      "pt": "In-App"
+      "pt": "In-App",
+      "ko": "인앱"
     },
     "In-App Messages": {
       "es": "Mensajes In-App",
       "ja": "アプリ内メッセージ",
-      "pt": "Mensagens In-App"
+      "pt": "Mensagens In-App",
+      "ko": "인앱 메시지"
     },
     "Inactive": {
       "es": "Inactivo",
       "ja": "非アクティブ",
-      "pt": "Inativo"
+      "pt": "Inativo",
+      "ko": "비활성"
     },
     "Inbound": {
       "es": "Entrante",
       "ja": "インバウンド",
-      "pt": "Entrada"
+      "pt": "Entrada",
+      "ko": "인바운드"
     },
     "Include Segments": {
       "es": "Incluir segmentos",
       "ja": "セグメントを含む",
-      "pt": "Incluir segmentos"
+      "pt": "Incluir segmentos",
+      "ko": "세그먼트 포함"
     },
     "Influenced": {
       "es": "Influenciado",
       "ja": "影響あり",
-      "pt": "Influenciado"
+      "pt": "Influenciado",
+      "ko": "영향받음"
     },
     "Influenced Opens": {
       "es": "Aperturas influenciadas",
       "ja": "影響を受けた開封",
-      "pt": "Aberturas influenciadas"
+      "pt": "Aberturas influenciadas",
+      "ko": "영향받아 열림"
     },
     "Info": {
       "es": "Info",
       "ja": "情報",
-      "pt": "Info"
+      "pt": "Info",
+      "ko": "정보"
     },
     "Integrations": {
       "es": "Integraciones",
       "ja": "インテグレーション",
-      "pt": "Integrações"
+      "pt": "Integrações",
+      "ko": "통합"
     },
     "Intelligent Delivery": {
       "es": "Entrega inteligente",
       "ja": "インテリジェント配信",
-      "pt": "Entrega inteligente"
+      "pt": "Entrega inteligente",
+      "ko": "지능형 전달"
     },
     "Invite": {
       "es": "Invitar",
       "ja": "招待",
-      "pt": "Convidar"
+      "pt": "Convidar",
+      "ko": "초대"
     },
     "Invite User": {
       "es": "Invitar usuario",
       "ja": "ユーザーを招待",
-      "pt": "Convidar usuário"
+      "pt": "Convidar usuário",
+      "ko": "사용자 초대"
     },
     "iOS": {
       "es": "iOS",
       "ja": "iOS",
-      "pt": "iOS"
+      "pt": "iOS",
+      "ko": "iOS"
     },
     "IP address": {
       "es": "Dirección IP",
