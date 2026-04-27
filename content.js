@@ -32,7 +32,7 @@
   // Strings we successfully translated this session — don't re-log them as
   // missed when the MutationObserver fires on our own DOM writes.
   const recentTranslations = new Set();
-  const MISSED_SEEN_THRESHOLD = 3;
+  const MISSED_SEEN_THRESHOLD = 1;
   const MISSED_FLUSH_DEBOUNCE_MS = 5000;
   const MISSED_MIN_LEN = 3;
   const MISSED_MAX_LEN = 200;

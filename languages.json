@@ -2799,6 +2799,36 @@
       "es": "Ayer",
       "ja": "昨日",
       "pt": "Ontem"
+    },
+    "Stay top of mind": {
+      "ja": "常にユーザーの意識に残る",
+      "es": "Mantente en la mente de tus usuarios",
+      "pt": "Mantenha-se presente na mente dos seus usuários"
+    },
+    "Visible and timely messages bring your users back": {
+      "ja": "タイムリーなメッセージでユーザーを引き戻す",
+      "es": "Los mensajes visibles y oportunos hacen que tus usuarios regresen",
+      "pt": "Mensagens visíveis e oportunas trazem seus usuários de volta"
+    },
+    "Easily manage mobile and web push in one place": {
+      "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
+      "es": "Gestiona el push móvil y web fácilmente en un solo lugar",
+      "pt": "Gerencie push móvel e web facilmente em um só lugar"
+    },
+    "Unlimited push for real-time updates, alerts, and more": {
+      "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
+      "es": "Push ilimitado para actualizaciones en tiempo real, alertas y más",
+      "pt": "Push ilimitado para atualizações em tempo real, alertas e muito mais"
+    },
+    "Set Up Push": {
+      "ja": "プッシュをセットアップ",
+      "es": "Configurar push",
+      "pt": "Configurar push"
+    },
+    "Push setup documentation": {
+      "ja": "プッシュセットアップドキュメント",
+      "es": "Documentación de configuración de push",
+      "pt": "Documentação de configuração de push"
     }
   },
   "patterns": [
