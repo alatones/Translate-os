@@ -1059,127 +1059,152 @@
     "Event List": {
       "es": "Lista de eventos",
       "ja": "イベントリスト",
-      "pt": "Lista de eventos"
+      "pt": "Lista de eventos",
+      "ko": "이벤트 목록"
     },
     "Event name": {
       "es": "Nombre del evento",
       "ja": "イベント名",
-      "pt": "Nome do evento"
+      "pt": "Nome do evento",
+      "ko": "이벤트 이름"
     },
     "Event Stream": {
       "es": "Flujo de eventos",
       "ja": "イベントストリーム",
-      "pt": "Fluxo de eventos"
+      "pt": "Fluxo de eventos",
+      "ko": "이벤트 스트림"
     },
     "Event Streams": {
       "es": "Flujos de eventos",
       "ja": "イベントストリーム",
-      "pt": "Fluxos de eventos"
+      "pt": "Fluxos de eventos",
+      "ko": "이벤트 스트림"
     },
     "Exclude Segments": {
       "es": "Excluir segmentos",
       "ja": "セグメントを除外",
-      "pt": "Excluir segmentos"
+      "pt": "Excluir segmentos",
+      "ko": "세그먼트 제외"
     },
     "exists": {
       "es": "existe",
       "ja": "存在する",
-      "pt": "existe"
+      "pt": "existe",
+      "ko": "존재함"
     },
     "Expand row": {
       "es": "Expandir fila",
       "ja": "行を展開",
-      "pt": "Expandir linha"
+      "pt": "Expandir linha",
+      "ko": "행 확장"
     },
     "Export": {
       "es": "Exportar",
       "ja": "エクスポート",
-      "pt": "Exportar"
+      "pt": "Exportar",
+      "ko": "내보내기"
     },
     "Exported Events": {
       "es": "Eventos exportados",
       "ja": "エクスポートイベント数",
-      "pt": "Eventos exportados"
+      "pt": "Eventos exportados",
+      "ko": "내보낸 이벤트"
     },
     "External ID": {
       "es": "ID externo",
       "ja": "外部ID",
-      "pt": "ID externo"
+      "pt": "ID externo",
+      "ko": "외부 ID"
     },
     "Failed": {
       "es": "Fallido",
       "ja": "失敗",
-      "pt": "Com falha"
+      "pt": "Com falha",
+      "ko": "실패됨"
     },
     "Failed Events": {
       "es": "Eventos fallidos",
       "ja": "失敗イベント",
-      "pt": "Eventos com falha"
+      "pt": "Eventos com falha",
+      "ko": "실패된 이벤트"
     },
     "Failed Updates": {
       "es": "Actualizaciones fallidas",
       "ja": "失敗した更新",
-      "pt": "Atualizações com falha"
+      "pt": "Atualizações com falha",
+      "ko": "실패된 업데이트"
     },
     "false": {
       "es": "falso",
       "ja": "いいえ",
-      "pt": "falso"
+      "pt": "falso",
+      "ko": "거짓"
     },
     "Feb": {
       "es": "feb",
       "ja": "2月",
-      "pt": "fev"
+      "pt": "fev",
+      "ko": "2월"
     },
     "February": {
       "es": "febrero",
       "ja": "2月",
-      "pt": "fevereiro"
+      "pt": "fevereiro",
+      "ko": "2월"
     },
     "Filter": {
       "es": "Filtro",
       "ja": "フィルター",
-      "pt": "Filtro"
+      "pt": "Filtro",
+      "ko": "필터"
     },
     "Filters": {
       "es": "Filtros",
       "ja": "フィルター",
-      "pt": "Filtros"
+      "pt": "Filtros",
+      "ko": "필터"
     },
     "Firefox": {
       "es": "Firefox",
       "ja": "Firefox",
-      "pt": "Firefox"
+      "pt": "Firefox",
+      "ko": "파이어폭스"
     },
     "First active": {
       "es": "Primera actividad",
       "ja": "初回アクティブ",
-      "pt": "Primeira atividade"
+      "pt": "Primeira atividade",
+      "ko": "첫 활성"
     },
     "First Session": {
       "es": "Primera sesión",
       "ja": "初回セッション",
-      "pt": "Primeira sessão"
+      "pt": "Primeira sessão",
+      "ko": "첫 번째 세션"
     },
     "First session": {
       "es": "Primera sesión",
       "ja": "初回セッション",
-      "pt": "Primeira sessão"
+      "pt": "Primeira sessão",
+      "ko": "첫 번째 세션"
     },
     "First-time Audience": {
       "es": "Audiencia nueva",
       "ja": "初回オーディエンス",
-      "pt": "Audiência nova"
+      "pt": "Audiência nova",
+      "ko": "신규 고객"
     },
     "Fri": {
       "es": "Vie",
       "ja": "金",
-      "pt": "Sex"
+      "pt": "Sex",
+      "ko": "금"
     },
     "From Address": {
       "es": "Dirección del remitente",
       "ja": "送信元アドレス",
-      "pt": "Endereço do remetente"
+      "pt": "Endereço do remetente",
+      "ko": "발신 주소"
     },
     "From Name": {
       "es": "Nombre del remitente",
