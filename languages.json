@@ -2859,127 +2859,152 @@
     "Subscribed": {
       "es": "Suscrito",
       "ja": "購読中",
-      "pt": "Inscrito"
+      "pt": "Inscrito",
+      "ko": "구독됨"
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor no participante",
       "ja": "購読停止済み",
-      "pt": "Assinante optou por sair"
+      "pt": "Assinante optou por sair",
+      "ko": "구독자 거부"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
       "ja": "登録日",
-      "pt": "Data de inscrição"
+      "pt": "Data de inscrição",
+      "ko": "구독 날짜"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
       "ja": "サブスクリプションID",
-      "pt": "ID de assinatura"
+      "pt": "ID de assinatura",
+      "ko": "구독 ID"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
       "ja": "サブスクリプション記録",
-      "pt": "Registros de assinaturas"
+      "pt": "Registros de assinaturas",
+      "ko": "구독 기록"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
       "ja": "購読推移",
-      "pt": "Tendências de assinaturas"
+      "pt": "Tendências de assinaturas",
+      "ko": "구독 트렌드"
     },
     "Subscriptions": {
       "es": "Suscripciones",
       "ja": "サブスクリプション",
-      "pt": "Assinaturas"
+      "pt": "Assinaturas",
+      "ko": "구독"
     },
     "Success": {
       "es": "Éxito",
       "ja": "成功",
-      "pt": "Sucesso"
+      "pt": "Sucesso",
+      "ko": "성공"
     },
     "Success Rate": {
       "es": "Tasa de éxito",
       "ja": "成功率",
-      "pt": "Taxa de sucesso"
+      "pt": "Taxa de sucesso",
+      "ko": "성공률"
     },
     "Successful Updates": {
       "es": "Actualizaciones exitosas",
       "ja": "成功した更新",
-      "pt": "Atualizações bem-sucedidas"
+      "pt": "Atualizações bem-sucedidas",
+      "ko": "성공적인 업데이트"
     },
     "Sun": {
       "es": "Dom",
       "ja": "日",
-      "pt": "Dom"
+      "pt": "Dom",
+      "ko": "일"
     },
     "Super User": {
       "es": "Superusuario",
       "ja": "スーパーユーザー",
-      "pt": "Superusuário"
+      "pt": "Superusuário",
+      "ko": "슈퍼 사용자"
     },
     "Support and documentation": {
       "es": "Soporte y documentación",
       "ja": "サポートとドキュメント",
-      "pt": "Suporte e documentação"
+      "pt": "Suporte e documentação",
+      "ko": "지원 및 문서"
     },
     "Sync contacts through API": {
       "es": "Sincroniza contactos a través de la API",
       "ja": "APIで連絡先を同期",
-      "pt": "Sincronize contatos via API"
+      "pt": "Sincronize contatos via API",
+      "ko": "API를 통해 연락처 동기화"
     },
     "Tag": {
       "es": "Etiqueta",
       "ja": "タグ",
-      "pt": "Tag"
+      "pt": "Tag",
+      "ko": "태그"
     },
     "Tags": {
       "es": "Etiquetas",
       "ja": "タグ",
-      "pt": "Tags"
+      "pt": "Tags",
+      "ko": "태그"
     },
     "Team Members": {
       "es": "Miembros del equipo",
       "ja": "チームメンバー",
-      "pt": "Membros da equipe"
+      "pt": "Membros da equipe",
+      "ko": "팀원"
     },
     "Template Name": {
       "es": "Nombre de la plantilla",
       "ja": "テンプレート名",
-      "pt": "Nome do modelo"
+      "pt": "Nome do modelo",
+      "ko": "템플릿 이름"
     },
     "Templates": {
       "es": "Plantillas",
       "ja": "テンプレート",
-      "pt": "Modelos"
+      "pt": "Modelos",
+      "ko": "템플릿"
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
       "ja": "テストサブスクリプション記録",
-      "pt": "Registros de assinaturas de teste"
+      "pt": "Registros de assinaturas de teste",
+      "ko": "테스트 구독 기록"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
       "ja": "テストサブスクリプション",
-      "pt": "Assinaturas de teste"
+      "pt": "Assinaturas de teste",
+      "ko": "테스트 구독"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
       "ja": "テストユーザー",
-      "pt": "Usuários de teste"
+      "pt": "Usuários de teste",
+      "ko": "테스트 사용자"
     },
     "This action cannot be undone.": {
       "es": "Esta acción no se puede deshacer.",
       "ja": "この操作は元に戻せません。",
-      "pt": "Esta ação não pode ser desfeita."
+      "pt": "Esta ação não pode ser desfeita.",
+      "ko": "이 작업은 취소할 수 없습니다."
     },
     "This month": {
       "es": "Este mes",
       "ja": "今月",
-      "pt": "Este mês"
+      "pt": "Este mês",
+      "ko": "이번 달"
     },
     "Thu": {
       "es": "Jue",
       "ja": "木",
-      "pt": "Qui"
+      "pt": "Qui",
+      "ko": "목"
     },
     "Time": {
       "es": "Hora",
