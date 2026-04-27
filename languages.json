@@ -2829,6 +2829,171 @@
       "ja": "プッシュセットアップドキュメント",
       "es": "Documentación de configuración de push",
       "pt": "Documentação de configuração de push"
+    },
+    "Hi! Let's get started": {
+      "ja": "こんにちは！さっそく始めましょう",
+      "es": "¡Hola! Empecemos",
+      "pt": "Olá! Vamos começar"
+    },
+    "Set up your messaging channels": {
+      "ja": "メッセージチャネルを設定する",
+      "es": "Configura tus canales de mensajería",
+      "pt": "Configure seus canais de mensagens"
+    },
+    "Create your first message": {
+      "ja": "最初のメッセージを作成する",
+      "es": "Crea tu primer mensaje",
+      "pt": "Crie sua primeira mensagem"
+    },
+    "Import users": {
+      "ja": "ユーザーをインポート",
+      "es": "Importar usuarios",
+      "pt": "Importar usuários"
+    },
+    "Push notifications": {
+      "ja": "プッシュ通知",
+      "es": "Notificaciones push",
+      "pt": "Notificações push"
+    },
+    "In-app messages": {
+      "ja": "アプリ内メッセージ",
+      "es": "Mensajes en la aplicación",
+      "pt": "Mensagens no aplicativo"
+    },
+    "Add your users & subscriptions": {
+      "ja": "ユーザーとサブスクリプションを追加する",
+      "es": "Agrega tus usuarios y suscripciones",
+      "pt": "Adicione seus usuários e assinaturas"
+    },
+    "Bring your users back with mobile and web push.": {
+      "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻しましょう。",
+      "es": "Recupera a tus usuarios con push móvil y web.",
+      "pt": "Traga seus usuários de volta com push móvel e web."
+    },
+    "Craft sophisticated professional emails with no code.": {
+      "ja": "コードなしでプロフェッショナルなメールを作成しましょう。",
+      "es": "Crea correos electrónicos profesionales y sofisticados sin código.",
+      "pt": "Crie e-mails profissionais sofisticados sem código."
+    },
+    "Directly reach your audience in an effective, mobile-first way.": {
+      "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチしましょう。",
+      "es": "Llega a tu audiencia de manera efectiva y mobile-first.",
+      "pt": "Alcance seu público de forma eficaz e com foco em mobile."
+    },
+    "Reach all active users, regardless of subscription status. (mobile apps only)": {
+      "ja": "サブスクリプションの状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
+      "es": "Llega a todos los usuarios activos, independientemente del estado de suscripción. (solo apps móviles)",
+      "pt": "Alcance todos os usuários ativos, independentemente do status de assinatura. (somente apps móveis)"
+    },
+    "Send a quick message or setup automated messaging with Journeys": {
+      "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
+      "es": "Envía un mensaje rápido o configura mensajes automatizados con Journeys",
+      "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Journeys"
+    },
+    "Read our quickstart documentation": {
+      "ja": "クイックスタートドキュメントを読む",
+      "es": "Lee nuestra documentación de inicio rápido",
+      "pt": "Leia nossa documentação de início rápido"
+    },
+    "Email - Active - Click to manage settings": {
+      "ja": "メール - アクティブ - クリックして設定を管理",
+      "es": "Email - Activo - Haz clic para gestionar la configuración",
+      "pt": "Email - Ativo - Clique para gerenciar as configurações"
+    },
+    "In-app messages - Not configured - Click to set up": {
+      "ja": "アプリ内メッセージ - 未設定 - クリックしてセットアップ",
+      "es": "Mensajes en la aplicación - No configurado - Haz clic para configurar",
+      "pt": "Mensagens no aplicativo - Não configurado - Clique para configurar"
+    },
+    "Push notifications - Not configured - Click to set up": {
+      "ja": "プッシュ通知 - 未設定 - クリックしてセットアップ",
+      "es": "Notificaciones push - No configurado - Haz clic para configurar",
+      "pt": "Notificações push - Não configurado - Clique para configurar"
+    },
+    "SMS / RCS - Not configured - Click to set up": {
+      "ja": "SMS / RCS - 未設定 - クリックしてセットアップ",
+      "es": "SMS / RCS - No configurado - Haz clic para configurar",
+      "pt": "SMS / RCS - Não configurado - Clique para configurar"
+    },
+    "Account options": {
+      "ja": "アカウントオプション",
+      "es": "Opciones de cuenta",
+      "pt": "Opções de conta"
+    },
+    "Close Audience menu": {
+      "ja": "オーディエンスメニューを閉じる",
+      "es": "Cerrar menú de Audiencia",
+      "pt": "Fechar menu de Audiência"
+    },
+    "Close Data menu": {
+      "ja": "データメニューを閉じる",
+      "es": "Cerrar menú de Datos",
+      "pt": "Fechar menu de Dados"
+    },
+    "Close Delivery menu": {
+      "ja": "配信メニューを閉じる",
+      "es": "Cerrar menú de Entrega",
+      "pt": "Fechar menu de Entrega"
+    },
+    "Close Messages menu": {
+      "ja": "メッセージメニューを閉じる",
+      "es": "Cerrar menú de Mensajes",
+      "pt": "Fechar menu de Mensagens"
+    },
+    "Collapse navigation": {
+      "ja": "ナビゲーションを折りたたむ",
+      "es": "Contraer navegación",
+      "pt": "Recolher navegação"
+    },
+    "Toggle navigation": {
+      "ja": "ナビゲーションの切り替え",
+      "es": "Alternar navegación",
+      "pt": "Alternar navegação"
+    },
+    "Notifications Alt+T": {
+      "ja": "通知 Alt+T",
+      "es": "Notificaciones Alt+T",
+      "pt": "Notificações Alt+T"
+    },
+    "Event Stream documentation": {
+      "ja": "イベントストリームのドキュメント",
+      "es": "Documentación de Event Stream",
+      "pt": "Documentação de Event Stream"
+    },
+    "Event Streams send message data out of OneSignal in real-time to your chosen destination.": {
+      "ja": "イベントストリームは、OneSignalのメッセージデータをリアルタイムで指定の宛先に送信します。",
+      "es": "Los Event Streams envían datos de mensajes de OneSignal en tiempo real a tu destino elegido.",
+      "pt": "Os Event Streams enviam dados de mensagens do OneSignal em tempo real para o seu destino escolhido."
+    },
+    "Access detailed message delivery history and recipient data for your OneSignal notifications through our comprehensive API.": {
+      "ja": "包括的なAPIを通じて、OneSignal通知の詳細なメッセージ配信履歴と受信者データにアクセスできます。",
+      "es": "Accede al historial detallado de entrega de mensajes y datos de destinatarios de tus notificaciones a través de nuestra API integral.",
+      "pt": "Acesse o histórico detalhado de entrega de mensagens e dados de destinatários das suas notificações do OneSignal pela nossa API abrangente."
+    },
+    "Retain data long term for auditing and compliance or to power machine-learning engines": {
+      "ja": "監査・コンプライアンスや機械学習エンジンのためにデータを長期保存する",
+      "es": "Retén datos a largo plazo para auditorías, cumplimiento normativo o para potenciar motores de machine learning",
+      "pt": "Retenha dados a longo prazo para auditoria, conformidade ou para alimentar mecanismos de machine learning"
+    },
+    "Send History": {
+      "ja": "送信履歴",
+      "es": "Historial de envíos",
+      "pt": "Histórico de envios"
+    },
+    "Send a continuous flow of data to other tools": {
+      "ja": "他のツールへデータを継続的に送信する",
+      "es": "Envía un flujo continuo de datos a otras herramientas",
+      "pt": "Envie um fluxo contínuo de dados para outras ferramentas"
+    },
+    "Send events to your data warehouse, business intelligence, or analytics tool for analysis": {
+      "ja": "データウェアハウス、BIツール、または分析ツールにイベントを送信して分析する",
+      "es": "Envía eventos a tu almacén de datos, herramienta de BI o de análisis",
+      "pt": "Envie eventos para seu data warehouse, ferramenta de BI ou de análise"
+    },
+    "Stream data in real time to trigger timely actions or workflows in other customer relationship tools": {
+      "ja": "リアルタイムでデータをストリーミングして、他のCRMツールでタイムリーなアクションやワークフローをトリガーする",
+      "es": "Transmite datos en tiempo real para activar acciones o flujos de trabajo en otras herramientas de CRM",
+      "pt": "Transmita dados em tempo real para acionar ações ou fluxos de trabalho em outras ferramentas de relacionamento"
     }
   },
   "patterns": [
