@@ -35,7 +35,7 @@
   const MISSED_SEEN_THRESHOLD = 3;
   const MISSED_FLUSH_DEBOUNCE_MS = 5000;
   const MISSED_MIN_LEN = 3;
-  const MISSED_MAX_LEN = 80;
+  const MISSED_MAX_LEN = 200;
   const MISSED_PII_RE = /@|\/\/|[0-9]{6,}|[A-Za-z0-9+/=]{32,}/;
   const MISSED_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
   const MISSED_TIMESTAMP_RE = /^\d{2}\/\d{2}\/\d{2},\s*\d|^\d{4}-\d{2}-\d{2}T\d{2}:/;
