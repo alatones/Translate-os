@@ -4209,122 +4209,146 @@
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信する",
       "es": "Envía mensajes perfectos",
-      "pt": "Envie mensagens perfeitas"
+      "pt": "Envie mensagens perfeitas",
+      "ko": "완벽한 메시지 발송"
     },
     "Test Subscriptions documentation": {
       "ja": "テストサブスクリプションのドキュメント",
       "es": "Documentación de suscripciones de prueba",
-      "pt": "Documentação de assinaturas de teste"
+      "pt": "Documentação de assinaturas de teste",
+      "ko": "테스트 구독 문서"
     },
     "Test personalized push message content": {
       "ja": "パーソナライズされたプッシュメッセージコンテンツをテストする",
       "es": "Prueba el contenido de mensajes push personalizados",
-      "pt": "Teste o conteúdo de mensagens push personalizadas"
+      "pt": "Teste o conteúdo de mensagens push personalizadas",
+      "ko": "개인화된 푸시 메시지 내용 테스트"
     },
     "Walkthrough your user journey on your own device, from message to conversion": {
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルーする",
       "es": "Recorre en tu propio dispositivo el journey del usuario, desde el mensaje hasta la conversión",
-      "pt": "Percorra a jornada do usuário no seu próprio dispositivo, da mensagem à conversão"
+      "pt": "Percorra a jornada do usuário no seu próprio dispositivo, da mensagem à conversão",
+      "ko": "자신의 기기에서 메시지부터 전환까지 사용자 여정을 직접 체험하세요"
     },
     "Live Activities documentation": {
       "ja": "ライブアクティビティのドキュメント",
       "es": "Documentación de Live Activities",
-      "pt": "Documentação de Live Activities"
+      "pt": "Documentação de Live Activities",
+      "ko": "라이브 액티비티 문서"
     },
     "Book a demo": {
       "ja": "デモを予約する",
       "es": "Reservar una demo",
-      "pt": "Agendar uma demonstração"
+      "pt": "Agendar uma demonstração",
+      "ko": "데모 예약"
     },
     "Book a live demo": {
       "ja": "ライブデモを予約する",
       "es": "Reservar una demo en vivo",
-      "pt": "Agendar uma demonstração ao vivo"
+      "pt": "Agendar uma demonstração ao vivo",
+      "ko": "라이브 데모 예약"
     },
     "Communicate mobile-first with users outside your app": {
       "ja": "アプリ外でもモバイルファーストでユーザーとコミュニケーションを取る",
       "es": "Comunícate con enfoque mobile-first con usuarios fuera de tu app",
-      "pt": "Comunique-se com foco em mobile com usuários fora do seu app"
+      "pt": "Comunique-se com foco em mobile com usuários fora do seu app",
+      "ko": "앱 외부의 사용자와 모바일 우선으로 소통하세요"
     },
     "Design RCS in Figma": {
       "ja": "FigmaでRCSをデザインする",
       "es": "Diseñar RCS en Figma",
-      "pt": "Criar design de RCS no Figma"
+      "pt": "Criar design de RCS no Figma",
+      "ko": "Figma에서 RCS 디자인"
     },
     "Discover RCS": {
       "ja": "RCSを発見する",
       "es": "Descubrir RCS",
-      "pt": "Descobrir o RCS"
+      "pt": "Descobrir o RCS",
+      "ko": "RCS 알아보기"
     },
     "Discover what RCS can do": {
       "ja": "RCSでできることを発見する",
       "es": "Descubre qué puede hacer RCS",
-      "pt": "Descubra o que o RCS pode fazer"
+      "pt": "Descubra o que o RCS pode fazer",
+      "ko": "RCS가 할 수 있는 것 알아보기"
     },
     "Explore RCS in Figma with ready-made components to prototype messaging flows tailored to your use case.": {
       "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索しましょう。",
       "es": "Explora RCS en Figma con componentes listos para usar y prototipa flujos de mensajería adaptados a tu caso de uso.",
-      "pt": "Explore o RCS no Figma com componentes prontos para prototipação de fluxos de mensagens personalizados para o seu caso de uso."
+      "pt": "Explore o RCS no Figma com componentes prontos para prototipação de fluxos de mensagens personalizados para o seu caso de uso.",
+      "ko": "사용 사례에 맞게 조정된 메시지 흐름을 프로토타입화하기 위해 준비된 컴포넌트로 Figma에서 RCS를 탐색하세요."
     },
     "Get your brand on the lock screen": {
       "ja": "ブランドをロック画面に表示する",
       "es": "Lleva tu marca a la pantalla de bloqueo",
-      "pt": "Coloque sua marca na tela de bloqueio"
+      "pt": "Coloque sua marca na tela de bloqueio",
+      "ko": "잠금 화면에 브랜드를 표시하세요"
     },
     "Great for real-time, transactional, or time-bound updates": {
       "ja": "リアルタイム・トランザクション・期間限定のアップデートに最適",
       "es": "Ideal para actualizaciones en tiempo real, transaccionales o con límite de tiempo",
-      "pt": "Ótimo para atualizações em tempo real, transacionais ou com prazo determinado"
+      "pt": "Ótimo para atualizações em tempo real, transacionais ou com prazo determinado",
+      "ko": "실시간, 거래 또는 시간 제한 업데이트에 적합합니다"
     },
     "Highly engaging and visible on premium device surfaces like the Lock Screen or Dynamic Island": {
       "ja": "ロック画面やダイナミックアイランドなどのプレミアムデバイスサーフェスで高いエンゲージメントと視認性を実現",
       "es": "Muy atractivo y visible en superficies premium del dispositivo como la pantalla de bloqueo o el Dynamic Island",
-      "pt": "Altamente envolvente e visível em superfícies premium do dispositivo, como a tela de bloqueio ou a Dynamic Island"
+      "pt": "Altamente envolvente e visível em superfícies premium do dispositivo, como a tela de bloqueio ou a Dynamic Island",
+      "ko": "잠금 화면이나 Dynamic Island와 같은 프리미엄 기기 인터페이스에서 높은 참여도와 가시성을 제공합니다"
     },
     "Open in Figma": {
       "ja": "Figmaで開く",
       "es": "Abrir en Figma",
-      "pt": "Abrir no Figma"
+      "pt": "Abrir no Figma",
+      "ko": "Figma에서 열기"
     },
     "RCS drives up to 60% more conversions than SMS. See how brands use rich media messages to boost results.": {
       "ja": "RCSはSMSよりも最大60%多くのコンバージョンを促進します。ブランドがリッチメディアメッセージをどのように活用して成果を上げているかをご覧ください。",
       "es": "RCS impulsa hasta un 60% más de conversiones que los SMS. Descubre cómo las marcas usan mensajes de rich media para mejorar los resultados.",
-      "pt": "O RCS gera até 60% mais conversões do que o SMS. Veja como as marcas usam mensagens de rich media para aumentar os resultados."
+      "pt": "O RCS gera até 60% mais conversões do que o SMS. Veja como as marcas usam mensagens de rich media para aumentar os resultados.",
+      "ko": "RCS는 SMS보다 최대 60% 더 많은 전환을 유도합니다. 브랜드가 리치 미디어 메시지를 사용하여 결과를 향상시키는 방법을 확인하세요."
     },
     "SMS / RCS documentation": {
       "ja": "SMS / RCSドキュメント",
       "es": "Documentación de SMS / RCS",
-      "pt": "Documentação de SMS / RCS"
+      "pt": "Documentação de SMS / RCS",
+      "ko": "SMS / RCS 문서"
     },
     "SMS for promos, security verifications, and more": {
       "ja": "プロモーション、セキュリティ認証などにSMSを活用",
       "es": "SMS para promociones, verificaciones de seguridad y más",
-      "pt": "SMS para promoções, verificações de segurança e muito mais"
+      "pt": "SMS para promoções, verificações de segurança e muito mais",
+      "ko": "프로모션, 보안 인증 등을 위한 SMS"
     },
     "SMS has the highest open and engagement rates": {
       "ja": "SMSは最も高い開封率とエンゲージメント率を誇ります",
       "es": "Los SMS tienen las tasas de apertura y engagement más altas",
-      "pt": "O SMS tem as mais altas taxas de abertura e engajamento"
+      "pt": "O SMS tem as mais altas taxas de abertura e engajamento",
+      "ko": "SMS는 가장 높은 열람율 및 참여율을 자랑합니다"
     },
     "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
       "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
       "es": "Descubre cómo SMS y RCS encajan en tu estrategia de engagement. Obtén consejos de expertos para aumentar conversiones y retención.",
-      "pt": "Veja como o SMS e o RCS se encaixam na sua estratégia de engajamento. Obtenha dicas de especialistas para aumentar conversões e retenção."
+      "pt": "Veja como o SMS e o RCS se encaixam na sua estratégia de engajamento. Obtenha dicas de especialistas para aumentar conversões e retenção.",
+      "ko": "SMS와 RCS가 참여 전략에 어떻게 맞는지 알아보세요. 전환율과 유지율을 높이기 위한 전문가 팁을 얻으세요."
     },
     "Set Up SMS / RCS": {
       "ja": "SMS / RCSをセットアップ",
       "es": "Configurar SMS / RCS",
-      "pt": "Configurar SMS / RCS"
+      "pt": "Configurar SMS / RCS",
+      "ko": "SMS / RCS 설정"
     },
     "Texts that work": {
       "ja": "効果的なテキストメッセージ",
       "es": "Textos que funcionan",
-      "pt": "Textos que funcionam"
+      "pt": "Textos que funcionam",
+      "ko": "효과적인 문자 메시지"
     },
     "Visible for up to 8 hours": {
       "ja": "最大8時間表示",
       "es": "Visible durante hasta 8 horas",
-      "pt": "Visível por até 8 horas"
+      "pt": "Visível por até 8 horas",
+      "ko": "최대 8시간 동안 표시됨"
     }
   },
   "patterns": [
@@ -4333,7 +4357,8 @@
       "translations": {
         "es": "{1} días",
         "ja": "{1}日間",
-        "pt": "{1} dias"
+        "pt": "{1} dias",
+        "ko": "{1}일"
       }
     },
     {
@@ -4341,7 +4366,8 @@
       "translations": {
         "es": "{1} horas",
         "ja": "{1}時間",
-        "pt": "{1} horas"
+        "pt": "{1} horas",
+        "ko": "{1}시간"
       }
     },
     {
@@ -4349,7 +4375,8 @@
       "translations": {
         "es": "{1} minutos",
         "ja": "{1}分",
-        "pt": "{1} minutos"
+        "pt": "{1} minutos",
+        "ko": "{1}분"
       }
     },
     {
@@ -4357,7 +4384,8 @@
       "translations": {
         "es": "{1} meses",
         "ja": "{1}ヶ月",
-        "pt": "{1} meses"
+        "pt": "{1} meses",
+        "ko": "{1}개월"
       }
     },
     {
@@ -4365,7 +4393,8 @@
       "translations": {
         "es": "Últimos {1} días",
         "ja": "過去{1}日間",
-        "pt": "Últimos {1} dias"
+        "pt": "Últimos {1} dias",
+        "ko": "최근 {1}일"
       }
     },
     {
@@ -4373,7 +4402,8 @@
       "translations": {
         "es": "{1} seleccionados",
         "ja": "{1}件を選択中",
-        "pt": "{1} selecionados"
+        "pt": "{1} selecionados",
+        "ko": "{1}개 선택됨"
       }
     },
     {
@@ -4381,7 +4411,8 @@
       "translations": {
         "es": "{1} segmentos seleccionados",
         "ja": "{1}個のセグメントを選択中",
-        "pt": "{1} segmentos selecionados"
+        "pt": "{1} segmentos selecionados",
+        "ko": "{1}개 세그먼트 선택됨"
       }
     },
     {
@@ -4389,7 +4420,8 @@
       "translations": {
         "es": "Enviados {1} mensajes",
         "ja": "{1}件のメッセージを送信しました",
-        "pt": "{1} mensagens enviadas"
+        "pt": "{1} mensagens enviadas",
+        "ko": "{1}개 메시지 발송됨"
       }
     },
     {
@@ -4397,7 +4429,8 @@
       "translations": {
         "es": "Mostrando {1}–{2} de {3}",
         "ja": "{3}件中 {1}〜{2} を表示",
-        "pt": "Mostrando {1}–{2} de {3}"
+        "pt": "Mostrando {1}–{2} de {3}",
+        "ko": "{3}개 중 {1}–{2} 표시"
       }
     },
     {
@@ -4405,7 +4438,8 @@
       "translations": {
         "es": "Página {1}",
         "ja": "{1}ページ",
-        "pt": "Página {1}"
+        "pt": "Página {1}",
+        "ko": "{1}페이지"
       }
     },
     {
@@ -4413,7 +4447,8 @@
       "translations": {
         "es": "Estás en la página {1}",
         "ja": "現在{1}ページ目",
-        "pt": "Você está na página {1}"
+        "pt": "Você está na página {1}",
+        "ko": "현재 {1}페이지"
       }
     },
     {
@@ -4421,7 +4456,8 @@
       "translations": {
         "es": "hace {1} hora(s)",
         "ja": "{1}時間前",
-        "pt": "há {1} hora(s)"
+        "pt": "há {1} hora(s)",
+        "ko": "{1}시간 전"
       }
     },
     {
@@ -4429,7 +4465,8 @@
       "translations": {
         "es": "hace {1} minuto(s)",
         "ja": "{1}分前",
-        "pt": "há {1} minuto(s)"
+        "pt": "há {1} minuto(s)",
+        "ko": "{1}분 전"
       }
     },
     {
@@ -4437,7 +4474,8 @@
       "translations": {
         "es": "hace {1} día(s)",
         "ja": "{1}日前",
-        "pt": "há {1} dia(s)"
+        "pt": "há {1} dia(s)",
+        "ko": "{1}일 전"
       }
     },
     {
@@ -4445,7 +4483,8 @@
       "translations": {
         "es": "últimos {1} días",
         "ja": "過去{1}日間",
-        "pt": "últimos {1} dias"
+        "pt": "últimos {1} dias",
+        "ko": "최근 {1}일"
       }
     },
     {
@@ -4453,7 +4492,8 @@
       "translations": {
         "es": "{1} ene",
         "ja": "1月{1}日",
-        "pt": "{1} jan"
+        "pt": "{1} jan",
+        "ko": "1월 {1}일"
       }
     },
     {
@@ -4461,7 +4501,8 @@
       "translations": {
         "es": "{1} feb",
         "ja": "2月{1}日",
-        "pt": "{1} fev"
+        "pt": "{1} fev",
+        "ko": "2월 {1}일"
       }
     },
     {
@@ -4469,7 +4510,8 @@
       "translations": {
         "es": "{1} mar",
         "ja": "3月{1}日",
-        "pt": "{1} mar"
+        "pt": "{1} mar",
+        "ko": "3월 {1}일"
       }
     },
     {
@@ -4477,7 +4519,8 @@
       "translations": {
         "es": "{1} abr",
         "ja": "4月{1}日",
-        "pt": "{1} abr"
+        "pt": "{1} abr",
+        "ko": "4월 {1}일"
       }
     },
     {
@@ -4485,7 +4528,8 @@
       "translations": {
         "es": "{1} may",
         "ja": "5月{1}日",
-        "pt": "{1} mai"
+        "pt": "{1} mai",
+        "ko": "5월 {1}일"
       }
     },
     {
@@ -4493,7 +4537,8 @@
       "translations": {
         "es": "{1} jun",
         "ja": "6月{1}日",
-        "pt": "{1} jun"
+        "pt": "{1} jun",
+        "ko": "6월 {1}일"
       }
     },
     {
@@ -4501,7 +4546,8 @@
       "translations": {
         "es": "{1} jul",
         "ja": "7月{1}日",
-        "pt": "{1} jul"
+        "pt": "{1} jul",
+        "ko": "7월 {1}일"
       }
     },
     {
@@ -4509,7 +4555,8 @@
       "translations": {
         "es": "{1} ago",
         "ja": "8月{1}日",
-        "pt": "{1} ago"
+        "pt": "{1} ago",
+        "ko": "8월 {1}일"
       }
     },
     {
@@ -4517,7 +4564,8 @@
       "translations": {
         "es": "{1} sep",
         "ja": "9月{1}日",
-        "pt": "{1} set"
+        "pt": "{1} set",
+        "ko": "9월 {1}일"
       }
     },
     {
@@ -4525,7 +4573,8 @@
       "translations": {
         "es": "{1} oct",
         "ja": "10月{1}日",
-        "pt": "{1} out"
+        "pt": "{1} out",
+        "ko": "10월 {1}일"
       }
     },
     {
@@ -4533,7 +4582,8 @@
       "translations": {
         "es": "{1} nov",
         "ja": "11月{1}日",
-        "pt": "{1} nov"
+        "pt": "{1} nov",
+        "ko": "11월 {1}일"
       }
     },
     {
@@ -4541,7 +4591,8 @@
       "translations": {
         "es": "{1} dic",
         "ja": "12月{1}日",
-        "pt": "{1} dez"
+        "pt": "{1} dez",
+        "ko": "12월 {1}일"
       }
     },
     {
@@ -4549,7 +4600,8 @@
       "translations": {
         "ja": "最後のセッションから{1}時間未満",
         "es": "Última sesión hace menos de {1} horas",
-        "pt": "Última sessão há menos de {1} horas"
+        "pt": "Última sessão há menos de {1} horas",
+        "ko": "마지막 세션이 {1}시간 미만 전"
       }
     },
     {
@@ -4557,7 +4609,8 @@
       "translations": {
         "ja": "最後のセッションから{1}時間以上",
         "es": "Última sesión hace más de {1} horas",
-        "pt": "Última sessão há mais de {1} horas"
+        "pt": "Última sessão há mais de {1} horas",
+        "ko": "마지막 세션이 {1}시간 이상 전"
       }
     },
     {
@@ -4565,7 +4618,8 @@
       "translations": {
         "ja": "セッション数が{1}回以上",
         "es": "Conteo de sesiones mayor a {1}",
-        "pt": "Contagem de sessões maior que {1}"
+        "pt": "Contagem de sessões maior que {1}",
+        "ko": "세션 수가 {1}회 초과"
       }
     }
   ]
