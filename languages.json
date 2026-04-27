@@ -3434,6 +3434,196 @@
       "ja": "ユーザードキュメント",
       "es": "Documentación de usuario",
       "pt": "Documentação do usuário"
+    },
+    "Set up": {
+      "ja": "セットアップ",
+      "es": "Configurar",
+      "pt": "Configurar"
+    },
+    "Data Feeds allow you to dynamically fetch data from your APIs at send time.": {
+      "ja": "データフィードを使用すると、送信時にAPIからデータを動的に取得できます。",
+      "es": "Los Data Feeds te permiten obtener datos de forma dinámica desde tus APIs en el momento del envío.",
+      "pt": "Os Data Feeds permitem que você busque dados dinamicamente de suas APIs no momento do envio."
+    },
+    "Data Feeds documentation": {
+      "ja": "データフィードのドキュメント",
+      "es": "Documentación de Data Feeds",
+      "pt": "Documentação de Data Feeds"
+    },
+    "Insert real-time, dynamic content from your data feeds directly into the template at the time of sending. This feature only applies to templates sent through Journeys.": {
+      "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
+      "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
+      "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys."
+    },
+    "Needs Action": {
+      "ja": "対応が必要",
+      "es": "Requiere acción",
+      "pt": "Requer ação"
+    },
+    "You don't have any Data Feeds set up yet": {
+      "ja": "データフィードはまだ設定されていません",
+      "es": "Aún no tienes Data Feeds configurados",
+      "pt": "Você ainda não tem Data Feeds configurados"
+    },
+    "Export subscriptions for push, email, and SMS": {
+      "ja": "プッシュ、メール、SMSのサブスクリプションをエクスポートする",
+      "es": "Exporta suscripciones de push, email y SMS",
+      "pt": "Exporte assinaturas de push, e-mail e SMS"
+    },
+    "See subscriber preferences at the channel level": {
+      "ja": "チャネルレベルでのサブスクライバーの設定を確認する",
+      "es": "Ver las preferencias de suscriptores a nivel de canal",
+      "pt": "Ver preferências de assinantes no nível do canal"
+    },
+    "Subscriptions documentation": {
+      "ja": "サブスクリプションのドキュメント",
+      "es": "Documentación de suscripciones",
+      "pt": "Documentação de assinaturas"
+    },
+    "Understand your audience": {
+      "ja": "オーディエンスを理解する",
+      "es": "Entiende a tu audiencia",
+      "pt": "Entenda seu público"
+    },
+    "View recent activity and preferences": {
+      "ja": "最近のアクティビティと設定を表示する",
+      "es": "Ver actividad reciente y preferencias",
+      "pt": "Ver atividade recente e preferências"
+    },
+    "Add Test Subscriptions": {
+      "ja": "テストサブスクリプションを追加する",
+      "es": "Agregar suscripciones de prueba",
+      "pt": "Adicionar assinaturas de teste"
+    },
+    "Confirm emails are pixel-perfect": {
+      "ja": "メールがピクセルパーフェクトであることを確認する",
+      "es": "Confirma que los emails son perfectos al píxel",
+      "pt": "Confirme que os e-mails estão pixel-perfeitos"
+    },
+    "Manage test subscriptions to preview and send test messages.": {
+      "ja": "テストサブスクリプションを管理して、テストメッセージをプレビューおよび送信する。",
+      "es": "Gestiona las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
+      "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste."
+    },
+    "Send perfect messages": {
+      "ja": "完璧なメッセージを送信する",
+      "es": "Envía mensajes perfectos",
+      "pt": "Envie mensagens perfeitas"
+    },
+    "Test Subscriptions documentation": {
+      "ja": "テストサブスクリプションのドキュメント",
+      "es": "Documentación de suscripciones de prueba",
+      "pt": "Documentação de assinaturas de teste"
+    },
+    "Test personalized push message content": {
+      "ja": "パーソナライズされたプッシュメッセージコンテンツをテストする",
+      "es": "Prueba el contenido de mensajes push personalizados",
+      "pt": "Teste o conteúdo de mensagens push personalizadas"
+    },
+    "Walkthrough your user journey on your own device, from message to conversion": {
+      "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルーする",
+      "es": "Recorre en tu propio dispositivo el journey del usuario, desde el mensaje hasta la conversión",
+      "pt": "Percorra a jornada do usuário no seu próprio dispositivo, da mensagem à conversão"
+    },
+    "Live Activities documentation": {
+      "ja": "ライブアクティビティのドキュメント",
+      "es": "Documentación de Live Activities",
+      "pt": "Documentação de Live Activities"
+    },
+    "Book a demo": {
+      "ja": "デモを予約する",
+      "es": "Reservar una demo",
+      "pt": "Agendar uma demonstração"
+    },
+    "Book a live demo": {
+      "ja": "ライブデモを予約する",
+      "es": "Reservar una demo en vivo",
+      "pt": "Agendar uma demonstração ao vivo"
+    },
+    "Communicate mobile-first with users outside your app": {
+      "ja": "アプリ外でもモバイルファーストでユーザーとコミュニケーションを取る",
+      "es": "Comunícate con enfoque mobile-first con usuarios fuera de tu app",
+      "pt": "Comunique-se com foco em mobile com usuários fora do seu app"
+    },
+    "Design RCS in Figma": {
+      "ja": "FigmaでRCSをデザインする",
+      "es": "Diseñar RCS en Figma",
+      "pt": "Criar design de RCS no Figma"
+    },
+    "Discover RCS": {
+      "ja": "RCSを発見する",
+      "es": "Descubrir RCS",
+      "pt": "Descobrir o RCS"
+    },
+    "Discover what RCS can do": {
+      "ja": "RCSでできることを発見する",
+      "es": "Descubre qué puede hacer RCS",
+      "pt": "Descubra o que o RCS pode fazer"
+    },
+    "Explore RCS in Figma with ready-made components to prototype messaging flows tailored to your use case.": {
+      "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索しましょう。",
+      "es": "Explora RCS en Figma con componentes listos para usar y prototipa flujos de mensajería adaptados a tu caso de uso.",
+      "pt": "Explore o RCS no Figma com componentes prontos para prototipação de fluxos de mensagens personalizados para o seu caso de uso."
+    },
+    "Get your brand on the lock screen": {
+      "ja": "ブランドをロック画面に表示する",
+      "es": "Lleva tu marca a la pantalla de bloqueo",
+      "pt": "Coloque sua marca na tela de bloqueio"
+    },
+    "Great for real-time, transactional, or time-bound updates": {
+      "ja": "リアルタイム・トランザクション・期間限定のアップデートに最適",
+      "es": "Ideal para actualizaciones en tiempo real, transaccionales o con límite de tiempo",
+      "pt": "Ótimo para atualizações em tempo real, transacionais ou com prazo determinado"
+    },
+    "Highly engaging and visible on premium device surfaces like the Lock Screen or Dynamic Island": {
+      "ja": "ロック画面やダイナミックアイランドなどのプレミアムデバイスサーフェスで高いエンゲージメントと視認性を実現",
+      "es": "Muy atractivo y visible en superficies premium del dispositivo como la pantalla de bloqueo o el Dynamic Island",
+      "pt": "Altamente envolvente e visível em superfícies premium do dispositivo, como a tela de bloqueio ou a Dynamic Island"
+    },
+    "Open in Figma": {
+      "ja": "Figmaで開く",
+      "es": "Abrir en Figma",
+      "pt": "Abrir no Figma"
+    },
+    "RCS drives up to 60% more conversions than SMS. See how brands use rich media messages to boost results.": {
+      "ja": "RCSはSMSよりも最大60%多くのコンバージョンを促進します。ブランドがリッチメディアメッセージをどのように活用して成果を上げているかをご覧ください。",
+      "es": "RCS impulsa hasta un 60% más de conversiones que los SMS. Descubre cómo las marcas usan mensajes de rich media para mejorar los resultados.",
+      "pt": "O RCS gera até 60% mais conversões do que o SMS. Veja como as marcas usam mensagens de rich media para aumentar os resultados."
+    },
+    "SMS / RCS documentation": {
+      "ja": "SMS / RCSドキュメント",
+      "es": "Documentación de SMS / RCS",
+      "pt": "Documentação de SMS / RCS"
+    },
+    "SMS for promos, security verifications, and more": {
+      "ja": "プロモーション、セキュリティ認証などにSMSを活用",
+      "es": "SMS para promociones, verificaciones de seguridad y más",
+      "pt": "SMS para promoções, verificações de segurança e muito mais"
+    },
+    "SMS has the highest open and engagement rates": {
+      "ja": "SMSは最も高い開封率とエンゲージメント率を誇ります",
+      "es": "Los SMS tienen las tasas de apertura y engagement más altas",
+      "pt": "O SMS tem as mais altas taxas de abertura e engajamento"
+    },
+    "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
+      "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
+      "es": "Descubre cómo SMS y RCS encajan en tu estrategia de engagement. Obtén consejos de expertos para aumentar conversiones y retención.",
+      "pt": "Veja como o SMS e o RCS se encaixam na sua estratégia de engajamento. Obtenha dicas de especialistas para aumentar conversões e retenção."
+    },
+    "Set Up SMS / RCS": {
+      "ja": "SMS / RCSをセットアップ",
+      "es": "Configurar SMS / RCS",
+      "pt": "Configurar SMS / RCS"
+    },
+    "Texts that work": {
+      "ja": "効果的なテキストメッセージ",
+      "es": "Textos que funcionan",
+      "pt": "Textos que funcionam"
+    },
+    "Visible for up to 8 hours": {
+      "ja": "最大8時間表示",
+      "es": "Visible durante hasta 8 horas",
+      "pt": "Visível por até 8 horas"
     }
   },
   "patterns": [
