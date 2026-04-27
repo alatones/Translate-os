@@ -1809,127 +1809,152 @@
     "New In-App": {
       "es": "Nuevo In-App",
       "ja": "新規アプリ内",
-      "pt": "Novo In-App"
+      "pt": "Novo In-App",
+      "ko": "새 인앱"
     },
     "New Journey": {
       "es": "Nuevo Journey",
       "ja": "新規ジャーニー",
-      "pt": "Novo Journey"
+      "pt": "Novo Journey",
+      "ko": "새 저니"
     },
     "New Journey Webhook": {
       "es": "Nuevo Webhook de Journey",
       "ja": "新規ジャーニーWebhook",
-      "pt": "Novo Webhook de Journey"
+      "pt": "Novo Webhook de Journey",
+      "ko": "새 저니 웹훅"
     },
     "New Message": {
       "es": "Nuevo mensaje",
       "ja": "新規メッセージ",
-      "pt": "Nova mensagem"
+      "pt": "Nova mensagem",
+      "ko": "새 메시지"
     },
     "New Push": {
       "es": "Nuevo push",
       "ja": "新規プッシュ",
-      "pt": "Novo push"
+      "pt": "Novo push",
+      "ko": "새 푸시"
     },
     "New Push Notification": {
       "es": "Nueva notificación push",
       "ja": "新規プッシュ通知",
-      "pt": "Nova notificação push"
+      "pt": "Nova notificação push",
+      "ko": "새 푸시 알림"
     },
     "New SMS / RCS": {
       "es": "Nuevo SMS / RCS",
       "ja": "新規SMS / RCS",
-      "pt": "Novo SMS / RCS"
+      "pt": "Novo SMS / RCS",
+      "ko": "새 SMS / RCS"
     },
     "New SMS/RCS": {
       "es": "Nuevo SMS/RCS",
       "ja": "新規SMS/RCS",
-      "pt": "Novo SMS/RCS"
+      "pt": "Novo SMS/RCS",
+      "ko": "새 SMS/RCS"
     },
     "New subscribed": {
       "es": "Nuevas suscripciones",
       "ja": "新規購読",
-      "pt": "Novas inscrições"
+      "pt": "Novas inscrições",
+      "ko": "신규 구독"
     },
     "New Subscribers": {
       "es": "Nuevos suscriptores",
       "ja": "新規登録者",
-      "pt": "Novos assinantes"
+      "pt": "Novos assinantes",
+      "ko": "신규 구독자"
     },
     "New Template": {
       "es": "Nueva plantilla",
       "ja": "新規テンプレート",
-      "pt": "Novo modelo"
+      "pt": "Novo modelo",
+      "ko": "새 템플릿"
     },
     "New unsubscribed": {
       "es": "Nuevas cancelaciones",
       "ja": "新規購読解除",
-      "pt": "Novos cancelamentos"
+      "pt": "Novos cancelamentos",
+      "ko": "신규 구독 취소"
     },
     "New Webhook": {
       "es": "Nuevo webhook",
       "ja": "新しいWebhook",
-      "pt": "Novo webhook"
+      "pt": "Novo webhook",
+      "ko": "새 웹훅"
     },
     "Next": {
       "es": "Siguiente",
       "ja": "次へ",
-      "pt": "Próximo"
+      "pt": "Próximo",
+      "ko": "다음"
     },
     "Next page": {
       "es": "Página siguiente",
       "ja": "次のページ",
-      "pt": "Próxima página"
+      "pt": "Próxima página",
+      "ko": "다음 페이지"
     },
     "No": {
       "es": "No",
       "ja": "いいえ",
-      "pt": "Não"
+      "pt": "Não",
+      "ko": "아니오"
     },
     "No data": {
       "es": "Sin datos",
       "ja": "データなし",
-      "pt": "Sem dados"
+      "pt": "Sem dados",
+      "ko": "데이터 없음"
     },
     "No metrics collected": {
       "es": "No hay métricas recopiladas",
       "ja": "メトリクスが収集されていません",
-      "pt": "Nenhuma métrica coletada"
+      "pt": "Nenhuma métrica coletada",
+      "ko": "수집된 지표 없음"
     },
     "No recipients": {
       "es": "Sin destinatarios",
       "ja": "受信者なし",
-      "pt": "Sem destinatários"
+      "pt": "Sem destinatários",
+      "ko": "수신자 없음"
     },
     "No results": {
       "es": "Sin resultados",
       "ja": "結果なし",
-      "pt": "Sem resultados"
+      "pt": "Sem resultados",
+      "ko": "결과 없음"
     },
     "No results found": {
       "es": "No se encontraron resultados",
       "ja": "結果が見つかりません",
-      "pt": "Nenhum resultado encontrado"
+      "pt": "Nenhum resultado encontrado",
+      "ko": "결과를 찾을 수 없음"
     },
     "not exists": {
       "es": "no existe",
       "ja": "存在しない",
-      "pt": "não existe"
+      "pt": "não existe",
+      "ko": "존재하지 않음"
     },
     "Not Subscribed": {
       "es": "No suscrito",
       "ja": "未登録",
-      "pt": "Não inscrito"
+      "pt": "Não inscrito",
+      "ko": "구독하지 않음"
     },
     "Notification": {
       "es": "Notificación",
       "ja": "通知",
-      "pt": "Notificação"
+      "pt": "Notificação",
+      "ko": "알림"
     },
     "Notification Permission": {
       "es": "Permiso de notificación",
       "ja": "通知許可",
-      "pt": "Permissão de notificação"
+      "pt": "Permissão de notificação",
+      "ko": "알림 권한"
     },
     "Notifications": {
       "es": "Notificaciones",
