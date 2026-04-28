@@ -7049,6 +7049,186 @@
       "es": "Acceso anticipado",
       "pt": "Acesso antecipado",
       "ko": "얼리 액세스"
+    },
+    "Export as Image": {
+      "ja": "画像として書き出し",
+      "es": "Exportar como imagen",
+      "pt": "Exportar como imagem",
+      "ko": "이미지로 내보내기"
+    },
+    "Filter by custom events ingested through SDKs, integrations, or data sources": {
+      "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
+      "es": "Filtrar por eventos personalizados ingeridos a través de SDKs, integraciones o fuentes de datos",
+      "pt": "Filtrar por eventos personalizados ingeridos via SDKs, integrações ou fontes de dados",
+      "ko": "SDK, 통합 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링"
+    },
+    "Filter by message interactions": {
+      "ja": "メッセージインタラクションでフィルター",
+      "es": "Filtrar por interacciones de mensajes",
+      "pt": "Filtrar por interações de mensagens",
+      "ko": "메시지 상호 작용으로 필터링"
+    },
+    "Includes all test users, which can be set up in All Users page": {
+      "ja": "すべてのテストユーザーを含みます。All Usersページで設定できます",
+      "es": "Incluye todos los usuarios de prueba, que se pueden configurar en la página All Users",
+      "pt": "Inclui todos os usuários de teste, que podem ser configurados na página All Users",
+      "ko": "모든 사용자 페이지에서 설정할 수 있는 모든 테스트 사용자를 포함"
+    },
+    "Message Event": {
+      "ja": "メッセージイベント",
+      "es": "Evento de mensaje",
+      "pt": "Evento de mensagem",
+      "ko": "메시지 이벤트"
+    },
+    "Name of segment": {
+      "ja": "セグメント名",
+      "es": "Nombre del segmento",
+      "pt": "Nome do segmento",
+      "ko": "세그먼트 이름"
+    },
+    "Radius in meters from a particular geocoordinate (lat, long)": {
+      "ja": "特定のジオ座標 (緯度、経度) からの半径 (メートル)",
+      "es": "Radio en metros desde una geocoordenada particular (lat, long)",
+      "pt": "Raio em metros a partir de uma geocoordenada específica (lat, long)",
+      "ko": "특정 좌표 (위도, 경도)로부터의 반경 (미터)"
+    },
+    "Segment Editor": {
+      "ja": "セグメントエディター",
+      "es": "Editor de segmentos",
+      "pt": "Editor de segmentos",
+      "ko": "세그먼트 편집기"
+    },
+    "Start adding filters to see audience count": {
+      "ja": "フィルターを追加すると対象人数が表示されます",
+      "es": "Comienza a agregar filtros para ver el conteo de la audiencia",
+      "pt": "Comece a adicionar filtros para ver a contagem do público",
+      "ko": "필터를 추가하면 고객 수가 표시됩니다"
+    },
+    "Subscription records in this segment must meet these rules:": {
+      "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
+      "es": "Los registros de suscripción en este segmento deben cumplir estas reglas:",
+      "pt": "Os registros de assinatura neste segmento devem atender a estas regras:",
+      "ko": "이 세그먼트의 구독 기록은 다음 규칙을 충족해야 합니다:"
+    },
+    "The first date/time the device communicated with our servers": {
+      "ja": "デバイスが最初にサーバーと通信した日時",
+      "es": "La primera fecha/hora en que el dispositivo se comunicó con nuestros servidores",
+      "pt": "A primeira data/hora em que o dispositivo se comunicou com nossos servidores",
+      "ko": "기기가 서버와 처음 통신한 날짜/시간"
+    },
+    "The language of the user's device": {
+      "ja": "ユーザーのデバイスの言語",
+      "es": "El idioma del dispositivo del usuario",
+      "pt": "O idioma do dispositivo do usuário",
+      "ko": "사용자 기기의 언어"
+    },
+    "The most recent date/time the device communicated with our servers": {
+      "ja": "デバイスが最後にサーバーと通信した日時",
+      "es": "La fecha/hora más reciente en que el dispositivo se comunicó con nuestros servidores",
+      "pt": "A data/hora mais recente em que o dispositivo se comunicou com nossos servidores",
+      "ko": "기기가 서버와 가장 최근에 통신한 날짜/시간"
+    },
+    "The total number of seconds the user's device has had your app open": {
+      "ja": "ユーザーのデバイスがアプリを開いていた合計秒数",
+      "es": "La cantidad total de segundos que el dispositivo del usuario ha tenido tu app abierta",
+      "pt": "O número total de segundos em que o dispositivo do usuário teve seu app aberto",
+      "ko": "사용자 기기에서 앱이 열려 있던 총 초 수"
+    },
+    "Total Duration": {
+      "ja": "合計時間",
+      "es": "Duración total",
+      "pt": "Duração total",
+      "ko": "총 기간"
+    },
+    "Total number of times the device has opened your app or website": {
+      "ja": "デバイスがあなたのアプリまたはウェブサイトを開いた合計回数",
+      "es": "Número total de veces que el dispositivo ha abierto tu app o sitio web",
+      "pt": "Número total de vezes que o dispositivo abriu seu app ou site",
+      "ko": "기기가 앱 또는 웹사이트를 연 총 횟수"
+    },
+    "User Tag": {
+      "ja": "ユーザータグ",
+      "es": "Etiqueta de usuario",
+      "pt": "Tag de usuário",
+      "ko": "사용자 태그"
+    },
+    "Version of your app": {
+      "ja": "あなたのアプリのバージョン",
+      "es": "Versión de tu app",
+      "pt": "Versão do seu app",
+      "ko": "앱 버전"
+    },
+    "hours ago": {
+      "ja": "時間前",
+      "es": "horas atrás",
+      "pt": "horas atrás",
+      "ko": "시간 전"
+    },
+    "Current Period": {
+      "ja": "現在の期間",
+      "es": "Período actual",
+      "pt": "Período atual",
+      "ko": "현재 기간"
+    },
+    "Previous Period": {
+      "ja": "前回の期間",
+      "es": "Período anterior",
+      "pt": "Período anterior",
+      "ko": "이전 기간"
+    },
+    "Current Period:": {
+      "ja": "現在の期間:",
+      "es": "Período actual:",
+      "pt": "Período atual:",
+      "ko": "현재 기간:"
+    },
+    "Current": {
+      "ja": "現在",
+      "es": "Actual",
+      "pt": "Atual",
+      "ko": "현재"
+    },
+    "SMS / MMS / RCS Segments": {
+      "ja": "SMS / MMS / RCSセグメント",
+      "es": "Segmentos SMS / MMS / RCS",
+      "pt": "Segmentos SMS / MMS / RCS",
+      "ko": "SMS / MMS / RCS 세그먼트"
+    },
+    "To see your usage, go to your Twilio dashboard, or switch to": {
+      "ja": "使用状況を確認するには、Twilioダッシュボードに移動するか、以下に切り替えてください:",
+      "es": "Para ver tu uso, ve a tu panel de Twilio o cambia a",
+      "pt": "Para ver seu uso, acesse seu painel do Twilio ou alterne para",
+      "ko": "사용량을 확인하려면 Twilio 대시보드로 이동하거나 다음으로 전환하세요"
+    },
+    "as your SMS provider.": {
+      "ja": "をSMSプロバイダーとして。",
+      "es": "como tu proveedor de SMS.",
+      "pt": "como seu provedor de SMS.",
+      "ko": "SMS 공급자로."
+    },
+    "Application Level Usage": {
+      "ja": "アプリケーションレベルの使用状況",
+      "es": "Uso a nivel de aplicación",
+      "pt": "Uso em nível de aplicativo",
+      "ko": "애플리케이션 수준 사용량"
+    },
+    "Billable Email Sends": {
+      "ja": "課金対象のメール送信",
+      "es": "Envíos de correo facturables",
+      "pt": "Envios de email faturáveis",
+      "ko": "청구 가능한 이메일 발송"
+    },
+    "DWH": {
+      "ja": "DWH",
+      "es": "DWH",
+      "pt": "DWH",
+      "ko": "DWH"
+    },
+    "Data Warehouse Event Export": {
+      "ja": "データウェアハウスイベントエクスポート",
+      "es": "Exportación de eventos de Data Warehouse",
+      "pt": "Exportação de eventos de Data Warehouse",
+      "ko": "데이터 웨어하우스 이벤트 내보내기"
     }
   },
   "patterns": [
