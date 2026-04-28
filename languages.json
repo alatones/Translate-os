@@ -4349,6 +4349,60 @@
       "es": "Visible durante hasta 8 horas",
       "pt": "Visível por até 8 horas",
       "ko": "최대 8시간 동안 표시됨"
+    },
+    "Manage OneSignal with AI tools": {
+      "ja": "AIツールでOneSignalを管理",
+      "es": "Administra OneSignal con herramientas de IA",
+      "pt": "Gerencie o OneSignal com ferramentas de IA",
+      "ko": "AI 도구로 OneSignal 관리"
+    },
+    "OneSignal Logo": {
+      "ja": "OneSignalロゴ",
+      "es": "Logotipo de OneSignal",
+      "pt": "Logotipo da OneSignal",
+      "ko": "OneSignal 로고"
+    },
+    "OneSignal logo": {
+      "ja": "OneSignalロゴ",
+      "es": "Logotipo de OneSignal",
+      "pt": "Logotipo da OneSignal",
+      "ko": "OneSignal 로고"
+    },
+    "Remove Clicks filter": {
+      "ja": "クリックフィルターを削除",
+      "es": "Quitar filtro de clics",
+      "pt": "Remover filtro de cliques",
+      "ko": "클릭 필터 제거"
+    },
+    "Remove Confirmed filter": {
+      "ja": "確認済みフィルターを削除",
+      "es": "Quitar filtro de confirmados",
+      "pt": "Remover filtro de confirmados",
+      "ko": "확인됨 필터 제거"
+    },
+    "Remove Sessions filter": {
+      "ja": "セッションフィルターを削除",
+      "es": "Quitar filtro de sesiones",
+      "pt": "Remover filtro de sessões",
+      "ko": "세션 필터 제거"
+    },
+    "Select comparison period for subscription trends": {
+      "ja": "購読トレンドの比較期間を選択",
+      "es": "Seleccionar período de comparación para tendencias de suscripción",
+      "pt": "Selecionar período de comparação para tendências de assinatura",
+      "ko": "구독 트렌드의 비교 기간 선택"
+    },
+    "Select custom date range for subscription trends": {
+      "ja": "購読トレンドのカスタム期間を選択",
+      "es": "Seleccionar rango de fechas personalizado para tendencias de suscripción",
+      "pt": "Selecionar intervalo de datas personalizado para tendências de assinatura",
+      "ko": "구독 트렌드의 사용자 정의 날짜 범위 선택"
+    },
+    "Select outcome metric to add": {
+      "ja": "追加する結果指標を選択",
+      "es": "Seleccionar métrica de resultado para agregar",
+      "pt": "Selecionar métrica de resultado para adicionar",
+      "ko": "추가할 결과 지표 선택"
     }
   },
   "patterns": [
