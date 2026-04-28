@@ -38,7 +38,9 @@
   const MISSED_MAX_LEN = 200;
   const MISSED_PII_RE = /@|\/\/|[0-9]{6,}|[A-Za-z0-9+/=]{32,}/;
   const MISSED_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
-  const MISSED_TIMESTAMP_RE = /^\d{2}\/\d{2}\/\d{2},\s*\d|^\d{4}-\d{2}-\d{2}T\d{2}:/;
+  // Slash-style timestamps with optional time component: '4/28/26, 4:24:40 PM',
+  // '4/28/2026, 4:24:40 PM', plus ISO 8601.
+  const MISSED_TIMESTAMP_RE = /^\d{1,2}\/\d{1,2}\/\d{2,4},?\s*\d|^\d{4}-\d{2}-\d{2}T\d{2}:/;
   const MISSED_TIMEZONE_RE = /^[A-Z][a-zA-Z_]+\/[A-Z]/;
   const MISSED_COUNTRY_RE = /^[A-Z]{2}$/;
   // Snake_case / kebab customer attribute names: cupon_code, new_user, etc.
@@ -49,11 +51,26 @@
   const MISSED_MARKDOWN_LINK_RE = /^\[.+\]\(.+\)$/;
   // OS + subscriber count: 'macOS (145)', 'Windows (147)', 'Linux x86_64 (129)'
   const MISSED_OS_COUNT_RE = /^(macOS|Windows|iOS|Android|Linux\b.*)\s*\(\d+\)$/;
-  const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s/;
-  // Also matches 'Apr 1, 884. Total subscribed.' Highcharts data point labels.
-  const MISSED_CHART_DATA_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d+, \d+\. /;
+  // Day-of-week-prefixed chart labels: 'Mon, Apr 7' AND 'Fri Apr 10 (UTC)'.
+  const MISSED_CHART_TOOLTIP_RE = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(,\s|\s\w+\s\d+\s\(UTC\)$)/;
+  // Anything starting 'Apr 1, 2026' (full ISO-style date with year) — covers
+  // bare dates, 'Apr 1, 2026 - Apr 30, 2026' ranges, 'Apr 23, 2026 1:04 PM'
+  // timestamps, and 'Apr 1, 884. Total subscribed.' Highcharts data labels.
+  const MISSED_CHART_DATA_RE = /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s\d+,\s\d{2,4}/;
   const MISSED_CHART_META_RE = /^(Line chart with|The chart has \d|Created with Highcharts|Chart\. Highcharts|Toggle series visibility|End of interactive chart\.|Interactive chart$|Empty chart$|.+, line \d+ of \d+ with \d+ data points\.)/;
   const MISSED_FULL_DATE_RE = /^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+,\s+\d{4}$/;
+  // Liquid template syntax leaking through DOM: '{{ user.external_id }}',
+  // 'Hi {{ first_name | default: "there" }}', '{% if x %}'.
+  const MISSED_LIQUID_RE = /\{\{|\}\}|\{%|%\}/;
+  // Device names with parenthetical multi-part version: 'Simulator iPhone
+  // (26.2)', 'macOS (26.2)', 'Google emulator (15.4)'. Bare 'X (N)' tab
+  // counters are translated by patterns, so anything left ending in
+  // '(N.M[.K])' is a UGC device label.
+  const MISSED_DEVICE_VERSION_RE = /\s\(\d+(\.\d+)+\)$/;
+  // External ID label with appended user-set value: 'External ID: api-jon'.
+  const MISSED_EXTERNAL_ID_RE = /^External ID:\s/;
+  // Embedded 3rd-party widget chrome we never own and shouldn't track.
+  const MISSED_THIRD_PARTY_RE = /^(Intercom|Open Intercom Messenger|_hjSafeContext)$/;
   // SOH separator for composite ledger keys: no UI string will contain it.
   const MISSED_KEY_SEP = "";
   let missedFlushTimer = 0;
@@ -105,6 +122,10 @@
     if (MISSED_CHART_DATA_RE.test(s)) return false;
     if (MISSED_CHART_META_RE.test(s)) return false;
     if (MISSED_FULL_DATE_RE.test(s)) return false;
+    if (MISSED_LIQUID_RE.test(s)) return false;
+    if (MISSED_DEVICE_VERSION_RE.test(s)) return false;
+    if (MISSED_EXTERNAL_ID_RE.test(s)) return false;
+    if (MISSED_THIRD_PARTY_RE.test(s)) return false;
     if (recentTranslations.has(s)) return false;
     if (/^\d+$/.test(s)) return false;
     if (!/[A-Za-z]/.test(s)) return false;
