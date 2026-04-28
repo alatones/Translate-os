@@ -5057,6 +5057,96 @@
       "es": "Escribe o copia y pega tu propio HTML y CSS.",
       "pt": "Escreva ou copie e cole seu próprio HTML e CSS.",
       "ko": "직접 HTML 및 CSS를 작성하거나 복사하여 붙여넣으세요."
+    },
+    "Test & preview": {
+      "ja": "テストとプレビュー",
+      "es": "Probar y previsualizar",
+      "pt": "Testar e visualizar",
+      "ko": "테스트 및 미리보기"
+    },
+    "What segment(s)": {
+      "ja": "どのセグメント",
+      "es": "Qué segmento(s)",
+      "pt": "Qual(is) segmento(s)",
+      "ko": "어떤 세그먼트"
+    },
+    "custom events": {
+      "ja": "カスタムイベント",
+      "es": "eventos personalizados",
+      "pt": "eventos personalizados",
+      "ko": "사용자 정의 이벤트"
+    },
+    "insert content": {
+      "ja": "コンテンツを挿入",
+      "es": "insertar contenido",
+      "pt": "inserir conteúdo",
+      "ko": "콘텐츠 삽입"
+    },
+    "receive this message?": {
+      "ja": "このメッセージを受信しますか？",
+      "es": "¿recibir este mensaje?",
+      "pt": "receber esta mensagem?",
+      "ko": "이 메시지를 받을까요?"
+    },
+    "1. Audience": {
+      "ja": "1. 対象者",
+      "es": "1. Audiencia",
+      "pt": "1. Público",
+      "ko": "1. 고객"
+    },
+    "2. Sender": {
+      "ja": "2. 送信者",
+      "es": "2. Remitente",
+      "pt": "2. Remetente",
+      "ko": "2. 발신자"
+    },
+    "3. Message": {
+      "ja": "3. メッセージ",
+      "es": "3. Mensaje",
+      "pt": "3. Mensagem",
+      "ko": "3. 메시지"
+    },
+    "4. Message Goal": {
+      "ja": "4. メッセージの目標",
+      "es": "4. Objetivo del mensaje",
+      "pt": "4. Meta da mensagem",
+      "ko": "4. 메시지 목표"
+    },
+    "5. Delivery Schedule": {
+      "ja": "5. 配信スケジュール",
+      "es": "5. Programación de entrega",
+      "pt": "5. Agendamento de entrega",
+      "ko": "5. 전달 일정"
+    },
+    "Additional options": {
+      "ja": "追加オプション",
+      "es": "Opciones adicionales",
+      "pt": "Opções adicionais",
+      "ko": "추가 옵션"
+    },
+    "A/B Test": {
+      "ja": "A/Bテスト",
+      "es": "Prueba A/B",
+      "pt": "Teste A/B",
+      "ko": "A/B 테스트"
+    },
+    "Assign labels": {
+      "ja": "ラベルを割り当て",
+      "es": "Asignar etiquetas",
+      "pt": "Atribuir rótulos",
+      "ko": "라벨 지정"
+    },
+    "Beta": {
+      "ja": "ベータ",
+      "es": "Beta",
+      "pt": "Beta",
+      "ko": "베타"
+    },
+    "Campaign Name or Internal Name": {
+      "ja": "キャンペーン名または内部名",
+      "es": "Nombre de campaña o nombre interno",
+      "pt": "Nome da campanha ou nome interno",
+      "ko": "캠페인 이름 또는 내부 이름"
     }
   },
   "patterns": [
@@ -5499,6 +5589,24 @@
         "es": "hace más de {1} días",
         "pt": "há mais de {1} dias",
         "ko": "{1}일 이전"
+      }
+    },
+    {
+      "match": "^(\\d+) results? available\\.$",
+      "translations": {
+        "ja": "{1}件の結果があります。",
+        "es": "{1} resultados disponibles.",
+        "pt": "{1} resultados disponíveis.",
+        "ko": "{1}개의 결과가 있습니다."
+      }
+    },
+    {
+      "match": "^Labels \\((\\d+)/(\\d+)\\)$",
+      "translations": {
+        "ja": "ラベル ({1}/{2})",
+        "es": "Etiquetas ({1}/{2})",
+        "pt": "Rótulos ({1}/{2})",
+        "ko": "라벨 ({1}/{2})"
       }
     }
   ]
