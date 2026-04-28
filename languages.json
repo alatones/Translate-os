@@ -7229,6 +7229,186 @@
       "es": "Exportación de eventos de Data Warehouse",
       "pt": "Exportação de eventos de Data Warehouse",
       "ko": "데이터 웨어하우스 이벤트 내보내기"
+    },
+    "Event counts include all tracked events processed through both data warehouse exports and event streams.": {
+      "ja": "イベント数には、データウェアハウスエクスポートおよびイベントストリームの両方で処理された追跡対象イベントが含まれます。",
+      "es": "El recuento de eventos incluye todos los eventos rastreados procesados tanto a través de exportaciones de data warehouse como de event streams.",
+      "pt": "A contagem de eventos inclui todos os eventos rastreados processados por exportações de data warehouse e event streams.",
+      "ko": "이벤트 수에는 데이터 웨어하우스 내보내기 및 이벤트 스트림 모두를 통해 처리된 모든 추적 이벤트가 포함됩니다."
+    },
+    "Events Export Breakdown": {
+      "ja": "イベントエクスポートの内訳",
+      "es": "Desglose de exportación de eventos",
+      "pt": "Detalhamento de exportação de eventos",
+      "ko": "이벤트 내보내기 분석"
+    },
+    "In-App Impressions": {
+      "ja": "インアプリの表示回数",
+      "es": "Impresiones in-app",
+      "pt": "Impressões in-app",
+      "ko": "인앱 노출 수"
+    },
+    "Next cycle starts on": {
+      "ja": "次のサイクル開始日",
+      "es": "El próximo ciclo comienza el",
+      "pt": "O próximo ciclo começa em",
+      "ko": "다음 주기 시작일"
+    },
+    "Plan Type": {
+      "ja": "プランタイプ",
+      "es": "Tipo de plan",
+      "pt": "Tipo de plano",
+      "ko": "플랜 유형"
+    },
+    "Push Subscribers": {
+      "ja": "プッシュ購読者",
+      "es": "Suscriptores de push",
+      "pt": "Assinantes de push",
+      "ko": "푸시 구독자"
+    },
+    "See Breakdown": {
+      "ja": "内訳を見る",
+      "es": "Ver desglose",
+      "pt": "Ver detalhamento",
+      "ko": "분석 보기"
+    },
+    "See pricing and feature comparison.": {
+      "ja": "料金と機能の比較を見る。",
+      "es": "Ver comparación de precios y funciones.",
+      "pt": "Ver comparação de preços e recursos.",
+      "ko": "가격 및 기능 비교 보기."
+    },
+    "Streaming Events": {
+      "ja": "ストリーミングイベント",
+      "es": "Eventos de streaming",
+      "pt": "Eventos de streaming",
+      "ko": "스트리밍 이벤트"
+    },
+    "Subscription Cycle": {
+      "ja": "購読サイクル",
+      "es": "Ciclo de suscripción",
+      "pt": "Ciclo de assinatura",
+      "ko": "구독 주기"
+    },
+    "Blank SMS / RCS": {
+      "ja": "空のSMS / RCS",
+      "es": "SMS / RCS en blanco",
+      "pt": "SMS / RCS em branco",
+      "ko": "빈 SMS / RCS"
+    },
+    "Double opt-in": {
+      "ja": "ダブルオプトイン",
+      "es": "Doble opt-in",
+      "pt": "Opt-in duplo",
+      "ko": "이중 옵트인"
+    },
+    "Add action": {
+      "ja": "アクションを追加",
+      "es": "Agregar acción",
+      "pt": "Adicionar ação",
+      "ko": "액션 추가"
+    },
+    "Basic": {
+      "ja": "ベーシック",
+      "es": "Básico",
+      "pt": "Básico",
+      "ko": "기본"
+    },
+    "Cost guide": {
+      "ja": "料金ガイド",
+      "es": "Guía de costos",
+      "pt": "Guia de custos",
+      "ko": "비용 가이드"
+    },
+    "Create carousel": {
+      "ja": "カルーセルを作成",
+      "es": "Crear carrusel",
+      "pt": "Criar carrossel",
+      "ko": "캐러셀 만들기"
+    },
+    "Global:": {
+      "ja": "グローバル:",
+      "es": "Global:",
+      "pt": "Global:",
+      "ko": "글로벌:"
+    },
+    "Local path or URL to image": {
+      "ja": "画像へのローカルパスまたはURL",
+      "es": "Ruta local o URL de la imagen",
+      "pt": "Caminho local ou URL da imagem",
+      "ko": "이미지의 로컬 경로 또는 URL"
+    },
+    "RCS": {
+      "ja": "RCS",
+      "es": "RCS",
+      "pt": "RCS",
+      "ko": "RCS"
+    },
+    "RCS billing documentation": {
+      "ja": "RCS課金文書",
+      "es": "Documentación de facturación de RCS",
+      "pt": "Documentação de cobrança RCS",
+      "ko": "RCS 청구 문서"
+    },
+    "Rich": {
+      "ja": "リッチ",
+      "es": "Enriquecido",
+      "pt": "Rich",
+      "ko": "리치"
+    },
+    "SMS fallback": {
+      "ja": "SMSフォールバック",
+      "es": "Respaldo SMS",
+      "pt": "Fallback SMS",
+      "ko": "SMS 폴백"
+    },
+    "US:": {
+      "ja": "米国:",
+      "es": "EE. UU.:",
+      "pt": "EUA:",
+      "ko": "미국:"
+    },
+    "Your message here": {
+      "ja": "ここにメッセージを入力",
+      "es": "Tu mensaje aquí",
+      "pt": "Sua mensagem aqui",
+      "ko": "여기에 메시지 입력"
+    },
+    "Your title here": {
+      "ja": "ここにタイトルを入力",
+      "es": "Tu título aquí",
+      "pt": "Seu título aqui",
+      "ko": "여기에 제목 입력"
+    },
+    "message": {
+      "ja": "メッセージ",
+      "es": "mensaje",
+      "pt": "mensagem",
+      "ko": "메시지"
+    },
+    "segment": {
+      "ja": "セグメント",
+      "es": "segmento",
+      "pt": "segmento",
+      "ko": "세그먼트"
+    },
+    "From": {
+      "ja": "送信元",
+      "es": "Desde",
+      "pt": "De",
+      "ko": "발신자"
+    },
+    "Upload": {
+      "ja": "アップロード",
+      "es": "Cargar",
+      "pt": "Enviar",
+      "ko": "업로드"
+    },
+    "Contact us": {
+      "ja": "お問い合わせ",
+      "es": "Contáctanos",
+      "pt": "Fale conosco",
+      "ko": "문의하기"
     }
   },
   "patterns": [
