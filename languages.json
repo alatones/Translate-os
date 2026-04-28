@@ -4427,6 +4427,156 @@
       "es": "Producto",
       "pt": "Produto",
       "ko": "제품"
+    },
+    "Failure message": {
+      "ja": "失敗メッセージ",
+      "es": "Mensaje de error",
+      "pt": "Mensagem de falha",
+      "ko": "실패 메시지"
+    },
+    "Subscription status": {
+      "ja": "購読状況",
+      "es": "Estado de suscripción",
+      "pt": "Status de assinatura",
+      "ko": "구독 상태"
+    },
+    "Google Android": {
+      "ja": "Google Android",
+      "es": "Google Android",
+      "pt": "Google Android",
+      "ko": "Google Android"
+    },
+    "Apple iOS": {
+      "ja": "Apple iOS",
+      "es": "Apple iOS",
+      "pt": "Apple iOS",
+      "ko": "Apple iOS"
+    },
+    "Google Chrome": {
+      "ja": "Google Chrome",
+      "es": "Google Chrome",
+      "pt": "Google Chrome",
+      "ko": "Google Chrome"
+    },
+    "Mozilla Firefox": {
+      "ja": "Mozilla Firefox",
+      "es": "Mozilla Firefox",
+      "pt": "Mozilla Firefox",
+      "ko": "Mozilla Firefox"
+    },
+    "Edge": {
+      "ja": "Edge",
+      "es": "Edge",
+      "pt": "Edge",
+      "ko": "Edge"
+    },
+    "Web Push (Apple Web)": {
+      "ja": "Webプッシュ (Apple Web)",
+      "es": "Web Push (Apple Web)",
+      "pt": "Web Push (Apple Web)",
+      "ko": "웹 푸시 (Apple Web)"
+    },
+    "Web Push (Chrome)": {
+      "ja": "Webプッシュ (Chrome)",
+      "es": "Web Push (Chrome)",
+      "pt": "Web Push (Chrome)",
+      "ko": "웹 푸시 (Chrome)"
+    },
+    "Web Push (Firefox)": {
+      "ja": "Webプッシュ (Firefox)",
+      "es": "Web Push (Firefox)",
+      "pt": "Web Push (Firefox)",
+      "ko": "웹 푸시 (Firefox)"
+    },
+    "Web Push (Edge)": {
+      "ja": "Webプッシュ (Edge)",
+      "es": "Web Push (Edge)",
+      "pt": "Web Push (Edge)",
+      "ko": "웹 푸시 (Edge)"
+    },
+    "Web Browser": {
+      "ja": "Webブラウザ",
+      "es": "Navegador web",
+      "pt": "Navegador web",
+      "ko": "웹 브라우저"
+    },
+    "Native App": {
+      "ja": "ネイティブアプリ",
+      "es": "Aplicación nativa",
+      "pt": "Aplicativo nativo",
+      "ko": "네이티브 앱"
+    },
+    "Windows": {
+      "ja": "Windows",
+      "es": "Windows",
+      "pt": "Windows",
+      "ko": "Windows"
+    },
+    "macOS": {
+      "ja": "macOS",
+      "es": "macOS",
+      "pt": "macOS",
+      "ko": "macOS"
+    },
+    "Advanced Settings": {
+      "ja": "詳細設定",
+      "es": "Configuración avanzada",
+      "pt": "Configurações avançadas",
+      "ko": "고급 설정"
+    },
+    "All Active Users": {
+      "ja": "すべてのアクティブユーザー",
+      "es": "Todos los usuarios activos",
+      "pt": "Todos os usuários ativos",
+      "ko": "모든 활성 사용자"
+    },
+    "Audience activity": {
+      "ja": "対象者の活動",
+      "es": "Actividad de la audiencia",
+      "pt": "Atividade do público",
+      "ko": "고객 활동"
+    },
+    "Audience activity is no longer available after 30 days": {
+      "ja": "対象者の活動は30日経過後は表示されません",
+      "es": "La actividad de la audiencia ya no está disponible después de 30 días",
+      "pt": "A atividade do público não está mais disponível após 30 dias",
+      "ko": "고객 활동은 30일 이후 더 이상 제공되지 않습니다"
+    },
+    "Badges": {
+      "ja": "バッジ",
+      "es": "Insignias",
+      "pt": "Distintivos",
+      "ko": "배지"
+    },
+    "Capped": {
+      "ja": "制限あり",
+      "es": "Limitado",
+      "pt": "Limitado",
+      "ko": "제한됨"
+    },
+    "Channel Mode": {
+      "ja": "チャネルモード",
+      "es": "Modo de canal",
+      "pt": "Modo de canal",
+      "ko": "채널 모드"
+    },
+    "Content Available": {
+      "ja": "コンテンツ利用可能",
+      "es": "Contenido disponible",
+      "pt": "Conteúdo disponível",
+      "ko": "콘텐츠 사용 가능"
+    },
+    "Copy to clipboard": {
+      "ja": "クリップボードにコピー",
+      "es": "Copiar al portapapeles",
+      "pt": "Copiar para a área de transferência",
+      "ko": "클립보드에 복사"
+    },
+    "Deliveries by platform": {
+      "ja": "プラットフォーム別の配信",
+      "es": "Entregas por plataforma",
+      "pt": "Entregas por plataforma",
+      "ko": "플랫폼별 전달"
     }
   },
   "patterns": [
