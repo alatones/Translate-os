@@ -5327,6 +5327,120 @@
       "es": "Hora específica",
       "pt": "Horário específico",
       "ko": "특정 시간"
+    },
+    "Subject": {
+      "ja": "件名",
+      "es": "Asunto",
+      "pt": "Assunto",
+      "ko": "제목"
+    },
+    "Total Users": {
+      "ja": "全ユーザー",
+      "es": "Total de usuarios",
+      "pt": "Total de usuários",
+      "ko": "총 사용자"
+    },
+    "Track link clicks": {
+      "ja": "リンククリックを追跡",
+      "es": "Rastrear clics en enlaces",
+      "pt": "Rastrear cliques em links",
+      "ko": "링크 클릭 추적"
+    },
+    "Web push Subscriptions": {
+      "ja": "Webプッシュ購読",
+      "es": "Suscripciones de push web",
+      "pt": "Assinaturas de push web",
+      "ko": "웹 푸시 구독"
+    },
+    "When should this message start sending?": {
+      "ja": "このメッセージはいつ送信を開始しますか？",
+      "es": "¿Cuándo debería comenzar a enviarse este mensaje?",
+      "pt": "Quando esta mensagem deve começar a ser enviada?",
+      "ko": "이 메시지를 언제 발송 시작해야 하나요?"
+    },
+    "When should users receive this message?": {
+      "ja": "ユーザーはいつこのメッセージを受信しますか？",
+      "es": "¿Cuándo deberían los usuarios recibir este mensaje?",
+      "pt": "Quando os usuários devem receber esta mensagem?",
+      "ko": "사용자가 언제 이 메시지를 받아야 하나요?"
+    },
+    "You also have": {
+      "ja": "次もあります:",
+      "es": "También tienes",
+      "pt": "Você também tem",
+      "ko": "또한 다음도 있습니다"
+    },
+    "and cannot be included or excluded alongside other segments.": {
+      "ja": "、他のセグメントと一緒に含めたり除外したりすることはできません。",
+      "es": "y no puede incluirse o excluirse junto con otros segmentos.",
+      "pt": "e não pode ser incluído ou excluído junto a outros segmentos.",
+      "ko": "다른 세그먼트와 함께 포함하거나 제외할 수 없습니다."
+    },
+    "and cannot be used in the exclusion list.": {
+      "ja": "、除外リストには使用できません。",
+      "es": "y no puede usarse en la lista de exclusión.",
+      "pt": "e não pode ser usado na lista de exclusão.",
+      "ko": "제외 목록에서 사용할 수 없습니다."
+    },
+    "are in early-access,": {
+      "ja": "は早期アクセス中、",
+      "es": "están en acceso temprano,",
+      "pt": "estão em acesso antecipado,",
+      "ko": "얼리 액세스 중,"
+    },
+    "are user-based": {
+      "ja": "はユーザーベース",
+      "es": "están basados en usuarios",
+      "pt": "são baseados em usuários",
+      "ko": "사용자 기반"
+    },
+    "message events": {
+      "ja": "メッセージイベント",
+      "es": "eventos de mensajes",
+      "pt": "eventos de mensagens",
+      "ko": "메시지 이벤트"
+    },
+    "paused or processing segments.": {
+      "ja": "一時停止中または処理中のセグメント。",
+      "es": "segmentos en pausa o en procesamiento.",
+      "pt": "segmentos em pausa ou processamento.",
+      "ko": "일시 중지 또는 처리 중인 세그먼트."
+    },
+    "should": {
+      "ja": "次の場合",
+      "es": "debe",
+      "pt": "deve",
+      "ko": "해야 함"
+    },
+    "should not": {
+      "ja": "次でない場合",
+      "es": "no debe",
+      "pt": "não deve",
+      "ko": "하지 않아야 함"
+    },
+    "Expand navigation": {
+      "ja": "ナビゲーションを展開",
+      "es": "Expandir navegación",
+      "pt": "Expandir navegação",
+      "ko": "탐색 확장"
+    },
+    "Messages sent through our API or WordPress Plugin can be found in": {
+      "ja": "APIまたはWordPressプラグインを通じて送信されたメッセージは次で確認できます:",
+      "es": "Los mensajes enviados a través de nuestra API o el plugin de WordPress se pueden encontrar en",
+      "pt": "As mensagens enviadas pela nossa API ou plugin do WordPress podem ser encontradas em",
+      "ko": "API 또는 WordPress 플러그인을 통해 발송된 메시지는 다음에서 확인할 수 있습니다"
+    },
+    "Messages sent through our API can be found in": {
+      "ja": "APIを通じて送信されたメッセージは次で確認できます:",
+      "es": "Los mensajes enviados a través de nuestra API se pueden encontrar en",
+      "pt": "As mensagens enviadas pela nossa API podem ser encontradas em",
+      "ko": "API를 통해 발송된 메시지는 다음에서 확인할 수 있습니다"
+    },
+    "Save & Exit": {
+      "ja": "保存して終了",
+      "es": "Guardar y salir",
+      "pt": "Salvar e sair",
+      "ko": "저장 후 종료"
     }
   },
   "patterns": [
