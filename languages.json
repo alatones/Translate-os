@@ -4949,6 +4949,114 @@
       "es": "Tiempos de espera",
       "pt": "Tempos limite",
       "ko": "타임아웃"
+    },
+    "AI-generated Push": {
+      "ja": "AI生成プッシュ",
+      "es": "Push generado por IA",
+      "pt": "Push gerado por IA",
+      "ko": "AI 생성 푸시"
+    },
+    "Blank Push": {
+      "ja": "空のプッシュ",
+      "es": "Push en blanco",
+      "pt": "Push em branco",
+      "ko": "빈 푸시"
+    },
+    "Custom Events Ingestion": {
+      "ja": "カスタムイベント取り込み",
+      "es": "Ingesta de eventos personalizados",
+      "pt": "Ingestão de eventos personalizados",
+      "ko": "사용자 정의 이벤트 수집"
+    },
+    "Drawer": {
+      "ja": "ドロワー",
+      "es": "Panel lateral",
+      "pt": "Gaveta",
+      "ko": "드로어"
+    },
+    "Line chart depicting analytics": {
+      "ja": "分析を表す折れ線グラフ",
+      "es": "Gráfico de líneas que muestra análisis",
+      "pt": "Gráfico de linha que mostra análise",
+      "ko": "분석을 나타내는 선 차트"
+    },
+    "OneSignal quickstart designs": {
+      "ja": "OneSignalクイックスタートデザイン",
+      "es": "Diseños de inicio rápido de OneSignal",
+      "pt": "Designs de início rápido do OneSignal",
+      "ko": "OneSignal 빠른 시작 디자인"
+    },
+    "Start from a pre-built design": {
+      "ja": "事前構築済みのデザインから始める",
+      "es": "Comenzar desde un diseño prediseñado",
+      "pt": "Começar a partir de um design pronto",
+      "ko": "사전 제작된 디자인으로 시작"
+    },
+    "Start from scratch": {
+      "ja": "最初から作成",
+      "es": "Comenzar desde cero",
+      "pt": "Começar do zero",
+      "ko": "처음부터 시작"
+    },
+    "This integration does not track delivery statistics.": {
+      "ja": "この統合は配信統計を追跡しません。",
+      "es": "Esta integración no rastrea estadísticas de entrega.",
+      "pt": "Esta integração não rastreia estatísticas de entrega.",
+      "ko": "이 통합은 전달 통계를 추적하지 않습니다."
+    },
+    "Your previous messages": {
+      "ja": "以前のメッセージ",
+      "es": "Tus mensajes anteriores",
+      "pt": "Suas mensagens anteriores",
+      "ko": "이전 메시지"
+    },
+    "Your templates": {
+      "ja": "テンプレート",
+      "es": "Tus plantillas",
+      "pt": "Seus modelos",
+      "ko": "내 템플릿"
+    },
+    "Event ID": {
+      "ja": "イベントID",
+      "es": "ID de evento",
+      "pt": "ID do evento",
+      "ko": "이벤트 ID"
+    },
+    "Segment Not Found": {
+      "ja": "セグメントが見つかりません",
+      "es": "Segmento no encontrado",
+      "pt": "Segmento não encontrado",
+      "ko": "세그먼트를 찾을 수 없음"
+    },
+    "Drag & drop editor": {
+      "ja": "ドラッグ＆ドロップエディター",
+      "es": "Editor de arrastrar y soltar",
+      "pt": "Editor de arrastar e soltar",
+      "ko": "드래그 앤 드롭 편집기"
+    },
+    "HTML editor": {
+      "ja": "HTMLエディター",
+      "es": "Editor HTML",
+      "pt": "Editor HTML",
+      "ko": "HTML 편집기"
+    },
+    "Multi-link click tracking": {
+      "ja": "マルチリンククリック追跡",
+      "es": "Seguimiento de clics multienlace",
+      "pt": "Rastreamento de cliques multilink",
+      "ko": "다중 링크 클릭 추적"
+    },
+    "Visual drag and drop editing with image and text blocks.": {
+      "ja": "画像とテキストブロックを使った視覚的なドラッグ＆ドロップ編集。",
+      "es": "Edición visual de arrastrar y soltar con bloques de imagen y texto.",
+      "pt": "Edição visual de arrastar e soltar com blocos de imagem e texto.",
+      "ko": "이미지와 텍스트 블록을 사용한 시각적 드래그 앤 드롭 편집."
+    },
+    "Write or copy/paste your own HTML and CSS.": {
+      "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
+      "es": "Escribe o copia y pega tu propio HTML y CSS.",
+      "pt": "Escreva ou copie e cole seu próprio HTML e CSS.",
+      "ko": "직접 HTML 및 CSS를 작성하거나 복사하여 붙여넣으세요."
     }
   },
   "patterns": [
@@ -5382,6 +5490,15 @@
         "es": "Inactivo ({1})",
         "pt": "Inativo ({1})",
         "ko": "비활성 ({1})"
+      }
+    },
+    {
+      "match": "^> (\\d+) days ago$",
+      "translations": {
+        "ja": "{1}日以上前",
+        "es": "hace más de {1} días",
+        "pt": "há mais de {1} dias",
+        "ko": "{1}일 이전"
       }
     }
   ]
