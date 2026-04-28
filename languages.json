@@ -6869,6 +6869,186 @@
       "es": "Enviar a Mozilla Firefox",
       "pt": "Enviar para Mozilla Firefox",
       "ko": "Mozilla Firefox에 발송"
+    },
+    "Send to Windows": {
+      "ja": "Windowsに送信",
+      "es": "Enviar a Windows",
+      "pt": "Enviar para Windows",
+      "ko": "Windows에 발송"
+    },
+    "Send to particular segment(s)": {
+      "ja": "特定のセグメントに送信",
+      "es": "Enviar a segmento(s) específico(s)",
+      "pt": "Enviar a segmento(s) específico(s)",
+      "ko": "특정 세그먼트에 발송"
+    },
+    "Set to": {
+      "ja": "設定:",
+      "es": "Establecer en",
+      "pt": "Definir como",
+      "ko": "설정값"
+    },
+    "Small Icon": {
+      "ja": "小さいアイコン",
+      "es": "Icono pequeño",
+      "pt": "Ícone pequeno",
+      "ko": "작은 아이콘"
+    },
+    "Subtitle (Any/English)": {
+      "ja": "サブタイトル (Any/英語)",
+      "es": "Subtítulo (cualquiera/inglés)",
+      "pt": "Subtítulo (qualquer/inglês)",
+      "ko": "부제목 (Any/영어)"
+    },
+    "Subtitle input": {
+      "ja": "サブタイトル入力",
+      "es": "Entrada del subtítulo",
+      "pt": "Entrada do subtítulo",
+      "ko": "부제목 입력"
+    },
+    "System Icon": {
+      "ja": "システムアイコン",
+      "es": "Icono del sistema",
+      "pt": "Ícone do sistema",
+      "ko": "시스템 아이콘"
+    },
+    "Target Content Id": {
+      "ja": "ターゲットコンテンツID",
+      "es": "Id. de contenido de destino",
+      "pt": "ID do conteúdo alvo",
+      "ko": "타겟 콘텐츠 ID"
+    },
+    "Time Sensitive": {
+      "ja": "時間に敏感",
+      "es": "Sensible al tiempo",
+      "pt": "Sensível ao tempo",
+      "ko": "시간 민감"
+    },
+    "Title (Any/English)": {
+      "ja": "タイトル (Any/英語)",
+      "es": "Título (cualquiera/inglés)",
+      "pt": "Título (qualquer/inglês)",
+      "ko": "제목 (Any/영어)"
+    },
+    "Title input": {
+      "ja": "タイトル入力",
+      "es": "Entrada del título",
+      "pt": "Entrada do título",
+      "ko": "제목 입력"
+    },
+    "Urgent no sound": {
+      "ja": "緊急 (音なし)",
+      "es": "Urgente sin sonido",
+      "pt": "Urgente sem som",
+      "ko": "긴급 무음"
+    },
+    "Urgent priority": {
+      "ja": "緊急優先度",
+      "es": "Prioridad urgente",
+      "pt": "Prioridade urgente",
+      "ko": "긴급 우선순위"
+    },
+    "Value 1": {
+      "ja": "値 1",
+      "es": "Valor 1",
+      "pt": "Valor 1",
+      "ko": "값 1"
+    },
+    "Web Push Topic": {
+      "ja": "Webプッシュトピック",
+      "es": "Tema de push web",
+      "pt": "Tópico de push web",
+      "ko": "웹 푸시 토픽"
+    },
+    "days": {
+      "ja": "日",
+      "es": "días",
+      "pt": "dias",
+      "ko": "일"
+    },
+    "e.g. hand.thumbsup": {
+      "ja": "例: hand.thumbsup",
+      "es": "p. ej. hand.thumbsup",
+      "pt": "ex.: hand.thumbsup",
+      "ko": "예: hand.thumbsup"
+    },
+    "hours": {
+      "ja": "時間",
+      "es": "horas",
+      "pt": "horas",
+      "ko": "시간"
+    },
+    "iOS/Android Action Buttons": {
+      "ja": "iOS/Androidアクションボタン",
+      "es": "Botones de acción de iOS/Android",
+      "pt": "Botões de ação iOS/Android",
+      "ko": "iOS/Android 액션 버튼"
+    },
+    "minutes": {
+      "ja": "分",
+      "es": "minutos",
+      "pt": "minutos",
+      "ko": "분"
+    },
+    "or paste URL to image, sound, video": {
+      "ja": "または画像、音声、動画のURLを貼り付け",
+      "es": "o pega la URL de imagen, sonido o video",
+      "pt": "ou cole a URL de imagem, som ou vídeo",
+      "ko": "또는 이미지, 소리, 동영상 URL 붙여넣기"
+    },
+    "seconds": {
+      "ja": "秒",
+      "es": "segundos",
+      "pt": "segundos",
+      "ko": "초"
+    },
+    "Device Type is iOS": {
+      "ja": "デバイスタイプはiOS",
+      "es": "El tipo de dispositivo es iOS",
+      "pt": "O tipo de dispositivo é iOS",
+      "ko": "기기 유형: iOS"
+    },
+    "Test Users is true": {
+      "ja": "テストユーザーがtrue",
+      "es": "Usuarios de prueba es verdadero",
+      "pt": "Usuários de teste é verdadeiro",
+      "ko": "테스트 사용자가 참"
+    },
+    "Device Type is Web Push (All Browsers)": {
+      "ja": "デバイスタイプはWebプッシュ (全ブラウザ)",
+      "es": "El tipo de dispositivo es Web Push (todos los navegadores)",
+      "pt": "O tipo de dispositivo é Web Push (todos os navegadores)",
+      "ko": "기기 유형: 웹 푸시 (모든 브라우저)"
+    },
+    "Add Or": {
+      "ja": "ORを追加",
+      "es": "Agregar O",
+      "pt": "Adicionar OU",
+      "ko": "OR 추가"
+    },
+    "Country the device was in the last time it communicated with our servers": {
+      "ja": "デバイスが最後にサーバーと通信した時の所在国",
+      "es": "País en que estaba el dispositivo la última vez que se comunicó con nuestros servidores",
+      "pt": "País em que o dispositivo estava na última vez que se comunicou com nossos servidores",
+      "ko": "기기가 서버와 마지막으로 통신했을 때의 국가"
+    },
+    "Custom tags you have added to the User record": {
+      "ja": "ユーザーレコードに追加したカスタムタグ",
+      "es": "Etiquetas personalizadas que has añadido al registro del usuario",
+      "pt": "Tags personalizadas que você adicionou ao registro do usuário",
+      "ko": "사용자 기록에 추가한 사용자 정의 태그"
+    },
+    "Device operating system": {
+      "ja": "デバイスのオペレーティングシステム",
+      "es": "Sistema operativo del dispositivo",
+      "pt": "Sistema operacional do dispositivo",
+      "ko": "기기 운영 체제"
+    },
+    "Early Access": {
+      "ja": "早期アクセス",
+      "es": "Acceso anticipado",
+      "pt": "Acesso antecipado",
+      "ko": "얼리 액세스"
     }
   },
   "patterns": [
@@ -7374,6 +7554,15 @@
         "es": "Plataformas ({1}/{2} seleccionadas)",
         "pt": "Plataformas ({1}/{2} selecionadas)",
         "ko": "플랫폼 ({1}/{2}개 선택됨)"
+      }
+    },
+    {
+      "match": "^First Session less than (\\d+) hours ago$",
+      "translations": {
+        "ja": "最初のセッションから{1}時間未満",
+        "es": "Primera sesión hace menos de {1} horas",
+        "pt": "Primeira sessão há menos de {1} horas",
+        "ko": "첫 번째 세션이 {1}시간 미만 전"
       }
     }
   ]
