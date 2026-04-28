@@ -4577,6 +4577,192 @@
       "es": "Entregas por plataforma",
       "pt": "Entregas por plataforma",
       "ko": "플랫폼별 전달"
+    },
+    "Delivery time": {
+      "ja": "配信時刻",
+      "es": "Hora de entrega",
+      "pt": "Hora de entrega",
+      "ko": "전달 시간"
+    },
+    "Did not click": {
+      "ja": "クリックなし",
+      "es": "No hizo clic",
+      "pt": "Não clicou",
+      "ko": "클릭하지 않음"
+    },
+    "Did not confirm receipt": {
+      "ja": "受信未確認",
+      "es": "No confirmó recepción",
+      "pt": "Não confirmou recebimento",
+      "ko": "수신 확인하지 않음"
+    },
+    "False": {
+      "ja": "偽",
+      "es": "Falso",
+      "pt": "Falso",
+      "ko": "거짓"
+    },
+    "True": {
+      "ja": "真",
+      "es": "Verdadero",
+      "pt": "Verdadeiro",
+      "ko": "참"
+    },
+    "Influenced opens": {
+      "ja": "影響を受けた開封",
+      "es": "Aperturas influenciadas",
+      "pt": "Aberturas influenciadas",
+      "ko": "영향받아 열림"
+    },
+    "Interruption Level": {
+      "ja": "割り込みレベル",
+      "es": "Nivel de interrupción",
+      "pt": "Nível de interrupção",
+      "ko": "중단 수준"
+    },
+    "Leave unchanged": {
+      "ja": "変更しない",
+      "es": "Dejar sin cambios",
+      "pt": "Manter inalterado",
+      "ko": "변경하지 않음"
+    },
+    "Loading Goal...": {
+      "ja": "目標を読み込み中...",
+      "es": "Cargando objetivo...",
+      "pt": "Carregando objetivo...",
+      "ko": "목표 로딩 중..."
+    },
+    "Loading notification. Please wait a moment...": {
+      "ja": "通知を読み込んでいます。しばらくお待ちください...",
+      "es": "Cargando notificación. Espere un momento...",
+      "pt": "Carregando notificação. Aguarde um momento...",
+      "ko": "알림을 로드하는 중입니다. 잠시만 기다려 주세요..."
+    },
+    "Lockscreen Visibility": {
+      "ja": "ロック画面の表示",
+      "es": "Visibilidad en pantalla de bloqueo",
+      "pt": "Visibilidade na tela de bloqueio",
+      "ko": "잠금 화면 표시"
+    },
+    "Message ID": {
+      "ja": "メッセージID",
+      "es": "ID del mensaje",
+      "pt": "ID da mensagem",
+      "ko": "메시지 ID"
+    },
+    "Message Statistics": {
+      "ja": "メッセージ統計",
+      "es": "Estadísticas del mensaje",
+      "pt": "Estatísticas da mensagem",
+      "ko": "메시지 통계"
+    },
+    "Message name": {
+      "ja": "メッセージ名",
+      "es": "Nombre del mensaje",
+      "pt": "Nome da mensagem",
+      "ko": "메시지 이름"
+    },
+    "Message settings": {
+      "ja": "メッセージ設定",
+      "es": "Configuración del mensaje",
+      "pt": "Configurações da mensagem",
+      "ko": "메시지 설정"
+    },
+    "Mutable Content": {
+      "ja": "可変コンテンツ",
+      "es": "Contenido mutable",
+      "pt": "Conteúdo mutável",
+      "ko": "변경 가능 콘텐츠"
+    },
+    "Normal": {
+      "ja": "通常",
+      "es": "Normal",
+      "pt": "Normal",
+      "ko": "보통"
+    },
+    "Public - Always show the contents on the lockscreen.": {
+      "ja": "公開 - ロック画面に常にコンテンツを表示する。",
+      "es": "Público - Siempre mostrar el contenido en la pantalla de bloqueo.",
+      "pt": "Público - Sempre mostrar o conteúdo na tela de bloqueio.",
+      "ko": "공개 - 잠금 화면에 항상 콘텐츠를 표시합니다."
+    },
+    "Realtime Message Data": {
+      "ja": "リアルタイムメッセージデータ",
+      "es": "Datos del mensaje en tiempo real",
+      "pt": "Dados da mensagem em tempo real",
+      "ko": "실시간 메시지 데이터"
+    },
+    "Relevance Score": {
+      "ja": "関連度スコア",
+      "es": "Puntuación de relevancia",
+      "pt": "Pontuação de relevância",
+      "ko": "관련성 점수"
+    },
+    "Remaining": {
+      "ja": "残り",
+      "es": "Restante",
+      "pt": "Restante",
+      "ko": "남음"
+    },
+    "Send a Retargeted Message": {
+      "ja": "リターゲティングメッセージを送信",
+      "es": "Enviar un mensaje de retargeting",
+      "pt": "Enviar uma mensagem de retargeting",
+      "ko": "리타겟팅 메시지 발송"
+    },
+    "Send to segments": {
+      "ja": "セグメントに発送",
+      "es": "Enviar a segmentos",
+      "pt": "Enviar a segmentos",
+      "ko": "세그먼트에 발송"
+    },
+    "Start sending": {
+      "ja": "発送開始",
+      "es": "Iniciar envío",
+      "pt": "Iniciar envio",
+      "ko": "발송 시작"
+    },
+    "Subtitle": {
+      "ja": "サブタイトル",
+      "es": "Subtítulo",
+      "pt": "Subtítulo",
+      "ko": "부제목"
+    },
+    "Throttling": {
+      "ja": "スロットリング",
+      "es": "Limitación",
+      "pt": "Limitação",
+      "ko": "쓰로틀링"
+    },
+    "Time To Live": {
+      "ja": "有効期間",
+      "es": "Tiempo de vida",
+      "pt": "Tempo de vida",
+      "ko": "유효 시간"
+    },
+    "Title": {
+      "ja": "タイトル",
+      "es": "Título",
+      "pt": "Título",
+      "ko": "제목"
+    },
+    "Total clicks": {
+      "ja": "総クリック数",
+      "es": "Total de clics",
+      "pt": "Total de cliques",
+      "ko": "총 클릭 수"
+    },
+    "Total number of recipients": {
+      "ja": "受信者総数",
+      "es": "Número total de destinatarios",
+      "pt": "Número total de destinatários",
+      "ko": "총 수신자 수"
+    },
+    "now": {
+      "ja": "今",
+      "es": "ahora",
+      "pt": "agora",
+      "ko": "방금"
     }
   },
   "patterns": [
@@ -4848,6 +5034,24 @@
         "es": "Conteo de sesiones mayor a {1}",
         "pt": "Contagem de sessões maior que {1}",
         "ko": "세션 수가 {1}회 초과"
+      }
+    },
+    {
+      "match": "^(\\d+\\.?\\d*)% of messages sent$",
+      "translations": {
+        "ja": "メッセージの{1}%を送信",
+        "es": "{1}% de mensajes enviados",
+        "pt": "{1}% das mensagens enviadas",
+        "ko": "메시지의 {1}% 발송됨"
+      }
+    },
+    {
+      "match": "^With a limit of ~(\\d+(?:,\\d+)*) per minute\\.$",
+      "translations": {
+        "ja": "毎分~{1}件の制限あり。",
+        "es": "Con un límite de ~{1} por minuto.",
+        "pt": "Com um limite de ~{1} por minuto.",
+        "ko": "분당 ~{1}건 제한."
       }
     }
   ]
