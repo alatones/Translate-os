@@ -4763,6 +4763,66 @@
       "es": "ahora",
       "pt": "agora",
       "ko": "방금"
+    },
+    "New Segment": {
+      "ja": "新しいセグメント",
+      "es": "Nuevo segmento",
+      "pt": "Novo segmento",
+      "ko": "새 세그먼트"
+    },
+    "App usage": {
+      "ja": "アプリ使用状況",
+      "es": "Uso de la aplicación",
+      "pt": "Uso do aplicativo",
+      "ko": "앱 사용량"
+    },
+    "Billing": {
+      "ja": "請求",
+      "es": "Facturación",
+      "pt": "Cobrança",
+      "ko": "청구"
+    },
+    "Enterprise": {
+      "ja": "エンタープライズ",
+      "es": "Enterprise",
+      "pt": "Enterprise",
+      "ko": "엔터프라이즈"
+    },
+    "Invite team members": {
+      "ja": "チームメンバーを招待",
+      "es": "Invitar a miembros del equipo",
+      "pt": "Convidar membros da equipe",
+      "ko": "팀원 초대"
+    },
+    "Log out": {
+      "ja": "ログアウト",
+      "es": "Cerrar sesión",
+      "pt": "Sair",
+      "ko": "로그아웃"
+    },
+    "Manage account": {
+      "ja": "アカウント管理",
+      "es": "Administrar cuenta",
+      "pt": "Gerenciar conta",
+      "ko": "계정 관리"
+    },
+    "Search for an app": {
+      "ja": "アプリを検索",
+      "es": "Buscar una aplicación",
+      "pt": "Pesquisar um aplicativo",
+      "ko": "앱 검색"
+    },
+    "Search for app": {
+      "ja": "アプリを検索",
+      "es": "Buscar una aplicación",
+      "pt": "Pesquisar um aplicativo",
+      "ko": "앱 검색"
+    },
+    "Select Organization": {
+      "ja": "組織を選択",
+      "es": "Seleccionar organización",
+      "pt": "Selecionar organização",
+      "ko": "조직 선택"
     }
   },
   "patterns": [
@@ -5052,6 +5112,114 @@
         "es": "Con un límite de ~{1} por minuto.",
         "pt": "Com um limite de ~{1} por minuto.",
         "ko": "분당 ~{1}건 제한."
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Jan$",
+      "translations": {
+        "ja": "1月{1}日",
+        "es": "{1} ene",
+        "pt": "{1} jan",
+        "ko": "1월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Feb$",
+      "translations": {
+        "ja": "2月{1}日",
+        "es": "{1} feb",
+        "pt": "{1} fev",
+        "ko": "2월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Mar$",
+      "translations": {
+        "ja": "3月{1}日",
+        "es": "{1} mar",
+        "pt": "{1} mar",
+        "ko": "3월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Apr$",
+      "translations": {
+        "ja": "4月{1}日",
+        "es": "{1} abr",
+        "pt": "{1} abr",
+        "ko": "4월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) May$",
+      "translations": {
+        "ja": "5月{1}日",
+        "es": "{1} may",
+        "pt": "{1} mai",
+        "ko": "5월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Jun$",
+      "translations": {
+        "ja": "6月{1}日",
+        "es": "{1} jun",
+        "pt": "{1} jun",
+        "ko": "6월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Jul$",
+      "translations": {
+        "ja": "7月{1}日",
+        "es": "{1} jul",
+        "pt": "{1} jul",
+        "ko": "7월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Aug$",
+      "translations": {
+        "ja": "8月{1}日",
+        "es": "{1} ago",
+        "pt": "{1} ago",
+        "ko": "8월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Sep$",
+      "translations": {
+        "ja": "9月{1}日",
+        "es": "{1} sep",
+        "pt": "{1} set",
+        "ko": "9월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Oct$",
+      "translations": {
+        "ja": "10月{1}日",
+        "es": "{1} oct",
+        "pt": "{1} out",
+        "ko": "10월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Nov$",
+      "translations": {
+        "ja": "11月{1}日",
+        "es": "{1} nov",
+        "pt": "{1} nov",
+        "ko": "11월 {1}일"
+      }
+    },
+    {
+      "match": "^(\\d{1,2}) Dec$",
+      "translations": {
+        "ja": "12月{1}日",
+        "es": "{1} dic",
+        "pt": "{1} dez",
+        "ko": "12월 {1}일"
       }
     }
   ]
