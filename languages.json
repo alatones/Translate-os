@@ -5969,6 +5969,186 @@
       "es": "Biblioteca JS in-app",
       "pt": "Biblioteca JS in-app",
       "ko": "인앱 JS 라이브러리"
+    },
+    "Exit Rules": {
+      "ja": "終了ルール",
+      "es": "Reglas de salida",
+      "pt": "Regras de saída",
+      "ko": "종료 규칙"
+    },
+    "Audience Segment": {
+      "ja": "対象者セグメント",
+      "es": "Segmento de audiencia",
+      "pt": "Segmento de público",
+      "ko": "고객 세그먼트"
+    },
+    "Click to toggle": {
+      "ja": "クリックで切り替え",
+      "es": "Haz clic para alternar",
+      "pt": "Clique para alternar",
+      "ko": "클릭하여 전환"
+    },
+    "Entry Rules": {
+      "ja": "開始ルール",
+      "es": "Reglas de entrada",
+      "pt": "Regras de entrada",
+      "ko": "진입 규칙"
+    },
+    "Hour": {
+      "ja": "時",
+      "es": "Hora",
+      "pt": "Hora",
+      "ko": "시"
+    },
+    "Minute": {
+      "ja": "分",
+      "es": "Minuto",
+      "pt": "Minuto",
+      "ko": "분"
+    },
+    "What segment(s) should be": {
+      "ja": "どのセグメントが",
+      "es": "Qué segmento(s) deberían ser",
+      "pt": "Qual(is) segmento(s) deve(m) ser",
+      "ko": "어떤 세그먼트가"
+    },
+    "Add a description...": {
+      "ja": "説明を追加...",
+      "es": "Agregar una descripción...",
+      "pt": "Adicionar uma descrição...",
+      "ko": "설명 추가..."
+    },
+    "Goals": {
+      "ja": "目標",
+      "es": "Objetivos",
+      "pt": "Metas",
+      "ko": "목표"
+    },
+    "Choose date and time": {
+      "ja": "日付と時刻を選択",
+      "es": "Elegir fecha y hora",
+      "pt": "Escolher data e hora",
+      "ko": "날짜 및 시간 선택"
+    },
+    "Choose when a Journey": {
+      "ja": "ジャーニーをいつ",
+      "es": "Elige cuándo un Journey",
+      "pt": "Escolha quando um Journey",
+      "ko": "저니가 언제"
+    },
+    "Custom Event": {
+      "ja": "カスタムイベント",
+      "es": "Evento personalizado",
+      "pt": "Evento personalizado",
+      "ko": "사용자 정의 이벤트"
+    },
+    "Entrance": {
+      "ja": "開始",
+      "es": "Entrada",
+      "pt": "Entrada",
+      "ko": "진입"
+    },
+    "Exit": {
+      "ja": "終了",
+      "es": "Salida",
+      "pt": "Saída",
+      "ko": "종료"
+    },
+    "Fit View": {
+      "ja": "画面に合わせる",
+      "es": "Ajustar vista",
+      "pt": "Ajustar visualização",
+      "ko": "화면에 맞춤"
+    },
+    "Future additions only": {
+      "ja": "今後の追加のみ",
+      "es": "Solo adiciones futuras",
+      "pt": "Apenas adições futuras",
+      "ko": "향후 추가만"
+    },
+    "Journey Documentation": {
+      "ja": "ジャーニー文書",
+      "es": "Documentación de Journey",
+      "pt": "Documentação de Journey",
+      "ko": "저니 문서"
+    },
+    "Journey Settings": {
+      "ja": "ジャーニー設定",
+      "es": "Configuración de Journey",
+      "pt": "Configurações de Journey",
+      "ko": "저니 설정"
+    },
+    "Only include users that match segment(s) in the future once this journey is live.": {
+      "ja": "このジャーニーが公開されたら、今後セグメントに一致するユーザーのみを含める。",
+      "es": "Incluir solo usuarios que coincidan con segmento(s) en el futuro una vez que este journey esté activo.",
+      "pt": "Inclua apenas usuários que correspondam a(os) segmento(s) no futuro depois que este journey estiver ativo.",
+      "ko": "이 저니가 라이브된 후 향후 세그먼트와 일치하는 사용자만 포함합니다."
+    },
+    "Re-Entry Rules": {
+      "ja": "再開始ルール",
+      "es": "Reglas de reingreso",
+      "pt": "Regras de reentrada",
+      "ko": "재진입 규칙"
+    },
+    "Re-entry Rules": {
+      "ja": "再開始ルール",
+      "es": "Reglas de reingreso",
+      "pt": "Regras de reentrada",
+      "ko": "재진입 규칙"
+    },
+    "Recommended Channels": {
+      "ja": "推奨チャネル",
+      "es": "Canales recomendados",
+      "pt": "Canais recomendados",
+      "ko": "추천 채널"
+    },
+    "Save & Close": {
+      "ja": "保存して閉じる",
+      "es": "Guardar y cerrar",
+      "pt": "Salvar e fechar",
+      "ko": "저장 후 닫기"
+    },
+    "Start your journey when a custom event happens": {
+      "ja": "カスタムイベントが発生したらジャーニーを開始",
+      "es": "Inicia tu journey cuando ocurra un evento personalizado",
+      "pt": "Inicie seu journey quando um evento personalizado ocorrer",
+      "ko": "사용자 정의 이벤트가 발생할 때 저니 시작"
+    },
+    "Start:": {
+      "ja": "開始:",
+      "es": "Inicio:",
+      "pt": "Início:",
+      "ko": "시작:"
+    },
+    "Stop:": {
+      "ja": "終了:",
+      "es": "Fin:",
+      "pt": "Fim:",
+      "ko": "종료:"
+    },
+    "There is still work to do": {
+      "ja": "まだやるべきことがあります",
+      "es": "Aún hay trabajo por hacer",
+      "pt": "Ainda há trabalho a fazer",
+      "ko": "아직 해야 할 작업이 있습니다"
+    },
+    "Trigger:": {
+      "ja": "トリガー:",
+      "es": "Disparador:",
+      "pt": "Gatilho:",
+      "ko": "트리거:"
+    },
+    "User has moved through the entire Journey": {
+      "ja": "ユーザーがジャーニー全体を通過しました",
+      "es": "El usuario ha pasado por todo el Journey",
+      "pt": "O usuário passou por todo o Journey",
+      "ko": "사용자가 전체 저니를 통과했습니다"
+    },
+    "Users can only enter the Journey once": {
+      "ja": "ユーザーはジャーニーに1回しか入れません",
+      "es": "Los usuarios solo pueden entrar al Journey una vez",
+      "pt": "Os usuários só podem entrar no Journey uma vez",
+      "ko": "사용자는 저니에 한 번만 진입할 수 있습니다"
     }
   },
   "patterns": [
@@ -6456,6 +6636,15 @@
         "es": "Captura de pantalla de la plantilla de diseño SMS {1}",
         "pt": "Captura de tela do modelo de design SMS {1}",
         "ko": "{1} SMS 디자인 템플릿 스크린샷"
+      }
+    },
+    {
+      "match": "^Bar chart with (\\d+) bars?\\.$",
+      "translations": {
+        "ja": "{1}本の棒のある棒グラフ。",
+        "es": "Gráfico de barras con {1} barras.",
+        "pt": "Gráfico de barras com {1} barras.",
+        "ko": "{1}개의 막대가 있는 막대 차트."
       }
     }
   ]
