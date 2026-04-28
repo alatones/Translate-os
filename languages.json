@@ -7409,6 +7409,186 @@
       "es": "Contáctanos",
       "pt": "Fale conosco",
       "ko": "문의하기"
+    },
+    "1. Format a CSV": {
+      "ja": "1. CSVをフォーマット",
+      "es": "1. Formatear un CSV",
+      "pt": "1. Formatar um CSV",
+      "ko": "1. CSV 형식 지정"
+    },
+    "2. Upload CSV": {
+      "ja": "2. CSVをアップロード",
+      "es": "2. Cargar CSV",
+      "pt": "2. Carregar CSV",
+      "ko": "2. CSV 업로드"
+    },
+    "3. Apply Liquid Syntax": {
+      "ja": "3. Liquid構文を適用",
+      "es": "3. Aplicar sintaxis Liquid",
+      "pt": "3. Aplicar sintaxe Liquid",
+      "ko": "3. Liquid 구문 적용"
+    },
+    "Copy and paste the following": {
+      "ja": "次をコピー＆ペーストしてください",
+      "es": "Copia y pega lo siguiente",
+      "pt": "Copie e cole o seguinte",
+      "ko": "다음을 복사하여 붙여넣기"
+    },
+    "Dynamic Content documentation": {
+      "ja": "ダイナミックコンテンツ文書",
+      "es": "Documentación de contenido dinámico",
+      "pt": "Documentação de conteúdo dinâmico",
+      "ko": "동적 콘텐츠 문서"
+    },
+    "Dynamic content allows you to build personalized messages with specific content for different audience groups. Using": {
+      "ja": "ダイナミックコンテンツを使うと、対象者グループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
+      "es": "El contenido dinámico te permite crear mensajes personalizados con contenido específico para diferentes grupos de audiencia. Usando",
+      "pt": "O conteúdo dinâmico permite construir mensagens personalizadas com conteúdo específico para diferentes grupos de público. Usando",
+      "ko": "동적 콘텐츠를 통해 다양한 고객 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:"
+    },
+    "Empty state portrayed as a ghost": {
+      "ja": "ゴーストとして表現された空の状態",
+      "es": "Estado vacío representado como un fantasma",
+      "pt": "Estado vazio representado como um fantasma",
+      "ko": "유령으로 표현된 빈 상태"
+    },
+    "Fallback documentation": {
+      "ja": "フォールバック文書",
+      "es": "Documentación de respaldo",
+      "pt": "Documentação de fallback",
+      "ko": "폴백 문서"
+    },
+    "Start from scratch or": {
+      "ja": "ゼロから始めるか、",
+      "es": "Comenzar desde cero o",
+      "pt": "Começar do zero ou",
+      "ko": "처음부터 시작하거나"
+    },
+    "You haven't added any dynamic content yet": {
+      "ja": "まだダイナミックコンテンツを追加していません",
+      "es": "Aún no has agregado contenido dinámico",
+      "pt": "Você ainda não adicionou conteúdo dinâmico",
+      "ko": "아직 동적 콘텐츠를 추가하지 않았습니다"
+    },
+    "Your message will start sending immediately and your message throughput is 1 message per second.": {
+      "ja": "メッセージは即時送信を開始し、スループットは毎秒1メッセージです。",
+      "es": "Tu mensaje comenzará a enviarse inmediatamente y la velocidad de envío es 1 mensaje por segundo.",
+      "pt": "Sua mensagem começará a ser enviada imediatamente e a taxa de envio é 1 mensagem por segundo.",
+      "ko": "메시지가 즉시 발송을 시작하며 처리량은 초당 1메시지입니다."
+    },
+    "if you need to increase your throughput": {
+      "ja": "スループットを上げる必要がある場合",
+      "es": "si necesitas aumentar tu rendimiento",
+      "pt": "se você precisa aumentar sua taxa",
+      "ko": "처리량을 늘려야 할 경우"
+    },
+    "into the content body of your message. Replace the file name, section name, and user property with what you've uploaded. As always, be sure to set a fallback.": {
+      "ja": "をメッセージ本文に入れます。ファイル名、セクション名、ユーザープロパティをアップロードしたものに置き換えてください。フォールバックを設定することを忘れないでください。",
+      "es": "en el cuerpo del contenido de tu mensaje. Reemplaza el nombre del archivo, nombre de la sección y propiedad del usuario con lo que has cargado. Como siempre, asegúrate de establecer un respaldo.",
+      "pt": "no corpo do conteúdo da sua mensagem. Substitua o nome do arquivo, nome da seção e propriedade do usuário pelo que você fez upload. Como sempre, defina um fallback.",
+      "ko": "를 메시지 본문에 넣으세요. 파일 이름, 섹션 이름 및 사용자 속성을 업로드한 내용으로 바꾸세요. 항상 폴백을 설정하세요."
+    },
+    "start from a template": {
+      "ja": "テンプレートから開始",
+      "es": "comenzar desde una plantilla",
+      "pt": "começar a partir de um modelo",
+      "ko": "템플릿에서 시작"
+    },
+    "Select Segment...": {
+      "ja": "セグメントを選択...",
+      "es": "Seleccionar segmento...",
+      "pt": "Selecionar segmento...",
+      "ko": "세그먼트 선택..."
+    },
+    "Apns Delegate Never Fired": {
+      "ja": "APNsデリゲートが発火しませんでした",
+      "es": "APNs Delegate nunca se disparó",
+      "pt": "APNs Delegate nunca foi disparado",
+      "ko": "APNs Delegate가 실행되지 않음"
+    },
+    "Email Template": {
+      "ja": "メールテンプレート",
+      "es": "Plantilla de correo",
+      "pt": "Modelo de email",
+      "ko": "이메일 템플릿"
+    },
+    "Push Template": {
+      "ja": "プッシュテンプレート",
+      "es": "Plantilla de push",
+      "pt": "Modelo de push",
+      "ko": "푸시 템플릿"
+    },
+    "SMS / RCS Template": {
+      "ja": "SMS / RCSテンプレート",
+      "es": "Plantilla SMS / RCS",
+      "pt": "Modelo SMS / RCS",
+      "ko": "SMS / RCS 템플릿"
+    },
+    "Template": {
+      "ja": "テンプレート",
+      "es": "Plantilla",
+      "pt": "Modelo",
+      "ko": "템플릿"
+    },
+    "AI-generated Push Template": {
+      "ja": "AI生成プッシュテンプレート",
+      "es": "Plantilla de push generada por IA",
+      "pt": "Modelo de push gerado por IA",
+      "ko": "AI 생성 푸시 템플릿"
+    },
+    "Blank Push Template": {
+      "ja": "空のプッシュテンプレート",
+      "es": "Plantilla de push en blanco",
+      "pt": "Modelo de push em branco",
+      "ko": "빈 푸시 템플릿"
+    },
+    "Blank SMS / RCS Template": {
+      "ja": "空のSMS / RCSテンプレート",
+      "es": "Plantilla SMS / RCS en blanco",
+      "pt": "Modelo SMS / RCS em branco",
+      "ko": "빈 SMS / RCS 템플릿"
+    },
+    "1. Sender": {
+      "ja": "1. 送信者",
+      "es": "1. Remitente",
+      "pt": "1. Remetente",
+      "ko": "1. 발신자"
+    },
+    "2. Message": {
+      "ja": "2. メッセージ",
+      "es": "2. Mensaje",
+      "pt": "2. Mensagem",
+      "ko": "2. 메시지"
+    },
+    "HTML Editor": {
+      "ja": "HTMLエディター",
+      "es": "Editor HTML",
+      "pt": "Editor HTML",
+      "ko": "HTML 편집기"
+    },
+    "New Email Template": {
+      "ja": "新しいメールテンプレート",
+      "es": "Nueva plantilla de correo",
+      "pt": "Novo modelo de email",
+      "ko": "새 이메일 템플릿"
+    },
+    "Personalization": {
+      "ja": "パーソナライゼーション",
+      "es": "Personalización",
+      "pt": "Personalização",
+      "ko": "개인화"
+    },
+    "Select your editing experience:": {
+      "ja": "編集エクスペリエンスを選択:",
+      "es": "Selecciona tu experiencia de edición:",
+      "pt": "Selecione sua experiência de edição:",
+      "ko": "편집 환경 선택:"
+    },
+    "Sender Email": {
+      "ja": "送信元メール",
+      "es": "Correo del remitente",
+      "pt": "Email do remetente",
+      "ko": "발신자 이메일"
     }
   },
   "patterns": [
