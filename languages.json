@@ -4403,6 +4403,30 @@
       "es": "Seleccionar métrica de resultado para agregar",
       "pt": "Selecionar métrica de resultado para adicionar",
       "ko": "추가할 결과 지표 선택"
+    },
+    "Select time period for subscription trends": {
+      "ja": "購読トレンドの期間を選択",
+      "es": "Seleccionar período de tiempo para tendencias de suscripción",
+      "pt": "Selecionar período de tempo para tendências de assinatura",
+      "ko": "구독 트렌드의 기간 선택"
+    },
+    "Setup guide": {
+      "ja": "セットアップガイド",
+      "es": "Guía de configuración",
+      "pt": "Guia de configuração",
+      "ko": "설정 가이드"
+    },
+    "User avatar": {
+      "ja": "ユーザーアバター",
+      "es": "Avatar del usuario",
+      "pt": "Avatar do usuário",
+      "ko": "사용자 아바타"
+    },
+    "Product": {
+      "ja": "製品",
+      "es": "Producto",
+      "pt": "Produto",
+      "ko": "제품"
     }
   },
   "patterns": [
