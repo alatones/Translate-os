@@ -7835,6 +7835,54 @@
       "es": "Ver todo",
       "pt": "Ver tudo",
       "ko": "전체 보기"
+    },
+    "Override frequency capping settings (": {
+      "ja": "頻度制限設定を上書き (",
+      "es": "Anular configuración de límite de frecuencia (",
+      "pt": "Substituir configurações de limite de frequência (",
+      "ko": "빈도 제한 설정 재정의 ("
+    },
+    "Override throttling settings (": {
+      "ja": "スロットリング設定を上書き (",
+      "es": "Anular configuración de limitación (",
+      "pt": "Substituir configurações de limitação (",
+      "ko": "쓰로틀링 설정 재정의 ("
+    },
+    "per minute)": {
+      "ja": "/分)",
+      "es": "por minuto)",
+      "pt": "por minuto)",
+      "ko": "/분)"
+    },
+    "Drive more engagement with additional automations, channels, and features in Journeys.": {
+      "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めましょう。",
+      "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Journeys.",
+      "pt": "Aumente o engajamento com mais automações, canais e recursos em Journeys.",
+      "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요."
+    },
+    "Try Journeys": {
+      "ja": "ジャーニーを試す",
+      "es": "Probar Journeys",
+      "pt": "Experimentar Journeys",
+      "ko": "저니 사용해보기"
+    },
+    "New Automated Push": {
+      "ja": "新しい自動プッシュ",
+      "es": "Nuevo push automatizado",
+      "pt": "Novo push automatizado",
+      "ko": "새 자동화 푸시"
+    },
+    "HubSpot Integration Metrics": {
+      "ja": "HubSpot統合メトリクス",
+      "es": "Métricas de integración con HubSpot",
+      "pt": "Métricas de integração com HubSpot",
+      "ko": "HubSpot 통합 지표"
+    },
+    "Last event received:": {
+      "ja": "最後に受信したイベント:",
+      "es": "Último evento recibido:",
+      "pt": "Último evento recebido:",
+      "ko": "마지막 수신 이벤트:"
     }
   },
   "patterns": [
@@ -8367,6 +8415,60 @@
         "es": "{1}/{2} caracteres usados (estimado)",
         "pt": "{1}/{2} caracteres usados (estimado)",
         "ko": "{1}/{2}자 사용 (추정)"
+      }
+    },
+    {
+      "match": "^(\\d+) per day\\)$",
+      "translations": {
+        "ja": "{1}/日)",
+        "es": "{1} por día)",
+        "pt": "{1} por dia)",
+        "ko": "{1}/일)"
+      }
+    },
+    {
+      "match": "^(\\d+) per hour\\)$",
+      "translations": {
+        "ja": "{1}/時間)",
+        "es": "{1} por hora)",
+        "pt": "{1} por hora)",
+        "ko": "{1}/시간)"
+      }
+    },
+    {
+      "match": "^(\\d+) per minute\\)$",
+      "translations": {
+        "ja": "{1}/分)",
+        "es": "{1} por minuto)",
+        "pt": "{1} por minuto)",
+        "ko": "{1}/분)"
+      }
+    },
+    {
+      "match": "^(\\d+) per second\\)$",
+      "translations": {
+        "ja": "{1}/秒)",
+        "es": "{1} por segundo)",
+        "pt": "{1} por segundo)",
+        "ko": "{1}/초)"
+      }
+    },
+    {
+      "match": "^(\\d+) per week\\)$",
+      "translations": {
+        "ja": "{1}/週)",
+        "es": "{1} por semana)",
+        "pt": "{1} por semana)",
+        "ko": "{1}/주)"
+      }
+    },
+    {
+      "match": "^(\\d+) per month\\)$",
+      "translations": {
+        "ja": "{1}/月)",
+        "es": "{1} por mes)",
+        "pt": "{1} por mês)",
+        "ko": "{1}/월)"
       }
     }
   ]
