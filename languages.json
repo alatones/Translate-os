@@ -389,7 +389,8 @@
       "es": "automatizado",
       "ja": "自動",
       "pt": "automatizado",
-      "ko": "자동화됨"
+      "ko": "자동화됨",
+      "fr": "automatisé"
     },
     "Automated Messages": {
       "es": "Mensajes automatizados",
@@ -717,7 +718,8 @@
       "es": "contiene",
       "ja": "含む",
       "pt": "contém",
-      "ko": "포함"
+      "ko": "포함",
+      "fr": "contient"
     },
     "Continue": {
       "es": "Continuar",
@@ -905,7 +907,8 @@
       "es": "etiquetas de datos",
       "ja": "データタグ",
       "pt": "tags de dados",
-      "ko": "데이터 태그"
+      "ko": "데이터 태그",
+      "fr": "tags de données"
     },
     "Date": {
       "es": "Fecha",
@@ -1100,7 +1103,8 @@
       "es": "no contiene",
       "ja": "含まない",
       "pt": "não contém",
-      "ko": "포함하지 않음"
+      "ko": "포함하지 않음",
+      "fr": "ne contient pas"
     },
     "Done": {
       "es": "Listo",
@@ -1267,7 +1271,8 @@
       "es": "existe",
       "ja": "存在する",
       "pt": "existe",
-      "ko": "존재함"
+      "ko": "존재함",
+      "fr": "existe"
     },
     "Expand row": {
       "es": "Expandir fila",
@@ -1322,7 +1327,8 @@
       "es": "falso",
       "ja": "いいえ",
       "pt": "falso",
-      "ko": "거짓"
+      "ko": "거짓",
+      "fr": "faux"
     },
     "Feb": {
       "es": "feb",
@@ -1433,13 +1439,15 @@
       "es": "mayor que",
       "ja": "より大きい",
       "pt": "maior que",
-      "ko": "초과"
+      "ko": "초과",
+      "fr": "supérieur à"
     },
     "icon for prebuilt": {
       "es": "ícono predefinido",
       "ja": "既定アイコン",
       "pt": "ícone predefinido",
-      "ko": "사전 제작 아이콘"
+      "ko": "사전 제작 아이콘",
+      "fr": "icône prédéfinie"
     },
     "ID": {
       "es": "ID",
@@ -1571,7 +1579,8 @@
       "es": "iOS",
       "ja": "iOS",
       "pt": "iOS",
-      "ko": "iOS"
+      "ko": "iOS",
+      "fr": "iOS"
     },
     "IP address": {
       "es": "Dirección IP",
@@ -1584,13 +1593,15 @@
       "es": "es igual a",
       "ja": "等しい",
       "pt": "é igual a",
-      "ko": "같음"
+      "ko": "같음",
+      "fr": "est"
     },
     "is not": {
       "es": "no es igual a",
       "ja": "等しくない",
       "pt": "não é igual a",
-      "ko": "같지 않음"
+      "ko": "같지 않음",
+      "fr": "n'est pas"
     },
     "Jan": {
       "es": "ene",
@@ -1806,7 +1817,8 @@
       "es": "menor que",
       "ja": "より小さい",
       "pt": "menor que",
-      "ko": "미만"
+      "ko": "미만",
+      "fr": "inférieur à"
     },
     "Live Activities": {
       "es": "Actividades en vivo",
@@ -2246,7 +2258,8 @@
       "es": "no existe",
       "ja": "存在しない",
       "pt": "não existe",
-      "ko": "존재하지 않음"
+      "ko": "존재하지 않음",
+      "fr": "n'existe pas"
     },
     "Not Subscribed": {
       "es": "No suscrito",
@@ -2308,7 +2321,8 @@
       "es": "de",
       "ja": "/ ",
       "pt": "de",
-      "ko": "/"
+      "ko": "/",
+      "fr": "sur"
     },
     "Onboarding": {
       "es": "Incorporación",
@@ -2426,7 +2440,8 @@
       "es": "página",
       "ja": "ページ",
       "pt": "página",
-      "ko": "페이지"
+      "ko": "페이지",
+      "fr": "page"
     },
     "Pagination": {
       "es": "Paginación",
@@ -2453,7 +2468,8 @@
       "es": "por página",
       "ja": "件 / ページ",
       "pt": "por página",
-      "ko": "페이지당"
+      "ko": "페이지당",
+      "fr": "par page"
     },
     "Percentage": {
       "es": "Porcentaje",
@@ -2760,7 +2776,8 @@
       "es": "filas por página",
       "ja": "行 / ページ",
       "pt": "linhas por página",
-      "ko": "페이지당 행 수"
+      "ko": "페이지당 행 수",
+      "fr": "lignes par page"
     },
     "Safari": {
       "es": "Safari",
@@ -3599,7 +3616,8 @@
       "es": "verdadero",
       "ja": "はい",
       "pt": "verdadeiro",
-      "ko": "참"
+      "ko": "참",
+      "fr": "vrai"
     },
     "TTL": {
       "es": "TTL",
@@ -4326,7 +4344,8 @@
       "ja": "またはAPIを使用してイベントの送信を開始",
       "es": "o usa nuestra API para comenzar a enviar eventos",
       "pt": "ou use nossa API para começar a enviar eventos",
-      "ko": "또는 API를 사용하여 이벤트 전송 시작"
+      "ko": "또는 API를 사용하여 이벤트 전송 시작",
+      "fr": "ou utilisez notre API pour commencer à envoyer des événements"
     },
     "Authenticate domain": {
       "ja": "ドメインを認証",
@@ -5249,7 +5268,8 @@
       "ja": "macOS",
       "es": "macOS",
       "pt": "macOS",
-      "ko": "macOS"
+      "ko": "macOS",
+      "fr": "macOS"
     },
     "Advanced Settings": {
       "ja": "詳細設定",
@@ -5535,7 +5555,8 @@
       "ja": "今",
       "es": "ahora",
       "pt": "agora",
-      "ko": "방금"
+      "ko": "방금",
+      "fr": "maintenant"
     },
     "New Segment": {
       "ja": "新しいセグメント",
@@ -5898,19 +5919,22 @@
       "ja": "カスタムイベント",
       "es": "eventos personalizados",
       "pt": "eventos personalizados",
-      "ko": "사용자 정의 이벤트"
+      "ko": "사용자 정의 이벤트",
+      "fr": "événements personnalisés"
     },
     "insert content": {
       "ja": "コンテンツを挿入",
       "es": "insertar contenido",
       "pt": "inserir conteúdo",
-      "ko": "콘텐츠 삽입"
+      "ko": "콘텐츠 삽입",
+      "fr": "insérer du contenu"
     },
     "receive this message?": {
       "ja": "このメッセージを受信しますか？",
       "es": "¿recibir este mensaje?",
       "pt": "receber esta mensagem?",
-      "ko": "이 메시지를 받을까요?"
+      "ko": "이 메시지를 받을까요?",
+      "fr": "recevoir ce message ?"
     },
     "1. Audience": {
       "ja": "1. オーディエンス",
@@ -6245,49 +6269,57 @@
       "ja": "、他のセグメントと一緒に含めたり除外したりすることはできません。",
       "es": "y no puede incluirse o excluirse junto con otros segmentos.",
       "pt": "e não pode ser incluído ou excluído junto a outros segmentos.",
-      "ko": "다른 세그먼트와 함께 포함하거나 제외할 수 없습니다."
+      "ko": "다른 세그먼트와 함께 포함하거나 제외할 수 없습니다.",
+      "fr": "et ne peut pas être inclus ni exclu avec d'autres segments."
     },
     "and cannot be used in the exclusion list.": {
       "ja": "、除外リストには使用できません。",
       "es": "y no puede usarse en la lista de exclusión.",
       "pt": "e não pode ser usado na lista de exclusão.",
-      "ko": "제외 목록에서 사용할 수 없습니다."
+      "ko": "제외 목록에서 사용할 수 없습니다.",
+      "fr": "et ne peut pas être utilisé dans la liste d'exclusion."
     },
     "are in early-access,": {
       "ja": "は早期アクセス中、",
       "es": "están en acceso temprano,",
       "pt": "estão em acesso antecipado,",
-      "ko": "얼리 액세스 중,"
+      "ko": "얼리 액세스 중,",
+      "fr": "sont en accès anticipé,"
     },
     "are user-based": {
       "ja": "はユーザーベース",
       "es": "están basados en usuarios",
       "pt": "são baseados em usuários",
-      "ko": "사용자 기반"
+      "ko": "사용자 기반",
+      "fr": "sont basés sur l'utilisateur"
     },
     "message events": {
       "ja": "メッセージイベント",
       "es": "eventos de mensajes",
       "pt": "eventos de mensagens",
-      "ko": "메시지 이벤트"
+      "ko": "메시지 이벤트",
+      "fr": "événements de message"
     },
     "paused or processing segments.": {
       "ja": "一時停止中または処理中のセグメント。",
       "es": "segmentos en pausa o en procesamiento.",
       "pt": "segmentos em pausa ou processamento.",
-      "ko": "일시 중지 또는 처리 중인 세그먼트."
+      "ko": "일시 중지 또는 처리 중인 세그먼트.",
+      "fr": "segments en pause ou en cours de traitement."
     },
     "should": {
       "ja": "次の場合",
       "es": "debe",
       "pt": "deve",
-      "ko": "해야 함"
+      "ko": "해야 함",
+      "fr": "doit"
     },
     "should not": {
       "ja": "次でない場合",
       "es": "no debe",
       "pt": "não deve",
-      "ko": "하지 않아야 함"
+      "ko": "하지 않아야 함",
+      "fr": "ne doit pas"
     },
     "Expand navigation": {
       "ja": "ナビゲーションを展開",
@@ -6405,7 +6437,8 @@
       "ja": "またはローカルパスやURLを貼り付け",
       "es": "o pega la ruta local o URL",
       "pt": "ou cole o caminho local ou URL",
-      "ko": "또는 로컬 경로나 URL 붙여넣기"
+      "ko": "또는 로컬 경로나 URL 붙여넣기",
+      "fr": "ou collez un chemin local ou une URL"
     },
     "Center aligned": {
       "ja": "中央揃え",
@@ -7167,25 +7200,29 @@
       "ja": "除外",
       "es": "excluido",
       "pt": "excluído",
-      "ko": "제외됨"
+      "ko": "제외됨",
+      "fr": "exclu"
     },
     "from this Journey?": {
       "ja": "をこのジャーニーから？",
       "es": "¿de este Journey?",
       "pt": "deste Journey?",
-      "ko": "이 저니에서?"
+      "ko": "이 저니에서?",
+      "fr": "de ce Journey ?"
     },
     "in this Journey?": {
       "ja": "をこのジャーニーに？",
       "es": "¿en este Journey?",
       "pt": "neste Journey?",
-      "ko": "이 저니에?"
+      "ko": "이 저니에?",
+      "fr": "dans ce Journey ?"
     },
     "included": {
       "ja": "含む",
       "es": "incluido",
       "pt": "incluído",
-      "ko": "포함됨"
+      "ko": "포함됨",
+      "fr": "inclus"
     },
     "Add Properties": {
       "ja": "プロパティを追加",
@@ -7429,19 +7466,22 @@
       "ja": "終了",
       "es": "finaliza",
       "pt": "termina",
-      "ko": "종료"
+      "ko": "종료",
+      "fr": "se termine"
     },
     "notification timer": {
       "ja": "通知タイマー",
       "es": "temporizador de notificación",
       "pt": "temporizador de notificação",
-      "ko": "알림 타이머"
+      "ko": "알림 타이머",
+      "fr": "minuteur de notification"
     },
     "starts": {
       "ja": "開始",
       "es": "comienza",
       "pt": "começa",
-      "ko": "시작"
+      "ko": "시작",
+      "fr": "commence"
     },
     "Build your own Journey from the ground up.": {
       "ja": "独自のジャーニーをゼロから構築。",
@@ -7552,7 +7592,8 @@
       "ja": "更新されたCSV形式",
       "es": "formato CSV actualizado",
       "pt": "formato CSV atualizado",
-      "ko": "업데이트된 CSV 형식"
+      "ko": "업데이트된 CSV 형식",
+      "fr": "format CSV mis à jour"
     },
     "Untitled Message": {
       "ja": "無題のメッセージ",
@@ -7572,7 +7613,8 @@
       "ja": "またはURLを貼り付け",
       "es": "o pega la URL",
       "pt": "ou cole a URL",
-      "ko": "또는 URL 붙여넣기"
+      "ko": "또는 URL 붙여넣기",
+      "fr": "ou collez une URL"
     },
     "Refine": {
       "ja": "洗練",
@@ -7627,13 +7669,15 @@
       "ja": "例: 承諾",
       "es": "p. ej. Aceptar",
       "pt": "ex.: Aceitar",
-      "ko": "예: 수락"
+      "ko": "예: 수락",
+      "fr": "par ex. Accepter"
     },
     "or paste resource name or URL": {
       "ja": "またはリソース名やURLを貼り付け",
       "es": "o pega el nombre de recurso o URL",
       "pt": "ou cole o nome do recurso ou URL",
-      "ko": "또는 리소스 이름이나 URL 붙여넣기"
+      "ko": "또는 리소스 이름이나 URL 붙여넣기",
+      "fr": "ou collez un nom de ressource ou une URL"
     },
     "(Created in App)": {
       "ja": "(アプリで作成)",
@@ -8080,43 +8124,50 @@
       "ja": "日",
       "es": "días",
       "pt": "dias",
-      "ko": "일"
+      "ko": "일",
+      "fr": "jours"
     },
     "e.g. hand.thumbsup": {
       "ja": "例: hand.thumbsup",
       "es": "p. ej. hand.thumbsup",
       "pt": "ex.: hand.thumbsup",
-      "ko": "예: hand.thumbsup"
+      "ko": "예: hand.thumbsup",
+      "fr": "par ex. hand.thumbsup"
     },
     "hours": {
       "ja": "時間",
       "es": "horas",
       "pt": "horas",
-      "ko": "시간"
+      "ko": "시간",
+      "fr": "heures"
     },
     "iOS/Android Action Buttons": {
       "ja": "iOS/Androidアクションボタン",
       "es": "Botones de acción de iOS/Android",
       "pt": "Botões de ação iOS/Android",
-      "ko": "iOS/Android 액션 버튼"
+      "ko": "iOS/Android 액션 버튼",
+      "fr": "Boutons d'action iOS/Android"
     },
     "minutes": {
       "ja": "分",
       "es": "minutos",
       "pt": "minutos",
-      "ko": "분"
+      "ko": "분",
+      "fr": "minutes"
     },
     "or paste URL to image, sound, video": {
       "ja": "または画像、音声、動画のURLを貼り付け",
       "es": "o pega la URL de imagen, sonido o video",
       "pt": "ou cole a URL de imagem, som ou vídeo",
-      "ko": "또는 이미지, 소리, 동영상 URL 붙여넣기"
+      "ko": "또는 이미지, 소리, 동영상 URL 붙여넣기",
+      "fr": "ou collez une URL d'image, son ou vidéo"
     },
     "seconds": {
       "ja": "秒",
       "es": "segundos",
       "pt": "segundos",
-      "ko": "초"
+      "ko": "초",
+      "fr": "secondes"
     },
     "Device Type is iOS": {
       "ja": "デバイスタイプはiOS",
@@ -8304,7 +8355,8 @@
       "ja": "時間前",
       "es": "horas atrás",
       "pt": "horas atrás",
-      "ko": "시간 전"
+      "ko": "시간 전",
+      "fr": "il y a quelques heures"
     },
     "Current Period": {
       "ja": "現在の期間",
@@ -8352,7 +8404,8 @@
       "ja": "をSMSプロバイダーとして。",
       "es": "como tu proveedor de SMS.",
       "pt": "como seu provedor de SMS.",
-      "ko": "SMS 공급자로."
+      "ko": "SMS 공급자로.",
+      "fr": "comme votre fournisseur SMS."
     },
     "Application Level Usage": {
       "ja": "アプリケーションレベルの使用状況",
@@ -8561,13 +8614,15 @@
       "ja": "メッセージ",
       "es": "mensaje",
       "pt": "mensagem",
-      "ko": "메시지"
+      "ko": "메시지",
+      "fr": "message"
     },
     "segment": {
       "ja": "セグメント",
       "es": "segmento",
       "pt": "segmento",
-      "ko": "세그먼트"
+      "ko": "세그먼트",
+      "fr": "segment"
     },
     "From": {
       "ja": "送信元",
@@ -8671,19 +8726,22 @@
       "ja": "スループットを上げる必要がある場合",
       "es": "si necesitas aumentar tu rendimiento",
       "pt": "se você precisa aumentar sua taxa",
-      "ko": "처리량을 늘려야 할 경우"
+      "ko": "처리량을 늘려야 할 경우",
+      "fr": "si vous avez besoin d'augmenter votre débit"
     },
     "into the content body of your message. Replace the file name, section name, and user property with what you've uploaded. As always, be sure to set a fallback.": {
       "ja": "をメッセージ本文に入れます。ファイル名、セクション名、ユーザープロパティをアップロードしたものに置き換えてください。フォールバックを設定することを忘れないでください。",
       "es": "en el cuerpo del contenido de tu mensaje. Reemplaza el nombre del archivo, nombre de la sección y propiedad del usuario con lo que has cargado. Como siempre, asegúrate de establecer un respaldo.",
       "pt": "no corpo do conteúdo da sua mensagem. Substitua o nome do arquivo, nome da seção e propriedade do usuário pelo que você fez upload. Como sempre, defina um fallback.",
-      "ko": "를 메시지 본문에 넣으세요. 파일 이름, 섹션 이름 및 사용자 속성을 업로드한 내용으로 바꾸세요. 항상 폴백을 설정하세요."
+      "ko": "를 메시지 본문에 넣으세요. 파일 이름, 섹션 이름 및 사용자 속성을 업로드한 내용으로 바꾸세요. 항상 폴백을 설정하세요.",
+      "fr": "dans le corps du contenu de votre message. Remplacez le nom du fichier, le nom de la section et la propriété utilisateur par ce que vous avez téléversé. Comme toujours, pensez à définir une valeur de repli."
     },
     "start from a template": {
       "ja": "テンプレートから開始",
       "es": "comenzar desde una plantilla",
       "pt": "começar a partir de um modelo",
-      "ko": "템플릿에서 시작"
+      "ko": "템플릿에서 시작",
+      "fr": "partir d'un modèle"
     },
     "Select Segment...": {
       "ja": "セグメントを選択...",
@@ -8843,7 +8901,8 @@
       "ja": "テンプレート一覧",
       "es": "índice de plantillas",
       "pt": "índice de modelos",
-      "ko": "템플릿 인덱스"
+      "ko": "템플릿 인덱스",
+      "fr": "index des modèles"
     },
     "Add Additional Media": {
       "ja": "追加のメディアを追加",
@@ -9101,7 +9160,8 @@
       "ja": "/分)",
       "es": "por minuto)",
       "pt": "por minuto)",
-      "ko": "/분)"
+      "ko": "/분)",
+      "fr": "par minute)"
     },
     "Drive more engagement with additional automations, channels, and features in Journeys.": {
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
@@ -9205,7 +9265,8 @@
       "ja": "ここで新しいテンプレートを作成",
       "es": "crear una nueva plantilla aquí",
       "pt": "criar um novo modelo aqui",
-      "ko": "여기서 새 템플릿 만들기"
+      "ko": "여기서 새 템플릿 만들기",
+      "fr": "créer un nouveau modèle ici"
     },
     "Collapse row": {
       "ja": "行を折りたたむ",
@@ -9624,7 +9685,8 @@
       "ja": "は、ユーザーがメッセージから直接アプリを開かず、そのメッセージを受け取った後の所定の期間内にアプリを開いた場合のことです。",
       "es": "es cuando un usuario no abre tu app directamente desde un mensaje, sino dentro de un período de tiempo establecido después de que se recibió ese mensaje.",
       "pt": "é quando um usuário não abre seu app diretamente a partir de uma mensagem, mas sim em um período de tempo determinado após o recebimento dessa mensagem.",
-      "ko": "사용자가 메시지에서 직접 앱을 열지 않고, 메시지를 받은 후 정해진 시간 내에 앱을 여는 경우입니다."
+      "ko": "사용자가 메시지에서 직접 앱을 열지 않고, 메시지를 받은 후 정해진 시간 내에 앱을 여는 경우입니다.",
+      "fr": "désigne le cas où un utilisateur n'ouvre pas votre app directement depuis un message, mais plutôt dans une période de temps définie après la réception de ce message."
     },
     "1 Requested mail action aborted, mailbox not found": {
       "ja": "1 要求されたメール処理が中止されました。メールボックスが見つかりません",
@@ -10309,13 +10371,15 @@
       "ja": "購読したことのないユーザー:",
       "es": "usuarios nunca suscritos:",
       "pt": "usuários nunca inscritos:",
-      "ko": "구독한 적 없는 사용자:"
+      "ko": "구독한 적 없는 사용자:",
+      "fr": "utilisateurs jamais abonnés :"
     },
     "subscribed users:": {
       "ja": "購読中のユーザー:",
       "es": "usuarios suscritos:",
       "pt": "usuários inscritos:",
-      "ko": "구독한 사용자:"
+      "ko": "구독한 사용자:",
+      "fr": "utilisateurs abonnés :"
     },
     "Add Auto-Responder": {
       "ja": "自動応答を追加",
@@ -10377,13 +10441,15 @@
       "ja": "例: 12345678",
       "es": "p. ej. 12345678",
       "pt": "ex.: 12345678",
-      "ko": "예: 12345678"
+      "ko": "예: 12345678",
+      "fr": "par ex. 12345678"
     },
     "e.g. abc123defg123456": {
       "ja": "例: abc123defg123456",
       "es": "p. ej. abc123defg123456",
       "pt": "ex.: abc123defg123456",
-      "ko": "예: abc123defg123456"
+      "ko": "예: abc123defg123456",
+      "fr": "par ex. abc123defg123456"
     },
     "Not Receiving Message Replies": {
       "ja": "メッセージ返信を受信できません",
@@ -10568,7 +10634,8 @@
         "es": "{1} días",
         "ja": "{1}日間",
         "pt": "{1} dias",
-        "ko": "{1}일"
+        "ko": "{1}일",
+        "fr": "{1} jours"
       }
     },
     {
@@ -10577,7 +10644,8 @@
         "es": "{1} horas",
         "ja": "{1}時間",
         "pt": "{1} horas",
-        "ko": "{1}시간"
+        "ko": "{1}시간",
+        "fr": "{1} heures"
       }
     },
     {
@@ -10586,7 +10654,8 @@
         "es": "{1} minutos",
         "ja": "{1}分",
         "pt": "{1} minutos",
-        "ko": "{1}분"
+        "ko": "{1}분",
+        "fr": "{1} minutes"
       }
     },
     {
@@ -10595,7 +10664,8 @@
         "es": "{1} meses",
         "ja": "{1}ヶ月",
         "pt": "{1} meses",
-        "ko": "{1}개월"
+        "ko": "{1}개월",
+        "fr": "{1} mois"
       }
     },
     {
@@ -10604,7 +10674,8 @@
         "es": "Últimos {1} días",
         "ja": "過去{1}日間",
         "pt": "Últimos {1} dias",
-        "ko": "최근 {1}일"
+        "ko": "최근 {1}일",
+        "fr": "Derniers {1} jours"
       }
     },
     {
@@ -10613,7 +10684,8 @@
         "es": "{1} seleccionados",
         "ja": "{1}件を選択中",
         "pt": "{1} selecionados",
-        "ko": "{1}개 선택됨"
+        "ko": "{1}개 선택됨",
+        "fr": "{1} sélectionnés"
       }
     },
     {
@@ -10622,7 +10694,8 @@
         "es": "{1} segmentos seleccionados",
         "ja": "{1}個のセグメントを選択中",
         "pt": "{1} segmentos selecionados",
-        "ko": "{1}개 세그먼트 선택됨"
+        "ko": "{1}개 세그먼트 선택됨",
+        "fr": "{1} segments sélectionnés"
       }
     },
     {
@@ -10631,7 +10704,8 @@
         "es": "Enviados {1} mensajes",
         "ja": "{1}件のメッセージを送信しました",
         "pt": "{1} mensagens enviadas",
-        "ko": "{1}개 메시지 발송됨"
+        "ko": "{1}개 메시지 발송됨",
+        "fr": "{1} messages envoyés"
       }
     },
     {
@@ -10640,7 +10714,8 @@
         "es": "Mostrando {1}–{2} de {3}",
         "ja": "{3}件中 {1}〜{2} を表示",
         "pt": "Mostrando {1}–{2} de {3}",
-        "ko": "{3}개 중 {1}–{2} 표시"
+        "ko": "{3}개 중 {1}–{2} 표시",
+        "fr": "Affichage {1}–{2} sur {3}"
       }
     },
     {
@@ -10649,7 +10724,8 @@
         "es": "Página {1}",
         "ja": "{1}ページ",
         "pt": "Página {1}",
-        "ko": "{1}페이지"
+        "ko": "{1}페이지",
+        "fr": "Page {1}"
       }
     },
     {
@@ -10658,7 +10734,8 @@
         "es": "Estás en la página {1}",
         "ja": "現在{1}ページ目",
         "pt": "Você está na página {1}",
-        "ko": "현재 {1}페이지"
+        "ko": "현재 {1}페이지",
+        "fr": "Vous êtes sur la page {1}"
       }
     },
     {
@@ -10667,7 +10744,8 @@
         "es": "hace {1} hora(s)",
         "ja": "{1}時間前",
         "pt": "há {1} hora(s)",
-        "ko": "{1}시간 전"
+        "ko": "{1}시간 전",
+        "fr": "il y a {1} heures"
       }
     },
     {
@@ -10676,7 +10754,8 @@
         "es": "hace {1} minuto(s)",
         "ja": "{1}分前",
         "pt": "há {1} minuto(s)",
-        "ko": "{1}분 전"
+        "ko": "{1}분 전",
+        "fr": "il y a {1} minutes"
       }
     },
     {
@@ -10685,7 +10764,8 @@
         "es": "hace {1} día(s)",
         "ja": "{1}日前",
         "pt": "há {1} dia(s)",
-        "ko": "{1}일 전"
+        "ko": "{1}일 전",
+        "fr": "il y a {1} jours"
       }
     },
     {
@@ -10694,7 +10774,8 @@
         "es": "últimos {1} días",
         "ja": "過去{1}日間",
         "pt": "últimos {1} dias",
-        "ko": "최근 {1}일"
+        "ko": "최근 {1}일",
+        "fr": "derniers {1} jours"
       }
     },
     {
@@ -10703,7 +10784,8 @@
         "es": "{1} ene",
         "ja": "1月{1}日",
         "pt": "{1} jan",
-        "ko": "1월 {1}일"
+        "ko": "1월 {1}일",
+        "fr": "{1} janvier"
       }
     },
     {
@@ -10712,7 +10794,8 @@
         "es": "{1} feb",
         "ja": "2月{1}日",
         "pt": "{1} fev",
-        "ko": "2월 {1}일"
+        "ko": "2월 {1}일",
+        "fr": "{1} février"
       }
     },
     {
@@ -10721,7 +10804,8 @@
         "es": "{1} mar",
         "ja": "3月{1}日",
         "pt": "{1} mar",
-        "ko": "3월 {1}일"
+        "ko": "3월 {1}일",
+        "fr": "{1} mars"
       }
     },
     {
@@ -10730,7 +10814,8 @@
         "es": "{1} abr",
         "ja": "4月{1}日",
         "pt": "{1} abr",
-        "ko": "4월 {1}일"
+        "ko": "4월 {1}일",
+        "fr": "{1} avril"
       }
     },
     {
@@ -10739,7 +10824,8 @@
         "es": "{1} may",
         "ja": "5月{1}日",
         "pt": "{1} mai",
-        "ko": "5월 {1}일"
+        "ko": "5월 {1}일",
+        "fr": "{1} mai"
       }
     },
     {
@@ -10748,7 +10834,8 @@
         "es": "{1} jun",
         "ja": "6月{1}日",
         "pt": "{1} jun",
-        "ko": "6월 {1}일"
+        "ko": "6월 {1}일",
+        "fr": "{1} juin"
       }
     },
     {
@@ -10757,7 +10844,8 @@
         "es": "{1} jul",
         "ja": "7月{1}日",
         "pt": "{1} jul",
-        "ko": "7월 {1}일"
+        "ko": "7월 {1}일",
+        "fr": "{1} juillet"
       }
     },
     {
@@ -10766,7 +10854,8 @@
         "es": "{1} ago",
         "ja": "8月{1}日",
         "pt": "{1} ago",
-        "ko": "8월 {1}일"
+        "ko": "8월 {1}일",
+        "fr": "{1} août"
       }
     },
     {
@@ -10775,7 +10864,8 @@
         "es": "{1} sep",
         "ja": "9月{1}日",
         "pt": "{1} set",
-        "ko": "9월 {1}일"
+        "ko": "9월 {1}일",
+        "fr": "{1} septembre"
       }
     },
     {
@@ -10784,7 +10874,8 @@
         "es": "{1} oct",
         "ja": "10月{1}日",
         "pt": "{1} out",
-        "ko": "10월 {1}일"
+        "ko": "10월 {1}일",
+        "fr": "{1} octobre"
       }
     },
     {
@@ -10793,7 +10884,8 @@
         "es": "{1} nov",
         "ja": "11月{1}日",
         "pt": "{1} nov",
-        "ko": "11월 {1}일"
+        "ko": "11월 {1}일",
+        "fr": "{1} novembre"
       }
     },
     {
@@ -10802,7 +10894,8 @@
         "es": "{1} dic",
         "ja": "12月{1}日",
         "pt": "{1} dez",
-        "ko": "12월 {1}일"
+        "ko": "12월 {1}일",
+        "fr": "{1} décembre"
       }
     },
     {
@@ -10811,7 +10904,8 @@
         "ja": "最後のセッションから{1}時間未満",
         "es": "Última sesión hace menos de {1} horas",
         "pt": "Última sessão há menos de {1} horas",
-        "ko": "마지막 세션이 {1}시간 미만 전"
+        "ko": "마지막 세션이 {1}시간 미만 전",
+        "fr": "Dernière session il y a moins de {1} heures"
       }
     },
     {
@@ -10820,7 +10914,8 @@
         "ja": "最後のセッションから{1}時間以上",
         "es": "Última sesión hace más de {1} horas",
         "pt": "Última sessão há mais de {1} horas",
-        "ko": "마지막 세션이 {1}시간 이상 전"
+        "ko": "마지막 세션이 {1}시간 이상 전",
+        "fr": "Dernière session il y a plus de {1} heures"
       }
     },
     {
@@ -10829,7 +10924,8 @@
         "ja": "セッション数が{1}回以上",
         "es": "Conteo de sesiones mayor a {1}",
         "pt": "Contagem de sessões maior que {1}",
-        "ko": "세션 수가 {1}회 초과"
+        "ko": "세션 수가 {1}회 초과",
+        "fr": "Nombre de sessions supérieur à {1}"
       }
     },
     {
@@ -10838,7 +10934,8 @@
         "ja": "メッセージの{1}%を送信",
         "es": "{1}% de mensajes enviados",
         "pt": "{1}% das mensagens enviadas",
-        "ko": "메시지의 {1}% 발송됨"
+        "ko": "메시지의 {1}% 발송됨",
+        "fr": "{1} % des messages envoyés"
       }
     },
     {
@@ -10847,7 +10944,8 @@
         "ja": "毎分~{1}件の制限あり。",
         "es": "Con un límite de ~{1} por minuto.",
         "pt": "Com um limite de ~{1} por minuto.",
-        "ko": "분당 ~{1}건 제한."
+        "ko": "분당 ~{1}건 제한.",
+        "fr": "Avec une limite de ~{1} par minute."
       }
     },
     {
@@ -10856,7 +10954,8 @@
         "ja": "1月{1}日",
         "es": "{1} ene",
         "pt": "{1} jan",
-        "ko": "1월 {1}일"
+        "ko": "1월 {1}일",
+        "fr": "{1} janv"
       }
     },
     {
@@ -10865,7 +10964,8 @@
         "ja": "2月{1}日",
         "es": "{1} feb",
         "pt": "{1} fev",
-        "ko": "2월 {1}일"
+        "ko": "2월 {1}일",
+        "fr": "{1} fév"
       }
     },
     {
@@ -10874,7 +10974,8 @@
         "ja": "3月{1}日",
         "es": "{1} mar",
         "pt": "{1} mar",
-        "ko": "3월 {1}일"
+        "ko": "3월 {1}일",
+        "fr": "{1} mars"
       }
     },
     {
@@ -10883,7 +10984,8 @@
         "ja": "4月{1}日",
         "es": "{1} abr",
         "pt": "{1} abr",
-        "ko": "4월 {1}일"
+        "ko": "4월 {1}일",
+        "fr": "{1} avr"
       }
     },
     {
@@ -10892,7 +10994,8 @@
         "ja": "5月{1}日",
         "es": "{1} may",
         "pt": "{1} mai",
-        "ko": "5월 {1}일"
+        "ko": "5월 {1}일",
+        "fr": "{1} mai"
       }
     },
     {
@@ -10901,7 +11004,8 @@
         "ja": "6月{1}日",
         "es": "{1} jun",
         "pt": "{1} jun",
-        "ko": "6월 {1}일"
+        "ko": "6월 {1}일",
+        "fr": "{1} juin"
       }
     },
     {
@@ -10910,7 +11014,8 @@
         "ja": "7月{1}日",
         "es": "{1} jul",
         "pt": "{1} jul",
-        "ko": "7월 {1}일"
+        "ko": "7월 {1}일",
+        "fr": "{1} juil"
       }
     },
     {
@@ -10919,7 +11024,8 @@
         "ja": "8月{1}日",
         "es": "{1} ago",
         "pt": "{1} ago",
-        "ko": "8월 {1}일"
+        "ko": "8월 {1}일",
+        "fr": "{1} août"
       }
     },
     {
@@ -10928,7 +11034,8 @@
         "ja": "9月{1}日",
         "es": "{1} sep",
         "pt": "{1} set",
-        "ko": "9월 {1}일"
+        "ko": "9월 {1}일",
+        "fr": "{1} sept"
       }
     },
     {
@@ -10937,7 +11044,8 @@
         "ja": "10月{1}日",
         "es": "{1} oct",
         "pt": "{1} out",
-        "ko": "10월 {1}일"
+        "ko": "10월 {1}일",
+        "fr": "{1} oct"
       }
     },
     {
@@ -10946,7 +11054,8 @@
         "ja": "11月{1}日",
         "es": "{1} nov",
         "pt": "{1} nov",
-        "ko": "11월 {1}일"
+        "ko": "11월 {1}일",
+        "fr": "{1} nov"
       }
     },
     {
@@ -10955,7 +11064,8 @@
         "ja": "12月{1}日",
         "es": "{1} dic",
         "pt": "{1} dez",
-        "ko": "12월 {1}일"
+        "ko": "12월 {1}일",
+        "fr": "{1} déc"
       }
     },
     {
@@ -10964,7 +11074,8 @@
         "ja": "アクティブ ({1})",
         "es": "Activo ({1})",
         "pt": "Ativo ({1})",
-        "ko": "활성 ({1})"
+        "ko": "활성 ({1})",
+        "fr": "Actif ({1})"
       }
     },
     {
@@ -10973,7 +11084,8 @@
         "ja": "すべて ({1})",
         "es": "Todo ({1})",
         "pt": "Tudo ({1})",
-        "ko": "전체 ({1})"
+        "ko": "전체 ({1})",
+        "fr": "Tout ({1})"
       }
     },
     {
@@ -10982,7 +11094,8 @@
         "ja": "無効 ({1})",
         "es": "Deshabilitado ({1})",
         "pt": "Desabilitado ({1})",
-        "ko": "비활성화됨 ({1})"
+        "ko": "비활성화됨 ({1})",
+        "fr": "Désactivé ({1})"
       }
     },
     {
@@ -10991,7 +11104,8 @@
         "ja": "非アクティブ ({1})",
         "es": "Inactivo ({1})",
         "pt": "Inativo ({1})",
-        "ko": "비활성 ({1})"
+        "ko": "비활성 ({1})",
+        "fr": "Inactif ({1})"
       }
     },
     {
@@ -11000,7 +11114,8 @@
         "ja": "{1}日以上前",
         "es": "hace más de {1} días",
         "pt": "há mais de {1} dias",
-        "ko": "{1}일 이전"
+        "ko": "{1}일 이전",
+        "fr": "il y a plus de {1} jours"
       }
     },
     {
@@ -11009,7 +11124,8 @@
         "ja": "{1}件の結果があります。",
         "es": "{1} resultados disponibles.",
         "pt": "{1} resultados disponíveis.",
-        "ko": "{1}개의 결과가 있습니다."
+        "ko": "{1}개의 결과가 있습니다.",
+        "fr": "{1} résultats disponibles."
       }
     },
     {
@@ -11018,7 +11134,8 @@
         "ja": "ラベル ({1}/{2})",
         "es": "Etiquetas ({1}/{2})",
         "pt": "Rótulos ({1}/{2})",
-        "ko": "라벨 ({1}/{2})"
+        "ko": "라벨 ({1}/{2})",
+        "fr": "Étiquettes ({1}/{2})"
       }
     },
     {
@@ -11027,7 +11144,8 @@
         "ja": "{1}メールデザインテンプレートのスクリーンショット",
         "es": "Captura de pantalla de la plantilla de diseño de correo {1}",
         "pt": "Captura de tela do modelo de design de email {1}",
-        "ko": "{1} 이메일 디자인 템플릿 스크린샷"
+        "ko": "{1} 이메일 디자인 템플릿 스크린샷",
+        "fr": "Capture d'écran du modèle de design email {1}"
       }
     },
     {
@@ -11036,7 +11154,8 @@
         "ja": "{1}インアプリデザインテンプレートのスクリーンショット",
         "es": "Captura de pantalla de la plantilla de diseño in-app {1}",
         "pt": "Captura de tela do modelo de design in-app {1}",
-        "ko": "{1} 인앱 디자인 템플릿 스크린샷"
+        "ko": "{1} 인앱 디자인 템플릿 스크린샷",
+        "fr": "Capture d'écran du modèle de design in-app {1}"
       }
     },
     {
@@ -11045,7 +11164,8 @@
         "ja": "{1}SMSデザインテンプレートのスクリーンショット",
         "es": "Captura de pantalla de la plantilla de diseño SMS {1}",
         "pt": "Captura de tela do modelo de design SMS {1}",
-        "ko": "{1} SMS 디자인 템플릿 스크린샷"
+        "ko": "{1} SMS 디자인 템플릿 스크린샷",
+        "fr": "Capture d'écran du modèle de design SMS {1}"
       }
     },
     {
@@ -11054,7 +11174,8 @@
         "ja": "{1}本の棒のある棒グラフ。",
         "es": "Gráfico de barras con {1} barras.",
         "pt": "Gráfico de barras com {1} barras.",
-        "ko": "{1}개의 막대가 있는 막대 차트."
+        "ko": "{1}개의 막대가 있는 막대 차트.",
+        "fr": "Graphique à barres avec {1} barres."
       }
     },
     {
@@ -11063,7 +11184,8 @@
         "ja": "プラットフォーム ({1}/{2}選択中)",
         "es": "Plataformas ({1}/{2} seleccionadas)",
         "pt": "Plataformas ({1}/{2} selecionadas)",
-        "ko": "플랫폼 ({1}/{2}개 선택됨)"
+        "ko": "플랫폼 ({1}/{2}개 선택됨)",
+        "fr": "Plateformes ({1}/{2} sélectionnées)"
       }
     },
     {
@@ -11072,7 +11194,8 @@
         "ja": "最初のセッションから{1}時間未満",
         "es": "Primera sesión hace menos de {1} horas",
         "pt": "Primeira sessão há menos de {1} horas",
-        "ko": "첫 번째 세션이 {1}시간 미만 전"
+        "ko": "첫 번째 세션이 {1}시간 미만 전",
+        "fr": "Première session il y a moins de {1} heures"
       }
     },
     {
@@ -11081,7 +11204,8 @@
         "ja": "{1}ヶ月前",
         "es": "hace {1} mes(es)",
         "pt": "há {1} mês(es)",
-        "ko": "{1}개월 전"
+        "ko": "{1}개월 전",
+        "fr": "il y a {1} mois"
       }
     },
     {
@@ -11090,7 +11214,8 @@
         "ja": "{1}/{2}文字使用 (推定)",
         "es": "{1}/{2} caracteres usados (estimado)",
         "pt": "{1}/{2} caracteres usados (estimado)",
-        "ko": "{1}/{2}자 사용 (추정)"
+        "ko": "{1}/{2}자 사용 (추정)",
+        "fr": "{1}/{2} caractères utilisés (estimé)"
       }
     },
     {
@@ -11099,7 +11224,8 @@
         "ja": "{1}/日)",
         "es": "{1} por día)",
         "pt": "{1} por dia)",
-        "ko": "{1}/일)"
+        "ko": "{1}/일)",
+        "fr": "{1} par jour)"
       }
     },
     {
@@ -11108,7 +11234,8 @@
         "ja": "{1}/時間)",
         "es": "{1} por hora)",
         "pt": "{1} por hora)",
-        "ko": "{1}/시간)"
+        "ko": "{1}/시간)",
+        "fr": "{1} par heure)"
       }
     },
     {
@@ -11117,7 +11244,8 @@
         "ja": "{1}/分)",
         "es": "{1} por minuto)",
         "pt": "{1} por minuto)",
-        "ko": "{1}/분)"
+        "ko": "{1}/분)",
+        "fr": "{1} par minute)"
       }
     },
     {
@@ -11126,7 +11254,8 @@
         "ja": "{1}/秒)",
         "es": "{1} por segundo)",
         "pt": "{1} por segundo)",
-        "ko": "{1}/초)"
+        "ko": "{1}/초)",
+        "fr": "{1} par seconde)"
       }
     },
     {
@@ -11135,7 +11264,8 @@
         "ja": "{1}/週)",
         "es": "{1} por semana)",
         "pt": "{1} por semana)",
-        "ko": "{1}/주)"
+        "ko": "{1}/주)",
+        "fr": "{1} par semaine)"
       }
     },
     {
@@ -11144,7 +11274,8 @@
         "ja": "{1}/月)",
         "es": "{1} por mes)",
         "pt": "{1} por mês)",
-        "ko": "{1}/월)"
+        "ko": "{1}/월)",
+        "fr": "{1} par mois)"
       }
     },
     {
@@ -11153,7 +11284,8 @@
         "ja": "{1}/日",
         "es": "{1} por día",
         "pt": "{1} por dia",
-        "ko": "{1}/일"
+        "ko": "{1}/일",
+        "fr": "{1} par jour"
       }
     },
     {
@@ -11162,7 +11294,8 @@
         "ja": "{1}/時間",
         "es": "{1} por hora",
         "pt": "{1} por hora",
-        "ko": "{1}/시간"
+        "ko": "{1}/시간",
+        "fr": "{1} par heure"
       }
     },
     {
@@ -11171,7 +11304,8 @@
         "ja": "{1}/分",
         "es": "{1} por minuto",
         "pt": "{1} por minuto",
-        "ko": "{1}/분"
+        "ko": "{1}/분",
+        "fr": "{1} par minute"
       }
     },
     {
@@ -11180,7 +11314,8 @@
         "ja": "{1}/秒",
         "es": "{1} por segundo",
         "pt": "{1} por segundo",
-        "ko": "{1}/초"
+        "ko": "{1}/초",
+        "fr": "{1} par seconde"
       }
     },
     {
@@ -11189,7 +11324,8 @@
         "ja": "{1}/週",
         "es": "{1} por semana",
         "pt": "{1} por semana",
-        "ko": "{1}/주"
+        "ko": "{1}/주",
+        "fr": "{1} par semaine"
       }
     },
     {
@@ -11198,7 +11334,8 @@
         "ja": "{1}/月",
         "es": "{1} por mes",
         "pt": "{1} por mês",
-        "ko": "{1}/월"
+        "ko": "{1}/월",
+        "fr": "{1} par mois"
       }
     },
     {
@@ -11207,7 +11344,8 @@
         "ja": "最初のセッションから{1}時間以上",
         "es": "Primera sesión hace más de {1} horas",
         "pt": "Primeira sessão há mais de {1} horas",
-        "ko": "첫 번째 세션이 {1}시간 이상 전"
+        "ko": "첫 번째 세션이 {1}시간 이상 전",
+        "fr": "Première session il y a plus de {1} heures"
       }
     },
     {
@@ -11216,7 +11354,8 @@
         "ja": "{1}から現在までの監査ログを表示",
         "es": "Mostrando registros de auditoría desde {1} hasta ahora",
         "pt": "Mostrando logs de auditoria de {1} até agora",
-        "ko": "{1}부터 현재까지의 감사 로그 표시"
+        "ko": "{1}부터 현재까지의 감사 로그 표시",
+        "fr": "Affichage des journaux d'audit de {1} à maintenant"
       }
     }
   ]
