@@ -6413,350 +6413,400 @@
       "es": "Buscar una aplicación",
       "pt": "Pesquisar um aplicativo",
       "ko": "앱 검색",
-      "fr": "Rechercher une app"
+      "fr": "Rechercher une app",
+      "tr": "Uygulama ara"
     },
     "Search for app": {
       "ja": "アプリを検索",
       "es": "Buscar una aplicación",
       "pt": "Pesquisar um aplicativo",
       "ko": "앱 검색",
-      "fr": "Rechercher une app"
+      "fr": "Rechercher une app",
+      "tr": "Uygulama ara"
     },
     "Select Organization": {
       "ja": "組織を選択",
       "es": "Seleccionar organización",
       "pt": "Selecionar organização",
       "ko": "조직 선택",
-      "fr": "Sélectionner l'organisation"
+      "fr": "Sélectionner l'organisation",
+      "tr": "Organizasyon seç"
     },
     "Remove Media": {
       "ja": "メディアを削除",
       "es": "Quitar medios",
       "pt": "Remover mídia",
       "ko": "미디어 제거",
-      "fr": "Retirer le média"
+      "fr": "Retirer le média",
+      "tr": "Medyayı kaldır"
     },
     "TAKE A TOUR": {
       "ja": "ツアーを開始",
       "es": "INICIAR RECORRIDO",
       "pt": "INICIAR TOUR",
       "ko": "둘러보기",
-      "fr": "FAIRE LA VISITE"
+      "fr": "FAIRE LA VISITE",
+      "tr": "TURA BAŞLA"
     },
     "Tooltip anchor": {
       "ja": "ツールチップのアンカー",
       "es": "Ancla del tooltip",
       "pt": "Âncora do tooltip",
       "ko": "툴팁 앵커",
-      "fr": "Ancre d'info-bulle"
+      "fr": "Ancre d'info-bulle",
+      "tr": "İpucu bağlantısı"
     },
     "Custom Events let you track and respond to user activity in your app or website.": {
       "ja": "カスタムイベントを使うとアプリやウェブサイトでのユーザー活動を追跡して反応できます。",
       "es": "Los eventos personalizados te permiten rastrear y responder a la actividad de los usuarios en tu aplicación o sitio web.",
       "pt": "Os eventos personalizados permitem que você rastreie e responda à atividade do usuário em seu aplicativo ou site.",
       "ko": "사용자 정의 이벤트를 통해 앱 또는 웹사이트의 사용자 활동을 추적하고 응답할 수 있습니다.",
-      "fr": "Les événements personnalisés vous permettent de suivre l'activité des utilisateurs dans votre app ou site web et d'y répondre."
+      "fr": "Les événements personnalisés vous permettent de suivre l'activité des utilisateurs dans votre app ou site web et d'y répondre.",
+      "tr": "Özel etkinlikler, uygulamanızdaki veya web sitenizdeki kullanıcı etkinliğini izlemenizi ve yanıtlamanızı sağlar."
     },
     "Last updated": {
       "ja": "最終更新",
       "es": "Última actualización",
       "pt": "Última atualização",
       "ko": "마지막 업데이트",
-      "fr": "Dernière mise à jour"
+      "fr": "Dernière mise à jour",
+      "tr": "Son güncelleme"
     },
     "Track all message events": {
       "ja": "すべてのメッセージイベントを追跡",
       "es": "Rastrear todos los eventos de mensajes",
       "pt": "Rastrear todos os eventos de mensagem",
       "ko": "모든 메시지 이벤트 추적",
-      "fr": "Suivre tous les événements de message"
+      "fr": "Suivre tous les événements de message",
+      "tr": "Tüm mesaj etkinliklerini izleyin"
     },
     "Failed Permanently": {
       "ja": "完全に失敗",
       "es": "Fallido permanentemente",
       "pt": "Falhou permanentemente",
       "ko": "영구 실패",
-      "fr": "Échec permanent"
+      "fr": "Échec permanent",
+      "tr": "Kalıcı olarak başarısız"
     },
     "Successful": {
       "ja": "成功",
       "es": "Exitoso",
       "pt": "Bem-sucedido",
       "ko": "성공",
-      "fr": "Réussi"
+      "fr": "Réussi",
+      "tr": "Başarılı"
     },
     "4xx Responses": {
       "ja": "4xx応答",
       "es": "Respuestas 4xx",
       "pt": "Respostas 4xx",
       "ko": "4xx 응답",
-      "fr": "Réponses 4xx"
+      "fr": "Réponses 4xx",
+      "tr": "4xx yanıtları"
     },
     "5xx Responses": {
       "ja": "5xx応答",
       "es": "Respuestas 5xx",
       "pt": "Respostas 5xx",
       "ko": "5xx 응답",
-      "fr": "Réponses 5xx"
+      "fr": "Réponses 5xx",
+      "tr": "5xx yanıtları"
     },
     "Add stat": {
       "ja": "統計を追加",
       "es": "Agregar estadística",
       "pt": "Adicionar estatística",
       "ko": "통계 추가",
-      "fr": "Ajouter une statistique"
+      "fr": "Ajouter une statistique",
+      "tr": "İstatistik ekle"
     },
     "Delivery Statistics for All Time": {
       "ja": "全期間の配信統計",
       "es": "Estadísticas de entrega de todos los tiempos",
       "pt": "Estatísticas de entrega de todo o tempo",
       "ko": "전체 기간의 전달 통계",
-      "fr": "Statistiques de livraison depuis le début"
+      "fr": "Statistiques de livraison depuis le début",
+      "tr": "Tüm zamanların teslim istatistikleri"
     },
     "Errors": {
       "ja": "エラー",
       "es": "Errores",
       "pt": "Erros",
       "ko": "오류",
-      "fr": "Erreurs"
+      "fr": "Erreurs",
+      "tr": "Hatalar"
     },
     "Events": {
       "ja": "イベント",
       "es": "Eventos",
       "pt": "Eventos",
       "ko": "이벤트",
-      "fr": "Événements"
+      "fr": "Événements",
+      "tr": "Etkinlikler"
     },
     "Logs": {
       "ja": "ログ",
       "es": "Registros",
       "pt": "Registros",
       "ko": "로그",
-      "fr": "Journaux"
+      "fr": "Journaux",
+      "tr": "Günlükler"
     },
     "Method": {
       "ja": "メソッド",
       "es": "Método",
       "pt": "Método",
       "ko": "메서드",
-      "fr": "Méthode"
+      "fr": "Méthode",
+      "tr": "Yöntem"
     },
     "Permanent Failure": {
       "ja": "永続的な失敗",
       "es": "Falla permanente",
       "pt": "Falha permanente",
       "ko": "영구 실패",
-      "fr": "Échec permanent"
+      "fr": "Échec permanent",
+      "tr": "Kalıcı başarısızlık"
     },
     "Remove Permanent Failure filter": {
       "ja": "永続的な失敗フィルターを削除",
       "es": "Quitar filtro de falla permanente",
       "pt": "Remover filtro de falha permanente",
       "ko": "영구 실패 필터 제거",
-      "fr": "Retirer le filtre Échec permanent"
+      "fr": "Retirer le filtre Échec permanent",
+      "tr": "Kalıcı başarısızlık filtresini kaldır"
     },
     "Remove Sent filter": {
       "ja": "送信済みフィルターを削除",
       "es": "Quitar filtro de enviados",
       "pt": "Remover filtro de enviados",
       "ko": "발송 필터 제거",
-      "fr": "Retirer le filtre Envoyés"
+      "fr": "Retirer le filtre Envoyés",
+      "tr": "Gönderildi filtresini kaldır"
     },
     "Remove Success filter": {
       "ja": "成功フィルターを削除",
       "es": "Quitar filtro de éxito",
       "pt": "Remover filtro de sucesso",
       "ko": "성공 필터 제거",
-      "fr": "Retirer le filtre Succès"
+      "fr": "Retirer le filtre Succès",
+      "tr": "Başarılı filtresini kaldır"
     },
     "Timeouts": {
       "ja": "タイムアウト",
       "es": "Tiempos de espera",
       "pt": "Tempos limite",
       "ko": "타임아웃",
-      "fr": "Délais expirés"
+      "fr": "Délais expirés",
+      "tr": "Zaman aşımları"
     },
     "AI-generated Push": {
       "ja": "AI生成プッシュ",
       "es": "Push generado por IA",
       "pt": "Push gerado por IA",
       "ko": "AI 생성 푸시",
-      "fr": "Push généré par IA"
+      "fr": "Push généré par IA",
+      "tr": "Yapay zeka tarafından oluşturulan push"
     },
     "Blank Push": {
       "ja": "空のプッシュ",
       "es": "Push en blanco",
       "pt": "Push em branco",
       "ko": "빈 푸시",
-      "fr": "Push vierge"
+      "fr": "Push vierge",
+      "tr": "Boş push"
     },
     "Custom Events Ingestion": {
       "ja": "カスタムイベント取り込み",
       "es": "Ingesta de eventos personalizados",
       "pt": "Ingestão de eventos personalizados",
       "ko": "사용자 정의 이벤트 수집",
-      "fr": "Ingestion d'événements personnalisés"
+      "fr": "Ingestion d'événements personnalisés",
+      "tr": "Özel etkinlik alımı"
     },
     "Drawer": {
       "ja": "ドロワー",
       "es": "Panel lateral",
       "pt": "Gaveta",
       "ko": "드로어",
-      "fr": "Panneau latéral"
+      "fr": "Panneau latéral",
+      "tr": "Yan panel"
     },
     "Line chart depicting analytics": {
       "ja": "分析を表す折れ線グラフ",
       "es": "Gráfico de líneas que muestra análisis",
       "pt": "Gráfico de linha que mostra análise",
       "ko": "분석을 나타내는 선 차트",
-      "fr": "Graphique linéaire des analyses"
+      "fr": "Graphique linéaire des analyses",
+      "tr": "Analizleri gösteren çizgi grafik"
     },
     "OneSignal quickstart designs": {
       "ja": "OneSignalクイックスタートデザイン",
       "es": "Diseños de inicio rápido de OneSignal",
       "pt": "Designs de início rápido do OneSignal",
       "ko": "OneSignal 빠른 시작 디자인",
-      "fr": "Modèles de démarrage rapide OneSignal"
+      "fr": "Modèles de démarrage rapide OneSignal",
+      "tr": "OneSignal hızlı başlangıç tasarımları"
     },
     "Start from a pre-built design": {
       "ja": "事前構築済みのデザインから始める",
       "es": "Comenzar desde un diseño prediseñado",
       "pt": "Começar a partir de um design pronto",
       "ko": "사전 제작된 디자인으로 시작",
-      "fr": "Partir d'un design prêt à l'emploi"
+      "fr": "Partir d'un design prêt à l'emploi",
+      "tr": "Hazır tasarımdan başla"
     },
     "Start from scratch": {
       "ja": "最初から作成",
       "es": "Comenzar desde cero",
       "pt": "Começar do zero",
       "ko": "처음부터 시작",
-      "fr": "Partir de zéro"
+      "fr": "Partir de zéro",
+      "tr": "Sıfırdan başla"
     },
     "This integration does not track delivery statistics.": {
       "ja": "この統合は配信統計を追跡しません。",
       "es": "Esta integración no rastrea estadísticas de entrega.",
       "pt": "Esta integração não rastreia estatísticas de entrega.",
       "ko": "이 통합은 전달 통계를 추적하지 않습니다.",
-      "fr": "Cette intégration ne suit pas les statistiques de livraison."
+      "fr": "Cette intégration ne suit pas les statistiques de livraison.",
+      "tr": "Bu entegrasyon teslim istatistiklerini izlemez."
     },
     "Your previous messages": {
       "ja": "以前のメッセージ",
       "es": "Tus mensajes anteriores",
       "pt": "Suas mensagens anteriores",
       "ko": "이전 메시지",
-      "fr": "Vos messages précédents"
+      "fr": "Vos messages précédents",
+      "tr": "Önceki mesajlarınız"
     },
     "Your templates": {
       "ja": "テンプレート",
       "es": "Tus plantillas",
       "pt": "Seus modelos",
       "ko": "내 템플릿",
-      "fr": "Vos modèles"
+      "fr": "Vos modèles",
+      "tr": "Şablonlarınız"
     },
     "Event ID": {
       "ja": "イベントID",
       "es": "ID de evento",
       "pt": "ID do evento",
       "ko": "이벤트 ID",
-      "fr": "ID d'événement"
+      "fr": "ID d'événement",
+      "tr": "Etkinlik ID"
     },
     "Segment Not Found": {
       "ja": "セグメントが見つかりません",
       "es": "Segmento no encontrado",
       "pt": "Segmento não encontrado",
       "ko": "세그먼트를 찾을 수 없음",
-      "fr": "Segment introuvable"
+      "fr": "Segment introuvable",
+      "tr": "Segment bulunamadı"
     },
     "Drag & drop editor": {
       "ja": "ドラッグ＆ドロップエディター",
       "es": "Editor de arrastrar y soltar",
       "pt": "Editor de arrastar e soltar",
       "ko": "드래그 앤 드롭 편집기",
-      "fr": "Éditeur glisser-déposer"
+      "fr": "Éditeur glisser-déposer",
+      "tr": "Sürükle-bırak düzenleyici"
     },
     "HTML editor": {
       "ja": "HTMLエディター",
       "es": "Editor HTML",
       "pt": "Editor HTML",
       "ko": "HTML 편집기",
-      "fr": "Éditeur HTML"
+      "fr": "Éditeur HTML",
+      "tr": "HTML düzenleyici"
     },
     "Multi-link click tracking": {
       "ja": "マルチリンククリック追跡",
       "es": "Seguimiento de clics multienlace",
       "pt": "Rastreamento de cliques multilink",
       "ko": "다중 링크 클릭 추적",
-      "fr": "Suivi des clics multi-liens"
+      "fr": "Suivi des clics multi-liens",
+      "tr": "Çoklu bağlantı tıklama izleme"
     },
     "Visual drag and drop editing with image and text blocks.": {
       "ja": "画像とテキストブロックを使った視覚的なドラッグ＆ドロップ編集。",
       "es": "Edición visual de arrastrar y soltar con bloques de imagen y texto.",
       "pt": "Edição visual de arrastar e soltar com blocos de imagem e texto.",
       "ko": "이미지와 텍스트 블록을 사용한 시각적 드래그 앤 드롭 편집.",
-      "fr": "Édition visuelle par glisser-déposer avec des blocs image et texte."
+      "fr": "Édition visuelle par glisser-déposer avec des blocs image et texte.",
+      "tr": "Görsel ve metin bloklarıyla görsel sürükle-bırak düzenleme."
     },
     "Write or copy/paste your own HTML and CSS.": {
       "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
       "es": "Escribe o copia y pega tu propio HTML y CSS.",
       "pt": "Escreva ou copie e cole seu próprio HTML e CSS.",
       "ko": "직접 HTML 및 CSS를 작성하거나 복사하여 붙여넣으세요.",
-      "fr": "Écrivez ou collez votre propre HTML et CSS."
+      "fr": "Écrivez ou collez votre propre HTML et CSS.",
+      "tr": "Kendi HTML ve CSS'inizi yazın veya kopyala/yapıştır yapın."
     },
     "Test & preview": {
       "ja": "テストとプレビュー",
       "es": "Probar y previsualizar",
       "pt": "Testar e visualizar",
       "ko": "테스트 및 미리보기",
-      "fr": "Tester et prévisualiser"
+      "fr": "Tester et prévisualiser",
+      "tr": "Test et ve önizle"
     },
     "What segment(s)": {
       "ja": "どのセグメント",
       "es": "Qué segmento(s)",
       "pt": "Qual(is) segmento(s)",
       "ko": "어떤 세그먼트",
-      "fr": "Quels segments"
+      "fr": "Quels segments",
+      "tr": "Hangi segment(ler)"
     },
     "custom events": {
       "ja": "カスタムイベント",
       "es": "eventos personalizados",
       "pt": "eventos personalizados",
       "ko": "사용자 정의 이벤트",
-      "fr": "événements personnalisés"
+      "fr": "événements personnalisés",
+      "tr": "özel etkinlikler"
     },
     "insert content": {
       "ja": "コンテンツを挿入",
       "es": "insertar contenido",
       "pt": "inserir conteúdo",
       "ko": "콘텐츠 삽입",
-      "fr": "insérer du contenu"
+      "fr": "insérer du contenu",
+      "tr": "içerik ekle"
     },
     "receive this message?": {
       "ja": "このメッセージを受信しますか？",
       "es": "¿recibir este mensaje?",
       "pt": "receber esta mensagem?",
       "ko": "이 메시지를 받을까요?",
-      "fr": "recevoir ce message ?"
+      "fr": "recevoir ce message ?",
+      "tr": "bu mesajı alacak?"
     },
     "1. Audience": {
       "ja": "1. オーディエンス",
       "es": "1. Audiencia",
       "pt": "1. Público",
       "ko": "1. 대상",
-      "fr": "1. Audience"
+      "fr": "1. Audience",
+      "tr": "1. Hedef kitle"
     },
     "2. Sender": {
       "ja": "2. 送信者",
       "es": "2. Remitente",
       "pt": "2. Remetente",
       "ko": "2. 발신자",
-      "fr": "2. Expéditeur"
+      "fr": "2. Expéditeur",
+      "tr": "2. Gönderen"
     },
     "3. Message": {
       "ja": "3. メッセージ",
       "es": "3. Mensaje",
       "pt": "3. Mensagem",
       "ko": "3. 메시지",
-      "fr": "3. Message"
+      "fr": "3. Message",
+      "tr": "3. Mesaj"
     },
     "4. Message Goal": {
       "ja": "4. メッセージの目標",
