@@ -11,7 +11,8 @@
       "es": "+ Crear...",
       "ja": "+ 作成...",
       "pt": "+ Criar...",
-      "ko": "+ 만들기..."
+      "ko": "+ 만들기...",
+      "fr": "+ Créer..."
     },
     "A/B": {
       "es": "A/B",
@@ -4877,7 +4878,8 @@
       "ja": "4xx応答",
       "es": "Respuestas 4xx",
       "pt": "Respostas 4xx",
-      "ko": "4xx 응답"
+      "ko": "4xx 응답",
+      "fr": "Réponses 4xx"
     },
     "5xx Responses": {
       "ja": "5xx応答",
@@ -5093,31 +5095,36 @@
       "ja": "1. オーディエンス",
       "es": "1. Audiencia",
       "pt": "1. Público",
-      "ko": "1. 대상"
+      "ko": "1. 대상",
+      "fr": "1. Audience"
     },
     "2. Sender": {
       "ja": "2. 送信者",
       "es": "2. Remitente",
       "pt": "2. Remetente",
-      "ko": "2. 발신자"
+      "ko": "2. 발신자",
+      "fr": "2. Expéditeur"
     },
     "3. Message": {
       "ja": "3. メッセージ",
       "es": "3. Mensaje",
       "pt": "3. Mensagem",
-      "ko": "3. 메시지"
+      "ko": "3. 메시지",
+      "fr": "3. Message"
     },
     "4. Message Goal": {
       "ja": "4. メッセージの目標",
       "es": "4. Objetivo del mensaje",
       "pt": "4. Meta da mensagem",
-      "ko": "4. 메시지 목표"
+      "ko": "4. 메시지 목표",
+      "fr": "4. Objectif du message"
     },
     "5. Delivery Schedule": {
       "ja": "5. 配信スケジュール",
       "es": "5. Programación de entrega",
       "pt": "5. Agendamento de entrega",
-      "ko": "5. 전달 일정"
+      "ko": "5. 전달 일정",
+      "fr": "5. Planification d'envoi"
     },
     "Additional options": {
       "ja": "追加オプション",
@@ -5615,13 +5622,15 @@
       "ja": "4. トリガー",
       "es": "4. Disparadores",
       "pt": "4. Gatilhos",
-      "ko": "4. 트리거"
+      "ko": "4. 트리거",
+      "fr": "4. Déclencheurs"
     },
     "5. Schedule": {
       "ja": "5. スケジュール",
       "es": "5. Programación",
       "pt": "5. Programação",
-      "ko": "5. 일정"
+      "ko": "5. 일정",
+      "fr": "5. Planification"
     },
     "Alternate close icon": {
       "ja": "代替の閉じるアイコン",
@@ -6461,13 +6470,15 @@
       "ja": "(v1)",
       "es": "(v1)",
       "pt": "(v1)",
-      "ko": "(v1)"
+      "ko": "(v1)",
+      "fr": "(v1)"
     },
     "(v2)": {
       "ja": "(v2)",
       "es": "(v2)",
       "pt": "(v2)",
-      "ko": "(v2)"
+      "ko": "(v2)",
+      "fr": "(v2)"
     },
     "Consistent Naming": {
       "ja": "一貫した命名",
@@ -6587,31 +6598,36 @@
       "ja": "(アプリで作成)",
       "es": "(Creado en la app)",
       "pt": "(Criado no app)",
-      "ko": "(앱에서 생성됨)"
+      "ko": "(앱에서 생성됨)",
+      "fr": "(Créé dans l'app)"
     },
     "(recommended)": {
       "ja": "(推奨)",
       "es": "(recomendado)",
       "pt": "(recomendado)",
-      "ko": "(권장)"
+      "ko": "(권장)",
+      "fr": "(recommandé)"
     },
     "0 (lowest priority)": {
       "ja": "0 (最低優先度)",
       "es": "0 (prioridad más baja)",
       "pt": "0 (prioridade mais baixa)",
-      "ko": "0 (최저 우선순위)"
+      "ko": "0 (최저 우선순위)",
+      "fr": "0 (priorité la plus basse)"
     },
     "4. Delivery Schedule": {
       "ja": "4. 配信スケジュール",
       "es": "4. Programación de entrega",
       "pt": "4. Agendamento de entrega",
-      "ko": "4. 전달 일정"
+      "ko": "4. 전달 일정",
+      "fr": "4. Planification d'envoi"
     },
     "5 per minute": {
       "ja": "毎分5件",
       "es": "5 por minuto",
       "pt": "5 por minuto",
-      "ko": "분당 5건"
+      "ko": "분당 5건",
+      "fr": "5 par minute"
     },
     "Accent Color": {
       "ja": "アクセントカラー",
@@ -7415,19 +7431,22 @@
       "ja": "1. CSVをフォーマット",
       "es": "1. Formatear un CSV",
       "pt": "1. Formatar um CSV",
-      "ko": "1. CSV 형식 지정"
+      "ko": "1. CSV 형식 지정",
+      "fr": "1. Formater un CSV"
     },
     "2. Upload CSV": {
       "ja": "2. CSVをアップロード",
       "es": "2. Cargar CSV",
       "pt": "2. Carregar CSV",
-      "ko": "2. CSV 업로드"
+      "ko": "2. CSV 업로드",
+      "fr": "2. Importer le CSV"
     },
     "3. Apply Liquid Syntax": {
       "ja": "3. Liquid構文を適用",
       "es": "3. Aplicar sintaxis Liquid",
       "pt": "3. Aplicar sintaxe Liquid",
-      "ko": "3. Liquid 구문 적용"
+      "ko": "3. Liquid 구문 적용",
+      "fr": "3. Appliquer la syntaxe Liquid"
     },
     "Copy and paste the following": {
       "ja": "次をコピー＆ペーストしてください",
@@ -7553,13 +7572,15 @@
       "ja": "1. 送信者",
       "es": "1. Remitente",
       "pt": "1. Remetente",
-      "ko": "1. 발신자"
+      "ko": "1. 발신자",
+      "fr": "1. Expéditeur"
     },
     "2. Message": {
       "ja": "2. メッセージ",
       "es": "2. Mensaje",
       "pt": "2. Mensagem",
-      "ko": "2. 메시지"
+      "ko": "2. 메시지",
+      "fr": "2. Message"
     },
     "HTML Editor": {
       "ja": "HTMLエディター",
@@ -7889,7 +7910,8 @@
       "ja": "3. 配信スケジュール",
       "es": "3. Programación de entrega",
       "pt": "3. Agendamento de entrega",
-      "ko": "3. 전달 일정"
+      "ko": "3. 전달 일정",
+      "fr": "3. Planification d'envoi"
     },
     "After a certain amount of time": {
       "ja": "一定時間後",
@@ -7979,7 +8001,8 @@
       "ja": ".wav、.aiff、.caf",
       "es": ".wav, .aiff, .caf",
       "pt": ".wav, .aiff, .caf",
-      "ko": ".wav, .aiff, .caf"
+      "ko": ".wav, .aiff, .caf",
+      "fr": ".wav, .aiff, .caf"
     },
     "Amplitude is": {
       "ja": "Amplitude:",
@@ -8129,7 +8152,8 @@
       "ja": ".p8認証キー",
       "es": "Clave de autenticación .p8",
       "pt": "Chave de autenticação .p8",
-      "ko": ".p8 인증 키"
+      "ko": ".p8 인증 키",
+      "fr": "Clé d'authentification .p8"
     },
     "60 Minutes": {
       "ja": "60分",
@@ -8309,7 +8333,8 @@
       "ja": "1 要求されたメール処理が中止されました。メールボックスが見つかりません",
       "es": "1 Acción de correo solicitada cancelada, buzón no encontrado",
       "pt": "1 Ação de correio solicitada cancelada, caixa de correio não encontrada",
-      "ko": "1 요청된 메일 작업이 중단됨, 메일함을 찾을 수 없음"
+      "ko": "1 요청된 메일 작업이 중단됨, 메일함을 찾을 수 없음",
+      "fr": "1 Action mail demandée annulée, boîte aux lettres introuvable"
     },
     "Bounced": {
       "ja": "バウンス",

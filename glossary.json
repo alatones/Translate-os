@@ -911,7 +911,9 @@
         "Livré",
         "Livrée",
         "Livraison",
-        "livraison"
+        "livraison",
+        "envoi",
+        "envois"
       ]
     },
     "Delivery": {
@@ -927,7 +929,9 @@
       "ko": "전달",
       "fr": [
         "Livraison",
-        "Livrer"
+        "Livrer",
+        "envoi",
+        "envois"
       ]
     },
     "Delivery Rate": {
