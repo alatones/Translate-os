@@ -48,6 +48,7 @@ Language codes follow ISO 639-1.
 | `pt` | Portuguese     | 1,517 terms + 73 patterns (BR — pt-BR)    |
 | `ko` | Korean         | 1,517 terms + 73 patterns                 |
 | `fr` | French         | 1,517 terms + 73 patterns (vous, infinitive buttons) |
+| `tr` | Turkish        | 1,517 terms + 73 patterns (siz, 2nd-person imperative buttons) |
 
 Each language ships with terminology locked to a glossary (see below) and
 register conventions documented in `style/<lang>.md`.

@@ -13,7 +13,8 @@
         "Walkthrough your user journey on your own device, from message to conversion",
         "The journey is the reward."
       ],
-      "fr": "Journey"
+      "fr": "Journey",
+      "tr": "Journey"
     },
     "Journeys": {
       "ja": "ジャーニー",
@@ -21,6 +22,10 @@
       "pt": "Journeys",
       "ko": "저니",
       "fr": [
+        "Journeys",
+        "Journey"
+      ],
+      "tr": [
         "Journeys",
         "Journey"
       ]
@@ -34,14 +39,19 @@
       "_skip_keys": [
         "Seamlessly integrate with APIs, SDKs, or tools like Segment"
       ],
-      "fr": "Segment"
+      "fr": "Segment",
+      "tr": "Segment"
     },
     "Segments": {
       "ja": "セグメント",
       "es": "Segmentos",
       "pt": "Segmentos",
       "ko": "세그먼트",
-      "fr": "Segments"
+      "fr": "Segments",
+      "tr": [
+        "Segmentler",
+        "Segment"
+      ]
     },
     "Subscription": {
       "ja": "購読",
@@ -58,7 +68,12 @@
         "assinaturas"
       ],
       "ko": "구독",
-      "fr": "Abonnement"
+      "fr": "Abonnement",
+      "tr": [
+        "Abonelik",
+        "Aboneli",
+        "aboneli"
+      ]
     },
     "Subscriptions": {
       "ja": "購読",
@@ -74,6 +89,10 @@
       "fr": [
         "Abonnements",
         "Abonnement"
+      ],
+      "tr": [
+        "Abonelikler",
+        "Abonelik"
       ]
     },
     "Subscriber": {
@@ -81,14 +100,19 @@
       "es": "Suscriptor",
       "pt": "Assinante",
       "ko": "구독자",
-      "fr": "Abonné"
+      "fr": "Abonné",
+      "tr": "Abone"
     },
     "Subscribers": {
       "ja": "購読者",
       "es": "Suscriptores",
       "pt": "Assinantes",
       "ko": "구독자",
-      "fr": "Abonnés"
+      "fr": "Abonnés",
+      "tr": [
+        "Aboneler",
+        "Abone"
+      ]
     },
     "Outcome": {
       "ja": [
@@ -99,7 +123,8 @@
       "pt": "Resultado",
       "ko": "결과",
       "note": "ja uses loanword; es/pt/ko translate.",
-      "fr": "Résultat"
+      "fr": "Résultat",
+      "tr": "Sonuç"
     },
     "Outcomes": {
       "ja": [
@@ -109,7 +134,11 @@
       "es": "Resultados",
       "pt": "Resultados",
       "ko": "결과",
-      "fr": "Résultats"
+      "fr": "Résultats",
+      "tr": [
+        "Sonuçlar",
+        "Sonuç"
+      ]
     },
     "In-App": {
       "ja": [
@@ -135,6 +164,11 @@
         "in-app",
         "dans l'application",
         "dans l'app"
+      ],
+      "tr": [
+        "In-App",
+        "Uygulama içi",
+        "uygulama içi"
       ]
     },
     "Push": {
@@ -142,7 +176,8 @@
       "es": "Push",
       "pt": "Push",
       "ko": "푸시",
-      "fr": "Push"
+      "fr": "Push",
+      "tr": "Push"
     },
     "Email": {
       "ja": "メール",
@@ -163,6 +198,12 @@
         "email",
         "E-mail",
         "e-mail"
+      ],
+      "tr": [
+        "Email",
+        "email",
+        "E-posta",
+        "e-posta"
       ]
     },
     "SMS": {
@@ -170,14 +211,16 @@
       "es": "SMS",
       "pt": "SMS",
       "ko": "SMS",
-      "fr": "SMS"
+      "fr": "SMS",
+      "tr": "SMS"
     },
     "RCS": {
       "ja": "RCS",
       "es": "RCS",
       "pt": "RCS",
       "ko": "RCS",
-      "fr": "RCS"
+      "fr": "RCS",
+      "tr": "RCS"
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
@@ -194,6 +237,10 @@
       "fr": [
         "Live Activity",
         "Activité en direct"
+      ],
+      "tr": [
+        "Live Activity",
+        "Canlı Aktivite"
       ]
     },
     "Live Activities": {
@@ -210,6 +257,11 @@
       "fr": [
         "Live Activities",
         "Activités en direct"
+      ],
+      "tr": [
+        "Live Activities",
+        "Canlı Aktiviteler",
+        "Canlı Aktivite"
       ]
     },
     "Data Feed": {
@@ -225,6 +277,10 @@
       "ko": "데이터 피드",
       "fr": [
         "Flux de données",
+        "Data Feed"
+      ],
+      "tr": [
+        "Veri Akışı",
         "Data Feed"
       ]
     },
@@ -242,6 +298,11 @@
       "fr": [
         "Flux de données",
         "Data Feeds"
+      ],
+      "tr": [
+        "Veri Akışları",
+        "Data Feeds",
+        "Veri Akışı"
       ]
     },
     "Webhook": {
@@ -250,28 +311,38 @@
       "pt": "Webhook",
       "ko": "웹훅",
       "note": "ja/es/pt keep Latin; ko transliterates.",
-      "fr": "Webhook"
+      "fr": "Webhook",
+      "tr": "Webhook"
     },
     "Webhooks": {
       "ja": "Webhook",
       "es": "Webhooks",
       "pt": "Webhooks",
       "ko": "웹훅",
-      "fr": "Webhooks"
+      "fr": "Webhooks",
+      "tr": [
+        "Webhooks",
+        "Webhook"
+      ]
     },
     "Template": {
       "ja": "テンプレート",
       "es": "Plantilla",
       "pt": "Modelo",
       "ko": "템플릿",
-      "fr": "Modèle"
+      "fr": "Modèle",
+      "tr": "Şablon"
     },
     "Templates": {
       "ja": "テンプレート",
       "es": "Plantillas",
       "pt": "Modelos",
       "ko": "템플릿",
-      "fr": "Modèles"
+      "fr": "Modèles",
+      "tr": [
+        "Şablonlar",
+        "Şablon"
+      ]
     },
     "Audience": {
       "ja": "オーディエンス",
@@ -283,14 +354,20 @@
       ],
       "ko": "대상",
       "note": "ko uses 대상 (target group). pt-BR primarily uses Público (matches BR SaaS convention — Mailchimp BR, HubSpot BR, RD Station). Audiência kept as alt for legacy entries.",
-      "fr": "Audience"
+      "fr": "Audience",
+      "tr": [
+        "Hedef kitle",
+        "Kitle",
+        "kitle"
+      ]
     },
     "Campaign": {
       "ja": "キャンペーン",
       "es": "Campaña",
       "pt": "Campanha",
       "ko": "캠페인",
-      "fr": "Campagne"
+      "fr": "Campagne",
+      "tr": "Kampanya"
     },
     "Tag": {
       "ja": "タグ",
@@ -301,6 +378,10 @@
       "fr": [
         "Tag",
         "tag"
+      ],
+      "tr": [
+        "Etiket",
+        "etiket"
       ]
     },
     "Tags": {
@@ -311,6 +392,10 @@
       "fr": [
         "Tags",
         "tags"
+      ],
+      "tr": [
+        "Etiketler",
+        "Etiket"
       ]
     },
     "Data Tag": {
@@ -327,6 +412,10 @@
       "fr": [
         "Tag de données",
         "data tag"
+      ],
+      "tr": [
+        "Veri etiketi",
+        "Veri Etiketi"
       ]
     },
     "Data Tags": {
@@ -343,6 +432,10 @@
       "fr": [
         "Tags de données",
         "data tags"
+      ],
+      "tr": [
+        "Veri etiketleri",
+        "Veri Etiketleri"
       ]
     },
     "Notification": {
@@ -359,14 +452,19 @@
       "fr": [
         "Notification",
         "Notifications"
-      ]
+      ],
+      "tr": "Bildirim"
     },
     "Notifications": {
       "ja": "通知",
       "es": "Notificaciones",
       "pt": "Notificações",
       "ko": "알림",
-      "fr": "Notifications"
+      "fr": "Notifications",
+      "tr": [
+        "Bildirimler",
+        "Bildirim"
+      ]
     },
     "Save": {
       "ja": "保存",
@@ -386,6 +484,11 @@
         "Enregistrer",
         "Enregistré",
         "enregistrement"
+      ],
+      "tr": [
+        "Kaydet",
+        "Kaydedildi",
+        "kaydedil"
       ]
     },
     "Send": {
@@ -423,6 +526,11 @@
         "envoyées",
         "enverra",
         "enverront"
+      ],
+      "tr": [
+        "Gönder",
+        "Gönderil",
+        "gönderim"
       ]
     },
     "Sent": {
@@ -452,6 +560,12 @@
         "Envoyée",
         "envoi",
         "envois"
+      ],
+      "tr": [
+        "Gönderildi",
+        "Gönderil",
+        "Gönderilen",
+        "Gönderim"
       ]
     },
     "Delete": {
@@ -475,6 +589,11 @@
         "Supprimer",
         "Suppression",
         "Supprimé"
+      ],
+      "tr": [
+        "Sil",
+        "Silin",
+        "Silme"
       ]
     },
     "Edit": {
@@ -497,6 +616,11 @@
         "Modifier",
         "Modification",
         "Modifié"
+      ],
+      "tr": [
+        "Düzenle",
+        "Düzenleyin",
+        "Düzenleme"
       ]
     },
     "Cancel": {
@@ -514,7 +638,12 @@
         "CANCEL"
       ],
       "note": "Button label. The SMS protocol keyword CANCEL stays Latin and is excluded via _skip_keys.",
-      "fr": "Annuler"
+      "fr": "Annuler",
+      "tr": [
+        "İptal",
+        "İptal et",
+        "iptal"
+      ]
     },
     "Confirm": {
       "ja": "確認",
@@ -535,6 +664,12 @@
         "Confirmation",
         "Confirmé",
         "Confirmez"
+      ],
+      "tr": [
+        "Onayla",
+        "Onaylayın",
+        "Onay",
+        "Onaylan"
       ]
     },
     "Create": {
@@ -562,6 +697,11 @@
         "Créez",
         "créent",
         "créons"
+      ],
+      "tr": [
+        "Oluştur",
+        "Oluşturun",
+        "Oluşturma"
       ]
     },
     "Add": {
@@ -581,6 +721,11 @@
         "Ajoutez",
         "Ajouté",
         "ajoutons"
+      ],
+      "tr": [
+        "Ekle",
+        "Ekleyin",
+        "Eklendi"
       ]
     },
     "Remove": {
@@ -597,6 +742,11 @@
       "fr": [
         "Retirer",
         "Supprimer"
+      ],
+      "tr": [
+        "Kaldır",
+        "Kaldırın",
+        "Kaldırma"
       ]
     },
     "Update": {
@@ -619,6 +769,11 @@
         "Mise à jour",
         "mises à jour",
         "Mis à jour"
+      ],
+      "tr": [
+        "Güncelle",
+        "Güncellendi",
+        "Güncelleme"
       ]
     },
     "Import": {
@@ -642,6 +797,13 @@
         "Importé",
         "Import",
         "import"
+      ],
+      "tr": [
+        "İçe aktar",
+        "İçeri aktar",
+        "İçe Aktar",
+        "İçe aktarma",
+        "içe aktar"
       ]
     },
     "Export": {
@@ -668,6 +830,12 @@
         "Exporté",
         "Export",
         "export"
+      ],
+      "tr": [
+        "Dışa aktar",
+        "Dışarı aktar",
+        "Dışa Aktar",
+        "Dışa aktarma"
       ]
     },
     "Settings": {
@@ -684,6 +852,11 @@
       "fr": [
         "Paramètres",
         "Configuration"
+      ],
+      "tr": [
+        "Ayarlar",
+        "Ayarları",
+        "Ayar"
       ]
     },
     "Search": {
@@ -702,6 +875,11 @@
       "fr": [
         "Rechercher",
         "Recherche"
+      ],
+      "tr": [
+        "Ara",
+        "Arama",
+        "Arayın"
       ]
     },
     "Filter": {
@@ -724,6 +902,11 @@
         "Filtre",
         "Filtrer",
         "filtre"
+      ],
+      "tr": [
+        "Filtre",
+        "Filtrele",
+        "Filtreleme"
       ]
     },
     "Filters": {
@@ -745,6 +928,11 @@
       "fr": [
         "Filtres",
         "Filtrer"
+      ],
+      "tr": [
+        "Filtreler",
+        "Filtre",
+        "Filtrele"
       ]
     },
     "Active": {
@@ -775,6 +963,12 @@
         "Active",
         "Actives",
         "activité"
+      ],
+      "tr": [
+        "Aktif",
+        "aktif",
+        "Aktivite",
+        "aktivite"
       ]
     },
     "Inactive": {
@@ -797,6 +991,11 @@
         "Inactifs",
         "Inactive",
         "Inactives"
+      ],
+      "tr": [
+        "Pasif",
+        "pasif",
+        "İnaktif"
       ]
     },
     "Disabled": {
@@ -809,6 +1008,10 @@
         "Désactivée",
         "Désactivés",
         "Désactivées"
+      ],
+      "tr": [
+        "Devre dışı",
+        "devre dışı"
       ]
     },
     "Paused": {
@@ -831,6 +1034,11 @@
         "Suspendue",
         "En pause",
         "Pausé"
+      ],
+      "tr": [
+        "Duraklatıldı",
+        "Beklemede",
+        "duraklatıl"
       ]
     },
     "Failed": {
@@ -857,6 +1065,11 @@
         "Échouée",
         "Échec",
         "Échouées"
+      ],
+      "tr": [
+        "Başarısız",
+        "başarısız",
+        "Hatalı"
       ]
     },
     "Draft": {
@@ -864,7 +1077,8 @@
       "es": "Borrador",
       "pt": "Rascunho",
       "ko": "초안",
-      "fr": "Brouillon"
+      "fr": "Brouillon",
+      "tr": "Taslak"
     },
     "Archived": {
       "ja": "アーカイブ済み",
@@ -876,6 +1090,10 @@
         "Archivée",
         "Archivés",
         "Archivées"
+      ],
+      "tr": [
+        "Arşivlendi",
+        "arşivlen"
       ]
     },
     "Completed": {
@@ -898,6 +1116,10 @@
         "Terminée",
         "Terminés",
         "Terminées"
+      ],
+      "tr": [
+        "Tamamlandı",
+        "tamamlan"
       ]
     },
     "Delivered": {
@@ -934,6 +1156,13 @@
         "livraison",
         "envoi",
         "envois"
+      ],
+      "tr": [
+        "Teslim edildi",
+        "Teslim",
+        "teslim",
+        "Gönderim",
+        "gönderim"
       ]
     },
     "Delivery": {
@@ -952,6 +1181,13 @@
         "Livrer",
         "envoi",
         "envois"
+      ],
+      "tr": [
+        "Teslim",
+        "teslim",
+        "Teslimat",
+        "Gönderim",
+        "gönderim"
       ]
     },
     "Delivery Rate": {
@@ -959,14 +1195,19 @@
       "es": "Tasa de entrega",
       "pt": "Taxa de entrega",
       "ko": "전달률",
-      "fr": "Taux de livraison"
+      "fr": "Taux de livraison",
+      "tr": [
+        "Teslim oranı",
+        "Teslimat oranı"
+      ]
     },
     "Click-through Rate": {
       "ja": "クリック率",
       "es": "Tasa de clics",
       "pt": "Taxa de cliques",
       "ko": "클릭률",
-      "fr": "Taux de clics"
+      "fr": "Taux de clics",
+      "tr": "Tıklama oranı"
     },
     "CTR": {
       "ja": [
@@ -982,6 +1223,10 @@
       "fr": [
         "CTR",
         "Taux de clics"
+      ],
+      "tr": [
+        "CTR",
+        "Tıklama oranı"
       ]
     },
     "Open Rate": {
@@ -989,7 +1234,8 @@
       "es": "Tasa de apertura",
       "pt": "Taxa de abertura",
       "ko": "열람률",
-      "fr": "Taux d'ouverture"
+      "fr": "Taux d'ouverture",
+      "tr": "Açılma oranı"
     },
     "Conversion": {
       "ja": "コンバージョン",
@@ -1005,6 +1251,10 @@
       "fr": [
         "Conversion",
         "Conversions"
+      ],
+      "tr": [
+        "Dönüşüm",
+        "dönüşüm"
       ]
     },
     "Recipients": {
@@ -1024,6 +1274,11 @@
       "fr": [
         "Destinataires",
         "Destinataire"
+      ],
+      "tr": [
+        "Alıcılar",
+        "Alıcı",
+        "alıcı"
       ]
     },
     "Sender": {
@@ -1043,6 +1298,10 @@
       "fr": [
         "Expéditeur",
         "Expéditeurs"
+      ],
+      "tr": [
+        "Gönderen",
+        "gönderen"
       ]
     },
     "Senders": {
@@ -1062,6 +1321,10 @@
       "fr": [
         "Expéditeurs",
         "Expéditeur"
+      ],
+      "tr": [
+        "Gönderenler",
+        "Gönderen"
       ]
     },
     "App": {
@@ -1079,6 +1342,11 @@
         "App",
         "Application",
         "application"
+      ],
+      "tr": [
+        "Uygulama",
+        "App",
+        "uygulama"
       ]
     },
     "Apps": {
@@ -1096,6 +1364,11 @@
         "Apps",
         "Applications",
         "applications"
+      ],
+      "tr": [
+        "Uygulamalar",
+        "Apps",
+        "uygulamalar"
       ]
     }
   }
