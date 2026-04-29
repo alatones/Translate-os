@@ -218,8 +218,8 @@
         "público",
         "Público"
       ],
-      "ko": "고객",
-      "note": "ko uses 고객 ('customer') — non-literal but clearer in martech context."
+      "ko": "대상",
+      "note": "ko uses 대상 (target group) — martech term for a targeted subset of users. 고객 (customer, singular) is the wrong concept here."
     },
     "Campaign": {
       "ja": "キャンペーン",

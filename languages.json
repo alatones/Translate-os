@@ -64,7 +64,7 @@
       "es": "Audiencia activa",
       "ja": "アクティブオーディエンス",
       "pt": "Audiência ativa",
-      "ko": "활성 고객"
+      "ko": "활성 대상"
     },
     "Activity for": {
       "es": "Actividad de",
@@ -304,7 +304,7 @@
       "es": "Audiencia",
       "ja": "オーディエンス",
       "pt": "Audiência",
-      "ko": "고객"
+      "ko": "대상"
     },
     "Audit Logs": {
       "es": "Registros de auditoría",
@@ -610,7 +610,7 @@
       "es": "Contacta tu audiencia activa de un país específico",
       "ja": "指定した国のアクティブオーディエンスに連絡",
       "pt": "Contate sua audiência ativa de um país específico",
-      "ko": "특정 국가의 활성 고객에게 연락하세요"
+      "ko": "특정 국가의 활성 대상에게 연락하세요"
     },
     "contains": {
       "es": "contiene",
@@ -730,7 +730,7 @@
       "es": "Audiencia personalizada",
       "ja": "カスタムオーディエンス",
       "pt": "Audiência personalizada",
-      "ko": "맞춤 고객"
+      "ko": "맞춤 대상"
     },
     "Custom Data": {
       "es": "Datos personalizados",
@@ -1192,7 +1192,7 @@
       "es": "Audiencia nueva",
       "ja": "初回オーディエンス",
       "pt": "Audiência nova",
-      "ko": "신규 고객"
+      "ko": "신규 대상"
     },
     "Fri": {
       "es": "Vie",
@@ -2272,7 +2272,7 @@
       "es": "Alcanza audiencias específicas según propiedades o eventos de data tags",
       "ja": "データタグのユーザープロパティやイベントに基づいてターゲットオーディエンスにリーチ",
       "pt": "Alcance audiências segmentadas com base em propriedades ou eventos de data tags",
-      "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 타겟 고객에게 도달하세요"
+      "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요"
     },
     "Real-time data for timely messages": {
       "es": "Datos en tiempo real para mensajes oportunos",
@@ -2302,7 +2302,7 @@
       "es": "Audiencia regional",
       "ja": "地域オーディエンス",
       "pt": "Audiência regional",
-      "ko": "지역 고객"
+      "ko": "지역 대상"
     },
     "Relative:": {
       "es": "Relativa:",
@@ -3454,7 +3454,7 @@
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチしましょう。",
       "es": "Llega a tu audiencia de manera efectiva y mobile-first.",
       "pt": "Alcance seu público de forma eficaz e com foco em mobile.",
-      "ko": "효과적인 모바일 우선 방식으로 고객에게 직접 도달하세요."
+      "ko": "효과적인 모바일 우선 방식으로 대상에게 직접 도달하세요."
     },
     "Reach all active users, regardless of subscription status. (mobile apps only)": {
       "ja": "購読の状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
@@ -3508,7 +3508,7 @@
       "ja": "オーディエンスメニューを閉じる",
       "es": "Cerrar menú de Audiencia",
       "pt": "Fechar menu de Audiência",
-      "ko": "고객 메뉴 닫기"
+      "ko": "대상 메뉴 닫기"
     },
     "Close Data menu": {
       "ja": "データメニューを閉じる",
@@ -3820,7 +3820,7 @@
       "ja": "オーディエンスへの送信を開始しましょう。メールを送信する準備が整いました！",
       "es": "Comienza a enviar a tu audiencia. ¡Estás listo para enviar emails!",
       "pt": "Comece a enviar para o seu público. Você está pronto para enviar e-mails!",
-      "ko": "고객에게 발송을 시작하세요. 이메일 발송 준비가 완료되었습니다!"
+      "ko": "대상에게 발송을 시작하세요. 이메일 발송 준비가 완료되었습니다!"
     },
     "We'll check if everything's set up correctly": {
       "ja": "すべてが正しく設定されているか確認します",
@@ -4180,7 +4180,7 @@
       "ja": "オーディエンスを理解する",
       "es": "Entiende a tu audiencia",
       "pt": "Entenda seu público",
-      "ko": "고객을 이해하세요"
+      "ko": "대상을 이해하세요"
     },
     "View recent activity and preferences": {
       "ja": "最近のアクティビティと設定を表示する",
@@ -4534,13 +4534,13 @@
       "ja": "対象者の活動",
       "es": "Actividad de la audiencia",
       "pt": "Atividade do público",
-      "ko": "고객 활동"
+      "ko": "대상 활동"
     },
     "Audience activity is no longer available after 30 days": {
       "ja": "対象者の活動は30日経過後は表示されません",
       "es": "La actividad de la audiencia ya no está disponible después de 30 días",
       "pt": "A atividade do público não está mais disponível após 30 dias",
-      "ko": "고객 활동은 30일 이후 더 이상 제공되지 않습니다"
+      "ko": "대상 활동은 30일 이후 더 이상 제공되지 않습니다"
     },
     "Badges": {
       "ja": "バッジ",
@@ -5092,7 +5092,7 @@
       "ja": "1. 対象者",
       "es": "1. Audiencia",
       "pt": "1. Público",
-      "ko": "1. 고객"
+      "ko": "1. 대상"
     },
     "2. Sender": {
       "ja": "2. 送信者",
@@ -5980,7 +5980,7 @@
       "ja": "対象者セグメント",
       "es": "Segmento de audiencia",
       "pt": "Segmento de público",
-      "ko": "고객 세그먼트"
+      "ko": "대상 세그먼트"
     },
     "Click to toggle": {
       "ja": "クリックで切り替え",
@@ -7102,7 +7102,7 @@
       "ja": "フィルターを追加すると対象人数が表示されます",
       "es": "Comienza a agregar filtros para ver el conteo de la audiencia",
       "pt": "Comece a adicionar filtros para ver a contagem do público",
-      "ko": "필터를 추가하면 고객 수가 표시됩니다"
+      "ko": "필터를 추가하면 대상 수가 표시됩니다"
     },
     "Subscription records in this segment must meet these rules:": {
       "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
@@ -7444,7 +7444,7 @@
       "ja": "ダイナミックコンテンツを使うと、対象者グループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
       "es": "El contenido dinámico te permite crear mensajes personalizados con contenido específico para diferentes grupos de audiencia. Usando",
       "pt": "O conteúdo dinâmico permite construir mensagens personalizadas com conteúdo específico para diferentes grupos de público. Usando",
-      "ko": "동적 콘텐츠를 통해 다양한 고객 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:"
+      "ko": "동적 콘텐츠를 통해 다양한 대상 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:"
     },
     "Empty state portrayed as a ghost": {
       "ja": "ゴーストとして表現された空の状態",
