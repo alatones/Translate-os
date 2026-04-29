@@ -2335,79 +2335,92 @@
       "es": "Tasa de apertura",
       "ja": "開封率",
       "pt": "Taxa de abertura",
-      "ko": "열람률"
+      "ko": "열람률",
+      "fr": "Taux d'ouverture"
     },
     "Open rate": {
       "es": "Tasa de apertura",
       "ja": "開封率",
       "pt": "Taxa de abertura",
-      "ko": "열람률"
+      "ko": "열람률",
+      "fr": "Taux d'ouverture"
     },
     "Opened": {
       "es": "Abierto",
       "ja": "開封済み",
       "pt": "Aberto",
-      "ko": "열림"
+      "ko": "열림",
+      "fr": "Ouvert"
     },
     "Opens": {
       "es": "Aperturas",
       "ja": "開封数",
       "pt": "Aberturas",
-      "ko": "열람"
+      "ko": "열람",
+      "fr": "Ouvertures"
     },
     "Operating System": {
       "es": "Sistema operativo",
       "ja": "オペレーティングシステム",
       "pt": "Sistema operacional",
-      "ko": "운영 체제"
+      "ko": "운영 체제",
+      "fr": "Système d'exploitation"
     },
     "Opted In": {
       "es": "Aceptado",
       "ja": "オプトイン済み",
       "pt": "Aceito",
-      "ko": "동의함"
+      "ko": "동의함",
+      "fr": "Accepté"
     },
     "Opted Out": {
       "es": "Excluido",
       "ja": "オプトアウト済み",
       "pt": "Excluído",
-      "ko": "거부함"
+      "ko": "거부함",
+      "fr": "Exclu"
     },
     "Optional": {
       "es": "Opcional",
       "ja": "任意",
       "pt": "Opcional",
-      "ko": "선택 사항"
+      "ko": "선택 사항",
+      "fr": "Facultatif"
     },
     "Organization": {
       "es": "Organización",
       "ja": "組織",
       "pt": "Organização",
-      "ko": "조직"
+      "ko": "조직",
+      "fr": "Organisation"
     },
     "Organizations": {
       "es": "Organizaciones",
       "ja": "組織",
       "pt": "Organizações",
-      "ko": "조직"
+      "ko": "조직",
+      "fr": "Organisations"
     },
     "Outbound": {
       "es": "Saliente",
       "ja": "アウトバウンド",
       "pt": "Saída",
-      "ko": "아웃바운드"
+      "ko": "아웃바운드",
+      "fr": "Sortant"
     },
     "Outcome": {
       "es": "Resultado",
       "ja": "アウトカム",
       "pt": "Resultado",
-      "ko": "결과"
+      "ko": "결과",
+      "fr": "Résultat"
     },
     "Overview": {
       "es": "Resumen",
       "ja": "概要",
       "pt": "Visão geral",
-      "ko": "개요"
+      "ko": "개요",
+      "fr": "Vue d'ensemble"
     },
     "page": {
       "es": "página",
@@ -2419,19 +2432,22 @@
       "es": "Paginación",
       "ja": "ページネーション",
       "pt": "Paginação",
-      "ko": "페이지 매김"
+      "ko": "페이지 매김",
+      "fr": "Pagination"
     },
     "Pause": {
       "es": "Pausar",
       "ja": "一時停止",
       "pt": "Pausar",
-      "ko": "일시 정지"
+      "ko": "일시 정지",
+      "fr": "Pause"
     },
     "Paused": {
       "es": "Pausado",
       "ja": "一時停止中",
       "pt": "Pausado",
-      "ko": "일시 정지됨"
+      "ko": "일시 정지됨",
+      "fr": "Suspendu"
     },
     "per page": {
       "es": "por página",
@@ -2443,73 +2459,85 @@
       "es": "Porcentaje",
       "ja": "割合",
       "pt": "Percentual",
-      "ko": "비율"
+      "ko": "비율",
+      "fr": "Pourcentage"
     },
     "Phone Number": {
       "es": "Número de teléfono",
       "ja": "電話番号",
       "pt": "Número de telefone",
-      "ko": "전화번호"
+      "ko": "전화번호",
+      "fr": "Numéro de téléphone"
     },
     "Phone number": {
       "es": "Número de teléfono",
       "ja": "電話番号",
       "pt": "Número de telefone",
-      "ko": "전화번호"
+      "ko": "전화번호",
+      "fr": "Numéro de téléphone"
     },
     "Plan": {
       "es": "Plan",
       "ja": "プラン",
       "pt": "Plano",
-      "ko": "플랜"
+      "ko": "플랜",
+      "fr": "Plan"
     },
     "Platform": {
       "es": "Plataforma",
       "ja": "プラットフォーム",
       "pt": "Plataforma",
-      "ko": "플랫폼"
+      "ko": "플랫폼",
+      "fr": "Plateforme"
     },
     "Platforms": {
       "es": "Plataformas",
       "ja": "プラットフォーム",
       "pt": "Plataformas",
-      "ko": "플랫폼"
+      "ko": "플랫폼",
+      "fr": "Plateformes"
     },
     "Platforms set up and message settings": {
       "es": "Configuración de plataformas y mensajes",
       "ja": "プラットフォームのセットアップとメッセージ設定",
       "pt": "Configuração de plataformas e mensagens",
-      "ko": "플랫폼 설정 및 메시지 설정"
+      "ko": "플랫폼 설정 및 메시지 설정",
+      "fr": "Configuration des plateformes et paramètres de messages"
     },
     "Preheader": {
       "es": "Encabezado previo",
       "ja": "プリヘッダー",
       "pt": "Pré-cabeçalho",
-      "ko": "프리헤더"
+      "ko": "프리헤더",
+      "fr": "Pré-en-tête"
     },
     "Prev": {
       "es": "Anterior",
       "ja": "前へ",
       "pt": "Anterior",
-      "ko": "이전"
+      "ko": "이전",
+      "fr": "Préc"
     },
     "Preview": {
       "es": "Vista previa",
       "ja": "プレビュー",
       "pt": "Visualizar",
-      "ko": "미리보기"
+      "ko": "미리보기",
+      "fr": "Aperçu"
     },
     "Previous": {
       "es": "Anterior",
       "ja": "前へ",
       "pt": "Anterior",
-      "ko": "이전"
+      "ko": "이전",
+      "fr": "Précédent"
     },
     "Previous page": {
       "es": "Página anterior",
       "ja": "前のページ",
       "pt": "Página anterior",
-      "ko": "이전 페이지"
+      "ko": "이전 페이지",
+      "fr": "Page précédente"
     },
     "Priority": {
       "es": "Prioridad",
@@ -4040,13 +4068,15 @@
       "ja": "ジャーニーのWebhookを設定して、複数のプラットフォーム（例：WhatsApp、ダイレクトメール）でメッセージを調整する",
       "es": "Orquesta mensajes en distintas plataformas (p. ej., WhatsApp, correo directo) configurando un webhook para un Journey",
       "pt": "Orquestre mensagens em diferentes plataformas (ex.: WhatsApp, mala direta) configurando um webhook para um Journey",
-      "ko": "저니에 웹훅을 구성하여 플랫폼 간 (예: WhatsApp, 다이렉트 메일) 메시지를 조율하세요"
+      "ko": "저니에 웹훅을 구성하여 플랫폼 간 (예: WhatsApp, 다이렉트 메일) 메시지를 조율하세요",
+      "fr": "Orchestrez les messages sur plusieurs plateformes (par ex. WhatsApp, courrier postal) en configurant un webhook pour un Journey"
     },
     "Power Journeys with events—begin, hold, or exit user flows": {
       "ja": "イベントでジャーニーを強化する——ユーザーフローの開始、保留、または終了",
       "es": "Potencia los Journeys con eventos: inicia, detiene o sale de los flujos de usuarios",
       "pt": "Potencialize Journeys com eventos — iniciar, pausar ou sair de fluxos de usuários",
-      "ko": "이벤트로 저니를 강화하세요—사용자 흐름을 시작, 유지 또는 종료하세요"
+      "ko": "이벤트로 저니를 강화하세요—사용자 흐름을 시작, 유지 또는 종료하세요",
+      "fr": "Alimentez les Journeys avec des événements — démarrer, suspendre ou sortir des flux utilisateurs"
     },
     "Seamlessly integrate with APIs, SDKs, or tools like Segment": {
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
@@ -4310,7 +4340,8 @@
       "ja": "またはクイックスタートジャーニーの1つから始める",
       "es": "O empieza con uno de nuestros Journeys de inicio rápido",
       "pt": "Ou comece com um de nossos Journeys de início rápido",
-      "ko": "또는 빠른 시작 저니 중 하나로 시작하세요"
+      "ko": "또는 빠른 시작 저니 중 하나로 시작하세요",
+      "fr": "Ou commencez avec un de nos Journeys de démarrage rapide"
     },
     "Re-engagement": {
       "ja": "再エンゲージメント",
@@ -4713,7 +4744,8 @@
       "ja": "Figmaで開く",
       "es": "Abrir en Figma",
       "pt": "Abrir no Figma",
-      "ko": "Figma에서 열기"
+      "ko": "Figma에서 열기",
+      "fr": "Ouvrir dans Figma"
     },
     "RCS drives up to 60% more conversions than SMS. See how brands use rich media messages to boost results.": {
       "ja": "RCSはSMSよりも最大60%多くのコンバージョンを促進します。ブランドがリッチメディアメッセージをどのように活用して成果を上げているかをご覧ください。",
@@ -5391,7 +5423,8 @@
       "ja": "永続的な失敗",
       "es": "Falla permanente",
       "pt": "Falha permanente",
-      "ko": "영구 실패"
+      "ko": "영구 실패",
+      "fr": "Échec permanent"
     },
     "Remove Permanent Failure filter": {
       "ja": "永続的な失敗フィルターを削除",
@@ -5744,13 +5777,15 @@
       "ja": "プリヘッダーテキスト",
       "es": "Texto del preencabezado",
       "pt": "Texto do preheader",
-      "ko": "프리헤더 텍스트"
+      "ko": "프리헤더 텍스트",
+      "fr": "Texte du pré-en-tête"
     },
     "Preview Mode": {
       "ja": "プレビューモード",
       "es": "Modo de vista previa",
       "pt": "Modo de visualização",
-      "ko": "미리보기 모드"
+      "ko": "미리보기 모드",
+      "fr": "Mode aperçu"
     },
     "Reply-To Email": {
       "ja": "返信先メール",
@@ -6332,7 +6367,8 @@
       "ja": "パディング",
       "es": "Relleno",
       "pt": "Preenchimento",
-      "ko": "안쪽 여백"
+      "ko": "안쪽 여백",
+      "fr": "Marge intérieure"
     },
     "Width": {
       "ja": "幅",
@@ -6379,7 +6415,8 @@
       "ja": "縦向き",
       "es": "Orientación vertical",
       "pt": "Orientação retrato",
-      "ko": "세로 방향"
+      "ko": "세로 방향",
+      "fr": "Orientation portrait"
     },
     "Review & set live": {
       "ja": "確認してライブ化",
@@ -6518,7 +6555,8 @@
       "ja": "縦向き",
       "es": "Vertical",
       "pt": "Retrato",
-      "ko": "세로"
+      "ko": "세로",
+      "fr": "Portrait"
     },
     "Top": {
       "ja": "上",
@@ -7449,7 +7487,8 @@
       "ja": "パッシブ",
       "es": "Pasivo",
       "pt": "Passivo",
-      "ko": "수동"
+      "ko": "수동",
+      "fr": "Passif"
     },
     "Private": {
       "ja": "非公開",
@@ -7841,7 +7880,8 @@
       "ja": "前回の期間",
       "es": "Período anterior",
       "pt": "Período anterior",
-      "ko": "이전 기간"
+      "ko": "이전 기간",
+      "fr": "Période précédente"
     },
     "Current Period:": {
       "ja": "現在の期間:",
@@ -7935,7 +7975,8 @@
       "ja": "プランタイプ",
       "es": "Tipo de plan",
       "pt": "Tipo de plano",
-      "ko": "플랜 유형"
+      "ko": "플랜 유형",
+      "fr": "Type de plan"
     },
     "Push Subscribers": {
       "ja": "プッシュ購読者",
@@ -8280,7 +8321,8 @@
       "ja": "パーソナライゼーション",
       "es": "Personalización",
       "pt": "Personalização",
-      "ko": "개인화"
+      "ko": "개인화",
+      "fr": "Personnalisation"
     },
     "Select your editing experience:": {
       "ja": "編集エクスペリエンスを選択:",
@@ -8537,7 +8579,8 @@
       "ja": "電話",
       "es": "Teléfono",
       "pt": "Telefone",
-      "ko": "전화"
+      "ko": "전화",
+      "fr": "Téléphone"
     },
     "Total session duration": {
       "ja": "合計セッション時間",
@@ -8567,13 +8610,15 @@
       "ja": "頻度制限設定を上書き (",
       "es": "Anular configuración de límite de frecuencia (",
       "pt": "Substituir configurações de limite de frequência (",
-      "ko": "빈도 제한 설정 재정의 ("
+      "ko": "빈도 제한 설정 재정의 (",
+      "fr": "Remplacer les paramètres de plafonnement de fréquence ("
     },
     "Override throttling settings (": {
       "ja": "スロットリング設定を上書き (",
       "es": "Anular configuración de limitación (",
       "pt": "Substituir configurações de limitação (",
-      "ko": "쓰로틀링 설정 재정의 ("
+      "ko": "쓰로틀링 설정 재정의 (",
+      "fr": "Remplacer les paramètres de limitation ("
     },
     "per minute)": {
       "ja": "/分)",
@@ -9175,7 +9220,8 @@
       "ja": "パスワード",
       "es": "Contraseña",
       "pt": "Senha",
-      "ko": "비밀번호"
+      "ko": "비밀번호",
+      "fr": "Mot de passe"
     },
     "Private API Key": {
       "ja": "プライベートAPIキー",
@@ -9385,7 +9431,8 @@
       "ja": "結果追跡",
       "es": "Seguimiento de resultados",
       "pt": "Rastreamento de resultados",
-      "ko": "결과 추적"
+      "ko": "결과 추적",
+      "fr": "Suivi des résultats"
     },
     "Push & In-App Settings": {
       "ja": "プッシュおよびインアプリ設定",
@@ -9439,7 +9486,8 @@
       "ja": "1日あたり",
       "es": "Por día",
       "pt": "Por dia",
-      "ko": "일별"
+      "ko": "일별",
+      "fr": "Par jour"
     },
     "Stop Tracking": {
       "ja": "追跡を停止",
@@ -9590,7 +9638,8 @@
       "ja": "オプトアウト",
       "es": "Exclusión",
       "pt": "Cancelar inscrição",
-      "ko": "옵트아웃"
+      "ko": "옵트아웃",
+      "fr": "Désinscription"
     },
     "Re-Subscribe": {
       "ja": "再購読",
@@ -9951,7 +10000,8 @@
       "ja": "組織での役割",
       "es": "Rol en la organización",
       "pt": "Função na organização",
-      "ko": "조직 역할"
+      "ko": "조직 역할",
+      "fr": "Rôle dans l'organisation"
     },
     "Unsuccessful": {
       "ja": "失敗",
