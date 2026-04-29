@@ -2413,350 +2413,400 @@
       "ja": "新規アプリ内",
       "pt": "Novo In-App",
       "ko": "새 인앱",
-      "fr": "Nouveau In-App"
+      "fr": "Nouveau In-App",
+      "tr": "Yeni In-App"
     },
     "New Journey": {
       "es": "Nuevo Journey",
       "ja": "新規ジャーニー",
       "pt": "Novo Journey",
       "ko": "새 저니",
-      "fr": "Nouveau Journey"
+      "fr": "Nouveau Journey",
+      "tr": "Yeni Journey"
     },
     "New Journey Webhook": {
       "es": "Nuevo Webhook de Journey",
       "ja": "新規ジャーニーWebhook",
       "pt": "Novo Webhook de Journey",
       "ko": "새 저니 웹훅",
-      "fr": "Nouveau Webhook Journey"
+      "fr": "Nouveau Webhook Journey",
+      "tr": "Yeni Journey Webhook"
     },
     "New Message": {
       "es": "Nuevo mensaje",
       "ja": "新規メッセージ",
       "pt": "Nova mensagem",
       "ko": "새 메시지",
-      "fr": "Nouveau message"
+      "fr": "Nouveau message",
+      "tr": "Yeni mesaj"
     },
     "New Push": {
       "es": "Nuevo push",
       "ja": "新規プッシュ",
       "pt": "Novo push",
       "ko": "새 푸시",
-      "fr": "Nouveau push"
+      "fr": "Nouveau push",
+      "tr": "Yeni push"
     },
     "New Push Notification": {
       "es": "Nueva notificación push",
       "ja": "新規プッシュ通知",
       "pt": "Nova notificação push",
       "ko": "새 푸시 알림",
-      "fr": "Nouvelle notification push"
+      "fr": "Nouvelle notification push",
+      "tr": "Yeni push bildirimi"
     },
     "New SMS / RCS": {
       "es": "Nuevo SMS / RCS",
       "ja": "新規SMS / RCS",
       "pt": "Novo SMS / RCS",
       "ko": "새 SMS / RCS",
-      "fr": "Nouveau SMS / RCS"
+      "fr": "Nouveau SMS / RCS",
+      "tr": "Yeni SMS / RCS"
     },
     "New SMS/RCS": {
       "es": "Nuevo SMS/RCS",
       "ja": "新規SMS/RCS",
       "pt": "Novo SMS/RCS",
       "ko": "새 SMS/RCS",
-      "fr": "Nouveau SMS/RCS"
+      "fr": "Nouveau SMS/RCS",
+      "tr": "Yeni SMS/RCS"
     },
     "New subscribed": {
       "es": "Nuevas suscripciones",
       "ja": "新規購読",
       "pt": "Novas inscrições",
       "ko": "신규 구독",
-      "fr": "Nouveaux abonnés"
+      "fr": "Nouveaux abonnés",
+      "tr": "Yeni abonelikler"
     },
     "New Subscribers": {
       "es": "Nuevos suscriptores",
       "ja": "新規購読者",
       "pt": "Novos assinantes",
       "ko": "신규 구독자",
-      "fr": "Nouveaux abonnés"
+      "fr": "Nouveaux abonnés",
+      "tr": "Yeni aboneler"
     },
     "New Template": {
       "es": "Nueva plantilla",
       "ja": "新規テンプレート",
       "pt": "Novo modelo",
       "ko": "새 템플릿",
-      "fr": "Nouveau modèle"
+      "fr": "Nouveau modèle",
+      "tr": "Yeni şablon"
     },
     "New unsubscribed": {
       "es": "Nuevas cancelaciones",
       "ja": "新規購読解除",
       "pt": "Novos cancelamentos",
       "ko": "신규 구독 취소",
-      "fr": "Nouvelles désinscriptions"
+      "fr": "Nouvelles désinscriptions",
+      "tr": "Yeni abonelikten çıkanlar"
     },
     "New Webhook": {
       "es": "Nuevo webhook",
       "ja": "新しいWebhook",
       "pt": "Novo webhook",
       "ko": "새 웹훅",
-      "fr": "Nouveau webhook"
+      "fr": "Nouveau webhook",
+      "tr": "Yeni webhook"
     },
     "Next": {
       "es": "Siguiente",
       "ja": "次へ",
       "pt": "Próximo",
       "ko": "다음",
-      "fr": "Suivant"
+      "fr": "Suivant",
+      "tr": "İleri"
     },
     "Next page": {
       "es": "Página siguiente",
       "ja": "次のページ",
       "pt": "Próxima página",
       "ko": "다음 페이지",
-      "fr": "Page suivante"
+      "fr": "Page suivante",
+      "tr": "Sonraki sayfa"
     },
     "No": {
       "es": "No",
       "ja": "いいえ",
       "pt": "Não",
       "ko": "아니오",
-      "fr": "Non"
+      "fr": "Non",
+      "tr": "Hayır"
     },
     "No data": {
       "es": "Sin datos",
       "ja": "データなし",
       "pt": "Sem dados",
       "ko": "데이터 없음",
-      "fr": "Aucune donnée"
+      "fr": "Aucune donnée",
+      "tr": "Veri yok"
     },
     "No metrics collected": {
       "es": "No hay métricas recopiladas",
       "ja": "メトリクスが収集されていません",
       "pt": "Nenhuma métrica coletada",
       "ko": "수집된 지표 없음",
-      "fr": "Aucune métrique collectée"
+      "fr": "Aucune métrique collectée",
+      "tr": "Metrik toplanmadı"
     },
     "No recipients": {
       "es": "Sin destinatarios",
       "ja": "受信者なし",
       "pt": "Sem destinatários",
       "ko": "수신자 없음",
-      "fr": "Aucun destinataire"
+      "fr": "Aucun destinataire",
+      "tr": "Alıcı yok"
     },
     "No results": {
       "es": "Sin resultados",
       "ja": "結果なし",
       "pt": "Sem resultados",
       "ko": "결과 없음",
-      "fr": "Aucun résultat"
+      "fr": "Aucun résultat",
+      "tr": "Sonuç yok"
     },
     "No results found": {
       "es": "No se encontraron resultados",
       "ja": "結果が見つかりません",
       "pt": "Nenhum resultado encontrado",
       "ko": "결과를 찾을 수 없음",
-      "fr": "Aucun résultat trouvé"
+      "fr": "Aucun résultat trouvé",
+      "tr": "Sonuç bulunamadı"
     },
     "not exists": {
       "es": "no existe",
       "ja": "存在しない",
       "pt": "não existe",
       "ko": "존재하지 않음",
-      "fr": "n'existe pas"
+      "fr": "n'existe pas",
+      "tr": "yok"
     },
     "Not Subscribed": {
       "es": "No suscrito",
       "ja": "未登録",
       "pt": "Não inscrito",
       "ko": "구독하지 않음",
-      "fr": "Non abonné"
+      "fr": "Non abonné",
+      "tr": "Abone değil"
     },
     "Notification": {
       "es": "Notificación",
       "ja": "通知",
       "pt": "Notificação",
       "ko": "알림",
-      "fr": "Notification"
+      "fr": "Notification",
+      "tr": "Bildirim"
     },
     "Notification Permission": {
       "es": "Permiso de notificación",
       "ja": "通知許可",
       "pt": "Permissão de notificação",
       "ko": "알림 권한",
-      "fr": "Autorisation de notification"
+      "fr": "Autorisation de notification",
+      "tr": "Bildirim izni"
     },
     "Notifications": {
       "es": "Notificaciones",
       "ja": "通知",
       "pt": "Notificações",
       "ko": "알림",
-      "fr": "Notifications"
+      "fr": "Notifications",
+      "tr": "Bildirimler"
     },
     "Nov": {
       "es": "nov",
       "ja": "11月",
       "pt": "nov",
       "ko": "11월",
-      "fr": "nov"
+      "fr": "nov",
+      "tr": "kas"
     },
     "November": {
       "es": "noviembre",
       "ja": "11月",
       "pt": "novembro",
       "ko": "11월",
-      "fr": "novembre"
+      "fr": "novembre",
+      "tr": "kasım"
     },
     "Oct": {
       "es": "oct",
       "ja": "10月",
       "pt": "out",
       "ko": "10월",
-      "fr": "oct"
+      "fr": "oct",
+      "tr": "eki"
     },
     "October": {
       "es": "octubre",
       "ja": "10月",
       "pt": "outubro",
       "ko": "10월",
-      "fr": "octobre"
+      "fr": "octobre",
+      "tr": "ekim"
     },
     "of": {
       "es": "de",
       "ja": "/ ",
       "pt": "de",
       "ko": "/",
-      "fr": "sur"
+      "fr": "sur",
+      "tr": "/"
     },
     "Onboarding": {
       "es": "Incorporación",
       "ja": "オンボーディング",
       "pt": "Integração",
       "ko": "온보딩",
-      "fr": "Onboarding"
+      "fr": "Onboarding",
+      "tr": "Kullanıcı kazanımı"
     },
     "OneSignal AI": {
       "es": "OneSignal AI",
       "ja": "OneSignal AI",
       "pt": "OneSignal AI",
       "ko": "OneSignal AI",
-      "fr": "OneSignal AI"
+      "fr": "OneSignal AI",
+      "tr": "OneSignal AI"
     },
     "OneSignal ID": {
       "es": "OneSignal ID",
       "ja": "OneSignal ID",
       "pt": "OneSignal ID",
       "ko": "OneSignal ID",
-      "fr": "OneSignal ID"
+      "fr": "OneSignal ID",
+      "tr": "OneSignal ID"
     },
     "Open Rate": {
       "es": "Tasa de apertura",
       "ja": "開封率",
       "pt": "Taxa de abertura",
       "ko": "열람률",
-      "fr": "Taux d'ouverture"
+      "fr": "Taux d'ouverture",
+      "tr": "Açılma oranı"
     },
     "Open rate": {
       "es": "Tasa de apertura",
       "ja": "開封率",
       "pt": "Taxa de abertura",
       "ko": "열람률",
-      "fr": "Taux d'ouverture"
+      "fr": "Taux d'ouverture",
+      "tr": "Açılma oranı"
     },
     "Opened": {
       "es": "Abierto",
       "ja": "開封済み",
       "pt": "Aberto",
       "ko": "열림",
-      "fr": "Ouvert"
+      "fr": "Ouvert",
+      "tr": "Açıldı"
     },
     "Opens": {
       "es": "Aperturas",
       "ja": "開封数",
       "pt": "Aberturas",
       "ko": "열람",
-      "fr": "Ouvertures"
+      "fr": "Ouvertures",
+      "tr": "Açılmalar"
     },
     "Operating System": {
       "es": "Sistema operativo",
       "ja": "オペレーティングシステム",
       "pt": "Sistema operacional",
       "ko": "운영 체제",
-      "fr": "Système d'exploitation"
+      "fr": "Système d'exploitation",
+      "tr": "İşletim sistemi"
     },
     "Opted In": {
       "es": "Aceptado",
       "ja": "オプトイン済み",
       "pt": "Aceito",
       "ko": "동의함",
-      "fr": "Accepté"
+      "fr": "Accepté",
+      "tr": "Onay verildi"
     },
     "Opted Out": {
       "es": "Excluido",
       "ja": "オプトアウト済み",
       "pt": "Excluído",
       "ko": "거부함",
-      "fr": "Exclu"
+      "fr": "Exclu",
+      "tr": "Onay geri alındı"
     },
     "Optional": {
       "es": "Opcional",
       "ja": "任意",
       "pt": "Opcional",
       "ko": "선택 사항",
-      "fr": "Facultatif"
+      "fr": "Facultatif",
+      "tr": "İsteğe bağlı"
     },
     "Organization": {
       "es": "Organización",
       "ja": "組織",
       "pt": "Organização",
       "ko": "조직",
-      "fr": "Organisation"
+      "fr": "Organisation",
+      "tr": "Organizasyon"
     },
     "Organizations": {
       "es": "Organizaciones",
       "ja": "組織",
       "pt": "Organizações",
       "ko": "조직",
-      "fr": "Organisations"
+      "fr": "Organisations",
+      "tr": "Organizasyonlar"
     },
     "Outbound": {
       "es": "Saliente",
       "ja": "アウトバウンド",
       "pt": "Saída",
       "ko": "아웃바운드",
-      "fr": "Sortant"
+      "fr": "Sortant",
+      "tr": "Giden"
     },
     "Outcome": {
       "es": "Resultado",
       "ja": "アウトカム",
       "pt": "Resultado",
       "ko": "결과",
-      "fr": "Résultat"
+      "fr": "Résultat",
+      "tr": "Sonuç"
     },
     "Overview": {
       "es": "Resumen",
       "ja": "概要",
       "pt": "Visão geral",
       "ko": "개요",
-      "fr": "Vue d'ensemble"
+      "fr": "Vue d'ensemble",
+      "tr": "Genel bakış"
     },
     "page": {
       "es": "página",
       "ja": "ページ",
       "pt": "página",
       "ko": "페이지",
-      "fr": "page"
+      "fr": "page",
+      "tr": "sayfa"
     },
     "Pagination": {
       "es": "Paginación",
       "ja": "ページネーション",
       "pt": "Paginação",
       "ko": "페이지 매김",
-      "fr": "Pagination"
+      "fr": "Pagination",
+      "tr": "Sayfalama"
     },
     "Pause": {
       "es": "Pausar",
       "ja": "一時停止",
       "pt": "Pausar",
       "ko": "일시 정지",
-      "fr": "Pause"
+      "fr": "Pause",
+      "tr": "Duraklat"
     },
     "Paused": {
       "es": "Pausado",
