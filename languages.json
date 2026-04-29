@@ -1792,13 +1792,15 @@
       "es": "Iniciar importador CSV",
       "ja": "CSVインポーターを起動",
       "pt": "Iniciar importador CSV",
-      "ko": "CSV 가져오기 실행"
+      "ko": "CSV 가져오기 실행",
+      "fr": "Lancer l'importateur CSV"
     },
     "Launch URL": {
       "es": "URL de destino",
       "ja": "起動URL",
       "pt": "URL de destino",
-      "ko": "실행 URL"
+      "ko": "실행 URL",
+      "fr": "URL de lancement"
     },
     "less than": {
       "es": "menor que",
@@ -1810,85 +1812,99 @@
       "es": "Actividades en vivo",
       "ja": "ライブアクティビティ",
       "pt": "Atividades ao vivo",
-      "ko": "라이브 액티비티"
+      "ko": "라이브 액티비티",
+      "fr": "Live Activities"
     },
     "Live Activity": {
       "es": "Actividad en vivo",
       "ja": "ライブアクティビティ",
       "pt": "Atividade ao vivo",
-      "ko": "라이브 액티비티"
+      "ko": "라이브 액티비티",
+      "fr": "Live Activity"
     },
     "Load More": {
       "es": "Cargar más",
       "ja": "さらに読み込む",
       "pt": "Carregar mais",
-      "ko": "더 보기"
+      "ko": "더 보기",
+      "fr": "Charger plus"
     },
     "Load segment count": {
       "es": "Cargar recuento de segmentos",
       "ja": "セグメント数を読み込む",
       "pt": "Carregar contagem de segmentos",
-      "ko": "세그먼트 수 로드"
+      "ko": "세그먼트 수 로드",
+      "fr": "Charger le décompte du segment"
     },
     "Loading": {
       "es": "Cargando",
       "ja": "読み込み中",
       "pt": "Carregando",
-      "ko": "로딩 중"
+      "ko": "로딩 중",
+      "fr": "Chargement"
     },
     "Loading…": {
       "es": "Cargando…",
       "ja": "読み込み中…",
       "pt": "Carregando…",
-      "ko": "로딩 중…"
+      "ko": "로딩 중…",
+      "fr": "Chargement…"
     },
     "Local (EDT):": {
       "es": "Local (EDT):",
       "ja": "現地時間（EDT）：",
       "pt": "Local (EDT):",
-      "ko": "현지 시간 (EDT):"
+      "ko": "현지 시간 (EDT):",
+      "fr": "Local (EDT) :"
     },
     "Local:": {
       "es": "Local:",
       "ja": "現地時間：",
       "pt": "Local:",
-      "ko": "현지:"
+      "ko": "현지:",
+      "fr": "Local :"
     },
     "Location": {
       "es": "Ubicación",
       "ja": "位置情報",
       "pt": "Localização",
-      "ko": "위치"
+      "ko": "위치",
+      "fr": "Emplacement"
     },
     "Location point": {
       "es": "Punto de ubicación",
       "ja": "位置情報ポイント",
       "pt": "Ponto de localização",
-      "ko": "위치 지점"
+      "ko": "위치 지점",
+      "fr": "Point d'emplacement"
     },
     "Manage App": {
       "es": "Administrar app",
       "ja": "アプリを管理",
       "pt": "Gerenciar app",
-      "ko": "앱 관리"
+      "ko": "앱 관리",
+      "fr": "Gérer l'app"
     },
     "Manage or invite team members": {
       "es": "Administrar o invitar miembros del equipo",
       "ja": "チームメンバーの管理と招待",
       "pt": "Gerenciar ou convidar membros da equipe",
-      "ko": "팀원 관리 또는 초대"
+      "ko": "팀원 관리 또는 초대",
+      "fr": "Gérer ou inviter des membres de l'équipe"
     },
     "Manage this app": {
       "es": "Administrar esta app",
       "ja": "このアプリを管理",
       "pt": "Gerenciar este app",
-      "ko": "이 앱 관리"
+      "ko": "이 앱 관리",
+      "fr": "Gérer cette app"
     },
     "Manually Add": {
       "es": "Agregar manualmente",
       "ja": "手動追加",
       "pt": "Adicionar manualmente",
-      "ko": "수동 추가"
+      "ko": "수동 추가",
+      "fr": "Ajouter manuellement"
     },
     "Manually add users with emails or phone numbers": {
       "es": "Agrega usuarios con emails o números de teléfono",
@@ -4059,13 +4075,15 @@
       "ja": "安定したメールパフォーマンスを確保するためのドメインウォームアップの方法を確認。",
       "es": "Aprende cómo calentar tu dominio para garantizar un rendimiento de email confiable.",
       "pt": "Aprenda como aquecer seu domínio para garantir um desempenho de e-mail confiável.",
-      "ko": "안정적인 이메일 성능을 보장하기 위해 도메인을 워밍업하는 방법을 알아보세요."
+      "ko": "안정적인 이메일 성능을 보장하기 위해 도메인을 워밍업하는 방법을 알아보세요.",
+      "fr": "Apprenez comment chauffer votre domaine pour garantir des performances email fiables."
     },
     "Make sure you can send emails from this domain": {
       "ja": "このドメインからメールを送信できることを確認してください",
       "es": "Asegúrate de poder enviar emails desde este dominio",
       "pt": "Certifique-se de que pode enviar e-mails deste domínio",
-      "ko": "이 도메인에서 이메일을 발송할 수 있는지 확인하세요"
+      "ko": "이 도메인에서 이메일을 발송할 수 있는지 확인하세요",
+      "fr": "Vérifiez que vous pouvez envoyer des emails depuis ce domaine"
     },
     "Send and track your first email": {
       "ja": "最初のメールを送信して追跡",
@@ -4417,7 +4435,8 @@
       "ja": "ユーザープロフィールを管理",
       "es": "Administrar perfiles de usuario",
       "pt": "Gerenciar perfis de usuários",
-      "ko": "사용자 프로필 관리"
+      "ko": "사용자 프로필 관리",
+      "fr": "Gérer les profils utilisateur"
     },
     "See recent message activity at the user level": {
       "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認",
@@ -4519,7 +4538,8 @@
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
       "es": "Administra las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
       "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste.",
-      "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요."
+      "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요.",
+      "fr": "Gérez les abonnements de test pour prévisualiser et envoyer des messages de test."
     },
     "Send perfect messages": {
       "ja": "完璧なメッセージを送信",
@@ -4549,7 +4569,8 @@
       "ja": "ライブアクティビティのドキュメント",
       "es": "Documentación de Live Activities",
       "pt": "Documentação de Live Activities",
-      "ko": "라이브 액티비티 문서"
+      "ko": "라이브 액티비티 문서",
+      "fr": "Documentation Live Activities"
     },
     "Book a demo": {
       "ja": "デモを予約",
@@ -4679,7 +4700,8 @@
       "ja": "AIツールでOneSignalを管理",
       "es": "Administra OneSignal con herramientas de IA",
       "pt": "Gerencie o OneSignal com ferramentas de IA",
-      "ko": "AI 도구로 OneSignal 관리"
+      "ko": "AI 도구로 OneSignal 관리",
+      "fr": "Gérer OneSignal avec des outils IA"
     },
     "OneSignal Logo": {
       "ja": "OneSignalロゴ",
@@ -4970,25 +4992,29 @@
       "ja": "変更しない",
       "es": "Dejar sin cambios",
       "pt": "Manter inalterado",
-      "ko": "변경하지 않음"
+      "ko": "변경하지 않음",
+      "fr": "Laisser inchangé"
     },
     "Loading Goal...": {
       "ja": "目標を読み込み中...",
       "es": "Cargando objetivo...",
       "pt": "Carregando objetivo...",
-      "ko": "목표 로딩 중..."
+      "ko": "목표 로딩 중...",
+      "fr": "Chargement de l'objectif..."
     },
     "Loading notification. Please wait a moment...": {
       "ja": "通知を読み込んでいます。しばらくお待ちください...",
       "es": "Cargando notificación. Espere un momento...",
       "pt": "Carregando notificação. Aguarde um momento...",
-      "ko": "알림을 로드하는 중입니다. 잠시만 기다려 주세요..."
+      "ko": "알림을 로드하는 중입니다. 잠시만 기다려 주세요...",
+      "fr": "Chargement de la notification. Patientez un instant..."
     },
     "Lockscreen Visibility": {
       "ja": "ロック画面の表示",
       "es": "Visibilidad en pantalla de bloqueo",
       "pt": "Visibilidade na tela de bloqueio",
-      "ko": "잠금 화면 표시"
+      "ko": "잠금 화면 표시",
+      "fr": "Visibilité de l'écran de verrouillage"
     },
     "Message ID": {
       "ja": "メッセージID",
@@ -5148,13 +5174,15 @@
       "ja": "ログアウト",
       "es": "Cerrar sesión",
       "pt": "Sair",
-      "ko": "로그아웃"
+      "ko": "로그아웃",
+      "fr": "Se déconnecter"
     },
     "Manage account": {
       "ja": "アカウント管理",
       "es": "Administrar cuenta",
       "pt": "Gerenciar conta",
-      "ko": "계정 관리"
+      "ko": "계정 관리",
+      "fr": "Gérer le compte"
     },
     "Search for an app": {
       "ja": "アプリを検索",
@@ -5203,7 +5231,8 @@
       "ja": "最終更新",
       "es": "Última actualización",
       "pt": "Última atualização",
-      "ko": "마지막 업데이트"
+      "ko": "마지막 업데이트",
+      "fr": "Dernière mise à jour"
     },
     "Track all message events": {
       "ja": "すべてのメッセージイベントを追跡",
@@ -5270,7 +5299,8 @@
       "ja": "ログ",
       "es": "Registros",
       "pt": "Registros",
-      "ko": "로그"
+      "ko": "로그",
+      "fr": "Journaux"
     },
     "Method": {
       "ja": "メソッド",
@@ -5340,7 +5370,8 @@
       "ja": "分析を表す折れ線グラフ",
       "es": "Gráfico de líneas que muestra análisis",
       "pt": "Gráfico de linha que mostra análise",
-      "ko": "분석을 나타내는 선 차트"
+      "ko": "분석을 나타내는 선 차트",
+      "fr": "Graphique linéaire des analyses"
     },
     "OneSignal quickstart designs": {
       "ja": "OneSignalクイックスタートデザイン",
@@ -5604,7 +5635,8 @@
       "ja": "ここでセグメントを管理。",
       "es": "Administra los segmentos aquí.",
       "pt": "Gerencie segmentos aqui.",
-      "ko": "여기에서 세그먼트를 관리하세요."
+      "ko": "여기에서 세그먼트를 관리하세요.",
+      "fr": "Gérez les segments ici."
     },
     "Message Events and Tags": {
       "ja": "メッセージイベントとタグ",
@@ -5945,7 +5977,8 @@
       "ja": "左揃え",
       "es": "Alineado a la izquierda",
       "pt": "Alinhado à esquerda",
-      "ko": "왼쪽 정렬"
+      "ko": "왼쪽 정렬",
+      "fr": "Aligné à gauche"
     },
     "Right aligned": {
       "ja": "右揃え",
@@ -6220,7 +6253,8 @@
       "ja": "メッセージとアプリ情報を読み込み中。しばらくお待ちください...",
       "es": "Cargando información del mensaje y la app. Espera un momento...",
       "pt": "Carregando mensagem e informações do app. Aguarde um momento...",
-      "ko": "메시지 및 앱 정보를 로드하는 중입니다. 잠시만 기다려 주세요..."
+      "ko": "메시지 및 앱 정보를 로드하는 중입니다. 잠시만 기다려 주세요...",
+      "fr": "Chargement des informations du message et de l'app. Patientez un instant..."
     },
     "Multiple times": {
       "ja": "複数回",
@@ -6382,7 +6416,8 @@
       "ja": "ライトモード",
       "es": "Modo claro",
       "pt": "Modo claro",
-      "ko": "라이트 모드"
+      "ko": "라이트 모드",
+      "fr": "Mode clair"
     },
     "Portrait": {
       "ja": "縦向き",
@@ -6736,7 +6771,8 @@
       "ja": "離れる",
       "es": "Salir",
       "pt": "Sair",
-      "ko": "나가기"
+      "ko": "나가기",
+      "fr": "Quitter"
     },
     "Meet a certain condition": {
       "ja": "特定の条件を満たす",
@@ -6955,7 +6991,8 @@
       "ja": "レガシー形式",
       "es": "Formato heredado",
       "pt": "Formato antigo",
-      "ko": "레거시 형식"
+      "ko": "레거시 형식",
+      "fr": "Ancien format"
     },
     "New Format": {
       "ja": "新しい形式",
@@ -7266,7 +7303,8 @@
       "ja": "起動URL 1",
       "es": "URL de lanzamiento 1",
       "pt": "URL de lançamento 1",
-      "ko": "실행 URL 1"
+      "ko": "실행 URL 1",
+      "fr": "URL de lancement 1"
     },
     "Media": {
       "ja": "メディア",
@@ -7870,7 +7908,8 @@
       "ja": "画像へのローカルパスまたはURL",
       "es": "Ruta local o URL de la imagen",
       "pt": "Caminho local ou URL da imagem",
-      "ko": "이미지의 로컬 경로 또는 URL"
+      "ko": "이미지의 로컬 경로 또는 URL",
+      "fr": "Chemin local ou URL de l'image"
     },
     "RCS": {
       "ja": "RCS",
@@ -8318,13 +8357,15 @@
       "ja": "ジャーニーの詳細を確認。",
       "es": "Más información sobre Journeys.",
       "pt": "Saiba mais sobre Journeys.",
-      "ko": "저니에 대해 자세히 알아보세요."
+      "ko": "저니에 대해 자세히 알아보세요.",
+      "fr": "En savoir plus sur Journeys."
     },
     "Location Point": {
       "ja": "位置ポイント",
       "es": "Punto de ubicación",
       "pt": "Ponto de localização",
-      "ko": "위치 지점"
+      "ko": "위치 지점",
+      "fr": "Point d'emplacement"
     },
     "No aliases": {
       "ja": "エイリアスなし",
@@ -8481,7 +8522,8 @@
       "ja": "アクティブにする",
       "es": "Hacer activo",
       "pt": "Tornar ativo",
-      "ko": "활성화"
+      "ko": "활성화",
+      "fr": "Activer"
     },
     "My Message": {
       "ja": "マイメッセージ",
@@ -8974,13 +9016,15 @@
       "ja": "Mailgun資格情報",
       "es": "Credenciales de Mailgun",
       "pt": "Credenciais do Mailgun",
-      "ko": "Mailgun 자격 증명"
+      "ko": "Mailgun 자격 증명",
+      "fr": "Identifiants Mailgun"
     },
     "Manually Added": {
       "ja": "手動で追加",
       "es": "Agregado manualmente",
       "pt": "Adicionado manualmente",
-      "ko": "수동으로 추가됨"
+      "ko": "수동으로 추가됨",
+      "fr": "Ajouté manuellement"
     },
     "OneSignal only provides suppression management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみサプレッション管理を提供します。",
@@ -9136,7 +9180,8 @@
       "ja": "レガシーAPIキー",
       "es": "Clave de API heredada",
       "pt": "Chave de API antiga",
-      "ko": "레거시 API 키"
+      "ko": "레거시 API 키",
+      "fr": "Ancienne clé d'API"
     },
     "NOTE: only HTML emails are currently accepted - text-only emails should be created manually in the dashboard via copy and paste.": {
       "ja": "注意: 現在はHTMLメールのみが受け付けられています。テキストのみのメールは、コピー＆ペーストでダッシュボードに手動で作成してください。",
@@ -9236,13 +9281,15 @@
       "ja": "カスタム結果を追跡する方法を学ぶ",
       "es": "Aprende a rastrear resultados personalizados",
       "pt": "Saiba como rastrear resultados personalizados",
-      "ko": "사용자 정의 결과를 추적하는 방법 알아보기"
+      "ko": "사용자 정의 결과를 추적하는 방법 알아보기",
+      "fr": "Apprenez à suivre les résultats personnalisés"
     },
     "Line chart depicting analytics for two messages": {
       "ja": "2つのメッセージの分析を表す折れ線グラフ",
       "es": "Gráfico de líneas que muestra el análisis de dos mensajes",
       "pt": "Gráfico de linha que mostra análises de duas mensagens",
-      "ko": "두 메시지의 분석을 나타내는 선 차트"
+      "ko": "두 메시지의 분석을 나타내는 선 차트",
+      "fr": "Graphique linéaire des analyses pour deux messages"
     },
     "Max push notifications per user": {
       "ja": "ユーザーあたりの最大プッシュ通知数",
@@ -9360,7 +9407,8 @@
       "ja": "MMSスループット",
       "es": "Capacidad de MMS",
       "pt": "Taxa de MMS",
-      "ko": "MMS 처리량"
+      "ko": "MMS 처리량",
+      "fr": "Débit MMS"
     },
     "Maximum messages per second (MPS) allowed on this OneSignal app depends on the customer's Twilio trust score and the sender types that the customer is using.": {
       "ja": "このOneSignalアプリで許可される秒あたりの最大メッセージ数 (MPS) は、お客様のTwilio信頼スコアと使用している送信者タイプによって異なります。",
@@ -9615,7 +9663,8 @@
       "ja": "ロングコード",
       "es": "Código largo",
       "pt": "Código longo",
-      "ko": "롱 코드"
+      "ko": "롱 코드",
+      "fr": "Long Code"
     },
     "Toll Free": {
       "ja": "フリーダイヤル",
@@ -9739,7 +9788,8 @@
       "ja": "ログイン方法",
       "es": "Método de inicio de sesión",
       "pt": "Método de login",
-      "ko": "로그인 방법"
+      "ko": "로그인 방법",
+      "fr": "Méthode de connexion"
     },
     "Member": {
       "ja": "メンバー",
