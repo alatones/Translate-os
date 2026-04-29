@@ -3615,7 +3615,8 @@
       "pt": "Salvar alterações",
       "ko": "변경사항 저장",
       "fr": "Enregistrer les modifications",
-      "tr": "Değişiklikleri kaydet"
+      "tr": "Değişiklikleri kaydet",
+      "zh-CN": "保存更改"
     },
     "Saving": {
       "es": "Guardando",
@@ -3623,7 +3624,8 @@
       "pt": "Salvando",
       "ko": "저장 중",
       "fr": "Enregistrement",
-      "tr": "Kaydediliyor"
+      "tr": "Kaydediliyor",
+      "zh-CN": "保存中"
     },
     "Schedule": {
       "es": "Programación",
@@ -3631,7 +3633,8 @@
       "pt": "Agendamento",
       "ko": "일정",
       "fr": "Planification",
-      "tr": "Planlama"
+      "tr": "Planlama",
+      "zh-CN": "计划"
     },
     "Schedule for Later": {
       "es": "Programar para después",
@@ -3639,7 +3642,8 @@
       "pt": "Agendar para depois",
       "ko": "나중에 예약",
       "fr": "Planifier pour plus tard",
-      "tr": "Daha sonrası için planla"
+      "tr": "Daha sonrası için planla",
+      "zh-CN": "计划稍后"
     },
     "Scheduled": {
       "es": "Programado",
@@ -3647,7 +3651,8 @@
       "pt": "Agendado",
       "ko": "예약됨",
       "fr": "Planifié",
-      "tr": "Planlandı"
+      "tr": "Planlandı",
+      "zh-CN": "已计划"
     },
     "Scheduled Messages": {
       "es": "Mensajes programados",
@@ -3655,7 +3660,8 @@
       "pt": "Mensagens agendadas",
       "ko": "예약된 메시지",
       "fr": "Messages planifiés",
-      "tr": "Planlanan mesajlar"
+      "tr": "Planlanan mesajlar",
+      "zh-CN": "已计划消息"
     },
     "SDK": {
       "es": "SDK",
@@ -3663,7 +3669,8 @@
       "pt": "SDK",
       "ko": "SDK",
       "fr": "SDK",
-      "tr": "SDK"
+      "tr": "SDK",
+      "zh-CN": "SDK"
     },
     "SDK version": {
       "es": "Versión del SDK",
@@ -3671,7 +3678,8 @@
       "pt": "Versão do SDK",
       "ko": "SDK 버전",
       "fr": "Version du SDK",
-      "tr": "SDK sürümü"
+      "tr": "SDK sürümü",
+      "zh-CN": "SDK 版本"
     },
     "SDKs": {
       "es": "SDKs",
@@ -3679,7 +3687,8 @@
       "pt": "SDKs",
       "ko": "SDK",
       "fr": "SDK",
-      "tr": "SDK'ler"
+      "tr": "SDK'ler",
+      "zh-CN": "SDK"
     },
     "SDKs Guide": {
       "es": "Guía de SDKs",
@@ -3687,7 +3696,8 @@
       "pt": "Guia de SDKs",
       "ko": "SDK 가이드",
       "fr": "Guide des SDK",
-      "tr": "SDK kılavuzu"
+      "tr": "SDK kılavuzu",
+      "zh-CN": "SDK 指南"
     },
     "Search": {
       "es": "Buscar",
@@ -3695,7 +3705,8 @@
       "pt": "Pesquisar",
       "ko": "검색",
       "fr": "Rechercher",
-      "tr": "Ara"
+      "tr": "Ara",
+      "zh-CN": "搜索"
     },
     "Search apps": {
       "es": "Buscar apps",
@@ -3703,7 +3714,8 @@
       "pt": "Pesquisar apps",
       "ko": "앱 검색",
       "fr": "Rechercher des apps",
-      "tr": "Uygulamalarda ara"
+      "tr": "Uygulamalarda ara",
+      "zh-CN": "搜索应用"
     },
     "Search by name": {
       "es": "Buscar por nombre",
@@ -3711,7 +3723,8 @@
       "pt": "Pesquisar por nome",
       "ko": "이름으로 검색",
       "fr": "Rechercher par nom",
-      "tr": "Ada göre ara"
+      "tr": "Ada göre ara",
+      "zh-CN": "按名称搜索"
     },
     "Search event names": {
       "es": "Buscar nombres de eventos",
@@ -3719,7 +3732,8 @@
       "pt": "Pesquisar nomes de eventos",
       "ko": "이벤트 이름 검색",
       "fr": "Rechercher des noms d'événements",
-      "tr": "Etkinlik adlarında ara"
+      "tr": "Etkinlik adlarında ara",
+      "zh-CN": "搜索事件名称"
     },
     "Search term": {
       "es": "Término de búsqueda",
@@ -3727,7 +3741,8 @@
       "pt": "Termo de pesquisa",
       "ko": "검색어",
       "fr": "Terme de recherche",
-      "tr": "Arama terimi"
+      "tr": "Arama terimi",
+      "zh-CN": "搜索词"
     },
     "Search…": {
       "es": "Buscar…",
@@ -3735,7 +3750,8 @@
       "pt": "Pesquisar…",
       "ko": "검색…",
       "fr": "Rechercher…",
-      "tr": "Ara…"
+      "tr": "Ara…",
+      "zh-CN": "搜索…"
     },
     "Secret": {
       "es": "Secreto",
@@ -3743,7 +3759,8 @@
       "pt": "Segredo",
       "ko": "시크릿",
       "fr": "Secret",
-      "tr": "Gizli"
+      "tr": "Gizli",
+      "zh-CN": "密钥"
     },
     "Segment": {
       "es": "Segmento",
@@ -3751,7 +3768,8 @@
       "pt": "Segmento",
       "ko": "세그먼트",
       "fr": "Segment",
-      "tr": "Segment"
+      "tr": "Segment",
+      "zh-CN": "Segment"
     },
     "Segment Name": {
       "es": "Nombre del segmento",
@@ -3759,7 +3777,8 @@
       "pt": "Nome do segmento",
       "ko": "세그먼트 이름",
       "fr": "Nom du segment",
-      "tr": "Segment adı"
+      "tr": "Segment adı",
+      "zh-CN": "Segment 名称"
     },
     "Segments": {
       "es": "Segmentos",
@@ -3767,7 +3786,8 @@
       "pt": "Segmentos",
       "ko": "세그먼트",
       "fr": "Segments",
-      "tr": "Segmentler"
+      "tr": "Segmentler",
+      "zh-CN": "Segment"
     },
     "Select": {
       "es": "Seleccionar",
@@ -3775,7 +3795,8 @@
       "pt": "Selecionar",
       "ko": "선택",
       "fr": "Sélectionner",
-      "tr": "Seç"
+      "tr": "Seç",
+      "zh-CN": "选择"
     },
     "Select all": {
       "es": "Seleccionar todo",
@@ -3783,7 +3804,8 @@
       "pt": "Selecionar tudo",
       "ko": "전체 선택",
       "fr": "Tout sélectionner",
-      "tr": "Tümünü seç"
+      "tr": "Tümünü seç",
+      "zh-CN": "全选"
     },
     "Send": {
       "es": "Enviar",
@@ -3791,7 +3813,8 @@
       "pt": "Enviar",
       "ko": "발송",
       "fr": "Envoyer",
-      "tr": "Gönder"
+      "tr": "Gönder",
+      "zh-CN": "发送"
     },
     "Send at": {
       "es": "Enviar el",
@@ -3799,7 +3822,8 @@
       "pt": "Enviar em",
       "ko": "발송 시간",
       "fr": "Envoyer le",
-      "tr": "Gönderim zamanı"
+      "tr": "Gönderim zamanı",
+      "zh-CN": "发送时间"
     },
     "Send Immediately": {
       "es": "Enviar inmediatamente",
@@ -3807,7 +3831,8 @@
       "pt": "Enviar imediatamente",
       "ko": "즉시 발송",
       "fr": "Envoyer immédiatement",
-      "tr": "Hemen gönder"
+      "tr": "Hemen gönder",
+      "zh-CN": "立即发送"
     },
     "Send Test Email": {
       "es": "Enviar email de prueba",
@@ -3815,7 +3840,8 @@
       "pt": "Enviar email de teste",
       "ko": "테스트 이메일 발송",
       "fr": "Envoyer un email de test",
-      "tr": "Test emaili gönder"
+      "tr": "Test emaili gönder",
+      "zh-CN": "发送测试 Email"
     },
     "Send Test Push": {
       "es": "Enviar push de prueba",
@@ -3823,7 +3849,8 @@
       "pt": "Enviar push de teste",
       "ko": "테스트 푸시 발송",
       "fr": "Envoyer un push de test",
-      "tr": "Test push'u gönder"
+      "tr": "Test push'u gönder",
+      "zh-CN": "发送测试 Push"
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
@@ -3831,7 +3858,8 @@
       "pt": "Enviar para todos os assinantes",
       "ko": "모든 구독자에게 발송",
       "fr": "Envoyer à tous les abonnés",
-      "tr": "Tüm abonelere gönder"
+      "tr": "Tüm abonelere gönder",
+      "zh-CN": "发送给所有订阅者"
     },
     "Sender": {
       "es": "Remitente",
@@ -3839,7 +3867,8 @@
       "pt": "Remetente",
       "ko": "발신자",
       "fr": "Expéditeur",
-      "tr": "Gönderen"
+      "tr": "Gönderen",
+      "zh-CN": "发件人"
     },
     "Senders": {
       "es": "Remitentes",
@@ -3847,7 +3876,8 @@
       "pt": "Remetentes",
       "ko": "발신자",
       "fr": "Expéditeurs",
-      "tr": "Gönderenler"
+      "tr": "Gönderenler",
+      "zh-CN": "发件人"
     },
     "Senders & configuration": {
       "es": "Remitentes y configuración",
@@ -3855,7 +3885,8 @@
       "pt": "Remetentes e configuração",
       "ko": "발신자 및 구성",
       "fr": "Expéditeurs et configuration",
-      "tr": "Gönderenler ve yapılandırma"
+      "tr": "Gönderenler ve yapılandırma",
+      "zh-CN": "发件人和配置"
     },
     "Senders, suppressions & configuration": {
       "es": "Remitentes, supresiones y configuración",
@@ -3863,7 +3894,8 @@
       "pt": "Remetentes, supressões e configuração",
       "ko": "발신자, 수신 거부 및 구성",
       "fr": "Expéditeurs, suppressions et configuration",
-      "tr": "Gönderenler, engelliler ve yapılandırma"
+      "tr": "Gönderenler, engelliler ve yapılandırma",
+      "zh-CN": "发件人、屏蔽和配置"
     },
     "Sending": {
       "es": "Enviando",
@@ -3871,7 +3903,8 @@
       "pt": "Enviando",
       "ko": "발송 중",
       "fr": "Envoi en cours",
-      "tr": "Gönderiliyor"
+      "tr": "Gönderiliyor",
+      "zh-CN": "发送中"
     },
     "Sent": {
       "es": "Enviado",
@@ -3879,7 +3912,8 @@
       "pt": "Enviado",
       "ko": "발송됨",
       "fr": "Envoyé",
-      "tr": "Gönderildi"
+      "tr": "Gönderildi",
+      "zh-CN": "已发送"
     },
     "Sent at": {
       "es": "Enviado el",
@@ -3887,7 +3921,8 @@
       "pt": "Enviado em",
       "ko": "발송 시간",
       "fr": "Envoyé le",
-      "tr": "Gönderim zamanı"
+      "tr": "Gönderim zamanı",
+      "zh-CN": "发送时间"
     },
     "Sent Messages": {
       "es": "Mensajes enviados",
@@ -3895,7 +3930,8 @@
       "pt": "Mensagens enviadas",
       "ko": "발송된 메시지",
       "fr": "Messages envoyés",
-      "tr": "Gönderilen mesajlar"
+      "tr": "Gönderilen mesajlar",
+      "zh-CN": "已发送消息"
     },
     "Sep": {
       "es": "sep",
@@ -3903,7 +3939,8 @@
       "pt": "set",
       "ko": "9월",
       "fr": "sep",
-      "tr": "eyl"
+      "tr": "eyl",
+      "zh-CN": "9月"
     },
     "September": {
       "es": "septiembre",
@@ -3911,7 +3948,8 @@
       "pt": "setembro",
       "ko": "9월",
       "fr": "septembre",
-      "tr": "eylül"
+      "tr": "eylül",
+      "zh-CN": "9月"
     },
     "Session Count": {
       "es": "Sesiones",
@@ -3919,7 +3957,8 @@
       "pt": "Sessões",
       "ko": "세션 수",
       "fr": "Nombre de sessions",
-      "tr": "Oturum sayısı"
+      "tr": "Oturum sayısı",
+      "zh-CN": "会话数"
     },
     "Sessions": {
       "es": "Sesiones",
@@ -3927,7 +3966,8 @@
       "pt": "Sessões",
       "ko": "세션",
       "fr": "Sessions",
-      "tr": "Oturumlar"
+      "tr": "Oturumlar",
+      "zh-CN": "会话"
     },
     "Sessions (count)": {
       "es": "Sesiones (recuento)",
@@ -3935,7 +3975,8 @@
       "pt": "Sessões (contagem)",
       "ko": "세션 수",
       "fr": "Sessions (nombre)",
-      "tr": "Oturumlar (sayı)"
+      "tr": "Oturumlar (sayı)",
+      "zh-CN": "会话 (数量)"
     },
     "Sessions:": {
       "es": "Sesiones:",
@@ -3943,7 +3984,8 @@
       "pt": "Sessões:",
       "ko": "세션:",
       "fr": "Sessions :",
-      "tr": "Oturumlar:"
+      "tr": "Oturumlar:",
+      "zh-CN": "会话:"
     },
     "Set up security and API keys": {
       "es": "Configurar seguridad y claves API",
@@ -3951,7 +3993,8 @@
       "pt": "Configurar segurança e chaves de API",
       "ko": "보안 및 API 키 설정",
       "fr": "Configurer la sécurité et les clés d'API",
-      "tr": "Güvenlik ve API anahtarlarını ayarlayın"
+      "tr": "Güvenlik ve API anahtarlarını ayarlayın",
+      "zh-CN": "设置安全和 API 密钥"
     },
     "Settings": {
       "es": "Ajustes",
@@ -3959,7 +4002,8 @@
       "pt": "Configurações",
       "ko": "설정",
       "fr": "Paramètres",
-      "tr": "Ayarlar"
+      "tr": "Ayarlar",
+      "zh-CN": "设置"
     },
     "Show all outcomes": {
       "es": "Mostrar todos los resultados",
@@ -3967,7 +4011,8 @@
       "pt": "Mostrar todos os resultados",
       "ko": "모든 결과 표시",
       "fr": "Afficher tous les résultats",
-      "tr": "Tüm sonuçları göster"
+      "tr": "Tüm sonuçları göster",
+      "zh-CN": "显示所有结果"
     },
     "Show Attempted": {
       "es": "Mostrar intentados",
@@ -3975,7 +4020,8 @@
       "pt": "Mostrar tentativas",
       "ko": "시도됨 표시",
       "fr": "Afficher les tentatives",
-      "tr": "Denenenleri göster"
+      "tr": "Denenenleri göster",
+      "zh-CN": "显示已尝试"
     },
     "Show Attempted Events": {
       "es": "Mostrar eventos intentados",
@@ -3983,7 +4029,8 @@
       "pt": "Mostrar eventos tentados",
       "ko": "시도된 이벤트 표시",
       "fr": "Afficher les événements tentés",
-      "tr": "Denenen etkinlikleri göster"
+      "tr": "Denenen etkinlikleri göster",
+      "zh-CN": "显示已尝试事件"
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
@@ -3991,7 +4038,8 @@
       "pt": "Mostrar atualizações tentadas",
       "ko": "시도된 업데이트 표시",
       "fr": "Afficher les mises à jour tentées",
-      "tr": "Denenen güncellemeleri göster"
+      "tr": "Denenen güncellemeleri göster",
+      "zh-CN": "显示已尝试更新"
     },
     "Show Clicked": {
       "es": "Mostrar clics",
@@ -3999,7 +4047,8 @@
       "pt": "Mostrar cliques",
       "ko": "클릭됨 표시",
       "fr": "Afficher les clics",
-      "tr": "Tıklananları göster"
+      "tr": "Tıklananları göster",
+      "zh-CN": "显示已点击"
     },
     "Show Confirmed receipt": {
       "es": "Mostrar recepción confirmada",
@@ -4007,7 +4056,8 @@
       "pt": "Mostrar recebimento confirmado",
       "ko": "수신 확인 표시",
       "fr": "Afficher la réception confirmée",
-      "tr": "Alındı onaylananları göster"
+      "tr": "Alındı onaylananları göster",
+      "zh-CN": "显示已确认接收"
     },
     "Show Delivered": {
       "es": "Mostrar entregados",
