@@ -58,7 +58,13 @@ def check_glossary_enforcement(langs_data, glossary_data):
             r"(?<![A-Za-z])" + re.escape(src_term) + r"(?![A-Za-z])",
             re.IGNORECASE if src_term.lower() == src_term else 0,
         )
+        # Per-term skip list: English source keys where the term appears
+        # in a different sense (e.g. "Segment" the Twilio company, not
+        # the OneSignal feature) and the glossary check should not apply.
+        skip_keys = set(mapping.get("_skip_keys", []))
         for english_key, target in translations.items():
+            if english_key in skip_keys:
+                continue
             if not pattern.search(english_key):
                 continue
             for lang in LANGS:
