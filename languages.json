@@ -6013,350 +6013,400 @@
       "es": "Windows",
       "pt": "Windows",
       "ko": "Windows",
-      "fr": "Windows"
+      "fr": "Windows",
+      "tr": "Windows"
     },
     "macOS": {
       "ja": "macOS",
       "es": "macOS",
       "pt": "macOS",
       "ko": "macOS",
-      "fr": "macOS"
+      "fr": "macOS",
+      "tr": "macOS"
     },
     "Advanced Settings": {
       "ja": "詳細設定",
       "es": "Configuración avanzada",
       "pt": "Configurações avançadas",
       "ko": "고급 설정",
-      "fr": "Paramètres avancés"
+      "fr": "Paramètres avancés",
+      "tr": "Gelişmiş ayarlar"
     },
     "All Active Users": {
       "ja": "すべてのアクティブユーザー",
       "es": "Todos los usuarios activos",
       "pt": "Todos os usuários ativos",
       "ko": "모든 활성 사용자",
-      "fr": "Tous les utilisateurs actifs"
+      "fr": "Tous les utilisateurs actifs",
+      "tr": "Tüm aktif kullanıcılar"
     },
     "Audience activity": {
       "ja": "オーディエンスの活動",
       "es": "Actividad de la audiencia",
       "pt": "Atividade do público",
       "ko": "대상 활동",
-      "fr": "Activité de l'audience"
+      "fr": "Activité de l'audience",
+      "tr": "Hedef kitle etkinliği"
     },
     "Audience activity is no longer available after 30 days": {
       "ja": "オーディエンスの活動は30日経過後は表示されません",
       "es": "La actividad de la audiencia ya no está disponible después de 30 días",
       "pt": "A atividade do público não está mais disponível após 30 dias",
       "ko": "대상 활동은 30일 이후 더 이상 제공되지 않습니다",
-      "fr": "L'activité de l'audience n'est plus disponible après 30 jours"
+      "fr": "L'activité de l'audience n'est plus disponible après 30 jours",
+      "tr": "Hedef kitle etkinliği 30 gün sonra artık mevcut değildir"
     },
     "Badges": {
       "ja": "バッジ",
       "es": "Insignias",
       "pt": "Distintivos",
       "ko": "배지",
-      "fr": "Badges"
+      "fr": "Badges",
+      "tr": "Rozetler"
     },
     "Capped": {
       "ja": "制限あり",
       "es": "Limitado",
       "pt": "Limitado",
       "ko": "제한됨",
-      "fr": "Plafonné"
+      "fr": "Plafonné",
+      "tr": "Sınırlı"
     },
     "Channel Mode": {
       "ja": "チャネルモード",
       "es": "Modo de canal",
       "pt": "Modo de canal",
       "ko": "채널 모드",
-      "fr": "Mode du canal"
+      "fr": "Mode du canal",
+      "tr": "Kanal modu"
     },
     "Content Available": {
       "ja": "コンテンツ利用可能",
       "es": "Contenido disponible",
       "pt": "Conteúdo disponível",
       "ko": "콘텐츠 사용 가능",
-      "fr": "Contenu disponible"
+      "fr": "Contenu disponible",
+      "tr": "İçerik mevcut"
     },
     "Copy to clipboard": {
       "ja": "クリップボードにコピー",
       "es": "Copiar al portapapeles",
       "pt": "Copiar para a área de transferência",
       "ko": "클립보드에 복사",
-      "fr": "Copier dans le presse-papiers"
+      "fr": "Copier dans le presse-papiers",
+      "tr": "Panoya kopyala"
     },
     "Deliveries by platform": {
       "ja": "プラットフォーム別の配信",
       "es": "Entregas por plataforma",
       "pt": "Entregas por plataforma",
       "ko": "플랫폼별 전달",
-      "fr": "Livraisons par plateforme"
+      "fr": "Livraisons par plateforme",
+      "tr": "Platforma göre teslimatlar"
     },
     "Delivery time": {
       "ja": "配信時刻",
       "es": "Hora de entrega",
       "pt": "Hora de entrega",
       "ko": "전달 시간",
-      "fr": "Heure de livraison"
+      "fr": "Heure de livraison",
+      "tr": "Teslim zamanı"
     },
     "Did not click": {
       "ja": "クリックなし",
       "es": "No hizo clic",
       "pt": "Não clicou",
       "ko": "클릭하지 않음",
-      "fr": "N'a pas cliqué"
+      "fr": "N'a pas cliqué",
+      "tr": "Tıklamadı"
     },
     "Did not confirm receipt": {
       "ja": "受信未確認",
       "es": "No confirmó recepción",
       "pt": "Não confirmou recebimento",
       "ko": "수신 확인하지 않음",
-      "fr": "N'a pas confirmé la réception"
+      "fr": "N'a pas confirmé la réception",
+      "tr": "Alındıyı onaylamadı"
     },
     "False": {
       "ja": "偽",
       "es": "Falso",
       "pt": "Falso",
       "ko": "거짓",
-      "fr": "Faux"
+      "fr": "Faux",
+      "tr": "Yanlış"
     },
     "True": {
       "ja": "真",
       "es": "Verdadero",
       "pt": "Verdadeiro",
       "ko": "참",
-      "fr": "Vrai"
+      "fr": "Vrai",
+      "tr": "Doğru"
     },
     "Influenced opens": {
       "ja": "影響を受けた開封",
       "es": "Aperturas influenciadas",
       "pt": "Aberturas influenciadas",
       "ko": "영향받아 열림",
-      "fr": "Ouvertures influencées"
+      "fr": "Ouvertures influencées",
+      "tr": "Etkilenen açılmalar"
     },
     "Interruption Level": {
       "ja": "割り込みレベル",
       "es": "Nivel de interrupción",
       "pt": "Nível de interrupção",
       "ko": "중단 수준",
-      "fr": "Niveau d'interruption"
+      "fr": "Niveau d'interruption",
+      "tr": "Kesinti düzeyi"
     },
     "Leave unchanged": {
       "ja": "変更しない",
       "es": "Dejar sin cambios",
       "pt": "Manter inalterado",
       "ko": "변경하지 않음",
-      "fr": "Laisser inchangé"
+      "fr": "Laisser inchangé",
+      "tr": "Değişiklik yapma"
     },
     "Loading Goal...": {
       "ja": "目標を読み込み中...",
       "es": "Cargando objetivo...",
       "pt": "Carregando objetivo...",
       "ko": "목표 로딩 중...",
-      "fr": "Chargement de l'objectif..."
+      "fr": "Chargement de l'objectif...",
+      "tr": "Hedef yükleniyor..."
     },
     "Loading notification. Please wait a moment...": {
       "ja": "通知を読み込んでいます。しばらくお待ちください...",
       "es": "Cargando notificación. Espere un momento...",
       "pt": "Carregando notificação. Aguarde um momento...",
       "ko": "알림을 로드하는 중입니다. 잠시만 기다려 주세요...",
-      "fr": "Chargement de la notification. Patientez un instant..."
+      "fr": "Chargement de la notification. Patientez un instant...",
+      "tr": "Bildirim yükleniyor. Lütfen bir an bekleyin..."
     },
     "Lockscreen Visibility": {
       "ja": "ロック画面の表示",
       "es": "Visibilidad en pantalla de bloqueo",
       "pt": "Visibilidade na tela de bloqueio",
       "ko": "잠금 화면 표시",
-      "fr": "Visibilité de l'écran de verrouillage"
+      "fr": "Visibilité de l'écran de verrouillage",
+      "tr": "Kilit ekranı görünürlüğü"
     },
     "Message ID": {
       "ja": "メッセージID",
       "es": "ID del mensaje",
       "pt": "ID da mensagem",
       "ko": "메시지 ID",
-      "fr": "ID du message"
+      "fr": "ID du message",
+      "tr": "Mesaj ID"
     },
     "Message Statistics": {
       "ja": "メッセージ統計",
       "es": "Estadísticas del mensaje",
       "pt": "Estatísticas da mensagem",
       "ko": "메시지 통계",
-      "fr": "Statistiques du message"
+      "fr": "Statistiques du message",
+      "tr": "Mesaj istatistikleri"
     },
     "Message name": {
       "ja": "メッセージ名",
       "es": "Nombre del mensaje",
       "pt": "Nome da mensagem",
       "ko": "메시지 이름",
-      "fr": "Nom du message"
+      "fr": "Nom du message",
+      "tr": "Mesaj adı"
     },
     "Message settings": {
       "ja": "メッセージ設定",
       "es": "Configuración del mensaje",
       "pt": "Configurações da mensagem",
       "ko": "메시지 설정",
-      "fr": "Paramètres du message"
+      "fr": "Paramètres du message",
+      "tr": "Mesaj ayarları"
     },
     "Mutable Content": {
       "ja": "可変コンテンツ",
       "es": "Contenido mutable",
       "pt": "Conteúdo mutável",
       "ko": "변경 가능 콘텐츠",
-      "fr": "Contenu modifiable"
+      "fr": "Contenu modifiable",
+      "tr": "Değiştirilebilir içerik"
     },
     "Normal": {
       "ja": "通常",
       "es": "Normal",
       "pt": "Normal",
       "ko": "보통",
-      "fr": "Normal"
+      "fr": "Normal",
+      "tr": "Normal"
     },
     "Public - Always show the contents on the lockscreen.": {
       "ja": "公開 - ロック画面に常にコンテンツを表示する。",
       "es": "Público - Siempre mostrar el contenido en la pantalla de bloqueo.",
       "pt": "Público - Sempre mostrar o conteúdo na tela de bloqueio.",
       "ko": "공개 - 잠금 화면에 항상 콘텐츠를 표시합니다.",
-      "fr": "Public - Toujours afficher le contenu sur l'écran de verrouillage."
+      "fr": "Public - Toujours afficher le contenu sur l'écran de verrouillage.",
+      "tr": "Genel - İçeriği her zaman kilit ekranında göster."
     },
     "Realtime Message Data": {
       "ja": "リアルタイムメッセージデータ",
       "es": "Datos del mensaje en tiempo real",
       "pt": "Dados da mensagem em tempo real",
       "ko": "실시간 메시지 데이터",
-      "fr": "Données de message en temps réel"
+      "fr": "Données de message en temps réel",
+      "tr": "Gerçek zamanlı mesaj verileri"
     },
     "Relevance Score": {
       "ja": "関連度スコア",
       "es": "Puntuación de relevancia",
       "pt": "Pontuação de relevância",
       "ko": "관련성 점수",
-      "fr": "Score de pertinence"
+      "fr": "Score de pertinence",
+      "tr": "İlgi puanı"
     },
     "Remaining": {
       "ja": "残り",
       "es": "Restante",
       "pt": "Restante",
       "ko": "남음",
-      "fr": "Restant"
+      "fr": "Restant",
+      "tr": "Kalan"
     },
     "Send a Retargeted Message": {
       "ja": "リターゲティングメッセージを送信",
       "es": "Enviar un mensaje de retargeting",
       "pt": "Enviar uma mensagem de retargeting",
       "ko": "리타겟팅 메시지 발송",
-      "fr": "Envoyer un message de retargeting"
+      "fr": "Envoyer un message de retargeting",
+      "tr": "Yeniden hedeflenmiş mesaj gönder"
     },
     "Send to segments": {
       "ja": "セグメントに送信",
       "es": "Enviar a segmentos",
       "pt": "Enviar a segmentos",
       "ko": "세그먼트에 발송",
-      "fr": "Envoyer à des segments"
+      "fr": "Envoyer à des segments",
+      "tr": "Segmentlere gönder"
     },
     "Start sending": {
       "ja": "発送開始",
       "es": "Iniciar envío",
       "pt": "Iniciar envio",
       "ko": "발송 시작",
-      "fr": "Commencer l'envoi"
+      "fr": "Commencer l'envoi",
+      "tr": "Göndermeye başla"
     },
     "Subtitle": {
       "ja": "サブタイトル",
       "es": "Subtítulo",
       "pt": "Subtítulo",
       "ko": "부제목",
-      "fr": "Sous-titre"
+      "fr": "Sous-titre",
+      "tr": "Alt başlık"
     },
     "Throttling": {
       "ja": "スロットリング",
       "es": "Limitación",
       "pt": "Limitação",
       "ko": "쓰로틀링",
-      "fr": "Limitation"
+      "fr": "Limitation",
+      "tr": "Sınırlama"
     },
     "Time To Live": {
       "ja": "有効期間",
       "es": "Tiempo de vida",
       "pt": "Tempo de vida",
       "ko": "유효 시간",
-      "fr": "Durée de vie"
+      "fr": "Durée de vie",
+      "tr": "Yaşam süresi"
     },
     "Title": {
       "ja": "タイトル",
       "es": "Título",
       "pt": "Título",
       "ko": "제목",
-      "fr": "Titre"
+      "fr": "Titre",
+      "tr": "Başlık"
     },
     "Total clicks": {
       "ja": "総クリック数",
       "es": "Total de clics",
       "pt": "Total de cliques",
       "ko": "총 클릭 수",
-      "fr": "Total des clics"
+      "fr": "Total des clics",
+      "tr": "Toplam tıklama"
     },
     "Total number of recipients": {
       "ja": "受信者総数",
       "es": "Número total de destinatarios",
       "pt": "Número total de destinatários",
       "ko": "총 수신자 수",
-      "fr": "Nombre total de destinataires"
+      "fr": "Nombre total de destinataires",
+      "tr": "Toplam alıcı sayısı"
     },
     "now": {
       "ja": "今",
       "es": "ahora",
       "pt": "agora",
       "ko": "방금",
-      "fr": "maintenant"
+      "fr": "maintenant",
+      "tr": "şimdi"
     },
     "New Segment": {
       "ja": "新しいセグメント",
       "es": "Nuevo segmento",
       "pt": "Novo segmento",
       "ko": "새 세그먼트",
-      "fr": "Nouveau segment"
+      "fr": "Nouveau segment",
+      "tr": "Yeni segment"
     },
     "App usage": {
       "ja": "アプリ使用状況",
       "es": "Uso de la aplicación",
       "pt": "Uso do aplicativo",
       "ko": "앱 사용량",
-      "fr": "Utilisation de l'app"
+      "fr": "Utilisation de l'app",
+      "tr": "Uygulama kullanımı"
     },
     "Billing": {
       "ja": "請求",
       "es": "Facturación",
       "pt": "Cobrança",
       "ko": "청구",
-      "fr": "Facturation"
+      "fr": "Facturation",
+      "tr": "Faturalama"
     },
     "Enterprise": {
       "ja": "エンタープライズ",
       "es": "Enterprise",
       "pt": "Enterprise",
       "ko": "엔터프라이즈",
-      "fr": "Enterprise"
+      "fr": "Enterprise",
+      "tr": "Enterprise"
     },
     "Invite team members": {
       "ja": "チームメンバーを招待",
       "es": "Invitar a miembros del equipo",
       "pt": "Convidar membros da equipe",
       "ko": "팀원 초대",
-      "fr": "Inviter des membres de l'équipe"
+      "fr": "Inviter des membres de l'équipe",
+      "tr": "Ekip üyeleri davet et"
     },
     "Log out": {
       "ja": "ログアウト",
       "es": "Cerrar sesión",
       "pt": "Sair",
       "ko": "로그아웃",
-      "fr": "Se déconnecter"
+      "fr": "Se déconnecter",
+      "tr": "Oturumu kapat"
     },
     "Manage account": {
       "ja": "アカウント管理",
       "es": "Administrar cuenta",
       "pt": "Gerenciar conta",
       "ko": "계정 관리",
-      "fr": "Gérer le compte"
+      "fr": "Gérer le compte",
+      "tr": "Hesabı yönet"
     },
     "Search for an app": {
       "ja": "アプリを検索",
