@@ -8663,6 +8663,186 @@
       "es": "Vista previa de respuesta de mensajes",
       "pt": "Pré-visualização de resposta de mensagens",
       "ko": "메시지 회신 미리보기"
+    },
+    "Message Reply": {
+      "ja": "メッセージ返信",
+      "es": "Respuesta de mensaje",
+      "pt": "Resposta de mensagem",
+      "ko": "메시지 회신"
+    },
+    "Everyone": {
+      "ja": "全員",
+      "es": "Todos",
+      "pt": "Todos",
+      "ko": "모두"
+    },
+    "Help": {
+      "ja": "ヘルプ",
+      "es": "Ayuda",
+      "pt": "Ajuda",
+      "ko": "도움말"
+    },
+    "Add Keyword": {
+      "ja": "キーワードを追加",
+      "es": "Agregar palabra clave",
+      "pt": "Adicionar palavra-chave",
+      "ko": "키워드 추가"
+    },
+    "Add Text-To-Subscribe Keyword": {
+      "ja": "テキスト購読キーワードを追加",
+      "es": "Agregar palabra clave de suscripción por texto",
+      "pt": "Adicionar palavra-chave de inscrição por texto",
+      "ko": "텍스트 구독 키워드 추가"
+    },
+    "Additional Opt-Out Actions": {
+      "ja": "追加のオプトアウトアクション",
+      "es": "Acciones adicionales de exclusión",
+      "pt": "Ações adicionais de exclusão",
+      "ko": "추가 옵트아웃 작업"
+    },
+    "Contract is OneSignal managed": {
+      "ja": "契約はOneSignal管理",
+      "es": "El contrato es administrado por OneSignal",
+      "pt": "O contrato é gerenciado pelo OneSignal",
+      "ko": "계약은 OneSignal에서 관리"
+    },
+    "Double Opt-In": {
+      "ja": "ダブルオプトイン",
+      "es": "Doble opt-in",
+      "pt": "Opt-in duplo",
+      "ko": "이중 옵트인"
+    },
+    "Keywords automatically send a reply when a keyword is received from a subscribed phone number.": {
+      "ja": "キーワードは、購読済みの電話番号からキーワードを受信したときに自動的に返信を送信します。",
+      "es": "Las palabras clave envían automáticamente una respuesta cuando se recibe una palabra clave desde un número de teléfono suscrito.",
+      "pt": "As palavras-chave enviam automaticamente uma resposta quando uma palavra-chave é recebida de um número de telefone inscrito.",
+      "ko": "키워드는 구독한 전화번호에서 키워드를 수신하면 자동으로 회신을 보냅니다."
+    },
+    "MMS Throughput": {
+      "ja": "MMSスループット",
+      "es": "Capacidad de MMS",
+      "pt": "Taxa de MMS",
+      "ko": "MMS 처리량"
+    },
+    "Maximum messages per second (MPS) allowed on this OneSignal app depends on the customer's Twilio trust score and the sender types that the customer is using.": {
+      "ja": "このOneSignalアプリで許可される秒あたりの最大メッセージ数 (MPS) は、お客様のTwilio信頼スコアと使用している送信者タイプによって異なります。",
+      "es": "El máximo de mensajes por segundo (MPS) permitido en esta app de OneSignal depende del puntaje de confianza de Twilio del cliente y los tipos de remitente que utiliza.",
+      "pt": "O máximo de mensagens por segundo (MPS) permitido neste app do OneSignal depende da pontuação de confiança Twilio do cliente e dos tipos de remetente em uso.",
+      "ko": "이 OneSignal 앱에서 허용되는 초당 최대 메시지 수(MPS)는 고객의 Twilio 신뢰 점수와 고객이 사용하는 발신자 유형에 따라 다릅니다."
+    },
+    "Message Prompt Preview": {
+      "ja": "メッセージプロンプトプレビュー",
+      "es": "Vista previa del mensaje de aviso",
+      "pt": "Pré-visualização do prompt de mensagem",
+      "ko": "메시지 프롬프트 미리보기"
+    },
+    "Message Prompt Template": {
+      "ja": "メッセージプロンプトテンプレート",
+      "es": "Plantilla de mensaje de aviso",
+      "pt": "Modelo de prompt de mensagem",
+      "ko": "메시지 프롬프트 템플릿"
+    },
+    "OFF": {
+      "ja": "オフ",
+      "es": "OFF",
+      "pt": "OFF",
+      "ko": "꺼짐"
+    },
+    "OneSignal SMS": {
+      "ja": "OneSignal SMS",
+      "es": "OneSignal SMS",
+      "pt": "OneSignal SMS",
+      "ko": "OneSignal SMS"
+    },
+    "Opt-Out": {
+      "ja": "オプトアウト",
+      "es": "Exclusión",
+      "pt": "Cancelar inscrição",
+      "ko": "옵트아웃"
+    },
+    "Re-Subscribe": {
+      "ja": "再購読",
+      "es": "Volver a suscribir",
+      "pt": "Reinscrever",
+      "ko": "재구독"
+    },
+    "Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
+      "ja": "購読解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
+      "es": "Responde STOP para darte de baja. Pueden aplicar tarifas de mensajes y datos.",
+      "pt": "Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
+      "ko": "구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다."
+    },
+    "SMS Regulatory Compliance Documentation": {
+      "ja": "SMS規制遵守文書",
+      "es": "Documentación de cumplimiento normativo de SMS",
+      "pt": "Documentação de conformidade regulatória SMS",
+      "ko": "SMS 규제 준수 문서"
+    },
+    "SMS double opt in": {
+      "ja": "SMSダブルオプトイン",
+      "es": "Doble opt-in de SMS",
+      "pt": "Opt-in duplo SMS",
+      "ko": "SMS 이중 옵트인"
+    },
+    "START": {
+      "ja": "START",
+      "es": "START",
+      "pt": "START",
+      "ko": "START"
+    },
+    "STOP": {
+      "ja": "STOP",
+      "es": "STOP",
+      "pt": "STOP",
+      "ko": "STOP"
+    },
+    "SUBSCRIBE": {
+      "ja": "SUBSCRIBE",
+      "es": "SUBSCRIBE",
+      "pt": "SUBSCRIBE",
+      "ko": "SUBSCRIBE"
+    },
+    "Segmented by subscription status": {
+      "ja": "購読状態別にセグメント化",
+      "es": "Segmentado por estado de suscripción",
+      "pt": "Segmentado por status de assinatura",
+      "ko": "구독 상태별 세그먼트"
+    },
+    "Send Message Prompt is": {
+      "ja": "メッセージプロンプト送信:",
+      "es": "Enviar mensaje de aviso es",
+      "pt": "Enviar prompt de mensagem é",
+      "ko": "메시지 프롬프트 발송:"
+    },
+    "Start": {
+      "ja": "開始",
+      "es": "Iniciar",
+      "pt": "Iniciar",
+      "ko": "시작"
+    },
+    "Subscription Keyword Response": {
+      "ja": "購読キーワードの応答",
+      "es": "Respuesta de palabra clave de suscripción",
+      "pt": "Resposta da palavra-chave de inscrição",
+      "ko": "구독 키워드 응답"
+    },
+    "Text-To-Subscribe Keywords": {
+      "ja": "テキスト購読キーワード",
+      "es": "Palabras clave de suscripción por texto",
+      "pt": "Palavras-chave de inscrição por texto",
+      "ko": "텍스트 구독 키워드"
+    },
+    "UNSTOP": {
+      "ja": "UNSTOP",
+      "es": "UNSTOP",
+      "pt": "UNSTOP",
+      "ko": "UNSTOP"
+    },
+    "UNSUBSCRIBE": {
+      "ja": "UNSUBSCRIBE",
+      "es": "UNSUBSCRIBE",
+      "pt": "UNSUBSCRIBE",
+      "ko": "UNSUBSCRIBE"
     }
   },
   "patterns": [
