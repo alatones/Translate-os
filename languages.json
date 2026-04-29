@@ -465,7 +465,8 @@
       "pt": "Logs de auditoria",
       "ko": "감사 로그",
       "fr": "Journaux d'audit",
-      "tr": "Denetim günlükleri"
+      "tr": "Denetim günlükleri",
+      "zh-CN": "审计日志"
     },
     "Aug": {
       "es": "ago",
@@ -473,7 +474,8 @@
       "pt": "ago",
       "ko": "8월",
       "fr": "août",
-      "tr": "ağu"
+      "tr": "ağu",
+      "zh-CN": "8月"
     },
     "August": {
       "es": "agosto",
@@ -481,7 +483,8 @@
       "pt": "agosto",
       "ko": "8월",
       "fr": "août",
-      "tr": "ağustos"
+      "tr": "ağustos",
+      "zh-CN": "8月"
     },
     "Automated": {
       "es": "Automatizado",
@@ -489,7 +492,8 @@
       "pt": "Automatizado",
       "ko": "자동화됨",
       "fr": "Automatisé",
-      "tr": "Otomatik"
+      "tr": "Otomatik",
+      "zh-CN": "自动化"
     },
     "automated": {
       "es": "automatizado",
@@ -497,7 +501,8 @@
       "pt": "automatizado",
       "ko": "자동화됨",
       "fr": "automatisé",
-      "tr": "otomatik"
+      "tr": "otomatik",
+      "zh-CN": "自动化"
     },
     "Automated Messages": {
       "es": "Mensajes automatizados",
@@ -505,7 +510,8 @@
       "pt": "Mensagens automatizadas",
       "ko": "자동화 메시지",
       "fr": "Messages automatisés",
-      "tr": "Otomatik mesajlar"
+      "tr": "Otomatik mesajlar",
+      "zh-CN": "自动化消息"
     },
     "Automation": {
       "es": "Automatización",
@@ -513,7 +519,8 @@
       "pt": "Automação",
       "ko": "자동화",
       "fr": "Automatisation",
-      "tr": "Otomasyon"
+      "tr": "Otomasyon",
+      "zh-CN": "自动化"
     },
     "Average": {
       "es": "Promedio",
@@ -521,7 +528,8 @@
       "pt": "Média",
       "ko": "평균",
       "fr": "Moyenne",
-      "tr": "Ortalama"
+      "tr": "Ortalama",
+      "zh-CN": "平均"
     },
     "Back": {
       "es": "Volver",
@@ -529,7 +537,8 @@
       "pt": "Voltar",
       "ko": "뒤로",
       "fr": "Retour",
-      "tr": "Geri"
+      "tr": "Geri",
+      "zh-CN": "返回"
     },
     "Badge": {
       "es": "Insignia",
@@ -537,7 +546,8 @@
       "pt": "Emblema",
       "ko": "배지",
       "fr": "Badge",
-      "tr": "Rozet"
+      "tr": "Rozet",
+      "zh-CN": "徽章"
     },
     "Banner": {
       "es": "Banner",
@@ -545,7 +555,8 @@
       "pt": "Banner",
       "ko": "배너",
       "fr": "Bannière",
-      "tr": "Banner"
+      "tr": "Banner",
+      "zh-CN": "横幅"
     },
     "Blog": {
       "es": "Blog",
@@ -553,7 +564,8 @@
       "pt": "Blog",
       "ko": "블로그",
       "fr": "Blog",
-      "tr": "Blog"
+      "tr": "Blog",
+      "zh-CN": "博客"
     },
     "Branch": {
       "es": "Rama",
@@ -561,7 +573,8 @@
       "pt": "Ramificação",
       "ko": "분기",
       "fr": "Branche",
-      "tr": "Şube"
+      "tr": "Şube",
+      "zh-CN": "分支"
     },
     "Calendar": {
       "es": "Calendario",
@@ -569,7 +582,8 @@
       "pt": "Calendário",
       "ko": "달력",
       "fr": "Calendrier",
-      "tr": "Takvim"
+      "tr": "Takvim",
+      "zh-CN": "日历"
     },
     "Cancel": {
       "es": "Cancelar",
@@ -577,7 +591,8 @@
       "pt": "Cancelar",
       "ko": "취소",
       "fr": "Annuler",
-      "tr": "İptal"
+      "tr": "İptal",
+      "zh-CN": "取消"
     },
     "Canceled": {
       "es": "Cancelado",
@@ -585,7 +600,8 @@
       "pt": "Cancelado",
       "ko": "취소됨",
       "fr": "Annulé",
-      "tr": "İptal edildi"
+      "tr": "İptal edildi",
+      "zh-CN": "已取消"
     },
     "Careers": {
       "es": "Empleo",
@@ -593,7 +609,8 @@
       "pt": "Carreiras",
       "ko": "채용",
       "fr": "Carrières",
-      "tr": "Kariyer"
+      "tr": "Kariyer",
+      "zh-CN": "招聘"
     },
     "Catalog": {
       "es": "Catálogo",
@@ -601,7 +618,8 @@
       "pt": "Catálogo",
       "ko": "카탈로그",
       "fr": "Catalogue",
-      "tr": "Katalog"
+      "tr": "Katalog",
+      "zh-CN": "目录"
     },
     "Changes saved": {
       "es": "Cambios guardados",
@@ -609,7 +627,8 @@
       "pt": "Alterações salvas",
       "ko": "변경사항 저장됨",
       "fr": "Modifications enregistrées",
-      "tr": "Değişiklikler kaydedildi"
+      "tr": "Değişiklikler kaydedildi",
+      "zh-CN": "更改已保存"
     },
     "Channel": {
       "es": "Canal",
@@ -617,7 +636,8 @@
       "pt": "Canal",
       "ko": "채널",
       "fr": "Canal",
-      "tr": "Kanal"
+      "tr": "Kanal",
+      "zh-CN": "渠道"
     },
     "Channels": {
       "es": "Canales",
@@ -625,7 +645,8 @@
       "pt": "Canais",
       "ko": "채널",
       "fr": "Canaux",
-      "tr": "Kanallar"
+      "tr": "Kanallar",
+      "zh-CN": "渠道"
     },
     "Character Count": {
       "es": "Conteo de caracteres",
@@ -633,7 +654,8 @@
       "pt": "Contagem de caracteres",
       "ko": "문자 수",
       "fr": "Nombre de caractères",
-      "tr": "Karakter sayısı"
+      "tr": "Karakter sayısı",
+      "zh-CN": "字符数"
     },
     "Chart": {
       "es": "Gráfico",
@@ -641,7 +663,8 @@
       "pt": "Gráfico",
       "ko": "차트",
       "fr": "Graphique",
-      "tr": "Grafik"
+      "tr": "Grafik",
+      "zh-CN": "图表"
     },
     "Chrome": {
       "es": "Chrome",
@@ -649,7 +672,8 @@
       "pt": "Chrome",
       "ko": "크롬",
       "fr": "Chrome",
-      "tr": "Chrome"
+      "tr": "Chrome",
+      "zh-CN": "Chrome"
     },
     "City": {
       "es": "Ciudad",
@@ -657,7 +681,8 @@
       "pt": "Cidade",
       "ko": "도시",
       "fr": "Ville",
-      "tr": "Şehir"
+      "tr": "Şehir",
+      "zh-CN": "城市"
     },
     "Clear": {
       "es": "Limpiar",
@@ -665,7 +690,8 @@
       "pt": "Limpar",
       "ko": "지우기",
       "fr": "Effacer",
-      "tr": "Temizle"
+      "tr": "Temizle",
+      "zh-CN": "清除"
     },
     "Click-through Rate": {
       "es": "Tasa de clics",
@@ -673,7 +699,8 @@
       "pt": "Taxa de cliques",
       "ko": "클릭률",
       "fr": "Taux de clics",
-      "tr": "Tıklama oranı"
+      "tr": "Tıklama oranı",
+      "zh-CN": "点击率"
     },
     "Click-through rate": {
       "es": "Tasa de clics",
@@ -681,7 +708,8 @@
       "pt": "Taxa de cliques",
       "ko": "클릭률",
       "fr": "Taux de clics",
-      "tr": "Tıklama oranı"
+      "tr": "Tıklama oranı",
+      "zh-CN": "点击率"
     },
     "Clicked": {
       "es": "Clicado",
@@ -689,7 +717,8 @@
       "pt": "Clicado",
       "ko": "클릭됨",
       "fr": "Cliqué",
-      "tr": "Tıklandı"
+      "tr": "Tıklandı",
+      "zh-CN": "已点击"
     },
     "Clicked:": {
       "es": "Clics:",
@@ -697,7 +726,8 @@
       "pt": "Cliques:",
       "ko": "클릭:",
       "fr": "Cliqué :",
-      "tr": "Tıklandı:"
+      "tr": "Tıklandı:",
+      "zh-CN": "已点击:"
     },
     "Clicks": {
       "es": "Clics",
@@ -705,7 +735,8 @@
       "pt": "Cliques",
       "ko": "클릭",
       "fr": "Clics",
-      "tr": "Tıklamalar"
+      "tr": "Tıklamalar",
+      "zh-CN": "点击"
     },
     "Clicks (count)": {
       "es": "Clics (recuento)",
@@ -713,7 +744,8 @@
       "pt": "Cliques (contagem)",
       "ko": "클릭 수",
       "fr": "Clics (nombre)",
-      "tr": "Tıklamalar (sayı)"
+      "tr": "Tıklamalar (sayı)",
+      "zh-CN": "点击 (数量)"
     },
     "Clicks:": {
       "es": "Clics:",
@@ -721,7 +753,8 @@
       "pt": "Cliques:",
       "ko": "클릭:",
       "fr": "Clics :",
-      "tr": "Tıklamalar:"
+      "tr": "Tıklamalar:",
+      "zh-CN": "点击:"
     },
     "Close": {
       "es": "Cerrar",
@@ -729,7 +762,8 @@
       "pt": "Fechar",
       "ko": "닫기",
       "fr": "Fermer",
-      "tr": "Kapat"
+      "tr": "Kapat",
+      "zh-CN": "关闭"
     },
     "Communicate different value props and incentives to get your users back.": {
       "es": "Comunica diferentes propuestas de valor e incentivos para recuperar a tus usuarios.",
@@ -737,7 +771,8 @@
       "pt": "Comunique diferentes propostas de valor e incentivos para reconquistar seus usuários.",
       "ko": "사용자를 다시 유도하기 위한 다양한 가치 제안과 인센티브를 전달하세요.",
       "fr": "Communiquez différentes propositions de valeur et incitations pour faire revenir vos utilisateurs.",
-      "tr": "Kullanıcılarınızı geri kazanmak için farklı değer önerileri ve teşvikler iletin."
+      "tr": "Kullanıcılarınızı geri kazanmak için farklı değer önerileri ve teşvikler iletin.",
+      "zh-CN": "通过不同的价值主张和优惠吸引用户回归。"
     },
     "Compare to": {
       "es": "Comparar con",
@@ -745,7 +780,8 @@
       "pt": "Comparar com",
       "ko": "비교 대상",
       "fr": "Comparer à",
-      "tr": "Karşılaştır"
+      "tr": "Karşılaştır",
+      "zh-CN": "对比"
     },
     "Completed": {
       "es": "Completado",
@@ -753,7 +789,8 @@
       "pt": "Concluído",
       "ko": "완료됨",
       "fr": "Terminé",
-      "tr": "Tamamlandı"
+      "tr": "Tamamlandı",
+      "zh-CN": "已完成"
     },
     "Confirm": {
       "es": "Confirmar",
@@ -761,7 +798,8 @@
       "pt": "Confirmar",
       "ko": "확인",
       "fr": "Confirmer",
-      "tr": "Onayla"
+      "tr": "Onayla",
+      "zh-CN": "确认"
     },
     "Confirm and Send": {
       "es": "Confirmar y enviar",
@@ -769,7 +807,8 @@
       "pt": "Confirmar e enviar",
       "ko": "확인 및 발송",
       "fr": "Confirmer et envoyer",
-      "tr": "Onayla ve gönder"
+      "tr": "Onayla ve gönder",
+      "zh-CN": "确认并发送"
     },
     "Confirmed": {
       "es": "Confirmado",
@@ -777,7 +816,8 @@
       "pt": "Confirmado",
       "ko": "확인됨",
       "fr": "Confirmé",
-      "tr": "Onaylandı"
+      "tr": "Onaylandı",
+      "zh-CN": "已确认"
     },
     "Confirmed (count)": {
       "es": "Confirmado (recuento)",
@@ -785,7 +825,8 @@
       "pt": "Confirmado (contagem)",
       "ko": "확인 수",
       "fr": "Confirmé (nombre)",
-      "tr": "Onaylandı (sayı)"
+      "tr": "Onaylandı (sayı)",
+      "zh-CN": "已确认 (数量)"
     },
     "Confirmed Delivered": {
       "es": "Entrega confirmada",
@@ -793,7 +834,8 @@
       "pt": "Entrega confirmada",
       "ko": "전달 확인",
       "fr": "Livraison confirmée",
-      "tr": "Teslim onaylandı"
+      "tr": "Teslim onaylandı",
+      "zh-CN": "已确认送达"
     },
     "Confirmed receipt": {
       "es": "Recepción confirmada",
@@ -801,7 +843,8 @@
       "pt": "Recebimento confirmado",
       "ko": "수신 확인",
       "fr": "Réception confirmée",
-      "tr": "Alındı onaylandı"
+      "tr": "Alındı onaylandı",
+      "zh-CN": "已确认接收"
     },
     "Confirmed receipt CTR": {
       "es": "CTR de recepción confirmada",
@@ -809,7 +852,8 @@
       "pt": "CTR de recebimento confirmado",
       "ko": "수신 확인 클릭률",
       "fr": "CTR de réception confirmée",
-      "tr": "Alındı onaylandı CTR"
+      "tr": "Alındı onaylandı CTR",
+      "zh-CN": "已确认接收 CTR"
     },
     "Confirmed receipt rate": {
       "es": "Tasa de recepción confirmada",
@@ -817,7 +861,8 @@
       "pt": "Taxa de recebimento confirmado",
       "ko": "수신 확인율",
       "fr": "Taux de réception confirmée",
-      "tr": "Alındı onaylandı oranı"
+      "tr": "Alındı onaylandı oranı",
+      "zh-CN": "已确认接收率"
     },
     "Confirmed receipt:": {
       "es": "Recepción confirmada:",
@@ -825,7 +870,8 @@
       "pt": "Recebimento confirmado:",
       "ko": "수신 확인:",
       "fr": "Réception confirmée :",
-      "tr": "Alındı onaylandı:"
+      "tr": "Alındı onaylandı:",
+      "zh-CN": "已确认接收:"
     },
     "Confirmed:": {
       "es": "Confirmados:",
@@ -833,7 +879,8 @@
       "pt": "Confirmados:",
       "ko": "확인:",
       "fr": "Confirmés :",
-      "tr": "Onaylandı:"
+      "tr": "Onaylandı:",
+      "zh-CN": "已确认:"
     },
     "Connect with new contacts that joined in the past 3 hours": {
       "es": "Conecta con nuevos contactos de las últimas 3 horas",
@@ -841,7 +888,8 @@
       "pt": "Conecte-se com novos contatos das últimas 3 horas",
       "ko": "최근 3시간 내에 가입한 새 연락처에 연결하세요",
       "fr": "Connectez-vous avec les nouveaux contacts ajoutés depuis 3 heures",
-      "tr": "Son 3 saatte katılan yeni kişilerle bağlantı kurun"
+      "tr": "Son 3 saatte katılan yeni kişilerle bağlantı kurun",
+      "zh-CN": "联系过去 3 小时内新加入的联系人"
     },
     "Connected": {
       "es": "Conectado",
@@ -849,7 +897,8 @@
       "pt": "Conectado",
       "ko": "연결됨",
       "fr": "Connecté",
-      "tr": "Bağlandı"
+      "tr": "Bağlandı",
+      "zh-CN": "已连接"
     },
     "Connections": {
       "es": "Conexiones",
@@ -857,7 +906,8 @@
       "pt": "Conexões",
       "ko": "연결",
       "fr": "Connexions",
-      "tr": "Bağlantılar"
+      "tr": "Bağlantılar",
+      "zh-CN": "连接"
     },
     "Contact your active audience from a specified country": {
       "es": "Contacta tu audiencia activa de un país específico",
