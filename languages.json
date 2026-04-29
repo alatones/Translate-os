@@ -3843,55 +3843,64 @@
       "es": "Suscriptores de push web",
       "ja": "ウェブプッシュ購読者",
       "pt": "Assinantes de push web",
-      "ko": "웹 푸시 구독자"
+      "ko": "웹 푸시 구독자",
+      "fr": "Abonnés push web"
     },
     "Webhook": {
       "es": "Webhook",
       "ja": "Webhook",
       "pt": "Webhook",
-      "ko": "웹훅"
+      "ko": "웹훅",
+      "fr": "Webhook"
     },
     "Webhook URL": {
       "es": "URL del webhook",
       "ja": "Webhook URL",
       "pt": "URL do webhook",
-      "ko": "웹훅 URL"
+      "ko": "웹훅 URL",
+      "fr": "URL du webhook"
     },
     "Webhooks": {
       "es": "Webhooks",
       "ja": "Webhook",
       "pt": "Webhooks",
-      "ko": "웹훅"
+      "ko": "웹훅",
+      "fr": "Webhooks"
     },
     "Wed": {
       "es": "Mié",
       "ja": "水",
       "pt": "Qua",
-      "ko": "수"
+      "ko": "수",
+      "fr": "Mer"
     },
     "Went live": {
       "es": "Publicado el",
       "ja": "公開日時",
       "pt": "Publicado em",
-      "ko": "라이브됨"
+      "ko": "라이브됨",
+      "fr": "Mis en ligne"
     },
     "Year": {
       "es": "Año",
       "ja": "年",
       "pt": "Ano",
-      "ko": "연도"
+      "ko": "연도",
+      "fr": "Année"
     },
     "Yes": {
       "es": "Sí",
       "ja": "はい",
       "pt": "Sim",
-      "ko": "예"
+      "ko": "예",
+      "fr": "Oui"
     },
     "Yesterday": {
       "es": "Ayer",
       "ja": "昨日",
       "pt": "Ontem",
-      "ko": "어제"
+      "ko": "어제",
+      "fr": "Hier"
     },
     "Stay top of mind": {
       "ja": "常にユーザーの意識に残る",
@@ -4233,7 +4242,8 @@
       "ja": "インテグレーションを設定すると、そのステータスがここに表示されます。",
       "es": "Cuando configures una integración, su estado se mostrará aquí.",
       "pt": "Quando você configurar uma integração, seu status será exibido aqui.",
-      "ko": "통합을 구성하면 여기에 상태가 표시됩니다."
+      "ko": "통합을 구성하면 여기에 상태가 표시됩니다.",
+      "fr": "Lorsque vous configurez une intégration, son statut s'affichera ici."
     },
     "Connect Integration": {
       "ja": "インテグレーションを接続",
@@ -4309,7 +4319,8 @@
       "ja": "Webhooksドキュメント",
       "es": "Documentación de Webhooks",
       "pt": "Documentação de Webhooks",
-      "ko": "웹훅 문서"
+      "ko": "웹훅 문서",
+      "fr": "Documentation des webhooks"
     },
     "or use our API to start sending events": {
       "ja": "またはAPIを使用してイベントの送信を開始",
@@ -4594,7 +4605,8 @@
       "ja": "アプリは月に50万件のメール送信に制限されています。制限についてご質問がある場合は、サポートチームにお問い合わせください。",
       "es": "Tu app tiene un límite de 500,000 envíos de email al mes. Si necesitas ayuda con tu límite, contacta a nuestro equipo de soporte.",
       "pt": "Seu app está limitado a 500.000 envios de e-mail por mês. Se precisar de ajuda com seu limite, entre em contato com nossa equipe de suporte.",
-      "ko": "앱은 한 달에 최대 500,000개의 이메일을 발송할 수 있습니다. 한도에 대한 도움이 필요하면 지원팀에 문의하세요."
+      "ko": "앱은 한 달에 최대 500,000개의 이메일을 발송할 수 있습니다. 한도에 대한 도움이 필요하면 지원팀에 문의하세요.",
+      "fr": "Votre app est limitée à 500 000 envois d'email par mois. Si vous avez besoin d'aide avec votre limite, contactez notre équipe Support."
     },
     "Export a message list for your records": {
       "ja": "記録用のメッセージリストをエクスポート",
@@ -4817,7 +4829,8 @@
       "ja": "データフィードはまだ設定されていません",
       "es": "Aún no tienes Data Feeds configurados",
       "pt": "Você ainda não tem Data Feeds configurados",
-      "ko": "아직 데이터 피드가 설정되지 않았습니다"
+      "ko": "아직 데이터 피드가 설정되지 않았습니다",
+      "fr": "Vous n'avez encore configuré aucun flux de données"
     },
     "Export subscriptions for push, email, and SMS": {
       "ja": "プッシュ、メール、SMSの購読をエクスポートする",
@@ -5229,7 +5242,8 @@
       "ja": "Windows",
       "es": "Windows",
       "pt": "Windows",
-      "ko": "Windows"
+      "ko": "Windows",
+      "fr": "Windows"
     },
     "macOS": {
       "ja": "macOS",
@@ -5807,13 +5821,15 @@
       "ja": "以前のメッセージ",
       "es": "Tus mensajes anteriores",
       "pt": "Suas mensagens anteriores",
-      "ko": "이전 메시지"
+      "ko": "이전 메시지",
+      "fr": "Vos messages précédents"
     },
     "Your templates": {
       "ja": "テンプレート",
       "es": "Tus plantillas",
       "pt": "Seus modelos",
-      "ko": "내 템플릿"
+      "ko": "내 템플릿",
+      "fr": "Vos modèles"
     },
     "Event ID": {
       "ja": "イベントID",
@@ -5861,7 +5877,8 @@
       "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
       "es": "Escribe o copia y pega tu propio HTML y CSS.",
       "pt": "Escreva ou copie e cole seu próprio HTML e CSS.",
-      "ko": "직접 HTML 및 CSS를 작성하거나 복사하여 붙여넣으세요."
+      "ko": "직접 HTML 및 CSS를 작성하거나 복사하여 붙여넣으세요.",
+      "fr": "Écrivez ou collez votre propre HTML et CSS."
     },
     "Test & preview": {
       "ja": "テストとプレビュー",
@@ -5874,7 +5891,8 @@
       "ja": "どのセグメント",
       "es": "Qué segmento(s)",
       "pt": "Qual(is) segmento(s)",
-      "ko": "어떤 세그먼트"
+      "ko": "어떤 세그먼트",
+      "fr": "Quels segments"
     },
     "custom events": {
       "ja": "カスタムイベント",
@@ -6199,25 +6217,29 @@
       "ja": "Webプッシュ購読",
       "es": "Suscripciones de push web",
       "pt": "Assinaturas de push web",
-      "ko": "웹 푸시 구독"
+      "ko": "웹 푸시 구독",
+      "fr": "Abonnements push web"
     },
     "When should this message start sending?": {
       "ja": "このメッセージはいつ送信を開始しますか？",
       "es": "¿Cuándo debería comenzar a enviarse este mensaje?",
       "pt": "Quando esta mensagem deve começar a ser enviada?",
-      "ko": "이 메시지를 언제 발송 시작해야 하나요?"
+      "ko": "이 메시지를 언제 발송 시작해야 하나요?",
+      "fr": "Quand ce message doit-il commencer à être envoyé ?"
     },
     "When should users receive this message?": {
       "ja": "ユーザーはいつこのメッセージを受信しますか？",
       "es": "¿Cuándo deberían los usuarios recibir este mensaje?",
       "pt": "Quando os usuários devem receber esta mensagem?",
-      "ko": "사용자가 언제 이 메시지를 받아야 하나요?"
+      "ko": "사용자가 언제 이 메시지를 받아야 하나요?",
+      "fr": "Quand les utilisateurs doivent-ils recevoir ce message ?"
     },
     "You also have": {
       "ja": "次もあります:",
       "es": "También tienes",
       "pt": "Você também tem",
-      "ko": "또한 다음도 있습니다"
+      "ko": "또한 다음도 있습니다",
+      "fr": "Vous avez également"
     },
     "and cannot be included or excluded alongside other segments.": {
       "ja": "、他のセグメントと一緒に含めたり除外したりすることはできません。",
@@ -6697,7 +6719,8 @@
       "ja": "幅",
       "es": "Ancho",
       "pt": "Largura",
-      "ko": "너비"
+      "ko": "너비",
+      "fr": "Largeur"
     },
     "Loading Message and App Info. Please wait a moment...": {
       "ja": "メッセージとアプリ情報を読み込み中。しばらくお待ちください...",
@@ -6822,19 +6845,22 @@
       "ja": "セッション中に特定の条件が満たされたとき",
       "es": "Cuando se cumplan ciertas condiciones durante la sesión",
       "pt": "Quando certas condições forem satisfeitas durante a sessão",
-      "ko": "세션 중 특정 조건이 충족될 때"
+      "ko": "세션 중 특정 조건이 충족될 때",
+      "fr": "Lorsque certaines conditions sont remplies pendant la session"
     },
     "When should this message dismiss?": {
       "ja": "このメッセージはいつ閉じますか？",
       "es": "¿Cuándo debería descartarse este mensaje?",
       "pt": "Quando esta mensagem deve ser descartada?",
-      "ko": "이 메시지를 언제 닫아야 하나요?"
+      "ko": "이 메시지를 언제 닫아야 하나요?",
+      "fr": "Quand ce message doit-il être fermé ?"
     },
     "When should users see this message?": {
       "ja": "ユーザーはいつこのメッセージを見るべきですか？",
       "es": "¿Cuándo deberían ver los usuarios este mensaje?",
       "pt": "Quando os usuários devem ver esta mensagem?",
-      "ko": "사용자가 언제 이 메시지를 봐야 하나요?"
+      "ko": "사용자가 언제 이 메시지를 봐야 하나요?",
+      "fr": "Quand les utilisateurs doivent-ils voir ce message ?"
     },
     "Add block": {
       "ja": "ブロックを追加",
@@ -6952,7 +6978,8 @@
       "ja": "どのセグメントが",
       "es": "Qué segmento(s) deberían ser",
       "pt": "Qual(is) segmento(s) deve(m) ser",
-      "ko": "어떤 세그먼트가"
+      "ko": "어떤 세그먼트가",
+      "fr": "Quels segments doivent être"
     },
     "Add a description...": {
       "ja": "説明を追加...",
@@ -7126,13 +7153,15 @@
       "ja": "拡大",
       "es": "Acercar",
       "pt": "Aproximar",
-      "ko": "확대"
+      "ko": "확대",
+      "fr": "Zoom avant"
     },
     "Zoom Out": {
       "ja": "縮小",
       "es": "Alejar",
       "pt": "Afastar",
-      "ko": "축소"
+      "ko": "축소",
+      "fr": "Zoom arrière"
     },
     "excluded": {
       "ja": "除外",
@@ -7365,31 +7394,36 @@
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
       "es": "¿Cuándo deberían los usuarios salir de este Journey?",
       "pt": "Quando os usuários devem sair deste Journey?",
-      "ko": "사용자가 언제 이 저니를 종료해야 하나요?"
+      "ko": "사용자가 언제 이 저니를 종료해야 하나요?",
+      "fr": "Quand les utilisateurs doivent-ils sortir de ce Journey ?"
     },
     "Your Journey will be become active at a specific time and date.": {
       "ja": "ジャーニーは特定の日時にアクティブになります。",
       "es": "Tu Journey se activará en una fecha y hora específicas.",
       "pt": "Seu Journey ficará ativo em data e hora específicas.",
-      "ko": "저니는 특정 날짜 및 시간에 활성화됩니다."
+      "ko": "저니는 특정 날짜 및 시간에 활성화됩니다.",
+      "fr": "Votre Journey deviendra actif à une date et heure précises."
     },
     "Your Journey will become active as soon as you set it live.": {
       "ja": "ジャーニーはライブ化するとすぐにアクティブになります。",
       "es": "Tu Journey se activará tan pronto como lo pongas en vivo.",
       "pt": "Seu Journey ficará ativo assim que você o tornar ativo.",
-      "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다."
+      "ko": "라이브로 설정하는 즉시 저니가 활성화됩니다.",
+      "fr": "Votre Journey deviendra actif dès que vous le mettrez en ligne."
     },
     "Your Journey will stay active indefinitely.": {
       "ja": "ジャーニーは無期限にアクティブのままです。",
       "es": "Tu Journey permanecerá activo indefinidamente.",
       "pt": "Seu Journey permanecerá ativo indefinidamente.",
-      "ko": "저니는 무기한 활성 상태로 유지됩니다."
+      "ko": "저니는 무기한 활성 상태로 유지됩니다.",
+      "fr": "Votre Journey restera actif indéfiniment."
     },
     "Your Journey will stop on specific time and date.": {
       "ja": "ジャーニーは特定の日時に停止します。",
       "es": "Tu Journey se detendrá en una fecha y hora específicas.",
       "pt": "Seu Journey será interrompido em data e hora específicas.",
-      "ko": "저니는 특정 날짜 및 시간에 중지됩니다."
+      "ko": "저니는 특정 날짜 및 시간에 중지됩니다.",
+      "fr": "Votre Journey s'arrêtera à une date et heure précises."
     },
     "ends": {
       "ja": "終了",
@@ -8039,7 +8073,8 @@
       "ja": "Webプッシュトピック",
       "es": "Tema de push web",
       "pt": "Tópico de push web",
-      "ko": "웹 푸시 토픽"
+      "ko": "웹 푸시 토픽",
+      "fr": "Sujet du Web Push"
     },
     "days": {
       "ja": "日",
@@ -8512,13 +8547,15 @@
       "ja": "ここにメッセージを入力",
       "es": "Tu mensaje aquí",
       "pt": "Sua mensagem aqui",
-      "ko": "여기에 메시지 입력"
+      "ko": "여기에 메시지 입력",
+      "fr": "Votre message ici"
     },
     "Your title here": {
       "ja": "ここにタイトルを入力",
       "es": "Tu título aquí",
       "pt": "Seu título aqui",
-      "ko": "여기에 제목 입력"
+      "ko": "여기에 제목 입력",
+      "fr": "Votre titre ici"
     },
     "message": {
       "ja": "メッセージ",
@@ -8620,13 +8657,15 @@
       "ja": "まだダイナミックコンテンツを追加していません",
       "es": "Aún no has agregado contenido dinámico",
       "pt": "Você ainda não adicionou conteúdo dinâmico",
-      "ko": "아직 동적 콘텐츠를 추가하지 않았습니다"
+      "ko": "아직 동적 콘텐츠를 추가하지 않았습니다",
+      "fr": "Vous n'avez encore ajouté aucun contenu dynamique"
     },
     "Your message will start sending immediately and your message throughput is 1 message per second.": {
       "ja": "メッセージは即時送信を開始し、スループットは毎秒1メッセージです。",
       "es": "Tu mensaje comenzará a enviarse inmediatamente y la velocidad de envío es 1 mensaje por segundo.",
       "pt": "Sua mensagem começará a ser enviada imediatamente e a taxa de envio é 1 mensagem por segundo.",
-      "ko": "메시지가 즉시 발송을 시작하며 처리량은 초당 1메시지입니다."
+      "ko": "메시지가 즉시 발송을 시작하며 처리량은 초당 1메시지입니다.",
+      "fr": "Votre message commencera à être envoyé immédiatement et votre débit est de 1 message par seconde."
     },
     "if you need to increase your throughput": {
       "ja": "スループットを上げる必要がある場合",
@@ -8838,7 +8877,8 @@
       "ja": "ここにブランドを",
       "es": "Tu marca aquí",
       "pt": "Sua marca aqui",
-      "ko": "여기에 브랜드 표시"
+      "ko": "여기에 브랜드 표시",
+      "fr": "Votre marque ici"
     },
     "Spanish": {
       "ja": "スペイン語",
@@ -8872,7 +8912,8 @@
       "ja": "ユーザー活動があると、ここにデータが表示されます。",
       "es": "Verás datos aquí cuando haya actividad del usuario.",
       "pt": "Você verá dados aqui quando houver atividade do usuário.",
-      "ko": "사용자 활동이 있을 때 여기에 데이터가 표시됩니다."
+      "ko": "사용자 활동이 있을 때 여기에 데이터가 표시됩니다.",
+      "fr": "Vous verrez des données ici lorsqu'il y aura de l'activité utilisateur."
     },
     "Message events": {
       "ja": "メッセージイベント",
@@ -9157,7 +9198,8 @@
       "ja": "どのテンプレートを送信しますか？",
       "es": "¿Qué plantilla quieres enviar?",
       "pt": "Qual modelo você quer enviar?",
-      "ko": "어떤 템플릿을 발송하시겠습니까?"
+      "ko": "어떤 템플릿을 발송하시겠습니까?",
+      "fr": "Quel modèle voulez-vous envoyer ?"
     },
     "create a new template here": {
       "ja": "ここで新しいテンプレートを作成",
@@ -9323,7 +9365,8 @@
       "ja": "このアプリを無効化すると、新規および予約済みの通知が配信されなくなります。手動で無効化したアプリはいつでもすぐに再有効化できます。",
       "es": "Puedes desactivar esta app para evitar que se envíen notificaciones nuevas y programadas. Las apps que desactives manualmente pueden volver a activarse al instante en cualquier momento.",
       "pt": "Você pode desativar este app para evitar que notificações novas e agendadas sejam entregues. Apps que você desativar manualmente podem ser reativados instantaneamente a qualquer momento.",
-      "ko": "이 앱을 비활성화하면 새 알림 및 예약된 알림이 전달되지 않습니다. 수동으로 비활성화한 앱은 언제든지 즉시 다시 활성화할 수 있습니다."
+      "ko": "이 앱을 비활성화하면 새 알림 및 예약된 알림이 전달되지 않습니다. 수동으로 비활성화한 앱은 언제든지 즉시 다시 활성화할 수 있습니다.",
+      "fr": "Vous pouvez désactiver cette app pour empêcher la livraison de nouvelles notifications et celles planifiées. Les apps que vous désactivez manuellement peuvent être réactivées instantanément à tout moment."
     },
     "Add Channel": {
       "ja": "チャネルを追加",
@@ -9574,7 +9617,8 @@
       "ja": "Windows (UWP)",
       "es": "Windows (UWP)",
       "pt": "Windows (UWP)",
-      "ko": "Windows (UWP)"
+      "ko": "Windows (UWP)",
+      "fr": "Windows (UWP)"
     },
     "is when a user doesn't tap into your app directly from a message, but rather within a set time period after that message was received.": {
       "ja": "は、ユーザーがメッセージから直接アプリを開かず、そのメッセージを受け取った後の所定の期間内にアプリを開いた場合のことです。",
@@ -10223,37 +10267,43 @@
       "ja": "ヘルプキーワードを受信すると、詳細情報を返信します。",
       "es": "Cuando recibimos palabras clave de ayuda, responderemos con más información.",
       "pt": "Quando recebermos palavras-chave de ajuda, responderemos com mais informações.",
-      "ko": "도움말 키워드를 수신하면 자세한 정보로 회신합니다."
+      "ko": "도움말 키워드를 수신하면 자세한 정보로 회신합니다.",
+      "fr": "Lorsque nous recevons des mots-clés d'aide, nous répondons avec plus d'informations."
     },
     "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist.": {
       "ja": "オプトアウトキーワードを受信すると、ユーザーを電話番号またはメッセージサービスのブロックリストに自動的に追加します。",
       "es": "Cuando recibimos palabras clave de exclusión, agregaremos automáticamente al usuario a la lista de bloqueo del número de teléfono o servicio de mensajería.",
       "pt": "Quando recebermos palavras-chave de exclusão, adicionaremos automaticamente o usuário à lista de bloqueio do número de telefone ou serviço de mensagens.",
-      "ko": "옵트아웃 키워드를 수신하면 사용자를 전화번호 또는 메시지 서비스의 차단 목록에 자동으로 추가합니다."
+      "ko": "옵트아웃 키워드를 수신하면 사용자를 전화번호 또는 메시지 서비스의 차단 목록에 자동으로 추가합니다.",
+      "fr": "Lorsque nous recevons des mots-clés de désinscription, nous ajoutons automatiquement l'utilisateur à la liste de blocage du numéro de téléphone ou du service de messagerie."
     },
     "When we receive text-to-subscribe keywords, we'll automatically subscribe a user. If the user doesn't exist, we'll create the subscription and subscribe the user.": {
       "ja": "テキスト購読キーワードを受信すると、ユーザーを自動的に購読登録します。ユーザーが存在しない場合は、購読を作成してユーザーを登録します。",
       "es": "Cuando recibimos palabras clave de suscripción por texto, suscribiremos automáticamente al usuario. Si el usuario no existe, crearemos la suscripción y suscribiremos al usuario.",
       "pt": "Quando recebermos palavras-chave de inscrição por texto, inscreveremos o usuário automaticamente. Se o usuário não existir, criaremos a inscrição e inscreveremos o usuário.",
-      "ko": "텍스트 구독 키워드를 수신하면 자동으로 사용자를 구독시킵니다. 사용자가 존재하지 않는 경우 구독을 생성하고 사용자를 구독시킵니다."
+      "ko": "텍스트 구독 키워드를 수신하면 자동으로 사용자를 구독시킵니다. 사용자가 존재하지 않는 경우 구독을 생성하고 사용자를 구독시킵니다.",
+      "fr": "Lorsque nous recevons des mots-clés d'inscription par SMS, nous inscrivons automatiquement l'utilisateur. Si l'utilisateur n'existe pas, nous créons l'abonnement et inscrivons l'utilisateur."
     },
     "YES": {
       "ja": "YES",
       "es": "YES",
       "pt": "YES",
-      "ko": "YES"
+      "ko": "YES",
+      "fr": "YES"
     },
     "You have successfully been re-subscribed to messages from this number. Reply HELP for help. Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "この番号からのメッセージに再登録されました。ヘルプはHELP、登録解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
       "es": "Te has vuelto a suscribir correctamente a los mensajes de este número. Responde HELP para obtener ayuda. Responde STOP para darte de baja. Pueden aplicar tarifas de mensajes y datos.",
       "pt": "Você foi reinscrito com sucesso nas mensagens deste número. Responda HELP para obter ajuda. Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
-      "ko": "이 번호의 메시지에 다시 구독되었습니다. 도움말은 HELP, 구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다."
+      "ko": "이 번호의 메시지에 다시 구독되었습니다. 도움말은 HELP, 구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다.",
+      "fr": "Vous avez été réabonné avec succès aux messages de ce numéro. Répondez HELP pour obtenir de l'aide. Répondez STOP pour vous désabonner. Frais de message et données possibles."
     },
     "You have successfully been unsubscribed. You will not receive any more messages from this number. Reply START to resubscribe.": {
       "ja": "登録解除されました。この番号からのメッセージは今後届きません。再登録するにはSTARTと返信してください。",
       "es": "Te has dado de baja correctamente. Ya no recibirás más mensajes de este número. Responde START para volver a suscribirte.",
       "pt": "Você foi desinscrito com sucesso. Você não receberá mais mensagens deste número. Responda START para se inscrever novamente.",
-      "ko": "구독이 해지되었습니다. 이 번호에서 더 이상 메시지를 받지 않습니다. 다시 구독하려면 START를 회신하세요."
+      "ko": "구독이 해지되었습니다. 이 번호에서 더 이상 메시지를 받지 않습니다. 다시 구독하려면 START를 회신하세요.",
+      "fr": "Vous avez été désabonné avec succès. Vous ne recevrez plus de messages de ce numéro. Répondez START pour vous réabonner."
     },
     "never subscribed users:": {
       "ja": "購読したことのないユーザー:",
@@ -10285,7 +10335,8 @@
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
       "es": "Cuando recibimos palabras clave no reconocidas desde un número de teléfono, responderemos automáticamente con esta plantilla.",
       "pt": "Quando recebermos palavras-chave não reconhecidas de um número de telefone, responderemos automaticamente com este modelo.",
-      "ko": "전화번호에서 인식되지 않은 키워드를 수신하면 이 템플릿으로 자동 회신합니다."
+      "ko": "전화번호에서 인식되지 않은 키워드를 수신하면 이 템플릿으로 자동 회신합니다.",
+      "fr": "Lorsque nous recevons des mots-clés non reconnus depuis un numéro de téléphone, nous répondons automatiquement avec ce modèle."
     },
     "Provider is": {
       "ja": "プロバイダー:",
