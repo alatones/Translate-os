@@ -4531,13 +4531,13 @@
       "ko": "모든 활성 사용자"
     },
     "Audience activity": {
-      "ja": "対象者の活動",
+      "ja": "オーディエンスの活動",
       "es": "Actividad de la audiencia",
       "pt": "Atividade do público",
       "ko": "대상 활동"
     },
     "Audience activity is no longer available after 30 days": {
-      "ja": "対象者の活動は30日経過後は表示されません",
+      "ja": "オーディエンスの活動は30日経過後は表示されません",
       "es": "La actividad de la audiencia ya no está disponible después de 30 días",
       "pt": "A atividade do público não está mais disponível após 30 dias",
       "ko": "대상 활동은 30일 이후 더 이상 제공되지 않습니다"
@@ -5089,7 +5089,7 @@
       "ko": "이 메시지를 받을까요?"
     },
     "1. Audience": {
-      "ja": "1. 対象者",
+      "ja": "1. オーディエンス",
       "es": "1. Audiencia",
       "pt": "1. Público",
       "ko": "1. 대상"
@@ -5977,7 +5977,7 @@
       "ko": "종료 규칙"
     },
     "Audience Segment": {
-      "ja": "対象者セグメント",
+      "ja": "オーディエンスセグメント",
       "es": "Segmento de audiencia",
       "pt": "Segmento de público",
       "ko": "대상 세그먼트"
@@ -7099,7 +7099,7 @@
       "ko": "세그먼트 편집기"
     },
     "Start adding filters to see audience count": {
-      "ja": "フィルターを追加すると対象人数が表示されます",
+      "ja": "フィルターを追加するとオーディエンス数が表示されます",
       "es": "Comienza a agregar filtros para ver el conteo de la audiencia",
       "pt": "Comece a adicionar filtros para ver a contagem do público",
       "ko": "필터를 추가하면 대상 수가 표시됩니다"
@@ -7441,7 +7441,7 @@
       "ko": "동적 콘텐츠 문서"
     },
     "Dynamic content allows you to build personalized messages with specific content for different audience groups. Using": {
-      "ja": "ダイナミックコンテンツを使うと、対象者グループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
+      "ja": "ダイナミックコンテンツを使うと、オーディエンスグループごとに特定のコンテンツを使った個別化メッセージを作成できます。使用方法:",
       "es": "El contenido dinámico te permite crear mensajes personalizados con contenido específico para diferentes grupos de audiencia. Usando",
       "pt": "O conteúdo dinâmico permite construir mensagens personalizadas com conteúdo específico para diferentes grupos de público. Usando",
       "ko": "동적 콘텐츠를 통해 다양한 대상 그룹에 맞춘 특정 콘텐츠로 개인화된 메시지를 만들 수 있습니다. 사용:"
