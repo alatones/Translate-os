@@ -2766,61 +2766,71 @@
       "es": "Safari",
       "ja": "Safari",
       "pt": "Safari",
-      "ko": "사파리"
+      "ko": "사파리",
+      "fr": "Safari"
     },
     "Sat": {
       "es": "Sáb",
       "ja": "土",
       "pt": "Sáb",
-      "ko": "토"
+      "ko": "토",
+      "fr": "Sam"
     },
     "Save": {
       "es": "Guardar",
       "ja": "保存",
       "pt": "Salvar",
-      "ko": "저장"
+      "ko": "저장",
+      "fr": "Enregistrer"
     },
     "Save as Draft": {
       "es": "Guardar como borrador",
       "ja": "下書きとして保存",
       "pt": "Salvar como rascunho",
-      "ko": "초안으로 저장"
+      "ko": "초안으로 저장",
+      "fr": "Enregistrer comme brouillon"
     },
     "Save Changes": {
       "es": "Guardar cambios",
       "ja": "変更を保存",
       "pt": "Salvar alterações",
-      "ko": "변경사항 저장"
+      "ko": "변경사항 저장",
+      "fr": "Enregistrer les modifications"
     },
     "Saving": {
       "es": "Guardando",
       "ja": "保存中",
       "pt": "Salvando",
-      "ko": "저장 중"
+      "ko": "저장 중",
+      "fr": "Enregistrement"
     },
     "Schedule": {
       "es": "Programación",
       "ja": "スケジュール",
       "pt": "Agendamento",
-      "ko": "일정"
+      "ko": "일정",
+      "fr": "Planification"
     },
     "Schedule for Later": {
       "es": "Programar para después",
       "ja": "後でスケジュール",
       "pt": "Agendar para depois",
-      "ko": "나중에 예약"
+      "ko": "나중에 예약",
+      "fr": "Planifier pour plus tard"
     },
     "Scheduled": {
       "es": "Programado",
       "ja": "スケジュール済み",
       "pt": "Agendado",
-      "ko": "예약됨"
+      "ko": "예약됨",
+      "fr": "Planifié"
     },
     "Scheduled Messages": {
       "es": "Mensajes programados",
       "ja": "スケジュール済みメッセージ",
       "pt": "Mensagens agendadas",
-      "ko": "예약된 메시지"
+      "ko": "예약된 메시지",
+      "fr": "Messages planifiés"
     },
     "SDK": {
       "es": "SDK",
@@ -2854,43 +2864,50 @@
       "es": "Buscar",
       "ja": "検索",
       "pt": "Pesquisar",
-      "ko": "검색"
+      "ko": "검색",
+      "fr": "Rechercher"
     },
     "Search apps": {
       "es": "Buscar apps",
       "ja": "アプリを検索",
       "pt": "Pesquisar apps",
-      "ko": "앱 검색"
+      "ko": "앱 검색",
+      "fr": "Rechercher des apps"
     },
     "Search by name": {
       "es": "Buscar por nombre",
       "ja": "名前で検索",
       "pt": "Pesquisar por nome",
-      "ko": "이름으로 검색"
+      "ko": "이름으로 검색",
+      "fr": "Rechercher par nom"
     },
     "Search event names": {
       "es": "Buscar nombres de eventos",
       "ja": "イベント名を検索",
       "pt": "Pesquisar nomes de eventos",
-      "ko": "이벤트 이름 검색"
+      "ko": "이벤트 이름 검색",
+      "fr": "Rechercher des noms d'événements"
     },
     "Search term": {
       "es": "Término de búsqueda",
       "ja": "検索キーワード",
       "pt": "Termo de pesquisa",
-      "ko": "검색어"
+      "ko": "검색어",
+      "fr": "Terme de recherche"
     },
     "Search…": {
       "es": "Buscar…",
       "ja": "検索…",
       "pt": "Pesquisar…",
-      "ko": "검색…"
+      "ko": "검색…",
+      "fr": "Rechercher…"
     },
     "Secret": {
       "es": "Secreto",
       "ja": "シークレット",
       "pt": "Segredo",
-      "ko": "시크릿"
+      "ko": "시크릿",
+      "fr": "Secret"
     },
     "Segment": {
       "es": "Segmento",
@@ -4051,7 +4068,8 @@
       "ja": "インテグレーションを検索...",
       "es": "Buscar integraciones...",
       "pt": "Pesquisar integrações...",
-      "ko": "통합 검색..."
+      "ko": "통합 검색...",
+      "fr": "Rechercher des intégrations..."
     },
     "Select type...": {
       "ja": "タイプを選択...",
@@ -4125,7 +4143,8 @@
       "ja": "API、SDK、またはSegmentなどのツールとシームレスに統合する",
       "es": "Integra fácilmente con APIs, SDKs o herramientas como Segment",
       "pt": "Integre facilmente com APIs, SDKs ou ferramentas como o Segment",
-      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 통합하세요"
+      "ko": "API, SDK 또는 Segment와 같은 도구와 원활하게 통합하세요",
+      "fr": "Intégrez en toute simplicité avec des API, SDK ou outils comme Segment"
     },
     "Tour a Preview of Custom Events": {
       "ja": "カスタムイベントのプレビューを見る",
@@ -4479,7 +4498,8 @@
       "ja": "スケジュール済みメッセージのドキュメント",
       "es": "Documentación de mensajes programados",
       "pt": "Documentação de mensagens agendadas",
-      "ko": "예약 메시지 문서"
+      "ko": "예약 메시지 문서",
+      "fr": "Documentation des messages planifiés"
     },
     "Sent Messages documentation": {
       "ja": "送信済みメッセージのドキュメント",
@@ -4546,7 +4566,8 @@
       "ja": "名前またはキーワードで検索",
       "es": "Buscar por nombre o palabras clave",
       "pt": "Pesquisar por nome ou palavras-chave",
-      "ko": "이름 또는 키워드로 검색"
+      "ko": "이름 또는 키워드로 검색",
+      "fr": "Rechercher par nom ou mots-clés"
     },
     "Try one of our quickstart segments": {
       "ja": "クイックスタートセグメントをお試しください",
@@ -4805,25 +4826,29 @@
       "ja": "SMS / RCSドキュメント",
       "es": "Documentación de SMS / RCS",
       "pt": "Documentação de SMS / RCS",
-      "ko": "SMS / RCS 문서"
+      "ko": "SMS / RCS 문서",
+      "fr": "Documentation SMS / RCS"
     },
     "SMS for promos, security verifications, and more": {
       "ja": "プロモーション、セキュリティ認証などにSMSを活用",
       "es": "SMS para promociones, verificaciones de seguridad y más",
       "pt": "SMS para promoções, verificações de segurança e muito mais",
-      "ko": "프로모션, 보안 인증 등을 위한 SMS"
+      "ko": "프로모션, 보안 인증 등을 위한 SMS",
+      "fr": "SMS pour les promotions, vérifications de sécurité, etc."
     },
     "SMS has the highest open and engagement rates": {
       "ja": "SMSは最も高い開封率とエンゲージメント率を誇ります",
       "es": "Los SMS tienen las tasas de apertura y engagement más altas",
       "pt": "O SMS tem as mais altas taxas de abertura e engajamento",
-      "ko": "SMS는 가장 높은 열람율 및 참여율을 자랑합니다"
+      "ko": "SMS는 가장 높은 열람율 및 참여율을 자랑합니다",
+      "fr": "Les SMS ont les taux d'ouverture et d'engagement les plus élevés"
     },
     "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
       "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
       "es": "Descubre cómo SMS y RCS encajan en tu estrategia de engagement. Obtén consejos de expertos para aumentar conversiones y retención.",
       "pt": "Veja como o SMS e o RCS se encaixam na sua estratégia de engajamento. Obtenha dicas de especialistas para aumentar conversões e retenção.",
-      "ko": "SMS와 RCS가 참여 전략에 어떻게 맞는지 알아보세요. 전환율과 유지율을 높이기 위한 전문가 팁을 얻으세요."
+      "ko": "SMS와 RCS가 참여 전략에 어떻게 맞는지 알아보세요. 전환율과 유지율을 높이기 위한 전문가 팁을 얻으세요.",
+      "fr": "Découvrez comment SMS et RCS s'intègrent dans votre stratégie d'engagement. Obtenez des conseils d'experts pour augmenter conversions et rétention."
     },
     "Set Up SMS / RCS": {
       "ja": "SMS / RCSをセットアップ",
@@ -5354,13 +5379,15 @@
       "ja": "アプリを検索",
       "es": "Buscar una aplicación",
       "pt": "Pesquisar um aplicativo",
-      "ko": "앱 검색"
+      "ko": "앱 검색",
+      "fr": "Rechercher une app"
     },
     "Search for app": {
       "ja": "アプリを検索",
       "es": "Buscar una aplicación",
       "pt": "Pesquisar um aplicativo",
-      "ko": "앱 검색"
+      "ko": "앱 검색",
+      "fr": "Rechercher une app"
     },
     "Select Organization": {
       "ja": "組織を選択",
@@ -5872,13 +5899,15 @@
       "ja": "テンプレートとして保存",
       "es": "Guardar como plantilla",
       "pt": "Salvar como modelo",
-      "ko": "템플릿으로 저장"
+      "ko": "템플릿으로 저장",
+      "fr": "Enregistrer comme modèle"
     },
     "Search or create labels...": {
       "ja": "ラベルを検索または作成...",
       "es": "Buscar o crear etiquetas...",
       "pt": "Pesquisar ou criar rótulos...",
-      "ko": "라벨 검색 또는 만들기..."
+      "ko": "라벨 검색 또는 만들기...",
+      "fr": "Rechercher ou créer des étiquettes..."
     },
     "Segments that use": {
       "ja": "これを使用するセグメント:",
@@ -6043,7 +6072,8 @@
       "ja": "保存して終了",
       "es": "Guardar y salir",
       "pt": "Salvar e sair",
-      "ko": "저장 후 종료"
+      "ko": "저장 후 종료",
+      "fr": "Enregistrer et quitter"
     },
     "Block editor": {
       "ja": "ブロックエディター",
@@ -6793,7 +6823,8 @@
       "ja": "保存して閉じる",
       "es": "Guardar y cerrar",
       "pt": "Salvar e fechar",
-      "ko": "저장 후 닫기"
+      "ko": "저장 후 닫기",
+      "fr": "Enregistrer et fermer"
     },
     "Start your journey when a custom event happens": {
       "ja": "カスタムイベントが発生したらジャーニーを開始",
@@ -7009,19 +7040,22 @@
       "ja": "保存中...",
       "es": "Guardando...",
       "pt": "Salvando...",
-      "ko": "저장 중..."
+      "ko": "저장 중...",
+      "fr": "Enregistrement..."
     },
     "Schedule a start date and time": {
       "ja": "開始日時を予約",
       "es": "Programar fecha y hora de inicio",
       "pt": "Agendar data e hora de início",
-      "ko": "시작 날짜 및 시간 예약"
+      "ko": "시작 날짜 및 시간 예약",
+      "fr": "Planifier une date et heure de début"
     },
     "Schedule an end date and time": {
       "ja": "終了日時を予約",
       "es": "Programar fecha y hora de fin",
       "pt": "Agendar data e hora de término",
-      "ko": "종료 날짜 및 시간 예약"
+      "ko": "종료 날짜 및 시간 예약",
+      "fr": "Planifier une date et heure de fin"
     },
     "Set Live": {
       "ja": "ライブ化",
@@ -8066,7 +8100,8 @@
       "ja": "内訳を見る",
       "es": "Ver desglose",
       "pt": "Ver detalhamento",
-      "ko": "분석 보기"
+      "ko": "분석 보기",
+      "fr": "Voir le détail"
     },
     "See pricing and feature comparison.": {
       "ja": "料金と機能の比較を見る。",
@@ -8167,7 +8202,8 @@
       "ja": "SMSフォールバック",
       "es": "Respaldo SMS",
       "pt": "Fallback SMS",
-      "ko": "SMS 폴백"
+      "ko": "SMS 폴백",
+      "fr": "Repli SMS"
     },
     "US:": {
       "ja": "米国:",
@@ -8342,7 +8378,8 @@
       "ja": "SMS / RCSテンプレート",
       "es": "Plantilla SMS / RCS",
       "pt": "Modelo SMS / RCS",
-      "ko": "SMS / RCS 템플릿"
+      "ko": "SMS / RCS 템플릿",
+      "fr": "Modèle SMS / RCS"
     },
     "Template": {
       "ja": "テンプレート",
@@ -8448,7 +8485,8 @@
       "ja": "検索バーで結果が空",
       "es": "Barra de búsqueda mostrando resultados vacíos",
       "pt": "Barra de pesquisa mostrando resultados vazios",
-      "ko": "검색창에 비어 있는 결과가 표시됨"
+      "ko": "검색창에 비어 있는 결과가 표시됨",
+      "fr": "Barre de recherche affichant des résultats vides"
     },
     "We could not find the Template you were looking for.": {
       "ja": "お探しのテンプレートが見つかりませんでした。",
@@ -8553,13 +8591,15 @@
       "ja": "ジャーニー名で検索",
       "es": "Buscar por nombre de Journey",
       "pt": "Pesquisar por nome do Journey",
-      "ko": "저니 이름으로 검색"
+      "ko": "저니 이름으로 검색",
+      "fr": "Rechercher par nom de Journey"
     },
     "Search by key or value": {
       "ja": "キーまたは値で検索",
       "es": "Buscar por clave o valor",
       "pt": "Pesquisar por chave ou valor",
-      "ko": "키 또는 값으로 검색"
+      "ko": "키 또는 값으로 검색",
+      "fr": "Rechercher par clé ou valeur"
     },
     "Aliases": {
       "ja": "エイリアス",
@@ -8884,7 +8924,8 @@
       "ja": "メールで検索",
       "es": "Buscar por correo",
       "pt": "Pesquisar por email",
-      "ko": "이메일로 검색"
+      "ko": "이메일로 검색",
+      "fr": "Rechercher par email"
     },
     "App role": {
       "ja": "アプリの役割",
@@ -9004,7 +9045,8 @@
       "ja": "UTM設定を保存",
       "es": "Guardar configuración UTM",
       "pt": "Salvar configurações de UTM",
-      "ko": "UTM 설정 저장"
+      "ko": "UTM 설정 저장",
+      "fr": "Enregistrer les paramètres UTM"
     },
     "This limit will be set for each individual push message unless you override it on creation": {
       "ja": "この制限は、作成時に上書きしない限り、個別のプッシュメッセージごとに設定されます",
@@ -9240,7 +9282,8 @@
       "ja": "メールで検索",
       "es": "Buscar por correo",
       "pt": "Pesquisar por email",
-      "ko": "이메일로 검색"
+      "ko": "이메일로 검색",
+      "fr": "Rechercher par email"
     },
     "To manage your suppression list, go to": {
       "ja": "サプレッションリストを管理するには、次に移動してください:",
@@ -9357,7 +9400,8 @@
       "ja": "SMTPログイン",
       "es": "Inicio de sesión SMTP",
       "pt": "Login SMTP",
-      "ko": "SMTP 로그인"
+      "ko": "SMTP 로그인",
+      "fr": "Identifiant SMTP"
     },
     "Setup Google Postmaster Documentation": {
       "ja": "Google Postmasterの設定文書",
@@ -9756,31 +9800,36 @@
       "ja": "SMS規制遵守文書",
       "es": "Documentación de cumplimiento normativo de SMS",
       "pt": "Documentação de conformidade regulatória SMS",
-      "ko": "SMS 규제 준수 문서"
+      "ko": "SMS 규제 준수 문서",
+      "fr": "Documentation de conformité réglementaire SMS"
     },
     "SMS double opt in": {
       "ja": "SMSダブルオプトイン",
       "es": "Doble opt-in de SMS",
       "pt": "Opt-in duplo SMS",
-      "ko": "SMS 이중 옵트인"
+      "ko": "SMS 이중 옵트인",
+      "fr": "Double opt-in SMS"
     },
     "START": {
       "ja": "START",
       "es": "START",
       "pt": "START",
-      "ko": "START"
+      "ko": "START",
+      "fr": "START"
     },
     "STOP": {
       "ja": "STOP",
       "es": "STOP",
       "pt": "STOP",
-      "ko": "STOP"
+      "ko": "STOP",
+      "fr": "STOP"
     },
     "SUBSCRIBE": {
       "ja": "SUBSCRIBE",
       "es": "SUBSCRIBE",
       "pt": "SUBSCRIBE",
-      "ko": "SUBSCRIBE"
+      "ko": "SUBSCRIBE",
+      "fr": "SUBSCRIBE"
     },
     "Segmented by subscription status": {
       "ja": "購読状態別にセグメント化",
@@ -9999,7 +10048,8 @@
       "ja": "SMS / RCS設定",
       "es": "Configuración de SMS / RCS",
       "pt": "Configurações de SMS / RCS",
-      "ko": "SMS / RCS 설정"
+      "ko": "SMS / RCS 설정",
+      "fr": "Paramètres SMS / RCS"
     },
     "Switch Providers": {
       "ja": "プロバイダーを切り替え",
