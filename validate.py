@@ -31,7 +31,7 @@ ROOT = Path(__file__).resolve().parent
 LANGUAGES_PATH = ROOT / "languages.json"
 GLOSSARY_PATH = ROOT / "glossary.json"
 
-LANGS = ["ja", "es", "pt", "ko"]
+LANGS = ["ja", "es", "pt", "ko", "fr"]
 CURLY_QUOTE_RE = re.compile(r"[‘’“”]")
 
 
