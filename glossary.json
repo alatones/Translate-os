@@ -1320,7 +1320,10 @@
         "Gönderim",
         "gönderim"
       ],
-      "zh-CN": "送达"
+      "zh-CN": [
+        "送达",
+        "发送"
+      ]
     },
     "Delivery Rate": {
       "ja": "配信率",
