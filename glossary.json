@@ -7,7 +7,12 @@
       "es": "Journey",
       "pt": "Journey",
       "ko": "저니",
-      "note": "OneSignal feature. ja/ko established loanwords; es/pt keep Latin."
+      "note": "OneSignal feature. ja/ko established loanwords; es/pt keep Latin.",
+      "_skip_keys": [
+        "JOURNEY",
+        "Walkthrough your user journey on your own device, from message to conversion",
+        "The journey is the reward."
+      ]
     },
     "Journeys": {
       "ja": "ジャーニー",
@@ -95,8 +100,18 @@
         "アプリ内",
         "インアプリ"
       ],
-      "es": "In-App",
-      "pt": "In-App",
+      "es": [
+        "In-App",
+        "en la aplicación",
+        "en la app",
+        "mensajes en la app"
+      ],
+      "pt": [
+        "In-App",
+        "no aplicativo",
+        "no app",
+        "mensagens no app"
+      ],
       "ko": "인앱",
       "note": "es/pt keep Latin (product feature). ja/ko translate/transliterate."
     },
@@ -239,14 +254,26 @@
     },
     "Data Tag": {
       "ja": "データタグ",
-      "es": "Etiqueta de datos",
-      "pt": "Tag de dados",
+      "es": [
+        "Etiqueta de datos",
+        "data tag"
+      ],
+      "pt": [
+        "Tag de dados",
+        "data tag"
+      ],
       "ko": "데이터 태그"
     },
     "Data Tags": {
       "ja": "データタグ",
-      "es": "Etiquetas de datos",
-      "pt": "Tags de dados",
+      "es": [
+        "Etiquetas de datos",
+        "data tags"
+      ],
+      "pt": [
+        "Tags de dados",
+        "data tags"
+      ],
       "ko": "데이터 태그"
     },
     "Notification": {
@@ -295,12 +322,16 @@
         "Enviar",
         "envio",
         "envios",
-        "Envie"
+        "Envie",
+        "enviam",
+        "enviada",
+        "enviadas"
       ],
       "ko": [
         "발송",
         "보내",
-        "전송"
+        "전송",
+        "보냅"
       ]
     },
     "Sent": {
@@ -371,18 +402,24 @@
         "Cancelar",
         "Cancele"
       ],
-      "ko": "취소"
+      "ko": "취소",
+      "_skip_keys": [
+        "CANCEL"
+      ],
+      "note": "Button label. The SMS protocol keyword CANCEL stays Latin and is excluded via _skip_keys."
     },
     "Confirm": {
       "ja": "確認",
       "es": [
         "Confirmar",
         "Confirma",
-        "Confirme"
+        "Confirme",
+        "confirmó"
       ],
       "pt": [
         "Confirmar",
-        "Confirme"
+        "Confirme",
+        "confirmou"
       ],
       "ko": "확인"
     },
@@ -395,12 +432,14 @@
       ],
       "pt": [
         "Criar",
-        "Crie"
+        "Crie",
+        "criam"
       ],
       "ko": [
         "만들기",
         "만들",
-        "만드세요"
+        "만드세요",
+        "생성"
       ]
     },
     "Add": {
@@ -485,7 +524,10 @@
         "Ajustes",
         "Configuración"
       ],
-      "pt": "Configurações",
+      "pt": [
+        "Configurações",
+        "Configuração"
+      ],
       "ko": "설정"
     },
     "Search": {
@@ -554,7 +596,10 @@
         "atividade",
         "Atividade"
       ],
-      "ko": "활성"
+      "ko": [
+        "활성",
+        "활동"
+      ]
     },
     "Inactive": {
       "ja": "非アクティブ",
@@ -580,9 +625,19 @@
     },
     "Paused": {
       "ja": "一時停止中",
-      "es": "Pausado",
-      "pt": "Pausado",
-      "ko": "일시 정지됨"
+      "es": [
+        "Pausado",
+        "pausa"
+      ],
+      "pt": [
+        "Pausado",
+        "pausa"
+      ],
+      "ko": [
+        "일시 정지됨",
+        "중지",
+        "일시 중지"
+      ]
     },
     "Failed": {
       "ja": "失敗",
@@ -640,7 +695,10 @@
       ],
       "es": [
         "Entregado",
-        "Entregada"
+        "Entregada",
+        "envíen",
+        "entregue",
+        "entreguen"
       ],
       "pt": [
         "Entregue",
@@ -708,7 +766,10 @@
       "ko": "전환"
     },
     "Recipients": {
-      "ja": "受信者数",
+      "ja": [
+        "受信者数",
+        "受信者"
+      ],
       "es": [
         "Destinatarios",
         "Destinatario"

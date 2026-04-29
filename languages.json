@@ -1255,7 +1255,7 @@
       "ko": "가져오기"
     },
     "Import data tags": {
-      "es": "Importar data tags",
+      "es": "Importar etiquetas de datos",
       "ja": "データタグをインポート",
       "pt": "Importar data tags",
       "ko": "데이터 태그 가져오기"
@@ -2269,7 +2269,7 @@
       "ko": "저니 빠른 시작"
     },
     "Reach targeted audience based on user properties or events from data tags": {
-      "es": "Alcanza audiencias específicas según propiedades o eventos de data tags",
+      "es": "Alcanza audiencias específicas según propiedades o eventos de etiquetas de datos",
       "ja": "データタグのユーザープロパティやイベントに基づいてターゲットオーディエンスにリーチ",
       "pt": "Alcance audiências segmentadas com base em propriedades ou eventos de data tags",
       "ko": "데이터 태그의 사용자 속성 또는 이벤트를 기반으로 대상에게 도달하세요"
@@ -3308,7 +3308,7 @@
     },
     "Web push subscribers": {
       "es": "Suscriptores de push web",
-      "ja": "ウェブプッシュ登録者",
+      "ja": "ウェブプッシュ購読者",
       "pt": "Assinantes de push web",
       "ko": "웹 푸시 구독자"
     },
@@ -4165,7 +4165,7 @@
       "ko": "푸시, 이메일 및 SMS 구독 내보내기"
     },
     "See subscriber preferences at the channel level": {
-      "ja": "チャネルレベルでのサブスクライバーの設定を確認する",
+      "ja": "チャネルレベルでの購読者の設定を確認する",
       "es": "Ver las preferencias de suscriptores a nivel de canal",
       "pt": "Ver preferências de assinantes no nível do canal",
       "ko": "채널 수준에서 구독자 기본 설정 보기"

@@ -54,9 +54,12 @@ def check_glossary_enforcement(langs_data, glossary_data):
     for src_term, mapping in terms.items():
         # Word-boundary on English side: src_term not surrounded by other
         # letters. Handles "Journey" matching only standalone, not "Journeys".
+        # Always case-insensitive for the source side — UI text varies
+        # ("subscriber preferences" vs "Subscriber Records" both ought to
+        # match the "Subscriber" glossary entry).
         pattern = re.compile(
             r"(?<![A-Za-z])" + re.escape(src_term) + r"(?![A-Za-z])",
-            re.IGNORECASE if src_term.lower() == src_term else 0,
+            re.IGNORECASE,
         )
         # Per-term skip list: English source keys where the term appears
         # in a different sense (e.g. "Segment" the Twilio company, not
