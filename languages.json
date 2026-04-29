@@ -3374,7 +3374,7 @@
     },
     "Easily manage mobile and web push in one place": {
       "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
-      "es": "Gestiona el push móvil y web fácilmente en un solo lugar",
+      "es": "Administra el push móvil y web fácilmente en un solo lugar",
       "pt": "Gerencie push móvel e web facilmente em um só lugar",
       "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요"
     },
@@ -3476,7 +3476,7 @@
     },
     "Email - Active - Click to manage settings": {
       "ja": "メール - アクティブ - クリックして設定を管理",
-      "es": "Email - Activo - Haz clic para gestionar la configuración",
+      "es": "Email - Activo - Haz clic para administrar la configuración",
       "pt": "Email - Ativo - Clique para gerenciar as configurações",
       "ko": "이메일 - 활성 - 클릭하여 설정 관리"
     },
@@ -4106,7 +4106,7 @@
     },
     "Manage user profiles": {
       "ja": "ユーザープロフィールを管理",
-      "es": "Gestionar perfiles de usuario",
+      "es": "Administrar perfiles de usuario",
       "pt": "Gerenciar perfis de usuários",
       "ko": "사용자 프로필 관리"
     },
@@ -4202,7 +4202,7 @@
     },
     "Manage test subscriptions to preview and send test messages.": {
       "ja": "テスト購読を管理して、テストメッセージをプレビューおよび送信する。",
-      "es": "Gestiona las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
+      "es": "Administra las suscripciones de prueba para previsualizar y enviar mensajes de prueba.",
       "pt": "Gerencie assinaturas de teste para visualizar e enviar mensagens de teste.",
       "ko": "테스트 메시지를 미리 보고 발송하기 위해 테스트 구독을 관리하세요."
     },
@@ -8372,7 +8372,7 @@
     },
     "OneSignal only provides suppression management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみサプレッション管理を提供します。",
-      "es": "OneSignal solo proporciona administración de supresión para los usuarios que utilizan correo de OneSignal.",
+      "es": "OneSignal solo proporciona gestión de supresión para los usuarios que utilizan correo de OneSignal.",
       "pt": "O OneSignal fornece gerenciamento de supressão apenas para usuários que usam o email do OneSignal.",
       "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 수신 거부 관리를 제공합니다."
     },
