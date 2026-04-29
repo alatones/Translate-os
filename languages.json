@@ -9015,7 +9015,8 @@
       "pt": "Qual(is) segmento(s) deve(m) ser",
       "ko": "어떤 세그먼트가",
       "fr": "Quels segments doivent être",
-      "tr": "Hangi segment(ler)"
+      "tr": "Hangi segment(ler)",
+      "zh-CN": "哪个 Segment 应该"
     },
     "Add a description...": {
       "ja": "説明を追加...",
@@ -9023,7 +9024,8 @@
       "pt": "Adicionar uma descrição...",
       "ko": "설명 추가...",
       "fr": "Ajouter une description...",
-      "tr": "Açıklama ekle..."
+      "tr": "Açıklama ekle...",
+      "zh-CN": "添加描述..."
     },
     "Goals": {
       "ja": "目標",
@@ -9031,7 +9033,8 @@
       "pt": "Metas",
       "ko": "목표",
       "fr": "Objectifs",
-      "tr": "Hedefler"
+      "tr": "Hedefler",
+      "zh-CN": "目标"
     },
     "Choose date and time": {
       "ja": "日付と時刻を選択",
@@ -9039,7 +9042,8 @@
       "pt": "Escolher data e hora",
       "ko": "날짜 및 시간 선택",
       "fr": "Choisir la date et l'heure",
-      "tr": "Tarih ve saat seç"
+      "tr": "Tarih ve saat seç",
+      "zh-CN": "选择日期和时间"
     },
     "Choose when a Journey": {
       "ja": "ジャーニーをいつ",
@@ -9047,7 +9051,8 @@
       "pt": "Escolha quando um Journey",
       "ko": "저니가 언제",
       "fr": "Choisissez quand un Journey",
-      "tr": "Bir Journey'in ne zaman olacağını seçin"
+      "tr": "Bir Journey'in ne zaman olacağını seçin",
+      "zh-CN": "选择 Journey 的时间"
     },
     "Custom Event": {
       "ja": "カスタムイベント",
@@ -9055,7 +9060,8 @@
       "pt": "Evento personalizado",
       "ko": "사용자 정의 이벤트",
       "fr": "Événement personnalisé",
-      "tr": "Özel etkinlik"
+      "tr": "Özel etkinlik",
+      "zh-CN": "自定义事件"
     },
     "Entrance": {
       "ja": "開始",
@@ -9063,7 +9069,8 @@
       "pt": "Entrada",
       "ko": "진입",
       "fr": "Entrée",
-      "tr": "Giriş"
+      "tr": "Giriş",
+      "zh-CN": "进入"
     },
     "Exit": {
       "ja": "終了",
@@ -9071,7 +9078,8 @@
       "pt": "Saída",
       "ko": "종료",
       "fr": "Sortie",
-      "tr": "Çıkış"
+      "tr": "Çıkış",
+      "zh-CN": "退出"
     },
     "Fit View": {
       "ja": "画面に合わせる",
@@ -9079,7 +9087,8 @@
       "pt": "Ajustar visualização",
       "ko": "화면에 맞춤",
       "fr": "Ajuster la vue",
-      "tr": "Görünüme sığdır"
+      "tr": "Görünüme sığdır",
+      "zh-CN": "适应视图"
     },
     "Future additions only": {
       "ja": "今後の追加のみ",
@@ -9087,7 +9096,8 @@
       "pt": "Apenas adições futuras",
       "ko": "향후 추가만",
       "fr": "Ajouts futurs uniquement",
-      "tr": "Yalnızca gelecekteki eklemeler"
+      "tr": "Yalnızca gelecekteki eklemeler",
+      "zh-CN": "仅未来添加"
     },
     "Journey Documentation": {
       "ja": "ジャーニー文書",
@@ -9095,7 +9105,8 @@
       "pt": "Documentação de Journey",
       "ko": "저니 문서",
       "fr": "Documentation Journey",
-      "tr": "Journey dokümantasyonu"
+      "tr": "Journey dokümantasyonu",
+      "zh-CN": "Journey 文档"
     },
     "Journey Settings": {
       "ja": "ジャーニー設定",
@@ -9103,7 +9114,8 @@
       "pt": "Configurações de Journey",
       "ko": "저니 설정",
       "fr": "Paramètres du Journey",
-      "tr": "Journey ayarları"
+      "tr": "Journey ayarları",
+      "zh-CN": "Journey 设置"
     },
     "Only include users that match segment(s) in the future once this journey is live.": {
       "ja": "このジャーニーが公開されたら、今後セグメントに一致するユーザーのみを含める。",
@@ -9111,7 +9123,8 @@
       "pt": "Inclua apenas usuários que correspondam a(os) segmento(s) no futuro depois que este journey estiver ativo.",
       "ko": "이 저니가 라이브된 후 향후 세그먼트와 일치하는 사용자만 포함합니다.",
       "fr": "Inclure uniquement les utilisateurs correspondant au(x) segment(s) à l'avenir, une fois ce Journey en ligne.",
-      "tr": "Bu journey yayına alındıktan sonra yalnızca segment(ler)e uyan kullanıcıları gelecekte dahil et."
+      "tr": "Bu journey yayına alındıktan sonra yalnızca segment(ler)e uyan kullanıcıları gelecekte dahil et.",
+      "zh-CN": "仅在此 journey 上线后，将未来匹配 Segment 的用户包含在内。"
     },
     "Re-Entry Rules": {
       "ja": "再開始ルール",
@@ -9119,7 +9132,8 @@
       "pt": "Regras de reentrada",
       "ko": "재진입 규칙",
       "fr": "Règles de ré-entrée",
-      "tr": "Yeniden giriş kuralları"
+      "tr": "Yeniden giriş kuralları",
+      "zh-CN": "重新进入规则"
     },
     "Re-entry Rules": {
       "ja": "再開始ルール",
@@ -9127,7 +9141,8 @@
       "pt": "Regras de reentrada",
       "ko": "재진입 규칙",
       "fr": "Règles de ré-entrée",
-      "tr": "Yeniden giriş kuralları"
+      "tr": "Yeniden giriş kuralları",
+      "zh-CN": "重新进入规则"
     },
     "Recommended Channels": {
       "ja": "推奨チャネル",
@@ -9135,7 +9150,8 @@
       "pt": "Canais recomendados",
       "ko": "추천 채널",
       "fr": "Canaux recommandés",
-      "tr": "Önerilen kanallar"
+      "tr": "Önerilen kanallar",
+      "zh-CN": "推荐渠道"
     },
     "Save & Close": {
       "ja": "保存して閉じる",
@@ -9143,7 +9159,8 @@
       "pt": "Salvar e fechar",
       "ko": "저장 후 닫기",
       "fr": "Enregistrer et fermer",
-      "tr": "Kaydet ve kapat"
+      "tr": "Kaydet ve kapat",
+      "zh-CN": "保存并关闭"
     },
     "Start your journey when a custom event happens": {
       "ja": "カスタムイベントが発生したらジャーニーを開始",
@@ -9151,7 +9168,8 @@
       "pt": "Inicie seu journey quando um evento personalizado ocorrer",
       "ko": "사용자 정의 이벤트가 발생할 때 저니 시작",
       "fr": "Démarrez votre Journey lorsqu'un événement personnalisé se produit",
-      "tr": "Özel bir etkinlik gerçekleştiğinde journey'inizi başlatın"
+      "tr": "Özel bir etkinlik gerçekleştiğinde journey'inizi başlatın",
+      "zh-CN": "在自定义事件发生时启动您的 journey"
     },
     "Start:": {
       "ja": "開始:",
@@ -9159,7 +9177,8 @@
       "pt": "Início:",
       "ko": "시작:",
       "fr": "Début :",
-      "tr": "Başlangıç:"
+      "tr": "Başlangıç:",
+      "zh-CN": "开始:"
     },
     "Stop:": {
       "ja": "終了:",
@@ -9167,7 +9186,8 @@
       "pt": "Fim:",
       "ko": "종료:",
       "fr": "Fin :",
-      "tr": "Bitiş:"
+      "tr": "Bitiş:",
+      "zh-CN": "停止:"
     },
     "There is still work to do": {
       "ja": "まだやるべきことがあります",
@@ -9175,7 +9195,8 @@
       "pt": "Ainda há trabalho a fazer",
       "ko": "아직 해야 할 작업이 있습니다",
       "fr": "Il reste du travail à faire",
-      "tr": "Yapılacak işler var"
+      "tr": "Yapılacak işler var",
+      "zh-CN": "还有工作要做"
     },
     "Trigger:": {
       "ja": "トリガー:",
@@ -9183,7 +9204,8 @@
       "pt": "Gatilho:",
       "ko": "트리거:",
       "fr": "Déclencheur :",
-      "tr": "Tetikleyici:"
+      "tr": "Tetikleyici:",
+      "zh-CN": "触发器:"
     },
     "User has moved through the entire Journey": {
       "ja": "ユーザーがジャーニー全体を通過しました",
@@ -9191,7 +9213,8 @@
       "pt": "O usuário passou por todo o Journey",
       "ko": "사용자가 전체 저니를 통과했습니다",
       "fr": "L'utilisateur a parcouru tout le Journey",
-      "tr": "Kullanıcı tüm Journey'i tamamladı"
+      "tr": "Kullanıcı tüm Journey'i tamamladı",
+      "zh-CN": "用户已通过整个 Journey"
     },
     "Users can only enter the Journey once": {
       "ja": "ユーザーはジャーニーに1回しか入れません",
@@ -9199,7 +9222,8 @@
       "pt": "Os usuários só podem entrar no Journey uma vez",
       "ko": "사용자는 저니에 한 번만 진입할 수 있습니다",
       "fr": "Les utilisateurs ne peuvent entrer dans le Journey qu'une seule fois",
-      "tr": "Kullanıcılar Journey'e yalnızca bir kez girebilir"
+      "tr": "Kullanıcılar Journey'e yalnızca bir kez girebilir",
+      "zh-CN": "用户只能进入 Journey 一次"
     },
     "Users in the chosen segment will start your Journey": {
       "ja": "選択したセグメントのユーザーがあなたのジャーニーを開始します",
@@ -9207,7 +9231,8 @@
       "pt": "Os usuários no segmento escolhido iniciarão seu Journey",
       "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다",
       "fr": "Les utilisateurs du segment choisi commenceront votre Journey",
-      "tr": "Seçilen segmentteki kullanıcılar Journey'inizi başlatacak"
+      "tr": "Seçilen segmentteki kullanıcılar Journey'inizi başlatacak",
+      "zh-CN": "所选 Segment 中的用户将启动您的 Journey"
     },
     "Zoom In": {
       "ja": "拡大",
@@ -9215,7 +9240,8 @@
       "pt": "Aproximar",
       "ko": "확대",
       "fr": "Zoom avant",
-      "tr": "Yakınlaştır"
+      "tr": "Yakınlaştır",
+      "zh-CN": "放大"
     },
     "Zoom Out": {
       "ja": "縮小",
@@ -9223,7 +9249,8 @@
       "pt": "Afastar",
       "ko": "축소",
       "fr": "Zoom arrière",
-      "tr": "Uzaklaştır"
+      "tr": "Uzaklaştır",
+      "zh-CN": "缩小"
     },
     "excluded": {
       "ja": "除外",
@@ -9231,7 +9258,8 @@
       "pt": "excluído",
       "ko": "제외됨",
       "fr": "exclu",
-      "tr": "hariç tutulan"
+      "tr": "hariç tutulan",
+      "zh-CN": "已排除"
     },
     "from this Journey?": {
       "ja": "をこのジャーニーから？",
@@ -9239,7 +9267,8 @@
       "pt": "deste Journey?",
       "ko": "이 저니에서?",
       "fr": "de ce Journey ?",
-      "tr": "bu Journey'den?"
+      "tr": "bu Journey'den?",
+      "zh-CN": "从此 Journey？"
     },
     "in this Journey?": {
       "ja": "をこのジャーニーに？",
@@ -9247,7 +9276,8 @@
       "pt": "neste Journey?",
       "ko": "이 저니에?",
       "fr": "dans ce Journey ?",
-      "tr": "bu Journey'de?"
+      "tr": "bu Journey'de?",
+      "zh-CN": "在此 Journey？"
     },
     "included": {
       "ja": "含む",
@@ -9255,7 +9285,8 @@
       "pt": "incluído",
       "ko": "포함됨",
       "fr": "inclus",
-      "tr": "dahil edilen"
+      "tr": "dahil edilen",
+      "zh-CN": "已包含"
     },
     "Add Properties": {
       "ja": "プロパティを追加",
@@ -9263,7 +9294,8 @@
       "pt": "Adicionar propriedades",
       "ko": "속성 추가",
       "fr": "Ajouter des propriétés",
-      "tr": "Özellik ekle"
+      "tr": "Özellik ekle",
+      "zh-CN": "添加属性"
     },
     "Are you sure you want to leave?": {
       "ja": "本当に離れますか？",
@@ -9271,7 +9303,8 @@
       "pt": "Tem certeza de que deseja sair?",
       "ko": "정말 나가시겠습니까?",
       "fr": "Voulez-vous vraiment quitter ?",
-      "tr": "Çıkmak istediğinizden emin misiniz?"
+      "tr": "Çıkmak istediğinizden emin misiniz?",
+      "zh-CN": "确定要离开吗？"
     },
     "Control Panel": {
       "ja": "コントロールパネル",
@@ -9279,7 +9312,8 @@
       "pt": "Painel de controle",
       "ko": "제어판",
       "fr": "Panneau de contrôle",
-      "tr": "Kontrol paneli"
+      "tr": "Kontrol paneli",
+      "zh-CN": "控制面板"
     },
     "Custom Event List": {
       "ja": "カスタムイベント一覧",
@@ -9287,7 +9321,8 @@
       "pt": "Lista de eventos personalizados",
       "ko": "사용자 정의 이벤트 목록",
       "fr": "Liste des événements personnalisés",
-      "tr": "Özel etkinlik listesi"
+      "tr": "Özel etkinlik listesi",
+      "zh-CN": "自定义事件列表"
     },
     "Custom Event Name": {
       "ja": "カスタムイベント名",
@@ -9295,7 +9330,8 @@
       "pt": "Nome do evento personalizado",
       "ko": "사용자 정의 이벤트 이름",
       "fr": "Nom de l'événement personnalisé",
-      "tr": "Özel etkinlik adı"
+      "tr": "Özel etkinlik adı",
+      "zh-CN": "自定义事件名称"
     },
     "Enter custom event name": {
       "ja": "カスタムイベント名を入力",
@@ -9303,7 +9339,8 @@
       "pt": "Inserir nome do evento personalizado",
       "ko": "사용자 정의 이벤트 이름 입력",
       "fr": "Saisir le nom de l'événement personnalisé",
-      "tr": "Özel etkinlik adını girin"
+      "tr": "Özel etkinlik adını girin",
+      "zh-CN": "输入自定义事件名称"
     },
     "Event-triggered Journeys create a new user instance each time the trigger event fires. This means a user may be in the Journey multiple times at once.": {
       "ja": "イベントトリガーのジャーニーは、トリガーイベントが発生するたびに新しいユーザーインスタンスを作成します。つまり、ユーザーが同時に複数のジャーニーに参加することがあります。",
@@ -9311,7 +9348,8 @@
       "pt": "Os Journeys disparados por eventos criam uma nova instância de usuário cada vez que o evento gatilho é disparado. Isso significa que um usuário pode estar no Journey várias vezes ao mesmo tempo.",
       "ko": "이벤트 트리거 저니는 트리거 이벤트가 발생할 때마다 새로운 사용자 인스턴스를 생성합니다. 즉, 사용자가 동시에 여러 번 저니에 참여할 수 있습니다.",
       "fr": "Les Journeys déclenchés par événement créent une nouvelle instance utilisateur à chaque déclenchement de l'événement. Un même utilisateur peut donc être dans le Journey plusieurs fois simultanément.",
-      "tr": "Etkinlik tarafından tetiklenen Journey'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Journey'de aynı anda birden çok kez bulunabileceği anlamına gelir."
+      "tr": "Etkinlik tarafından tetiklenen Journey'ler, tetikleyici etkinlik her gerçekleştiğinde yeni bir kullanıcı örneği oluşturur. Bu, bir kullanıcının Journey'de aynı anda birden çok kez bulunabileceği anlamına gelir.",
+      "zh-CN": "事件触发的 Journeys 在每次触发事件发生时都会创建新的用户实例。这意味着一个用户可能同时处于 Journey 的多个实例中。"
     },
     "Filter by property": {
       "ja": "プロパティでフィルター",
@@ -9319,7 +9357,8 @@
       "pt": "Filtrar por propriedade",
       "ko": "속성으로 필터링",
       "fr": "Filtrer par propriété",
-      "tr": "Özelliğe göre filtrele"
+      "tr": "Özelliğe göre filtrele",
+      "zh-CN": "按属性筛选"
     },
     "It looks like you're still working on this. Changes you made may not be saved if you leave now.": {
       "ja": "まだ作業中のようです。今離れると変更が保存されない場合があります。",
@@ -9327,7 +9366,8 @@
       "pt": "Parece que você ainda está trabalhando nisso. As alterações feitas podem não ser salvas se sair agora.",
       "ko": "아직 작업 중인 것 같습니다. 지금 나가면 변경 사항이 저장되지 않을 수 있습니다.",
       "fr": "Il semble que vous êtes encore en train de travailler dessus. Les modifications apportées risquent de ne pas être enregistrées si vous quittez maintenant.",
-      "tr": "Hâlâ bunun üzerinde çalışıyor görünüyorsunuz. Şimdi çıkarsanız yaptığınız değişiklikler kaydedilmeyebilir."
+      "tr": "Hâlâ bunun üzerinde çalışıyor görünüyorsunuz. Şimdi çıkarsanız yaptığınız değişiklikler kaydedilmeyebilir.",
+      "zh-CN": "看起来您还在编辑此内容。如果现在离开，您所做的更改可能不会保存。"
     },
     "Journey description": {
       "ja": "ジャーニーの説明",
@@ -9335,7 +9375,8 @@
       "pt": "Descrição do Journey",
       "ko": "저니 설명",
       "fr": "Description du Journey",
-      "tr": "Journey açıklaması"
+      "tr": "Journey açıklaması",
+      "zh-CN": "Journey 描述"
     },
     "Journey name": {
       "ja": "ジャーニー名",
@@ -9343,7 +9384,8 @@
       "pt": "Nome do Journey",
       "ko": "저니 이름",
       "fr": "Nom du Journey",
-      "tr": "Journey adı"
+      "tr": "Journey adı",
+      "zh-CN": "Journey 名称"
     },
     "Journey saved!": {
       "ja": "ジャーニーを保存しました！",
@@ -9351,7 +9393,8 @@
       "pt": "Journey salvo!",
       "ko": "저니가 저장되었습니다!",
       "fr": "Journey enregistré !",
-      "tr": "Journey kaydedildi!"
+      "tr": "Journey kaydedildi!",
+      "zh-CN": "Journey 已保存！"
     },
     "Keep editing": {
       "ja": "編集を続ける",
@@ -9359,7 +9402,8 @@
       "pt": "Continuar editando",
       "ko": "계속 편집",
       "fr": "Continuer la modification",
-      "tr": "Düzenlemeye devam et"
+      "tr": "Düzenlemeye devam et",
+      "zh-CN": "继续编辑"
     },
     "Leave": {
       "ja": "離れる",
@@ -9367,7 +9411,8 @@
       "pt": "Sair",
       "ko": "나가기",
       "fr": "Quitter",
-      "tr": "Çık"
+      "tr": "Çık",
+      "zh-CN": "离开"
     },
     "Meet a certain condition": {
       "ja": "特定の条件を満たす",
@@ -9375,7 +9420,8 @@
       "pt": "Atender a uma certa condição",
       "ko": "특정 조건 충족",
       "fr": "Remplir une certaine condition",
-      "tr": "Belirli bir koşulu karşıla"
+      "tr": "Belirli bir koşulu karşıla",
+      "zh-CN": "满足特定条件"
     },
     "Mini Map": {
       "ja": "ミニマップ",
@@ -9383,7 +9429,8 @@
       "pt": "Minimapa",
       "ko": "미니맵",
       "fr": "Mini-carte",
-      "tr": "Mini harita"
+      "tr": "Mini harita",
+      "zh-CN": "缩略图"
     },
     "More Options": {
       "ja": "その他のオプション",
@@ -9391,7 +9438,8 @@
       "pt": "Mais opções",
       "ko": "추가 옵션",
       "fr": "Plus d'options",
-      "tr": "Daha fazla seçenek"
+      "tr": "Daha fazla seçenek",
+      "zh-CN": "更多选项"
     },
     "Never stops": {
       "ja": "停止しない",
@@ -9399,7 +9447,8 @@
       "pt": "Nunca para",
       "ko": "멈추지 않음",
       "fr": "Ne s'arrête jamais",
-      "tr": "Hiç durmaz"
+      "tr": "Hiç durmaz",
+      "zh-CN": "永不停止"
     },
     "Saving...": {
       "ja": "保存中...",
@@ -9407,7 +9456,8 @@
       "pt": "Salvando...",
       "ko": "저장 중...",
       "fr": "Enregistrement...",
-      "tr": "Kaydediliyor..."
+      "tr": "Kaydediliyor...",
+      "zh-CN": "保存中..."
     },
     "Schedule a start date and time": {
       "ja": "開始日時を予約",
