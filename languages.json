@@ -4413,350 +4413,400 @@
       "ja": "ウェブプッシュ購読者",
       "pt": "Assinantes de push web",
       "ko": "웹 푸시 구독자",
-      "fr": "Abonnés push web"
+      "fr": "Abonnés push web",
+      "tr": "Web push aboneleri"
     },
     "Webhook": {
       "es": "Webhook",
       "ja": "Webhook",
       "pt": "Webhook",
       "ko": "웹훅",
-      "fr": "Webhook"
+      "fr": "Webhook",
+      "tr": "Webhook"
     },
     "Webhook URL": {
       "es": "URL del webhook",
       "ja": "Webhook URL",
       "pt": "URL do webhook",
       "ko": "웹훅 URL",
-      "fr": "URL du webhook"
+      "fr": "URL du webhook",
+      "tr": "Webhook URL"
     },
     "Webhooks": {
       "es": "Webhooks",
       "ja": "Webhook",
       "pt": "Webhooks",
       "ko": "웹훅",
-      "fr": "Webhooks"
+      "fr": "Webhooks",
+      "tr": "Webhook'lar"
     },
     "Wed": {
       "es": "Mié",
       "ja": "水",
       "pt": "Qua",
       "ko": "수",
-      "fr": "Mer"
+      "fr": "Mer",
+      "tr": "Çar"
     },
     "Went live": {
       "es": "Publicado el",
       "ja": "公開日時",
       "pt": "Publicado em",
       "ko": "라이브됨",
-      "fr": "Mis en ligne"
+      "fr": "Mis en ligne",
+      "tr": "Yayına alındı"
     },
     "Year": {
       "es": "Año",
       "ja": "年",
       "pt": "Ano",
       "ko": "연도",
-      "fr": "Année"
+      "fr": "Année",
+      "tr": "Yıl"
     },
     "Yes": {
       "es": "Sí",
       "ja": "はい",
       "pt": "Sim",
       "ko": "예",
-      "fr": "Oui"
+      "fr": "Oui",
+      "tr": "Evet"
     },
     "Yesterday": {
       "es": "Ayer",
       "ja": "昨日",
       "pt": "Ontem",
       "ko": "어제",
-      "fr": "Hier"
+      "fr": "Hier",
+      "tr": "Dün"
     },
     "Stay top of mind": {
       "ja": "常にユーザーの意識に残る",
       "es": "Mantente en la mente de tus usuarios",
       "pt": "Mantenha-se presente na mente dos seus usuários",
       "ko": "항상 기억되세요",
-      "fr": "Restez dans l'esprit de vos utilisateurs"
+      "fr": "Restez dans l'esprit de vos utilisateurs",
+      "tr": "Akılda kalın"
     },
     "Visible and timely messages bring your users back": {
       "ja": "タイムリーなメッセージでユーザーを引き戻す",
       "es": "Los mensajes visibles y oportunos hacen que tus usuarios regresen",
       "pt": "Mensagens visíveis e oportunas trazem seus usuários de volta",
       "ko": "눈에 띄고 적시의 메시지로 사용자를 돌아오게 하세요",
-      "fr": "Des messages visibles et opportuns font revenir vos utilisateurs"
+      "fr": "Des messages visibles et opportuns font revenir vos utilisateurs",
+      "tr": "Görünür ve zamanında mesajlar kullanıcılarınızı geri getirir"
     },
     "Easily manage mobile and web push in one place": {
       "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
       "es": "Administra el push móvil y web fácilmente en un solo lugar",
       "pt": "Gerencie push móvel e web facilmente em um só lugar",
       "ko": "모바일 및 웹 푸시를 한 곳에서 쉽게 관리하세요",
-      "fr": "Gérez facilement le push mobile et web depuis un seul endroit"
+      "fr": "Gérez facilement le push mobile et web depuis un seul endroit",
+      "tr": "Mobil ve web push'u tek bir yerden kolayca yönetin"
     },
     "Unlimited push for real-time updates, alerts, and more": {
       "ja": "リアルタイムの更新・アラートなどをプッシュ数の制限なく配信",
       "es": "Push ilimitado para actualizaciones en tiempo real, alertas y más",
       "pt": "Push ilimitado para atualizações em tempo real, alertas e muito mais",
       "ko": "실시간 업데이트, 알림 등을 위한 무제한 푸시",
-      "fr": "Push illimité pour les mises à jour en temps réel, alertes et plus"
+      "fr": "Push illimité pour les mises à jour en temps réel, alertes et plus",
+      "tr": "Gerçek zamanlı güncellemeler, uyarılar ve daha fazlası için sınırsız push"
     },
     "Set Up Push": {
       "ja": "プッシュをセットアップ",
       "es": "Configurar push",
       "pt": "Configurar push",
       "ko": "푸시 설정",
-      "fr": "Configurer le push"
+      "fr": "Configurer le push",
+      "tr": "Push'u kur"
     },
     "Push setup documentation": {
       "ja": "プッシュセットアップドキュメント",
       "es": "Documentación de configuración de push",
       "pt": "Documentação de configuração de push",
       "ko": "푸시 설정 문서",
-      "fr": "Documentation de configuration push"
+      "fr": "Documentation de configuration push",
+      "tr": "Push kurulum dokümantasyonu"
     },
     "Hi! Let's get started": {
       "ja": "こんにちは！さっそく始めましょう",
       "es": "¡Hola! Empecemos",
       "pt": "Olá! Vamos começar",
       "ko": "안녕하세요! 시작해봅시다",
-      "fr": "Bonjour ! Commençons"
+      "fr": "Bonjour ! Commençons",
+      "tr": "Merhaba! Hadi başlayalım"
     },
     "Set up your messaging channels": {
       "ja": "メッセージチャネルを設定",
       "es": "Configura tus canales de mensajería",
       "pt": "Configure seus canais de mensagens",
       "ko": "메시지 채널 설정",
-      "fr": "Configurer vos canaux de messagerie"
+      "fr": "Configurer vos canaux de messagerie",
+      "tr": "Mesajlaşma kanallarınızı kurun"
     },
     "Create your first message": {
       "ja": "最初のメッセージを作成",
       "es": "Crea tu primer mensaje",
       "pt": "Crie sua primeira mensagem",
       "ko": "첫 번째 메시지 만들기",
-      "fr": "Créez votre premier message"
+      "fr": "Créez votre premier message",
+      "tr": "İlk mesajınızı oluşturun"
     },
     "Import users": {
       "ja": "ユーザーをインポート",
       "es": "Importar usuarios",
       "pt": "Importar usuários",
       "ko": "사용자 가져오기",
-      "fr": "Importer des utilisateurs"
+      "fr": "Importer des utilisateurs",
+      "tr": "Kullanıcıları içe aktar"
     },
     "Push notifications": {
       "ja": "プッシュ通知",
       "es": "Notificaciones push",
       "pt": "Notificações push",
       "ko": "푸시 알림",
-      "fr": "Notifications push"
+      "fr": "Notifications push",
+      "tr": "Push bildirimleri"
     },
     "In-app messages": {
       "ja": "アプリ内メッセージ",
       "es": "Mensajes en la aplicación",
       "pt": "Mensagens no aplicativo",
       "ko": "인앱 메시지",
-      "fr": "Messages dans l'application"
+      "fr": "Messages dans l'application",
+      "tr": "Uygulama içi mesajlar"
     },
     "Add your users & subscriptions": {
       "ja": "ユーザーと購読を追加",
       "es": "Agrega tus usuarios y suscripciones",
       "pt": "Adicione seus usuários e assinaturas",
       "ko": "사용자 및 구독 추가",
-      "fr": "Ajoutez vos utilisateurs et abonnements"
+      "fr": "Ajoutez vos utilisateurs et abonnements",
+      "tr": "Kullanıcılarınızı ve aboneliklerinizi ekleyin"
     },
     "Bring your users back with mobile and web push.": {
       "ja": "モバイルとウェブのプッシュ通知でユーザーを呼び戻します。",
       "es": "Recupera a tus usuarios con push móvil y web.",
       "pt": "Traga seus usuários de volta com push móvel e web.",
       "ko": "모바일 및 웹 푸시로 사용자를 다시 유도하세요.",
-      "fr": "Faites revenir vos utilisateurs avec le push mobile et web."
+      "fr": "Faites revenir vos utilisateurs avec le push mobile et web.",
+      "tr": "Mobil ve web push ile kullanıcılarınızı geri getirin."
     },
     "Craft sophisticated professional emails with no code.": {
       "ja": "コードなしでプロフェッショナルなメールを作成。",
       "es": "Crea correos electrónicos profesionales y sofisticados sin código.",
       "pt": "Crie e-mails profissionais sofisticados sem código.",
       "ko": "코딩 없이 전문적인 이메일을 작성하세요.",
-      "fr": "Créez des emails professionnels élaborés sans code."
+      "fr": "Créez des emails professionnels élaborés sans code.",
+      "tr": "Kod yazmadan sofistike profesyonel emailler hazırlayın."
     },
     "Directly reach your audience in an effective, mobile-first way.": {
       "ja": "モバイルファーストな方法で効果的にオーディエンスに直接リーチ。",
       "es": "Llega a tu audiencia de manera efectiva y mobile-first.",
       "pt": "Alcance seu público de forma eficaz e com foco em mobile.",
       "ko": "효과적인 모바일 우선 방식으로 대상에게 직접 도달하세요.",
-      "fr": "Atteignez directement votre audience avec une approche mobile-first."
+      "fr": "Atteignez directement votre audience avec une approche mobile-first.",
+      "tr": "Hedef kitlenize etkili, mobil öncelikli bir şekilde doğrudan ulaşın."
     },
     "Reach all active users, regardless of subscription status. (mobile apps only)": {
       "ja": "購読の状況に関わらず、すべてのアクティブユーザーにリーチします。（モバイルアプリのみ）",
       "es": "Llega a todos los usuarios activos, independientemente del estado de suscripción. (solo apps móviles)",
       "pt": "Alcance todos os usuários ativos, independentemente do status de assinatura. (somente apps móveis)",
       "ko": "구독 상태에 관계없이 모든 활성 사용자에게 도달하세요. (모바일 앱 전용)",
-      "fr": "Atteignez tous les utilisateurs actifs, quel que soit leur statut d'abonnement. (apps mobiles uniquement)"
+      "fr": "Atteignez tous les utilisateurs actifs, quel que soit leur statut d'abonnement. (apps mobiles uniquement)",
+      "tr": "Abonelik durumundan bağımsız olarak tüm aktif kullanıcılara ulaşın. (yalnızca mobil uygulamalar)"
     },
     "Send a quick message or setup automated messaging with Journeys": {
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
       "es": "Envía un mensaje rápido o configura mensajes automatizados con Journeys",
       "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Journeys",
       "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요",
-      "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Journeys"
+      "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Journeys",
+      "tr": "Hızlı bir mesaj gönderin veya Journeys ile otomatik mesajlaşma kurun"
     },
     "Read our quickstart documentation": {
       "ja": "クイックスタートドキュメントを読む",
       "es": "Lee nuestra documentación de inicio rápido",
       "pt": "Leia nossa documentação de início rápido",
       "ko": "빠른 시작 문서 읽기",
-      "fr": "Lire notre documentation de démarrage rapide"
+      "fr": "Lire notre documentation de démarrage rapide",
+      "tr": "Hızlı başlangıç dokümantasyonumuzu okuyun"
     },
     "Email - Active - Click to manage settings": {
       "ja": "メール - アクティブ - クリックして設定を管理",
       "es": "Email - Activo - Haz clic para administrar la configuración",
       "pt": "Email - Ativo - Clique para gerenciar as configurações",
       "ko": "이메일 - 활성 - 클릭하여 설정 관리",
-      "fr": "Email - Actif - Cliquez pour gérer les paramètres"
+      "fr": "Email - Actif - Cliquez pour gérer les paramètres",
+      "tr": "Email - Aktif - Ayarları yönetmek için tıklayın"
     },
     "In-app messages - Not configured - Click to set up": {
       "ja": "アプリ内メッセージ - 未設定 - クリックしてセットアップ",
       "es": "Mensajes en la aplicación - No configurado - Haz clic para configurar",
       "pt": "Mensagens no aplicativo - Não configurado - Clique para configurar",
       "ko": "인앱 메시지 - 미구성 - 클릭하여 설정",
-      "fr": "Messages dans l'application - Non configuré - Cliquez pour configurer"
+      "fr": "Messages dans l'application - Non configuré - Cliquez pour configurer",
+      "tr": "Uygulama içi mesajlar - Yapılandırılmadı - Kurmak için tıklayın"
     },
     "Push notifications - Not configured - Click to set up": {
       "ja": "プッシュ通知 - 未設定 - クリックしてセットアップ",
       "es": "Notificaciones push - No configurado - Haz clic para configurar",
       "pt": "Notificações push - Não configurado - Clique para configurar",
       "ko": "푸시 알림 - 미구성 - 클릭하여 설정",
-      "fr": "Notifications push - Non configuré - Cliquez pour configurer"
+      "fr": "Notifications push - Non configuré - Cliquez pour configurer",
+      "tr": "Push bildirimleri - Yapılandırılmadı - Kurmak için tıklayın"
     },
     "SMS / RCS - Not configured - Click to set up": {
       "ja": "SMS / RCS - 未設定 - クリックしてセットアップ",
       "es": "SMS / RCS - No configurado - Haz clic para configurar",
       "pt": "SMS / RCS - Não configurado - Clique para configurar",
       "ko": "SMS / RCS - 미구성 - 클릭하여 설정",
-      "fr": "SMS / RCS - Non configuré - Cliquez pour configurer"
+      "fr": "SMS / RCS - Non configuré - Cliquez pour configurer",
+      "tr": "SMS / RCS - Yapılandırılmadı - Kurmak için tıklayın"
     },
     "Account options": {
       "ja": "アカウントオプション",
       "es": "Opciones de cuenta",
       "pt": "Opções de conta",
       "ko": "계정 옵션",
-      "fr": "Options du compte"
+      "fr": "Options du compte",
+      "tr": "Hesap seçenekleri"
     },
     "Close Audience menu": {
       "ja": "オーディエンスメニューを閉じる",
       "es": "Cerrar menú de Audiencia",
       "pt": "Fechar menu de público",
       "ko": "대상 메뉴 닫기",
-      "fr": "Fermer le menu Audience"
+      "fr": "Fermer le menu Audience",
+      "tr": "Hedef kitle menüsünü kapat"
     },
     "Close Data menu": {
       "ja": "データメニューを閉じる",
       "es": "Cerrar menú de Datos",
       "pt": "Fechar menu de Dados",
       "ko": "데이터 메뉴 닫기",
-      "fr": "Fermer le menu Données"
+      "fr": "Fermer le menu Données",
+      "tr": "Veri menüsünü kapat"
     },
     "Close Delivery menu": {
       "ja": "配信メニューを閉じる",
       "es": "Cerrar menú de Entrega",
       "pt": "Fechar menu de Entrega",
       "ko": "전달 메뉴 닫기",
-      "fr": "Fermer le menu Livraison"
+      "fr": "Fermer le menu Livraison",
+      "tr": "Teslimat menüsünü kapat"
     },
     "Close Messages menu": {
       "ja": "メッセージメニューを閉じる",
       "es": "Cerrar menú de Mensajes",
       "pt": "Fechar menu de Mensagens",
       "ko": "메시지 메뉴 닫기",
-      "fr": "Fermer le menu Messages"
+      "fr": "Fermer le menu Messages",
+      "tr": "Mesajlar menüsünü kapat"
     },
     "Collapse navigation": {
       "ja": "ナビゲーションを折りたたむ",
       "es": "Contraer navegación",
       "pt": "Recolher navegação",
       "ko": "탐색 접기",
-      "fr": "Réduire la navigation"
+      "fr": "Réduire la navigation",
+      "tr": "Gezinmeyi daralt"
     },
     "Toggle navigation": {
       "ja": "ナビゲーションの切り替え",
       "es": "Alternar navegación",
       "pt": "Alternar navegação",
       "ko": "탐색 전환",
-      "fr": "Basculer la navigation"
+      "fr": "Basculer la navigation",
+      "tr": "Gezinmeyi aç/kapat"
     },
     "Notifications Alt+T": {
       "ja": "通知 Alt+T",
       "es": "Notificaciones Alt+T",
       "pt": "Notificações Alt+T",
       "ko": "알림 Alt+T",
-      "fr": "Notifications Alt+T"
+      "fr": "Notifications Alt+T",
+      "tr": "Bildirimler Alt+T"
     },
     "Event Stream documentation": {
       "ja": "イベントストリームのドキュメント",
       "es": "Documentación de Event Stream",
       "pt": "Documentação de Event Stream",
       "ko": "이벤트 스트림 문서",
-      "fr": "Documentation Event Stream"
+      "fr": "Documentation Event Stream",
+      "tr": "Event Stream dokümantasyonu"
     },
     "Event Streams send message data out of OneSignal in real-time to your chosen destination.": {
       "ja": "イベントストリームは、OneSignalのメッセージデータをリアルタイムで指定の宛先に送信します。",
       "es": "Los Event Streams envían datos de mensajes de OneSignal en tiempo real a tu destino elegido.",
       "pt": "Os Event Streams enviam dados de mensagens do OneSignal em tempo real para o seu destino escolhido.",
       "ko": "이벤트 스트림은 OneSignal에서 선택한 대상으로 메시지 데이터를 실시간으로 전송합니다.",
-      "fr": "Les Event Streams envoient les données de messages depuis OneSignal en temps réel vers la destination de votre choix."
+      "fr": "Les Event Streams envoient les données de messages depuis OneSignal en temps réel vers la destination de votre choix.",
+      "tr": "Event Streams, mesaj verilerini OneSignal'den seçtiğiniz hedefe gerçek zamanlı olarak gönderir."
     },
     "Access detailed message delivery history and recipient data for your OneSignal notifications through our comprehensive API.": {
       "ja": "包括的なAPIを通じて、OneSignal通知の詳細なメッセージ配信履歴と受信者データにアクセスできます。",
       "es": "Accede al historial detallado de entrega de mensajes y datos de destinatarios de tus notificaciones a través de nuestra API integral.",
       "pt": "Acesse o histórico detalhado de entrega de mensagens e dados de destinatários das suas notificações do OneSignal pela nossa API abrangente.",
       "ko": "포괄적인 API를 통해 OneSignal 알림의 상세한 메시지 전달 이력과 수신자 데이터에 액세스하세요.",
-      "fr": "Accédez à l'historique détaillé de livraison des messages et aux données des destinataires de vos notifications via notre API complète."
+      "fr": "Accédez à l'historique détaillé de livraison des messages et aux données des destinataires de vos notifications via notre API complète.",
+      "tr": "Kapsamlı API'miz aracılığıyla OneSignal bildirimlerinizin ayrıntılı mesaj teslim geçmişine ve alıcı verilerine erişin."
     },
     "Retain data long term for auditing and compliance or to power machine-learning engines": {
       "ja": "監査・コンプライアンスや機械学習エンジンのためにデータを長期保存する",
       "es": "Retén datos a largo plazo para auditorías, cumplimiento normativo o para potenciar motores de machine learning",
       "pt": "Retenha dados a longo prazo para auditoria, conformidade ou para alimentar mecanismos de machine learning",
       "ko": "감사 및 규정 준수 또는 머신 러닝 엔진 구동을 위해 데이터를 장기 보관하세요",
-      "fr": "Conservez les données à long terme pour l'audit et la conformité, ou pour alimenter des moteurs de machine learning"
+      "fr": "Conservez les données à long terme pour l'audit et la conformité, ou pour alimenter des moteurs de machine learning",
+      "tr": "Denetim ve uyumluluk için veya makine öğrenmesi motorlarını beslemek üzere verileri uzun vadeli olarak saklayın"
     },
     "Send History": {
       "ja": "送信履歴",
       "es": "Historial de envíos",
       "pt": "Histórico de envios",
       "ko": "발송 이력",
-      "fr": "Historique d'envoi"
+      "fr": "Historique d'envoi",
+      "tr": "Gönderim geçmişi"
     },
     "Send a continuous flow of data to other tools": {
       "ja": "他のツールへデータを継続的に送信",
       "es": "Envía un flujo continuo de datos a otras herramientas",
       "pt": "Envie um fluxo contínuo de dados para outras ferramentas",
       "ko": "다른 도구로 데이터를 지속적으로 전송하세요",
-      "fr": "Envoyez un flux continu de données vers d'autres outils"
+      "fr": "Envoyez un flux continu de données vers d'autres outils",
+      "tr": "Diğer araçlara sürekli bir veri akışı gönderin"
     },
     "Send events to your data warehouse, business intelligence, or analytics tool for analysis": {
       "ja": "データウェアハウス、BIツール、または分析ツールにイベントを送信して分析する",
       "es": "Envía eventos a tu almacén de datos, herramienta de BI o de análisis",
       "pt": "Envie eventos para seu data warehouse, ferramenta de BI ou de análise",
       "ko": "분석을 위해 데이터 웨어하우스, 비즈니스 인텔리전스 또는 분석 도구로 이벤트를 전송하세요",
-      "fr": "Envoyez les événements vers votre data warehouse, votre outil de BI ou d'analyse"
+      "fr": "Envoyez les événements vers votre data warehouse, votre outil de BI ou d'analyse",
+      "tr": "Etkinlikleri analiz için veri ambarınıza, iş zekası veya analiz aracınıza gönderin"
     },
     "Stream data in real time to trigger timely actions or workflows in other customer relationship tools": {
       "ja": "リアルタイムでデータをストリーミングして、他のCRMツールでタイムリーなアクションやワークフローをトリガーする",
       "es": "Transmite datos en tiempo real para activar acciones o flujos de trabajo en otras herramientas de CRM",
       "pt": "Transmita dados em tempo real para acionar ações ou fluxos de trabalho em outras ferramentas de relacionamento",
       "ko": "실시간으로 데이터를 스트리밍하여 다른 고객 관계 도구에서 시의적절한 작업 또는 워크플로를 트리거하세요",
-      "fr": "Transmettez les données en temps réel pour déclencher des actions ou flux de travail opportuns dans vos autres outils CRM"
+      "fr": "Transmettez les données en temps réel pour déclencher des actions ou flux de travail opportuns dans vos autres outils CRM",
+      "tr": "Diğer müşteri ilişkileri araçlarında zamanında eylemleri veya iş akışlarını tetiklemek için verileri gerçek zamanlı olarak akışla aktarın"
     },
     "Data Warehouse": {
       "ja": "データウェアハウス",
       "es": "Almacén de datos",
       "pt": "Armazém de dados",
       "ko": "데이터 웨어하우스",
-      "fr": "Entrepôt de données"
+      "fr": "Entrepôt de données",
+      "tr": "Veri ambarı"
     },
     "Database": {
       "ja": "データベース",
       "es": "Base de datos",
       "pt": "Banco de dados",
       "ko": "데이터베이스",
-      "fr": "Base de données"
+      "fr": "Base de données",
+      "tr": "Veritabanı"
     },
     "Data Streaming": {
       "ja": "データストリーミング",
