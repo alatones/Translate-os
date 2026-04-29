@@ -1452,103 +1452,120 @@
       "es": "Importar",
       "ja": "インポート",
       "pt": "Importar",
-      "ko": "가져오기"
+      "ko": "가져오기",
+      "fr": "Importer"
     },
     "Import data tags": {
       "es": "Importar etiquetas de datos",
       "ja": "データタグをインポート",
       "pt": "Importar data tags",
-      "ko": "데이터 태그 가져오기"
+      "ko": "데이터 태그 가져오기",
+      "fr": "Importer des tags de données"
     },
     "Import Users": {
       "es": "Importar usuarios",
       "ja": "ユーザーをインポート",
       "pt": "Importar usuários",
-      "ko": "사용자 가져오기"
+      "ko": "사용자 가져오기",
+      "fr": "Importer des utilisateurs"
     },
     "Impressions": {
       "es": "Impresiones",
       "ja": "インプレッション",
       "pt": "Impressões",
-      "ko": "노출 수"
+      "ko": "노출 수",
+      "fr": "Impressions"
     },
     "In Progress": {
       "es": "En progreso",
       "ja": "処理中",
       "pt": "Em andamento",
-      "ko": "진행 중"
+      "ko": "진행 중",
+      "fr": "En cours"
     },
     "In-App": {
       "es": "In-App",
       "ja": "アプリ内",
       "pt": "In-App",
-      "ko": "인앱"
+      "ko": "인앱",
+      "fr": "In-App"
     },
     "In-App Messages": {
       "es": "Mensajes In-App",
       "ja": "アプリ内メッセージ",
       "pt": "Mensagens In-App",
-      "ko": "인앱 메시지"
+      "ko": "인앱 메시지",
+      "fr": "Messages In-App"
     },
     "Inactive": {
       "es": "Inactivo",
       "ja": "非アクティブ",
       "pt": "Inativo",
-      "ko": "비활성"
+      "ko": "비활성",
+      "fr": "Inactif"
     },
     "Inbound": {
       "es": "Entrante",
       "ja": "インバウンド",
       "pt": "Entrada",
-      "ko": "인바운드"
+      "ko": "인바운드",
+      "fr": "Entrant"
     },
     "Include Segments": {
       "es": "Incluir segmentos",
       "ja": "セグメントを含む",
       "pt": "Incluir segmentos",
-      "ko": "세그먼트 포함"
+      "ko": "세그먼트 포함",
+      "fr": "Inclure les segments"
     },
     "Influenced": {
       "es": "Influenciado",
       "ja": "影響あり",
       "pt": "Influenciado",
-      "ko": "영향받음"
+      "ko": "영향받음",
+      "fr": "Influencé"
     },
     "Influenced Opens": {
       "es": "Aperturas influenciadas",
       "ja": "影響を受けた開封",
       "pt": "Aberturas influenciadas",
-      "ko": "영향받아 열림"
+      "ko": "영향받아 열림",
+      "fr": "Ouvertures influencées"
     },
     "Info": {
       "es": "Info",
       "ja": "情報",
       "pt": "Info",
-      "ko": "정보"
+      "ko": "정보",
+      "fr": "Info"
     },
     "Integrations": {
       "es": "Integraciones",
       "ja": "インテグレーション",
       "pt": "Integrações",
-      "ko": "통합"
+      "ko": "통합",
+      "fr": "Intégrations"
     },
     "Intelligent Delivery": {
       "es": "Entrega inteligente",
       "ja": "インテリジェント配信",
       "pt": "Entrega inteligente",
-      "ko": "지능형 전달"
+      "ko": "지능형 전달",
+      "fr": "Livraison intelligente"
     },
     "Invite": {
       "es": "Invitar",
       "ja": "招待",
       "pt": "Convidar",
-      "ko": "초대"
+      "ko": "초대",
+      "fr": "Inviter"
     },
     "Invite User": {
       "es": "Invitar usuario",
       "ja": "ユーザーを招待",
       "pt": "Convidar usuário",
-      "ko": "사용자 초대"
+      "ko": "사용자 초대",
+      "fr": "Inviter un utilisateur"
     },
     "iOS": {
       "es": "iOS",
@@ -1579,13 +1596,15 @@
       "es": "ene",
       "ja": "1月",
       "pt": "jan",
-      "ko": "1월"
+      "ko": "1월",
+      "fr": "jan"
     },
     "January": {
       "es": "enero",
       "ja": "1月",
       "pt": "janeiro",
-      "ko": "1월"
+      "ko": "1월",
+      "fr": "janvier"
     },
     "Journey": {
       "es": "Journey",
@@ -3622,7 +3641,8 @@
       "ja": "ユーザーをインポート",
       "es": "Importar usuarios",
       "pt": "Importar usuários",
-      "ko": "사용자 가져오기"
+      "ko": "사용자 가져오기",
+      "fr": "Importer des utilisateurs"
     },
     "Push notifications": {
       "ja": "プッシュ通知",
@@ -3634,7 +3654,8 @@
       "ja": "アプリ内メッセージ",
       "es": "Mensajes en la aplicación",
       "pt": "Mensagens no aplicativo",
-      "ko": "인앱 메시지"
+      "ko": "인앱 메시지",
+      "fr": "Messages dans l'application"
     },
     "Add your users & subscriptions": {
       "ja": "ユーザーと購読を追加",
@@ -3693,7 +3714,8 @@
       "ja": "アプリ内メッセージ - 未設定 - クリックしてセットアップ",
       "es": "Mensajes en la aplicación - No configurado - Haz clic para configurar",
       "pt": "Mensagens no aplicativo - Não configurado - Clique para configurar",
-      "ko": "인앱 메시지 - 미구성 - 클릭하여 설정"
+      "ko": "인앱 메시지 - 미구성 - 클릭하여 설정",
+      "fr": "Messages dans l'application - Non configuré - Cliquez pour configurer"
     },
     "Push notifications - Not configured - Click to set up": {
       "ja": "プッシュ通知 - 未設定 - クリックしてセットアップ",
@@ -4078,13 +4100,15 @@
       "ja": "アプリ内セットアップドキュメント",
       "es": "Documentación de configuración de In-App",
       "pt": "Documentação de configuração de In-App",
-      "ko": "인앱 설정 문서"
+      "ko": "인앱 설정 문서",
+      "fr": "Documentation de configuration In-App"
     },
     "In-app for onboarding, trials, upsells, and more": {
       "ja": "オンボーディング、トライアル、アップセルなどにアプリ内メッセージを活用",
       "es": "In-app para onboarding, pruebas, ventas adicionales y más",
       "pt": "In-app para onboarding, testes, upsells e muito mais",
-      "ko": "온보딩, 체험판, 업셀 등을 위한 인앱"
+      "ko": "온보딩, 체험판, 업셀 등을 위한 인앱",
+      "fr": "In-app pour l'onboarding, les essais, les ventes additionnelles, etc."
     },
     "No developer resources or app release required": {
       "ja": "開発リソースやアプリのリリースは不要",
@@ -4317,7 +4341,8 @@
       "ja": "非アクティブな購読",
       "es": "Suscripciones inactivas",
       "pt": "Assinaturas inativas",
-      "ko": "비활성 구독"
+      "ko": "비활성 구독",
+      "fr": "Abonnements inactifs"
     },
     "Total Subscriptions": {
       "ja": "購読合計",
@@ -4348,7 +4373,8 @@
       "ja": "SDKを統合",
       "es": "Integrar SDK",
       "pt": "Integrar SDK",
-      "ko": "SDK 통합"
+      "ko": "SDK 통합",
+      "fr": "Intégrer le SDK"
     },
     "Know your users": {
       "ja": "ユーザーを把握",
@@ -4398,7 +4424,8 @@
       "ja": "送信時にデータフィードからリアルタイムの動的コンテンツをテンプレートに直接挿入します。この機能はジャーニー経由で送信されるテンプレートにのみ適用されます。",
       "es": "Inserta contenido dinámico y en tiempo real desde tus data feeds directamente en la plantilla al momento del envío. Esta función solo aplica a plantillas enviadas a través de Journeys.",
       "pt": "Insira conteúdo dinâmico e em tempo real dos seus data feeds diretamente no modelo no momento do envio. Este recurso se aplica apenas a modelos enviados por Journeys.",
-      "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다."
+      "ko": "발송 시 데이터 피드에서 실시간 동적 콘텐츠를 템플릿에 직접 삽입하세요. 이 기능은 저니를 통해 발송된 템플릿에만 적용됩니다.",
+      "fr": "Insérez du contenu dynamique en temps réel depuis vos flux de données directement dans le modèle au moment de l'envoi. Cette fonctionnalité ne s'applique qu'aux modèles envoyés via Journeys."
     },
     "Needs Action": {
       "ja": "対応が必要",
@@ -4898,13 +4925,15 @@
       "ja": "影響を受けた開封",
       "es": "Aperturas influenciadas",
       "pt": "Aberturas influenciadas",
-      "ko": "영향받아 열림"
+      "ko": "영향받아 열림",
+      "fr": "Ouvertures influencées"
     },
     "Interruption Level": {
       "ja": "割り込みレベル",
       "es": "Nivel de interrupción",
       "pt": "Nível de interrupção",
-      "ko": "중단 수준"
+      "ko": "중단 수준",
+      "fr": "Niveau d'interruption"
     },
     "Leave unchanged": {
       "ja": "変更しない",
@@ -5081,7 +5110,8 @@
       "ja": "チームメンバーを招待",
       "es": "Invitar a miembros del equipo",
       "pt": "Convidar membros da equipe",
-      "ko": "팀원 초대"
+      "ko": "팀원 초대",
+      "fr": "Inviter des membres de l'équipe"
     },
     "Log out": {
       "ja": "ログアウト",
@@ -5522,19 +5552,22 @@
       "ja": "即時",
       "es": "Inmediatamente",
       "pt": "Imediatamente",
-      "ko": "즉시"
+      "ko": "즉시",
+      "fr": "Immédiatement"
     },
     "Include Segment": {
       "ja": "セグメントを含める",
       "es": "Incluir segmento",
       "pt": "Incluir segmento",
-      "ko": "세그먼트 포함"
+      "ko": "세그먼트 포함",
+      "fr": "Inclure le segment"
     },
     "Include sending to unsubscribed users": {
       "ja": "購読解除済みユーザーへの送信を含める",
       "es": "Incluir envío a usuarios no suscritos",
       "pt": "Incluir envio para usuários não inscritos",
-      "ko": "구독 취소한 사용자에게도 발송 포함"
+      "ko": "구독 취소한 사용자에게도 발송 포함",
+      "fr": "Inclure l'envoi aux utilisateurs désinscrits"
     },
     "Manage segments here.": {
       "ja": "ここでセグメントを管理。",
@@ -6336,7 +6369,8 @@
       "ja": "インアプリJSライブラリ",
       "es": "Biblioteca JS in-app",
       "pt": "Biblioteca JS in-app",
-      "ko": "인앱 JS 라이브러리"
+      "ko": "인앱 JS 라이브러리",
+      "fr": "Bibliothèque JS in-app"
     },
     "Exit Rules": {
       "ja": "終了ルール",
@@ -6634,7 +6668,8 @@
       "ja": "まだ作業中のようです。今離れると変更が保存されない場合があります。",
       "es": "Parece que aún estás trabajando en esto. Los cambios realizados pueden no guardarse si sales ahora.",
       "pt": "Parece que você ainda está trabalhando nisso. As alterações feitas podem não ser salvas se sair agora.",
-      "ko": "아직 작업 중인 것 같습니다. 지금 나가면 변경 사항이 저장되지 않을 수 있습니다."
+      "ko": "아직 작업 중인 것 같습니다. 지금 나가면 변경 사항이 저장되지 않을 수 있습니다.",
+      "fr": "Il semble que vous êtes encore en train de travailler dessus. Les modifications apportées risquent de ne pas être enregistrées si vous quittez maintenant."
     },
     "Journey description": {
       "ja": "ジャーニーの説明",
@@ -7172,7 +7207,8 @@
       "ja": "増分",
       "es": "Aumentar en",
       "pt": "Aumentar em",
-      "ko": "증가시킬 양"
+      "ko": "증가시킬 양",
+      "fr": "Augmenter de"
     },
     "LED Color": {
       "ja": "LEDの色",
@@ -7512,7 +7548,8 @@
       "ja": "すべてのテストユーザーを含みます。All Usersページで設定できます",
       "es": "Incluye todos los usuarios de prueba, que se pueden configurar en la página All Users",
       "pt": "Inclui todos os usuários de teste, que podem ser configurados na página All Users",
-      "ko": "모든 사용자 페이지에서 설정할 수 있는 모든 테스트 사용자를 포함"
+      "ko": "모든 사용자 페이지에서 설정할 수 있는 모든 테스트 사용자를 포함",
+      "fr": "Inclut tous les utilisateurs de test, configurables dans la page Tous les utilisateurs"
     },
     "Message Event": {
       "ja": "メッセージイベント",
@@ -7695,7 +7732,8 @@
       "ja": "インアプリの表示回数",
       "es": "Impresiones in-app",
       "pt": "Impressões in-app",
-      "ko": "인앱 노출 수"
+      "ko": "인앱 노출 수",
+      "fr": "Impressions in-app"
     },
     "Next cycle starts on": {
       "ja": "次のサイクル開始日",
@@ -8125,7 +8163,8 @@
       "ja": "追跡可能なリンクを挿入",
       "es": "Insertar enlace rastreable",
       "pt": "Inserir link rastreável",
-      "ko": "추적 가능한 링크 삽입"
+      "ko": "추적 가능한 링크 삽입",
+      "fr": "Insérer un lien traçable"
     },
     "New SMS / RCS Template": {
       "ja": "新しいSMS / RCSテンプレート",
@@ -8464,7 +8503,8 @@
       "ja": "イタリア語",
       "es": "Italiano",
       "pt": "Italiano",
-      "ko": "이탈리아어"
+      "ko": "이탈리아어",
+      "fr": "Italien"
     },
     ".wav, .aiff, .caf": {
       "ja": ".wav、.aiff、.caf",
@@ -8530,13 +8570,15 @@
       "ja": "項目名",
       "es": "Nombre del elemento",
       "pt": "Nome do item",
-      "ko": "항목 이름"
+      "ko": "항목 이름",
+      "fr": "Nom de l'élément"
     },
     "Item type": {
       "ja": "項目タイプ",
       "es": "Tipo de elemento",
       "pt": "Tipo de item",
-      "ko": "항목 유형"
+      "ko": "항목 유형",
+      "fr": "Type d'élément"
     },
     "Last 48 hours": {
       "ja": "過去48時間",
@@ -8728,25 +8770,29 @@
       "ja": "非アクティブなプラットフォーム",
       "es": "Plataformas inactivas",
       "pt": "Plataformas inativas",
-      "ko": "비활성 플랫폼"
+      "ko": "비활성 플랫폼",
+      "fr": "Plateformes inactives"
     },
     "Influenced Open": {
       "ja": "影響を受けた開封",
       "es": "Apertura influenciada",
       "pt": "Abertura influenciada",
-      "ko": "영향받은 열람"
+      "ko": "영향받은 열람",
+      "fr": "Ouverture influencée"
     },
     "Influenced Opens documentation.": {
       "ja": "影響を受けた開封の文書。",
       "es": "Documentación de aperturas influenciadas.",
       "pt": "Documentação de aberturas influenciadas.",
-      "ko": "영향받은 열람 문서."
+      "ko": "영향받은 열람 문서.",
+      "fr": "Documentation des ouvertures influencées."
     },
     "Influenced time period": {
       "ja": "影響期間",
       "es": "Período de influencia",
       "pt": "Período de influência",
-      "ko": "영향 기간"
+      "ko": "영향 기간",
+      "fr": "Période d'influence"
     },
     "Notification channels are an Android 8.0 (API level 26) feature which gives users finer control over notifications.": {
       "ja": "通知チャネルはAndroid 8.0 (APIレベル26) の機能で、ユーザーが通知をより細かく制御できます。",
@@ -9031,7 +9077,8 @@
       "ja": "受信メールテンプレート",
       "es": "Plantillas de correo entrantes",
       "pt": "Modelos de email recebidos",
-      "ko": "수신 이메일 템플릿"
+      "ko": "수신 이메일 템플릿",
+      "fr": "Modèles email entrants"
     },
     "Key ID": {
       "ja": "キーID",
@@ -9601,7 +9648,8 @@
       "ja": "招待済み",
       "es": "Invitado",
       "pt": "Convidado",
-      "ko": "초대됨"
+      "ko": "초대됨",
+      "fr": "Invité"
     },
     "All Login Methods": {
       "ja": "すべてのログイン方法",
@@ -9621,13 +9669,15 @@
       "ja": "アプリに招待",
       "es": "Invitar a la app",
       "pt": "Convidar para o app",
-      "ko": "앱에 초대"
+      "ko": "앱에 초대",
+      "fr": "Inviter dans l'app"
     },
     "JOURNEY": {
       "ja": "JOURNEY",
       "es": "JOURNEY",
       "pt": "JOURNEY",
-      "ko": "JOURNEY"
+      "ko": "JOURNEY",
+      "fr": "JOURNEY"
     },
     "Last sign in": {
       "ja": "最終サインイン",
