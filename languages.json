@@ -13065,7 +13065,8 @@
       "pt": "Opt-in duplo",
       "ko": "이중 옵트인",
       "fr": "Double opt-in",
-      "tr": "Çift onay"
+      "tr": "Çift onay",
+      "zh-CN": "双重确认"
     },
     "Keywords automatically send a reply when a keyword is received from a subscribed phone number.": {
       "ja": "キーワードは、購読済みの電話番号からキーワードを受信したときに自動的に返信を送信します。",
@@ -13073,7 +13074,8 @@
       "pt": "As palavras-chave enviam automaticamente uma resposta quando uma palavra-chave é recebida de um número de telefone inscrito.",
       "ko": "키워드는 구독한 전화번호에서 키워드를 수신하면 자동으로 회신을 보냅니다.",
       "fr": "Les mots-clés envoient automatiquement une réponse lorsqu'un mot-clé est reçu depuis un numéro de téléphone abonné.",
-      "tr": "Anahtar kelimeler, abone bir telefon numarasından bir anahtar kelime alındığında otomatik olarak yanıt gönderir."
+      "tr": "Anahtar kelimeler, abone bir telefon numarasından bir anahtar kelime alındığında otomatik olarak yanıt gönderir.",
+      "zh-CN": "当从已订阅的电话号码收到关键词时，关键词会自动发送回复。"
     },
     "MMS Throughput": {
       "ja": "MMSスループット",
@@ -13081,7 +13083,8 @@
       "pt": "Taxa de MMS",
       "ko": "MMS 처리량",
       "fr": "Débit MMS",
-      "tr": "MMS iletim hızı"
+      "tr": "MMS iletim hızı",
+      "zh-CN": "MMS 吞吐量"
     },
     "Maximum messages per second (MPS) allowed on this OneSignal app depends on the customer's Twilio trust score and the sender types that the customer is using.": {
       "ja": "このOneSignalアプリで許可される秒あたりの最大メッセージ数 (MPS) は、お客様のTwilio信頼スコアと使用している送信者タイプによって異なります。",
@@ -13089,7 +13092,8 @@
       "pt": "O máximo de mensagens por segundo (MPS) permitido neste app do OneSignal depende da pontuação de confiança Twilio do cliente e dos tipos de remetente em uso.",
       "ko": "이 OneSignal 앱에서 허용되는 초당 최대 메시지 수(MPS)는 고객의 Twilio 신뢰 점수와 고객이 사용하는 발신자 유형에 따라 다릅니다.",
       "fr": "Le nombre maximum de messages par seconde (MPS) autorisé sur cette app OneSignal dépend du score de confiance Twilio du client et des types d'expéditeur utilisés par le client.",
-      "tr": "Bu OneSignal uygulamasında izin verilen saniyedeki maksimum mesaj sayısı (MPS), müşterinin Twilio güven puanına ve kullandığı gönderen türlerine bağlıdır."
+      "tr": "Bu OneSignal uygulamasında izin verilen saniyedeki maksimum mesaj sayısı (MPS), müşterinin Twilio güven puanına ve kullandığı gönderen türlerine bağlıdır.",
+      "zh-CN": "此 OneSignal 应用允许的每秒最大消息数 (MPS) 取决于客户的 Twilio 信任评分以及客户使用的发件人类型。"
     },
     "Message Prompt Preview": {
       "ja": "メッセージプロンプトプレビュー",
@@ -13097,7 +13101,8 @@
       "pt": "Pré-visualização do prompt de mensagem",
       "ko": "메시지 프롬프트 미리보기",
       "fr": "Aperçu de l'invite du message",
-      "tr": "Mesaj istem önizlemesi"
+      "tr": "Mesaj istem önizlemesi",
+      "zh-CN": "消息提示预览"
     },
     "Message Prompt Template": {
       "ja": "メッセージプロンプトテンプレート",
@@ -13105,7 +13110,8 @@
       "pt": "Modelo de prompt de mensagem",
       "ko": "메시지 프롬프트 템플릿",
       "fr": "Modèle d'invite de message",
-      "tr": "Mesaj istem şablonu"
+      "tr": "Mesaj istem şablonu",
+      "zh-CN": "消息提示模板"
     },
     "OFF": {
       "ja": "オフ",
@@ -13113,7 +13119,8 @@
       "pt": "OFF",
       "ko": "꺼짐",
       "fr": "OFF",
-      "tr": "KAPALI"
+      "tr": "KAPALI",
+      "zh-CN": "关"
     },
     "OneSignal SMS": {
       "ja": "OneSignal SMS",
@@ -13121,7 +13128,8 @@
       "pt": "OneSignal SMS",
       "ko": "OneSignal SMS",
       "fr": "OneSignal SMS",
-      "tr": "OneSignal SMS"
+      "tr": "OneSignal SMS",
+      "zh-CN": "OneSignal SMS"
     },
     "Opt-Out": {
       "ja": "オプトアウト",
@@ -13129,7 +13137,8 @@
       "pt": "Cancelar inscrição",
       "ko": "옵트아웃",
       "fr": "Désinscription",
-      "tr": "Abonelikten çık"
+      "tr": "Abonelikten çık",
+      "zh-CN": "取消订阅"
     },
     "Re-Subscribe": {
       "ja": "再購読",
@@ -13137,7 +13146,8 @@
       "pt": "Reinscrever",
       "ko": "재구독",
       "fr": "Se réabonner",
-      "tr": "Yeniden abone ol"
+      "tr": "Yeniden abone ol",
+      "zh-CN": "重新订阅"
     },
     "Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "購読解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
@@ -13145,7 +13155,8 @@
       "pt": "Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
       "ko": "구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다.",
       "fr": "Répondez STOP pour vous désabonner. Frais de message et données possibles.",
-      "tr": "Abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir."
+      "tr": "Abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir.",
+      "zh-CN": "回复 STOP 取消订阅。可能产生消息和数据费用。"
     },
     "SMS Regulatory Compliance Documentation": {
       "ja": "SMS規制遵守文書",
@@ -13153,7 +13164,8 @@
       "pt": "Documentação de conformidade regulatória SMS",
       "ko": "SMS 규제 준수 문서",
       "fr": "Documentation de conformité réglementaire SMS",
-      "tr": "SMS düzenleyici uyumluluk dokümantasyonu"
+      "tr": "SMS düzenleyici uyumluluk dokümantasyonu",
+      "zh-CN": "SMS 监管合规文档"
     },
     "SMS double opt in": {
       "ja": "SMSダブルオプトイン",
@@ -13161,7 +13173,8 @@
       "pt": "Opt-in duplo SMS",
       "ko": "SMS 이중 옵트인",
       "fr": "Double opt-in SMS",
-      "tr": "SMS çift onay"
+      "tr": "SMS çift onay",
+      "zh-CN": "SMS 双重确认"
     },
     "START": {
       "ja": "START",
@@ -13169,7 +13182,8 @@
       "pt": "START",
       "ko": "START",
       "fr": "START",
-      "tr": "START"
+      "tr": "START",
+      "zh-CN": "START"
     },
     "STOP": {
       "ja": "STOP",
@@ -13177,7 +13191,8 @@
       "pt": "STOP",
       "ko": "STOP",
       "fr": "STOP",
-      "tr": "STOP"
+      "tr": "STOP",
+      "zh-CN": "STOP"
     },
     "SUBSCRIBE": {
       "ja": "SUBSCRIBE",
@@ -13185,7 +13200,8 @@
       "pt": "SUBSCRIBE",
       "ko": "SUBSCRIBE",
       "fr": "SUBSCRIBE",
-      "tr": "SUBSCRIBE"
+      "tr": "SUBSCRIBE",
+      "zh-CN": "SUBSCRIBE"
     },
     "Segmented by subscription status": {
       "ja": "購読状態別にセグメント化",
@@ -13193,7 +13209,8 @@
       "pt": "Segmentado por status de assinatura",
       "ko": "구독 상태별 세그먼트",
       "fr": "Segmenté par statut d'abonnement",
-      "tr": "Abonelik durumuna göre segmentlenmiş"
+      "tr": "Abonelik durumuna göre segmentlenmiş",
+      "zh-CN": "按订阅状态细分"
     },
     "Send Message Prompt is": {
       "ja": "メッセージプロンプト送信:",
@@ -13201,7 +13218,8 @@
       "pt": "Enviar prompt de mensagem é",
       "ko": "메시지 프롬프트 발송:",
       "fr": "L'invite d'envoi de message est",
-      "tr": "Mesaj istem gönderimi şu durumda:"
+      "tr": "Mesaj istem gönderimi şu durumda:",
+      "zh-CN": "发送消息提示为"
     },
     "Start": {
       "ja": "開始",
@@ -13209,7 +13227,8 @@
       "pt": "Iniciar",
       "ko": "시작",
       "fr": "Démarrer",
-      "tr": "Başlat"
+      "tr": "Başlat",
+      "zh-CN": "开始"
     },
     "Subscription Keyword Response": {
       "ja": "購読キーワードの応答",
@@ -13217,7 +13236,8 @@
       "pt": "Resposta da palavra-chave de inscrição",
       "ko": "구독 키워드 응답",
       "fr": "Réponse au mot-clé d'abonnement",
-      "tr": "Abonelik anahtar kelimesi yanıtı"
+      "tr": "Abonelik anahtar kelimesi yanıtı",
+      "zh-CN": "订阅关键词回复"
     },
     "Text-To-Subscribe Keywords": {
       "ja": "テキスト購読キーワード",
@@ -13225,7 +13245,8 @@
       "pt": "Palavras-chave de inscrição por texto",
       "ko": "텍스트 구독 키워드",
       "fr": "Mots-clés d'inscription par SMS",
-      "tr": "SMS ile abone olma anahtar kelimeleri"
+      "tr": "SMS ile abone olma anahtar kelimeleri",
+      "zh-CN": "短信订阅关键词"
     },
     "UNSTOP": {
       "ja": "UNSTOP",
@@ -13233,7 +13254,8 @@
       "pt": "UNSTOP",
       "ko": "UNSTOP",
       "fr": "UNSTOP",
-      "tr": "UNSTOP"
+      "tr": "UNSTOP",
+      "zh-CN": "UNSTOP"
     },
     "UNSUBSCRIBE": {
       "ja": "UNSUBSCRIBE",
@@ -13241,7 +13263,8 @@
       "pt": "UNSUBSCRIBE",
       "ko": "UNSUBSCRIBE",
       "fr": "UNSUBSCRIBE",
-      "tr": "UNSUBSCRIBE"
+      "tr": "UNSUBSCRIBE",
+      "zh-CN": "UNSUBSCRIBE"
     },
     "Unsubscribe user across all Senders is": {
       "ja": "すべての送信者でユーザーの登録解除:",
@@ -13249,7 +13272,8 @@
       "pt": "Cancelar a inscrição do usuário em todos os remetentes é",
       "ko": "모든 발신자에서 사용자 구독 해지:",
       "fr": "La désinscription de l'utilisateur sur tous les expéditeurs est",
-      "tr": "Tüm gönderenler genelinde kullanıcının aboneliği şu durumda:"
+      "tr": "Tüm gönderenler genelinde kullanıcının aboneliği şu durumda:",
+      "zh-CN": "在所有发件人间取消用户订阅为"
     },
     "When we receive help keywords, we'll reply with more information.": {
       "ja": "ヘルプキーワードを受信すると、詳細情報を返信します。",
@@ -13257,7 +13281,8 @@
       "pt": "Quando recebermos palavras-chave de ajuda, responderemos com mais informações.",
       "ko": "도움말 키워드를 수신하면 자세한 정보로 회신합니다.",
       "fr": "Lorsque nous recevons des mots-clés d'aide, nous répondons avec plus d'informations.",
-      "tr": "Yardım anahtar kelimeleri aldığımızda, daha fazla bilgiyle yanıt vereceğiz."
+      "tr": "Yardım anahtar kelimeleri aldığımızda, daha fazla bilgiyle yanıt vereceğiz.",
+      "zh-CN": "当我们收到帮助关键词时，我们将回复更多信息。"
     },
     "When we receive opt-out keywords, we'll automatically add the user to the phone number or message service's blocklist.": {
       "ja": "オプトアウトキーワードを受信すると、ユーザーを電話番号またはメッセージサービスのブロックリストに自動的に追加します。",
@@ -13265,7 +13290,8 @@
       "pt": "Quando recebermos palavras-chave de exclusão, adicionaremos automaticamente o usuário à lista de bloqueio do número de telefone ou serviço de mensagens.",
       "ko": "옵트아웃 키워드를 수신하면 사용자를 전화번호 또는 메시지 서비스의 차단 목록에 자동으로 추가합니다.",
       "fr": "Lorsque nous recevons des mots-clés de désinscription, nous ajoutons automatiquement l'utilisateur à la liste de blocage du numéro de téléphone ou du service de messagerie.",
-      "tr": "Abonelikten çıkma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak telefon numarası veya mesaj servisinin engelli listesine ekleyeceğiz."
+      "tr": "Abonelikten çıkma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak telefon numarası veya mesaj servisinin engelli listesine ekleyeceğiz.",
+      "zh-CN": "当我们收到取消订阅关键词时，我们将自动把该用户添加到电话号码或消息服务的屏蔽列表。"
     },
     "When we receive text-to-subscribe keywords, we'll automatically subscribe a user. If the user doesn't exist, we'll create the subscription and subscribe the user.": {
       "ja": "テキスト購読キーワードを受信すると、ユーザーを自動的に購読登録します。ユーザーが存在しない場合は、購読を作成してユーザーを登録します。",
@@ -13273,7 +13299,8 @@
       "pt": "Quando recebermos palavras-chave de inscrição por texto, inscreveremos o usuário automaticamente. Se o usuário não existir, criaremos a inscrição e inscreveremos o usuário.",
       "ko": "텍스트 구독 키워드를 수신하면 자동으로 사용자를 구독시킵니다. 사용자가 존재하지 않는 경우 구독을 생성하고 사용자를 구독시킵니다.",
       "fr": "Lorsque nous recevons des mots-clés d'inscription par SMS, nous inscrivons automatiquement l'utilisateur. Si l'utilisateur n'existe pas, nous créons l'abonnement et inscrivons l'utilisateur.",
-      "tr": "SMS ile abone olma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak abone yapacağız. Kullanıcı mevcut değilse, aboneliği oluşturup kullanıcıyı abone yapacağız."
+      "tr": "SMS ile abone olma anahtar kelimeleri aldığımızda, kullanıcıyı otomatik olarak abone yapacağız. Kullanıcı mevcut değilse, aboneliği oluşturup kullanıcıyı abone yapacağız.",
+      "zh-CN": "当我们收到短信订阅关键词时，我们将自动为用户订阅。如果用户不存在，我们将创建订阅并为该用户订阅。"
     },
     "YES": {
       "ja": "YES",
@@ -13281,7 +13308,8 @@
       "pt": "YES",
       "ko": "YES",
       "fr": "YES",
-      "tr": "YES"
+      "tr": "YES",
+      "zh-CN": "YES"
     },
     "You have successfully been re-subscribed to messages from this number. Reply HELP for help. Reply STOP to unsubscribe. Msg&Data Rates May Apply.": {
       "ja": "この番号からのメッセージに再登録されました。ヘルプはHELP、登録解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
@@ -13289,7 +13317,8 @@
       "pt": "Você foi reinscrito com sucesso nas mensagens deste número. Responda HELP para obter ajuda. Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
       "ko": "이 번호의 메시지에 다시 구독되었습니다. 도움말은 HELP, 구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다.",
       "fr": "Vous avez été réabonné avec succès aux messages de ce numéro. Répondez HELP pour obtenir de l'aide. Répondez STOP pour vous désabonner. Frais de message et données possibles.",
-      "tr": "Bu numaradan gelen mesajlara başarıyla yeniden abone oldunuz. Yardım için HELP, abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir."
+      "tr": "Bu numaradan gelen mesajlara başarıyla yeniden abone oldunuz. Yardım için HELP, abonelikten çıkmak için STOP yanıtlayın. Mesaj ve veri ücretleri uygulanabilir.",
+      "zh-CN": "您已成功重新订阅来自此号码的消息。回复 HELP 获取帮助。回复 STOP 取消订阅。可能产生消息和数据费用。"
     },
     "You have successfully been unsubscribed. You will not receive any more messages from this number. Reply START to resubscribe.": {
       "ja": "登録解除されました。この番号からのメッセージは今後届きません。再登録するにはSTARTと返信してください。",
@@ -13297,7 +13326,8 @@
       "pt": "Você foi desinscrito com sucesso. Você não receberá mais mensagens deste número. Responda START para se inscrever novamente.",
       "ko": "구독이 해지되었습니다. 이 번호에서 더 이상 메시지를 받지 않습니다. 다시 구독하려면 START를 회신하세요.",
       "fr": "Vous avez été désabonné avec succès. Vous ne recevrez plus de messages de ce numéro. Répondez START pour vous réabonner.",
-      "tr": "Aboneliğiniz başarıyla iptal edildi. Bu numaradan artık mesaj almayacaksınız. Yeniden abone olmak için START yanıtlayın."
+      "tr": "Aboneliğiniz başarıyla iptal edildi. Bu numaradan artık mesaj almayacaksınız. Yeniden abone olmak için START yanıtlayın.",
+      "zh-CN": "您已成功取消订阅。您将不再收到来自此号码的消息。回复 START 重新订阅。"
     },
     "never subscribed users:": {
       "ja": "購読したことのないユーザー:",
@@ -13305,7 +13335,8 @@
       "pt": "usuários nunca inscritos:",
       "ko": "구독한 적 없는 사용자:",
       "fr": "utilisateurs jamais abonnés :",
-      "tr": "hiç abone olmamış kullanıcılar:"
+      "tr": "hiç abone olmamış kullanıcılar:",
+      "zh-CN": "从未订阅的用户:"
     },
     "subscribed users:": {
       "ja": "購読中のユーザー:",
@@ -13313,7 +13344,8 @@
       "pt": "usuários inscritos:",
       "ko": "구독한 사용자:",
       "fr": "utilisateurs abonnés :",
-      "tr": "abone kullanıcılar:"
+      "tr": "abone kullanıcılar:",
+      "zh-CN": "已订阅的用户:"
     },
     "Add Auto-Responder": {
       "ja": "自動応答を追加",
@@ -13321,7 +13353,8 @@
       "pt": "Adicionar resposta automática",
       "ko": "자동 응답 추가",
       "fr": "Ajouter une réponse automatique",
-      "tr": "Otomatik yanıtlayıcı ekle"
+      "tr": "Otomatik yanıtlayıcı ekle",
+      "zh-CN": "添加自动回复器"
     },
     "Auto-Responder": {
       "ja": "自動応答",
@@ -13329,7 +13362,8 @@
       "pt": "Resposta automática",
       "ko": "자동 응답",
       "fr": "Réponse automatique",
-      "tr": "Otomatik yanıtlayıcı"
+      "tr": "Otomatik yanıtlayıcı",
+      "zh-CN": "自动回复器"
     },
     "When we receive unrecognized keywords from a phone number, we'll automatically reply with this template.": {
       "ja": "電話番号から認識されないキーワードを受信すると、このテンプレートで自動的に返信します。",
@@ -13337,7 +13371,8 @@
       "pt": "Quando recebermos palavras-chave não reconhecidas de um número de telefone, responderemos automaticamente com este modelo.",
       "ko": "전화번호에서 인식되지 않은 키워드를 수신하면 이 템플릿으로 자동 회신합니다.",
       "fr": "Lorsque nous recevons des mots-clés non reconnus depuis un numéro de téléphone, nous répondons automatiquement avec ce modèle.",
-      "tr": "Bir telefon numarasından tanınmayan anahtar kelimeler aldığımızda, otomatik olarak bu şablonla yanıt vereceğiz."
+      "tr": "Bir telefon numarasından tanınmayan anahtar kelimeler aldığımızda, otomatik olarak bu şablonla yanıt vereceğiz.",
+      "zh-CN": "当我们从电话号码收到无法识别的关键词时，我们将自动使用此模板回复。"
     },
     "Provider is": {
       "ja": "プロバイダー:",
@@ -13345,7 +13380,8 @@
       "pt": "O provedor é",
       "ko": "공급자:",
       "fr": "Le fournisseur est",
-      "tr": "Sağlayıcı şudur:"
+      "tr": "Sağlayıcı şudur:",
+      "zh-CN": "提供商为"
     },
     "Show password": {
       "ja": "パスワードを表示",
@@ -13353,7 +13389,8 @@
       "pt": "Mostrar senha",
       "ko": "비밀번호 표시",
       "fr": "Afficher le mot de passe",
-      "tr": "Şifreyi göster"
+      "tr": "Şifreyi göster",
+      "zh-CN": "显示密码"
     },
     "Twilio Account SID": {
       "ja": "Twilioアカウントsid",
@@ -13361,7 +13398,8 @@
       "pt": "SID da conta Twilio",
       "ko": "Twilio 계정 SID",
       "fr": "SID de compte Twilio",
-      "tr": "Twilio hesap SID"
+      "tr": "Twilio hesap SID",
+      "zh-CN": "Twilio 账户 SID"
     },
     "Twilio Auth Token": {
       "ja": "Twilio認証トークン",
@@ -13369,7 +13407,8 @@
       "pt": "Token de autenticação Twilio",
       "ko": "Twilio 인증 토큰",
       "fr": "Token d'authentification Twilio",
-      "tr": "Twilio kimlik doğrulama token'ı"
+      "tr": "Twilio kimlik doğrulama token'ı",
+      "zh-CN": "Twilio 身份验证令牌"
     },
     "Twilio Credentials": {
       "ja": "Twilio資格情報",
@@ -13377,7 +13416,8 @@
       "pt": "Credenciais do Twilio",
       "ko": "Twilio 자격 증명",
       "fr": "Identifiants Twilio",
-      "tr": "Twilio kimlik bilgileri"
+      "tr": "Twilio kimlik bilgileri",
+      "zh-CN": "Twilio 凭据"
     },
     "e.g. 12345678": {
       "ja": "例: 12345678",
@@ -13385,7 +13425,8 @@
       "pt": "ex.: 12345678",
       "ko": "예: 12345678",
       "fr": "par ex. 12345678",
-      "tr": "örn. 12345678"
+      "tr": "örn. 12345678",
+      "zh-CN": "例如 12345678"
     },
     "e.g. abc123defg123456": {
       "ja": "例: abc123defg123456",
@@ -13393,7 +13434,8 @@
       "pt": "ex.: abc123defg123456",
       "ko": "예: abc123defg123456",
       "fr": "par ex. abc123defg123456",
-      "tr": "örn. abc123defg123456"
+      "tr": "örn. abc123defg123456",
+      "zh-CN": "例如 abc123defg123456"
     },
     "Not Receiving Message Replies": {
       "ja": "メッセージ返信を受信できません",
@@ -13401,7 +13443,8 @@
       "pt": "Não recebe respostas de mensagens",
       "ko": "메시지 회신을 수신하지 못함",
       "fr": "Ne reçoit pas de réponses aux messages",
-      "tr": "Mesaj yanıtları alınmıyor"
+      "tr": "Mesaj yanıtları alınmıyor",
+      "zh-CN": "未收到消息回复"
     },
     "Alphanumeric": {
       "ja": "英数字",
@@ -13409,7 +13452,8 @@
       "pt": "Alfanumérico",
       "ko": "영숫자",
       "fr": "Alphanumérique",
-      "tr": "Alfanümerik"
+      "tr": "Alfanümerik",
+      "zh-CN": "字母数字"
     },
     "Long Code": {
       "ja": "ロングコード",
@@ -13417,7 +13461,8 @@
       "pt": "Código longo",
       "ko": "롱 코드",
       "fr": "Long Code",
-      "tr": "Uzun kod"
+      "tr": "Uzun kod",
+      "zh-CN": "长代码"
     },
     "Toll Free": {
       "ja": "フリーダイヤル",
@@ -13425,7 +13470,8 @@
       "pt": "Gratuito",
       "ko": "수신자 부담",
       "fr": "Numéro vert",
-      "tr": "Ücretsiz"
+      "tr": "Ücretsiz",
+      "zh-CN": "免费电话"
     },
     "Update All Webhooks": {
       "ja": "すべてのWebhookを更新",
@@ -13433,7 +13479,8 @@
       "pt": "Atualizar todos os webhooks",
       "ko": "모든 웹훅 업데이트",
       "fr": "Mettre à jour tous les webhooks",
-      "tr": "Tüm Webhook'ları güncelle"
+      "tr": "Tüm Webhook'ları güncelle",
+      "zh-CN": "更新所有 Webhook"
     },
     "Consent Management": {
       "ja": "同意管理",
@@ -13441,7 +13488,8 @@
       "pt": "Gestão de consentimento",
       "ko": "동의 관리",
       "fr": "Gestion du consentement",
-      "tr": "Onay yönetimi"
+      "tr": "Onay yönetimi",
+      "zh-CN": "同意管理"
     },
     "Email reputation is only available for OneSignal email, see your ESP provider or email reputation tools.": {
       "ja": "メールの評判はOneSignalメールでのみ利用可能です。詳しくはESPプロバイダーまたはメール評判ツールをご確認ください。",
@@ -13449,7 +13497,8 @@
       "pt": "A reputação de email está disponível apenas para email do OneSignal; consulte seu provedor ESP ou ferramentas de reputação de email.",
       "ko": "이메일 평판은 OneSignal 이메일에서만 사용할 수 있습니다. ESP 공급자 또는 이메일 평판 도구를 확인하세요.",
       "fr": "La réputation email n'est disponible que pour OneSignal email ; consultez votre fournisseur ESP ou vos outils de réputation email.",
-      "tr": "Email itibarı yalnızca OneSignal email için mevcuttur; ESP sağlayıcınıza veya email itibar araçlarına bakın."
+      "tr": "Email itibarı yalnızca OneSignal email için mevcuttur; ESP sağlayıcınıza veya email itibar araçlarına bakın.",
+      "zh-CN": "Email 信誉仅适用于 OneSignal email，请查看您的 ESP 提供商或 Email 信誉工具。"
     },
     "OneSignal only provides reputation management for users using OneSignal email.": {
       "ja": "OneSignalはOneSignalメールを使用しているユーザーに対してのみ評判管理を提供します。",
@@ -13457,7 +13506,8 @@
       "pt": "O OneSignal fornece gerenciamento de reputação apenas para usuários que usam o email do OneSignal.",
       "ko": "OneSignal은 OneSignal 이메일을 사용하는 사용자에게만 평판 관리를 제공합니다.",
       "fr": "OneSignal ne fournit la gestion de réputation que pour les utilisateurs d'OneSignal email.",
-      "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için itibar yönetimi sağlar."
+      "tr": "OneSignal yalnızca OneSignal email kullanan kullanıcılar için itibar yönetimi sağlar.",
+      "zh-CN": "OneSignal 仅为使用 OneSignal email 的用户提供信誉管理。"
     },
     "SMS / RCS Settings": {
       "ja": "SMS / RCS設定",
@@ -13465,7 +13515,8 @@
       "pt": "Configurações de SMS / RCS",
       "ko": "SMS / RCS 설정",
       "fr": "Paramètres SMS / RCS",
-      "tr": "SMS / RCS ayarları"
+      "tr": "SMS / RCS ayarları",
+      "zh-CN": "SMS / RCS 设置"
     },
     "Switch Providers": {
       "ja": "プロバイダーを切り替え",
@@ -13473,7 +13524,8 @@
       "pt": "Alternar provedores",
       "ko": "공급자 전환",
       "fr": "Changer de fournisseur",
-      "tr": "Sağlayıcıyı değiştir"
+      "tr": "Sağlayıcıyı değiştir",
+      "zh-CN": "切换提供商"
     },
     "To understand your reputation, see your ESP provider or email reputation tools": {
       "ja": "評判を確認するには、ESPプロバイダーまたはメール評判ツールをご確認ください",
@@ -13481,7 +13533,8 @@
       "pt": "Para entender sua reputação, consulte seu provedor ESP ou ferramentas de reputação de email",
       "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요",
       "fr": "Pour comprendre votre réputation, consultez votre fournisseur ESP ou des outils de réputation email",
-      "tr": "İtibarınızı anlamak için ESP sağlayıcınıza veya email itibar araçlarına bakın"
+      "tr": "İtibarınızı anlamak için ESP sağlayıcınıza veya email itibar araçlarına bakın",
+      "zh-CN": "要了解您的信誉，请查看您的 ESP 提供商或 Email 信誉工具"
     },
     "Member actions": {
       "ja": "メンバーアクション",
@@ -13489,7 +13542,8 @@
       "pt": "Ações de membro",
       "ko": "멤버 작업",
       "fr": "Actions du membre",
-      "tr": "Üye eylemleri"
+      "tr": "Üye eylemleri",
+      "zh-CN": "成员操作"
     },
     "Team Member": {
       "ja": "チームメンバー",
@@ -13497,7 +13551,8 @@
       "pt": "Membro da equipe",
       "ko": "팀원",
       "fr": "Membre de l'équipe",
-      "tr": "Ekip üyesi"
+      "tr": "Ekip üyesi",
+      "zh-CN": "团队成员"
     },
     "CANCEL": {
       "ja": "CANCEL",
@@ -13505,7 +13560,8 @@
       "pt": "CANCEL",
       "ko": "CANCEL",
       "fr": "CANCEL",
-      "tr": "CANCEL"
+      "tr": "CANCEL",
+      "zh-CN": "CANCEL"
     },
     "HELP": {
       "ja": "HELP",
@@ -13513,7 +13569,8 @@
       "pt": "HELP",
       "ko": "HELP",
       "fr": "HELP",
-      "tr": "HELP"
+      "tr": "HELP",
+      "zh-CN": "HELP"
     },
     "Invited": {
       "ja": "招待済み",
@@ -13521,7 +13578,8 @@
       "pt": "Convidado",
       "ko": "초대됨",
       "fr": "Invité",
-      "tr": "Davet edildi"
+      "tr": "Davet edildi",
+      "zh-CN": "已邀请"
     },
     "All Login Methods": {
       "ja": "すべてのログイン方法",
@@ -13529,7 +13587,8 @@
       "pt": "Todos os métodos de login",
       "ko": "모든 로그인 방법",
       "fr": "Toutes les méthodes de connexion",
-      "tr": "Tüm giriş yöntemleri"
+      "tr": "Tüm giriş yöntemleri",
+      "zh-CN": "所有登录方式"
     },
     "All Roles": {
       "ja": "すべての役割",
@@ -13537,7 +13596,8 @@
       "pt": "Todas as funções",
       "ko": "모든 역할",
       "fr": "Tous les rôles",
-      "tr": "Tüm roller"
+      "tr": "Tüm roller",
+      "zh-CN": "所有角色"
     },
     "Invite to App": {
       "ja": "アプリに招待",
@@ -13545,7 +13605,8 @@
       "pt": "Convidar para o app",
       "ko": "앱에 초대",
       "fr": "Inviter dans l'app",
-      "tr": "Uygulamaya davet et"
+      "tr": "Uygulamaya davet et",
+      "zh-CN": "邀请到应用"
     },
     "JOURNEY": {
       "ja": "JOURNEY",
@@ -13553,7 +13614,8 @@
       "pt": "JOURNEY",
       "ko": "JOURNEY",
       "fr": "JOURNEY",
-      "tr": "JOURNEY"
+      "tr": "JOURNEY",
+      "zh-CN": "JOURNEY"
     },
     "Last sign in": {
       "ja": "最終サインイン",
@@ -13561,7 +13623,8 @@
       "pt": "Último login",
       "ko": "마지막 로그인",
       "fr": "Dernière connexion",
-      "tr": "Son giriş"
+      "tr": "Son giriş",
+      "zh-CN": "最近登录"
     },
     "Login method": {
       "ja": "ログイン方法",
@@ -13569,7 +13632,8 @@
       "pt": "Método de login",
       "ko": "로그인 방법",
       "fr": "Méthode de connexion",
-      "tr": "Giriş yöntemi"
+      "tr": "Giriş yöntemi",
+      "zh-CN": "登录方式"
     },
     "Member": {
       "ja": "メンバー",
@@ -13577,7 +13641,8 @@
       "pt": "Membro",
       "ko": "멤버",
       "fr": "Membre",
-      "tr": "Üye"
+      "tr": "Üye",
+      "zh-CN": "成员"
     },
     "Org role": {
       "ja": "組織での役割",
@@ -13585,7 +13650,8 @@
       "pt": "Função na organização",
       "ko": "조직 역할",
       "fr": "Rôle dans l'organisation",
-      "tr": "Organizasyon rolü"
+      "tr": "Organizasyon rolü",
+      "zh-CN": "组织角色"
     },
     "Unsuccessful": {
       "ja": "失敗",
@@ -13593,7 +13659,8 @@
       "pt": "Sem êxito",
       "ko": "실패",
       "fr": "Échec",
-      "tr": "Başarısız"
+      "tr": "Başarısız",
+      "zh-CN": "失败"
     }
   },
   "patterns": [
