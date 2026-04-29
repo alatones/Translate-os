@@ -25,7 +25,10 @@
         "Journeys",
         "Journey"
       ],
-      "tr": "Journeys"
+      "tr": [
+        "Journeys",
+        "Journey"
+      ]
     },
     "Segment": {
       "ja": "セグメント",
