@@ -4065,7 +4065,8 @@
       "pt": "Mostrar entregues",
       "ko": "전달됨 표시",
       "fr": "Afficher les livrés",
-      "tr": "Teslim edilenleri göster"
+      "tr": "Teslim edilenleri göster",
+      "zh-CN": "显示已送达"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
@@ -4073,7 +4074,8 @@
       "pt": "Mostrar eventos entregues",
       "ko": "전달된 이벤트 표시",
       "fr": "Afficher les événements livrés",
-      "tr": "Teslim edilen etkinlikleri göster"
+      "tr": "Teslim edilen etkinlikleri göster",
+      "zh-CN": "显示已送达事件"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
@@ -4081,7 +4083,8 @@
       "pt": "Mostrar eventos exportados",
       "ko": "내보낸 이벤트 표시",
       "fr": "Afficher les événements exportés",
-      "tr": "Dışa aktarılan etkinlikleri göster"
+      "tr": "Dışa aktarılan etkinlikleri göster",
+      "zh-CN": "显示已导出事件"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
@@ -4089,7 +4092,8 @@
       "pt": "Mostrar eventos processados",
       "ko": "처리된 이벤트 표시",
       "fr": "Afficher les événements traités",
-      "tr": "İşlenen etkinlikleri göster"
+      "tr": "İşlenen etkinlikleri göster",
+      "zh-CN": "显示已处理事件"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
@@ -4097,7 +4101,8 @@
       "pt": "Mostrar eventos recebidos",
       "ko": "수신된 이벤트 표시",
       "fr": "Afficher les événements reçus",
-      "tr": "Alınan etkinlikleri göster"
+      "tr": "Alınan etkinlikleri göster",
+      "zh-CN": "显示已接收事件"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
@@ -4105,7 +4110,8 @@
       "pt": "Mostrar atualizações bem-sucedidas",
       "ko": "성공적인 업데이트 표시",
       "fr": "Afficher les mises à jour réussies",
-      "tr": "Başarılı güncellemeleri göster"
+      "tr": "Başarılı güncellemeleri göster",
+      "zh-CN": "显示成功的更新"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
@@ -4113,7 +4119,8 @@
       "pt": "Mostrar total de inscritos",
       "ko": "총 구독 수 표시",
       "fr": "Afficher le total des abonnés",
-      "tr": "Toplam abonelikleri göster"
+      "tr": "Toplam abonelikleri göster",
+      "zh-CN": "显示订阅总数"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
@@ -4121,7 +4128,8 @@
       "pt": "Mostrar cancelamentos",
       "ko": "구독 취소 표시",
       "fr": "Afficher les désinscriptions",
-      "tr": "Abonelikten çıkanları göster"
+      "tr": "Abonelikten çıkanları göster",
+      "zh-CN": "显示已取消订阅"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
@@ -4129,7 +4137,8 @@
       "pt": "Mostrar/ocultar colunas",
       "ko": "열 표시/숨기기",
       "fr": "Afficher / masquer les colonnes",
-      "tr": "Sütunları göster/gizle"
+      "tr": "Sütunları göster/gizle",
+      "zh-CN": "显示/隐藏列"
     },
     "Showing": {
       "es": "Mostrando",
@@ -4137,7 +4146,8 @@
       "pt": "Mostrando",
       "ko": "표시 중",
       "fr": "Affichage",
-      "tr": "Gösteriliyor"
+      "tr": "Gösteriliyor",
+      "zh-CN": "显示"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
@@ -4145,7 +4155,8 @@
       "pt": "Sair",
       "ko": "로그아웃",
       "fr": "Se déconnecter",
-      "tr": "Oturumu kapat"
+      "tr": "Oturumu kapat",
+      "zh-CN": "退出登录"
     },
     "Site URL": {
       "es": "URL del sitio",
@@ -4153,7 +4164,8 @@
       "pt": "URL do site",
       "ko": "사이트 URL",
       "fr": "URL du site",
-      "tr": "Site URL'si"
+      "tr": "Site URL'si",
+      "zh-CN": "站点 URL"
     },
     "SMS / RCS": {
       "es": "SMS / RCS",
@@ -4161,7 +4173,8 @@
       "pt": "SMS / RCS",
       "ko": "SMS / RCS",
       "fr": "SMS / RCS",
-      "tr": "SMS / RCS"
+      "tr": "SMS / RCS",
+      "zh-CN": "SMS / RCS"
     },
     "Sound": {
       "es": "Sonido",
@@ -4169,7 +4182,8 @@
       "pt": "Som",
       "ko": "소리",
       "fr": "Son",
-      "tr": "Ses"
+      "tr": "Ses",
+      "zh-CN": "声音"
     },
     "Sources": {
       "es": "Fuentes",
@@ -4177,7 +4191,8 @@
       "pt": "Fontes",
       "ko": "소스",
       "fr": "Sources",
-      "tr": "Kaynaklar"
+      "tr": "Kaynaklar",
+      "zh-CN": "来源"
     },
     "Started": {
       "es": "Iniciado",
@@ -4185,7 +4200,8 @@
       "pt": "Iniciado",
       "ko": "시작됨",
       "fr": "Démarré",
-      "tr": "Başladı"
+      "tr": "Başladı",
+      "zh-CN": "已开始"
     },
     "Stats": {
       "es": "Estadísticas",
@@ -4193,7 +4209,8 @@
       "pt": "Estatísticas",
       "ko": "통계",
       "fr": "Statistiques",
-      "tr": "İstatistikler"
+      "tr": "İstatistikler",
+      "zh-CN": "统计"
     },
     "Status": {
       "es": "Estado",
@@ -4201,7 +4218,8 @@
       "pt": "Status",
       "ko": "상태",
       "fr": "Statut",
-      "tr": "Durum"
+      "tr": "Durum",
+      "zh-CN": "状态"
     },
     "Status details": {
       "es": "Detalles del estado",
@@ -4209,7 +4227,8 @@
       "pt": "Detalhes do status",
       "ko": "상태 세부 정보",
       "fr": "Détails du statut",
-      "tr": "Durum ayrıntıları"
+      "tr": "Durum ayrıntıları",
+      "zh-CN": "状态详情"
     },
     "Status page": {
       "es": "Página de estado",
@@ -4217,7 +4236,8 @@
       "pt": "Página de status",
       "ko": "상태 페이지",
       "fr": "Page de statut",
-      "tr": "Durum sayfası"
+      "tr": "Durum sayfası",
+      "zh-CN": "状态页面"
     },
     "Step": {
       "es": "Paso",
@@ -4225,7 +4245,8 @@
       "pt": "Etapa",
       "ko": "단계",
       "fr": "Étape",
-      "tr": "Adım"
+      "tr": "Adım",
+      "zh-CN": "步骤"
     },
     "Stop": {
       "es": "Detener",
@@ -4233,7 +4254,8 @@
       "pt": "Parar",
       "ko": "중지",
       "fr": "Arrêter",
-      "tr": "Durdur"
+      "tr": "Durdur",
+      "zh-CN": "停止"
     },
     "Storage count": {
       "es": "Recuento de almacenamiento",
@@ -4241,7 +4263,8 @@
       "pt": "Contagem de armazenamento",
       "ko": "저장 수",
       "fr": "Nombre de stockage",
-      "tr": "Depolama sayısı"
+      "tr": "Depolama sayısı",
+      "zh-CN": "存储数量"
     },
     "Storage duration": {
       "es": "Duración de almacenamiento",
@@ -4249,7 +4272,8 @@
       "pt": "Duração de armazenamento",
       "ko": "저장 기간",
       "fr": "Durée de stockage",
-      "tr": "Depolama süresi"
+      "tr": "Depolama süresi",
+      "zh-CN": "存储时长"
     },
     "Subject Line": {
       "es": "Asunto",
@@ -4257,7 +4281,8 @@
       "pt": "Assunto",
       "ko": "제목 줄",
       "fr": "Ligne d'objet",
-      "tr": "Konu satırı"
+      "tr": "Konu satırı",
+      "zh-CN": "主题行"
     },
     "Subscribed": {
       "es": "Suscrito",
@@ -4265,7 +4290,8 @@
       "pt": "Inscrito",
       "ko": "구독됨",
       "fr": "Abonné",
-      "tr": "Abone olundu"
+      "tr": "Abone olundu",
+      "zh-CN": "已订阅"
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor excluido",
@@ -4273,7 +4299,8 @@
       "pt": "Assinante excluído",
       "ko": "구독자 거부",
       "fr": "Abonné exclu",
-      "tr": "Abone onayı geri aldı"
+      "tr": "Abone onayı geri aldı",
+      "zh-CN": "订阅者已拒绝"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
@@ -4281,7 +4308,8 @@
       "pt": "Data de inscrição",
       "ko": "구독 날짜",
       "fr": "Date d'abonnement",
-      "tr": "Abonelik tarihi"
+      "tr": "Abonelik tarihi",
+      "zh-CN": "订阅日期"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
@@ -4289,7 +4317,8 @@
       "pt": "ID de assinatura",
       "ko": "구독 ID",
       "fr": "ID d'abonnement",
-      "tr": "Abonelik ID"
+      "tr": "Abonelik ID",
+      "zh-CN": "订阅 ID"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
@@ -4297,7 +4326,8 @@
       "pt": "Registros de assinaturas",
       "ko": "구독 기록",
       "fr": "Enregistrements d'abonnement",
-      "tr": "Abonelik kayıtları"
+      "tr": "Abonelik kayıtları",
+      "zh-CN": "订阅记录"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
@@ -4305,7 +4335,8 @@
       "pt": "Tendências de assinaturas",
       "ko": "구독 트렌드",
       "fr": "Tendances d'abonnement",
-      "tr": "Abonelik eğilimleri"
+      "tr": "Abonelik eğilimleri",
+      "zh-CN": "订阅趋势"
     },
     "Subscriptions": {
       "es": "Suscripciones",
@@ -4313,7 +4344,8 @@
       "pt": "Assinaturas",
       "ko": "구독",
       "fr": "Abonnements",
-      "tr": "Abonelikler"
+      "tr": "Abonelikler",
+      "zh-CN": "订阅"
     },
     "Success": {
       "es": "Éxito",
@@ -4321,7 +4353,8 @@
       "pt": "Sucesso",
       "ko": "성공",
       "fr": "Succès",
-      "tr": "Başarılı"
+      "tr": "Başarılı",
+      "zh-CN": "成功"
     },
     "Success Rate": {
       "es": "Tasa de éxito",
@@ -4329,7 +4362,8 @@
       "pt": "Taxa de sucesso",
       "ko": "성공률",
       "fr": "Taux de réussite",
-      "tr": "Başarı oranı"
+      "tr": "Başarı oranı",
+      "zh-CN": "成功率"
     },
     "Successful Updates": {
       "es": "Actualizaciones exitosas",
@@ -4337,7 +4371,8 @@
       "pt": "Atualizações bem-sucedidas",
       "ko": "성공적인 업데이트",
       "fr": "Mises à jour réussies",
-      "tr": "Başarılı güncellemeler"
+      "tr": "Başarılı güncellemeler",
+      "zh-CN": "成功的更新"
     },
     "Sun": {
       "es": "Dom",
@@ -4345,7 +4380,8 @@
       "pt": "Dom",
       "ko": "일",
       "fr": "Dim",
-      "tr": "Paz"
+      "tr": "Paz",
+      "zh-CN": "周日"
     },
     "Super User": {
       "es": "Superusuario",
@@ -4353,7 +4389,8 @@
       "pt": "Superusuário",
       "ko": "슈퍼 사용자",
       "fr": "Super-utilisateur",
-      "tr": "Süper kullanıcı"
+      "tr": "Süper kullanıcı",
+      "zh-CN": "超级用户"
     },
     "Support and documentation": {
       "es": "Soporte y documentación",
@@ -4361,7 +4398,8 @@
       "pt": "Suporte e documentação",
       "ko": "지원 및 문서",
       "fr": "Support et documentation",
-      "tr": "Destek ve dokümantasyon"
+      "tr": "Destek ve dokümantasyon",
+      "zh-CN": "支持和文档"
     },
     "Sync contacts through API": {
       "es": "Sincroniza contactos a través de la API",
@@ -4369,7 +4407,8 @@
       "pt": "Sincronize contatos via API",
       "ko": "API를 통해 연락처 동기화",
       "fr": "Synchroniser les contacts via l'API",
-      "tr": "API üzerinden kişileri senkronize edin"
+      "tr": "API üzerinden kişileri senkronize edin",
+      "zh-CN": "通过 API 同步联系人"
     },
     "Tag": {
       "es": "Etiqueta",
@@ -4377,7 +4416,8 @@
       "pt": "Tag",
       "ko": "태그",
       "fr": "Tag",
-      "tr": "Etiket"
+      "tr": "Etiket",
+      "zh-CN": "标签"
     },
     "Tags": {
       "es": "Etiquetas",
@@ -4385,7 +4425,8 @@
       "pt": "Tags",
       "ko": "태그",
       "fr": "Tags",
-      "tr": "Etiketler"
+      "tr": "Etiketler",
+      "zh-CN": "标签"
     },
     "Team Members": {
       "es": "Miembros del equipo",
@@ -4393,7 +4434,8 @@
       "pt": "Membros da equipe",
       "ko": "팀원",
       "fr": "Membres de l'équipe",
-      "tr": "Ekip üyeleri"
+      "tr": "Ekip üyeleri",
+      "zh-CN": "团队成员"
     },
     "Template Name": {
       "es": "Nombre de la plantilla",
@@ -4401,7 +4443,8 @@
       "pt": "Nome do modelo",
       "ko": "템플릿 이름",
       "fr": "Nom du modèle",
-      "tr": "Şablon adı"
+      "tr": "Şablon adı",
+      "zh-CN": "模板名称"
     },
     "Templates": {
       "es": "Plantillas",
@@ -4409,7 +4452,8 @@
       "pt": "Modelos",
       "ko": "템플릿",
       "fr": "Modèles",
-      "tr": "Şablonlar"
+      "tr": "Şablonlar",
+      "zh-CN": "模板"
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
@@ -4417,7 +4461,8 @@
       "pt": "Registros de assinaturas de teste",
       "ko": "테스트 구독 기록",
       "fr": "Enregistrements d'abonnements de test",
-      "tr": "Test abonelik kayıtları"
+      "tr": "Test abonelik kayıtları",
+      "zh-CN": "测试订阅记录"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
@@ -4425,7 +4470,8 @@
       "pt": "Assinaturas de teste",
       "ko": "테스트 구독",
       "fr": "Abonnements de test",
-      "tr": "Test abonelikleri"
+      "tr": "Test abonelikleri",
+      "zh-CN": "测试订阅"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
@@ -4433,7 +4479,8 @@
       "pt": "Usuários de teste",
       "ko": "테스트 사용자",
       "fr": "Utilisateurs de test",
-      "tr": "Test kullanıcıları"
+      "tr": "Test kullanıcıları",
+      "zh-CN": "测试用户"
     },
     "This action cannot be undone.": {
       "es": "Esta acción no se puede deshacer.",
@@ -4441,7 +4488,8 @@
       "pt": "Esta ação não pode ser desfeita.",
       "ko": "이 작업은 취소할 수 없습니다.",
       "fr": "Cette action ne peut pas être annulée.",
-      "tr": "Bu işlem geri alınamaz."
+      "tr": "Bu işlem geri alınamaz.",
+      "zh-CN": "此操作无法撤销。"
     },
     "This month": {
       "es": "Este mes",
@@ -4449,7 +4497,8 @@
       "pt": "Este mês",
       "ko": "이번 달",
       "fr": "Ce mois-ci",
-      "tr": "Bu ay"
+      "tr": "Bu ay",
+      "zh-CN": "本月"
     },
     "Thu": {
       "es": "Jue",
@@ -4457,7 +4506,8 @@
       "pt": "Qui",
       "ko": "목",
       "fr": "Jeu",
-      "tr": "Per"
+      "tr": "Per",
+      "zh-CN": "周四"
     },
     "Time": {
       "es": "Hora",
