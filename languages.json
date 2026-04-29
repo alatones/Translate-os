@@ -9023,6 +9023,90 @@
       "es": "Para entender tu reputación, consulta tu proveedor ESP o herramientas de reputación de correo",
       "pt": "Para entender sua reputação, consulte seu provedor ESP ou ferramentas de reputação de email",
       "ko": "평판을 이해하려면 ESP 공급자 또는 이메일 평판 도구를 확인하세요"
+    },
+    "Member actions": {
+      "ja": "メンバーアクション",
+      "es": "Acciones de miembro",
+      "pt": "Ações de membro",
+      "ko": "멤버 작업"
+    },
+    "Team Member": {
+      "ja": "チームメンバー",
+      "es": "Miembro del equipo",
+      "pt": "Membro da equipe",
+      "ko": "팀원"
+    },
+    "CANCEL": {
+      "ja": "CANCEL",
+      "es": "CANCEL",
+      "pt": "CANCEL",
+      "ko": "CANCEL"
+    },
+    "HELP": {
+      "ja": "HELP",
+      "es": "HELP",
+      "pt": "HELP",
+      "ko": "HELP"
+    },
+    "Invited": {
+      "ja": "招待済み",
+      "es": "Invitado",
+      "pt": "Convidado",
+      "ko": "초대됨"
+    },
+    "All Login Methods": {
+      "ja": "すべてのログイン方法",
+      "es": "Todos los métodos de inicio de sesión",
+      "pt": "Todos os métodos de login",
+      "ko": "모든 로그인 방법"
+    },
+    "All Roles": {
+      "ja": "すべての役割",
+      "es": "Todos los roles",
+      "pt": "Todas as funções",
+      "ko": "모든 역할"
+    },
+    "Invite to App": {
+      "ja": "アプリに招待",
+      "es": "Invitar a la app",
+      "pt": "Convidar para o app",
+      "ko": "앱에 초대"
+    },
+    "JOURNEY": {
+      "ja": "JOURNEY",
+      "es": "JOURNEY",
+      "pt": "JOURNEY",
+      "ko": "JOURNEY"
+    },
+    "Last sign in": {
+      "ja": "最終サインイン",
+      "es": "Último inicio de sesión",
+      "pt": "Último login",
+      "ko": "마지막 로그인"
+    },
+    "Login method": {
+      "ja": "ログイン方法",
+      "es": "Método de inicio de sesión",
+      "pt": "Método de login",
+      "ko": "로그인 방법"
+    },
+    "Member": {
+      "ja": "メンバー",
+      "es": "Miembro",
+      "pt": "Membro",
+      "ko": "멤버"
+    },
+    "Org role": {
+      "ja": "組織での役割",
+      "es": "Rol en la organización",
+      "pt": "Função na organização",
+      "ko": "조직 역할"
+    },
+    "Unsuccessful": {
+      "ja": "失敗",
+      "es": "Sin éxito",
+      "pt": "Sem êxito",
+      "ko": "실패"
     }
   },
   "patterns": [
