@@ -198,7 +198,10 @@
         "Uygulama içi",
         "uygulama içi"
       ],
-      "zh-CN": "In-App"
+      "zh-CN": [
+        "In-App",
+        "应用内"
+      ]
     },
     "Push": {
       "ja": "プッシュ",
