@@ -2690,7 +2690,7 @@
     },
     "Show Attempted Updates": {
       "es": "Mostrar actualizaciones intentadas",
-      "ja": "試行アップデート数を表示",
+      "ja": "試行更新数を表示",
       "pt": "Mostrar atualizações tentadas",
       "ko": "시도된 업데이트 표시"
     },
@@ -2738,7 +2738,7 @@
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
-      "ja": "成功したアップデート数を表示",
+      "ja": "成功した更新数を表示",
       "pt": "Mostrar atualizações bem-sucedidas",
       "ko": "성공적인 업데이트 표시"
     },
@@ -4285,7 +4285,7 @@
       "ko": "잠금 화면에 브랜드를 표시하세요"
     },
     "Great for real-time, transactional, or time-bound updates": {
-      "ja": "リアルタイム・トランザクション・期間限定のアップデートに最適",
+      "ja": "リアルタイム・トランザクション・期間限定の更新に最適",
       "es": "Ideal para actualizaciones en tiempo real, transaccionales o con límite de tiempo",
       "pt": "Ótimo para atualizações em tempo real, transacionais ou com prazo determinado",
       "ko": "실시간, 거래 또는 시간 제한 업데이트에 적합합니다"
