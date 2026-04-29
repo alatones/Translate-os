@@ -2913,67 +2913,78 @@
       "es": "Segmento",
       "ja": "セグメント",
       "pt": "Segmento",
-      "ko": "세그먼트"
+      "ko": "세그먼트",
+      "fr": "Segment"
     },
     "Segment Name": {
       "es": "Nombre del segmento",
       "ja": "セグメント名",
       "pt": "Nome do segmento",
-      "ko": "세그먼트 이름"
+      "ko": "세그먼트 이름",
+      "fr": "Nom du segment"
     },
     "Segments": {
       "es": "Segmentos",
       "ja": "セグメント",
       "pt": "Segmentos",
-      "ko": "세그먼트"
+      "ko": "세그먼트",
+      "fr": "Segments"
     },
     "Select": {
       "es": "Seleccionar",
       "ja": "選択",
       "pt": "Selecionar",
-      "ko": "선택"
+      "ko": "선택",
+      "fr": "Sélectionner"
     },
     "Select all": {
       "es": "Seleccionar todo",
       "ja": "すべて選択",
       "pt": "Selecionar tudo",
-      "ko": "전체 선택"
+      "ko": "전체 선택",
+      "fr": "Tout sélectionner"
     },
     "Send": {
       "es": "Enviar",
       "ja": "送信",
       "pt": "Enviar",
-      "ko": "발송"
+      "ko": "발송",
+      "fr": "Envoyer"
     },
     "Send at": {
       "es": "Enviar el",
       "ja": "送信日時",
       "pt": "Enviar em",
-      "ko": "발송 시간"
+      "ko": "발송 시간",
+      "fr": "Envoyer le"
     },
     "Send Immediately": {
       "es": "Enviar inmediatamente",
       "ja": "即時送信",
       "pt": "Enviar imediatamente",
-      "ko": "즉시 발송"
+      "ko": "즉시 발송",
+      "fr": "Envoyer immédiatement"
     },
     "Send Test Email": {
       "es": "Enviar email de prueba",
       "ja": "テストメールを送信",
       "pt": "Enviar email de teste",
-      "ko": "테스트 이메일 발송"
+      "ko": "테스트 이메일 발송",
+      "fr": "Envoyer un email de test"
     },
     "Send Test Push": {
       "es": "Enviar push de prueba",
       "ja": "テストプッシュを送信",
       "pt": "Enviar push de teste",
-      "ko": "테스트 푸시 발송"
+      "ko": "테스트 푸시 발송",
+      "fr": "Envoyer un push de test"
     },
     "Send to All Subscribers": {
       "es": "Enviar a todos los suscriptores",
       "ja": "全購読者に送信",
       "pt": "Enviar para todos os assinantes",
-      "ko": "모든 구독자에게 발송"
+      "ko": "모든 구독자에게 발송",
+      "fr": "Envoyer à tous les abonnés"
     },
     "Sender": {
       "es": "Remitente",
@@ -3880,7 +3891,8 @@
       "ja": "クイックメッセージを送信するか、ジャーニーで自動メッセージを設定する",
       "es": "Envía un mensaje rápido o configura mensajes automatizados con Journeys",
       "pt": "Envie uma mensagem rápida ou configure mensagens automatizadas com Journeys",
-      "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요"
+      "ko": "빠른 메시지를 보내거나 저니로 자동화 메시지를 설정하세요",
+      "fr": "Envoyez un message rapide ou configurez la messagerie automatisée avec Journeys"
     },
     "Read our quickstart documentation": {
       "ja": "クイックスタートドキュメントを読む",
@@ -4004,19 +4016,22 @@
       "ja": "送信履歴",
       "es": "Historial de envíos",
       "pt": "Histórico de envios",
-      "ko": "발송 이력"
+      "ko": "발송 이력",
+      "fr": "Historique d'envoi"
     },
     "Send a continuous flow of data to other tools": {
       "ja": "他のツールへデータを継続的に送信",
       "es": "Envía un flujo continuo de datos a otras herramientas",
       "pt": "Envie um fluxo contínuo de dados para outras ferramentas",
-      "ko": "다른 도구로 데이터를 지속적으로 전송하세요"
+      "ko": "다른 도구로 데이터를 지속적으로 전송하세요",
+      "fr": "Envoyez un flux continu de données vers d'autres outils"
     },
     "Send events to your data warehouse, business intelligence, or analytics tool for analysis": {
       "ja": "データウェアハウス、BIツール、または分析ツールにイベントを送信して分析する",
       "es": "Envía eventos a tu almacén de datos, herramienta de BI o de análisis",
       "pt": "Envie eventos para seu data warehouse, ferramenta de BI ou de análise",
-      "ko": "분석을 위해 데이터 웨어하우스, 비즈니스 인텔리전스 또는 분석 도구로 이벤트를 전송하세요"
+      "ko": "분석을 위해 데이터 웨어하우스, 비즈니스 인텔리전스 또는 분석 도구로 이벤트를 전송하세요",
+      "fr": "Envoyez les événements vers votre data warehouse, votre outil de BI ou d'analyse"
     },
     "Stream data in real time to trigger timely actions or workflows in other customer relationship tools": {
       "ja": "リアルタイムでデータをストリーミングして、他のCRMツールでタイムリーなアクションやワークフローをトリガーする",
@@ -4075,7 +4090,8 @@
       "ja": "タイプを選択...",
       "es": "Seleccionar tipo...",
       "pt": "Selecionar tipo...",
-      "ko": "유형 선택..."
+      "ko": "유형 선택...",
+      "fr": "Sélectionner un type..."
     },
     "No contents": {
       "ja": "コンテンツがありません",
@@ -4243,13 +4259,15 @@
       "ja": "最初のメールを送信して追跡",
       "es": "Envía y rastrea tu primer email",
       "pt": "Envie e acompanhe seu primeiro e-mail",
-      "ko": "첫 번째 이메일 발송 및 추적"
+      "ko": "첫 번째 이메일 발송 및 추적",
+      "fr": "Envoyez et suivez votre premier email"
     },
     "Send engaging emails to your users. Start by sending your first test email to see how it works.": {
       "ja": "ユーザーへの魅力的なメールを送信します。まずテストメールを送って動作を確認します。",
       "es": "Envía emails atractivos a tus usuarios. Comienza enviando tu primer email de prueba para ver cómo funciona.",
       "pt": "Envie e-mails envolventes para seus usuários. Comece enviando seu primeiro e-mail de teste para ver como funciona.",
-      "ko": "사용자에게 매력적인 이메일을 보내세요. 먼저 테스트 이메일을 발송하여 작동 방식을 확인하세요."
+      "ko": "사용자에게 매력적인 이메일을 보내세요. 먼저 테스트 이메일을 발송하여 작동 방식을 확인하세요.",
+      "fr": "Envoyez des emails engageants à vos utilisateurs. Commencez par envoyer votre premier email de test pour voir comment cela fonctionne."
     },
     "Send with confidence": {
       "ja": "自信を持って送信",
@@ -4424,7 +4442,8 @@
       "ja": "ユーザーの属性とプロダクトとのインタラクションに基づいて適切なメッセージを送信する",
       "es": "Envía el mensaje correcto según quiénes son los usuarios y cómo interactúan con tu producto",
       "pt": "Envie a mensagem certa com base em quem são os usuários e como interagem com seu produto",
-      "ko": "사용자가 누구인지 및 제품과의 상호 작용을 기반으로 적절한 메시지를 보내세요"
+      "ko": "사용자가 누구인지 및 제품과의 상호 작용을 기반으로 적절한 메시지를 보내세요",
+      "fr": "Envoyez le bon message selon le profil des utilisateurs et leur interaction avec votre produit"
     },
     "Set message standards for push and email": {
       "ja": "プッシュとメールのメッセージ基準を設定",
@@ -4607,7 +4626,8 @@
       "ja": "ユーザーレベルでの最近のメッセージアクティビティを確認",
       "es": "Ver la actividad reciente de mensajes a nivel de usuario",
       "pt": "Ver atividade recente de mensagens no nível do usuário",
-      "ko": "사용자 수준의 최근 메시지 활동 보기"
+      "ko": "사용자 수준의 최근 메시지 활동 보기",
+      "fr": "Voir l'activité récente des messages au niveau de l'utilisateur"
     },
     "User documentation": {
       "ja": "ユーザードキュメント",
@@ -4666,7 +4686,8 @@
       "ja": "チャネルレベルでの購読者の設定を確認",
       "es": "Ver las preferencias de suscriptores a nivel de canal",
       "pt": "Ver preferências de assinantes no nível do canal",
-      "ko": "채널 수준에서 구독자 기본 설정 보기"
+      "ko": "채널 수준에서 구독자 기본 설정 보기",
+      "fr": "Voir les préférences des abonnés au niveau du canal"
     },
     "Subscriptions documentation": {
       "ja": "購読のドキュメント",
@@ -4711,7 +4732,8 @@
       "ja": "完璧なメッセージを送信",
       "es": "Envía mensajes perfectos",
       "pt": "Envie mensagens perfeitas",
-      "ko": "완벽한 메시지 발송"
+      "ko": "완벽한 메시지 발송",
+      "fr": "Envoyez des messages parfaits"
     },
     "Test Subscriptions documentation": {
       "ja": "テスト購読のドキュメント",
@@ -4914,25 +4936,29 @@
       "ja": "購読トレンドの比較期間を選択",
       "es": "Seleccionar período de comparación para tendencias de suscripción",
       "pt": "Selecionar período de comparação para tendências de assinatura",
-      "ko": "구독 트렌드의 비교 기간 선택"
+      "ko": "구독 트렌드의 비교 기간 선택",
+      "fr": "Sélectionner la période de comparaison pour les tendances d'abonnement"
     },
     "Select custom date range for subscription trends": {
       "ja": "購読トレンドのカスタム期間を選択",
       "es": "Seleccionar rango de fechas personalizado para tendencias de suscripción",
       "pt": "Selecionar intervalo de datas personalizado para tendências de assinatura",
-      "ko": "구독 트렌드의 사용자 정의 날짜 범위 선택"
+      "ko": "구독 트렌드의 사용자 정의 날짜 범위 선택",
+      "fr": "Sélectionner une plage de dates personnalisée pour les tendances d'abonnement"
     },
     "Select outcome metric to add": {
       "ja": "追加する結果指標を選択",
       "es": "Seleccionar métrica de resultado para agregar",
       "pt": "Selecionar métrica de resultado para adicionar",
-      "ko": "추가할 결과 지표 선택"
+      "ko": "추가할 결과 지표 선택",
+      "fr": "Sélectionner une métrique de résultat à ajouter"
     },
     "Select time period for subscription trends": {
       "ja": "購読トレンドの期間を選択",
       "es": "Seleccionar período de tiempo para tendencias de suscripción",
       "pt": "Selecionar período de tempo para tendências de assinatura",
-      "ko": "구독 트렌드의 기간 선택"
+      "ko": "구독 트렌드의 기간 선택",
+      "fr": "Sélectionner la période pour les tendances d'abonnement"
     },
     "Setup guide": {
       "ja": "セットアップガイド",
@@ -5270,7 +5296,8 @@
       "ja": "リターゲティングメッセージを送信",
       "es": "Enviar un mensaje de retargeting",
       "pt": "Enviar uma mensagem de retargeting",
-      "ko": "리타겟팅 메시지 발송"
+      "ko": "리타겟팅 메시지 발송",
+      "fr": "Envoyer un message de retargeting"
     },
     "Send to segments": {
       "ja": "セグメントに送信",
@@ -5393,7 +5420,8 @@
       "ja": "組織を選択",
       "es": "Seleccionar organización",
       "pt": "Selecionar organização",
-      "ko": "조직 선택"
+      "ko": "조직 선택",
+      "fr": "Sélectionner l'organisation"
     },
     "Remove Media": {
       "ja": "メディアを削除",
@@ -5620,7 +5648,8 @@
       "ja": "セグメントが見つかりません",
       "es": "Segmento no encontrado",
       "pt": "Segmento não encontrado",
-      "ko": "세그먼트를 찾을 수 없음"
+      "ko": "세그먼트를 찾을 수 없음",
+      "fr": "Segment introuvable"
     },
     "Drag & drop editor": {
       "ja": "ドラッグ＆ドロップエディター",
@@ -5913,25 +5942,29 @@
       "ja": "これを使用するセグメント:",
       "es": "Segmentos que usan",
       "pt": "Segmentos que usam",
-      "ko": "사용하는 세그먼트"
+      "ko": "사용하는 세그먼트",
+      "fr": "Segments qui utilisent"
     },
     "Segments using": {
       "ja": "これを使用するセグメント",
       "es": "Segmentos que usan",
       "pt": "Segmentos usando",
-      "ko": "사용 중인 세그먼트"
+      "ko": "사용 중인 세그먼트",
+      "fr": "Segments utilisant"
     },
     "Select Segment": {
       "ja": "セグメントを選択",
       "es": "Seleccionar segmento",
       "pt": "Selecionar segmento",
-      "ko": "세그먼트 선택"
+      "ko": "세그먼트 선택",
+      "fr": "Sélectionner un segment"
     },
     "Send With Auto Warm Up": {
       "ja": "自動ウォームアップで送信",
       "es": "Enviar con calentamiento automático",
       "pt": "Enviar com aquecimento automático",
-      "ko": "자동 워밍업으로 발송"
+      "ko": "자동 워밍업으로 발송",
+      "fr": "Envoyer avec préchauffe automatique"
     },
     "Send to everyone at the same time": {
       "ja": "全員に同時に送信",
@@ -6155,7 +6188,8 @@
       "ja": "画像を選択",
       "es": "Seleccionar imagen",
       "pt": "Selecionar imagem",
-      "ko": "이미지 선택"
+      "ko": "이미지 선택",
+      "fr": "Sélectionner une image"
     },
     "or paste local path or URL": {
       "ja": "またはローカルパスやURLを貼り付け",
@@ -7627,43 +7661,50 @@
       "ja": "メディアを選択",
       "es": "Seleccionar medios",
       "pt": "Selecionar mídia",
-      "ko": "미디어 선택"
+      "ko": "미디어 선택",
+      "fr": "Sélectionner un média"
     },
     "Send to": {
       "ja": "送信先",
       "es": "Enviar a",
       "pt": "Enviar para",
-      "ko": "발송 대상"
+      "ko": "발송 대상",
+      "fr": "Envoyer à"
     },
     "Send to Apple Web": {
       "ja": "Apple Webに送信",
       "es": "Enviar a Apple Web",
       "pt": "Enviar para Apple Web",
-      "ko": "Apple Web에 발송"
+      "ko": "Apple Web에 발송",
+      "fr": "Envoyer vers Apple Web"
     },
     "Send to Apple iOS": {
       "ja": "Apple iOSに送信",
       "es": "Enviar a Apple iOS",
       "pt": "Enviar para Apple iOS",
-      "ko": "Apple iOS에 발송"
+      "ko": "Apple iOS에 발송",
+      "fr": "Envoyer vers Apple iOS"
     },
     "Send to Edge": {
       "ja": "Edgeに送信",
       "es": "Enviar a Edge",
       "pt": "Enviar para Edge",
-      "ko": "Edge에 발송"
+      "ko": "Edge에 발송",
+      "fr": "Envoyer vers Edge"
     },
     "Send to Google Android": {
       "ja": "Google Androidに送信",
       "es": "Enviar a Google Android",
       "pt": "Enviar para Google Android",
-      "ko": "Google Android에 발송"
+      "ko": "Google Android에 발송",
+      "fr": "Envoyer vers Google Android"
     },
     "Send to Google Chrome": {
       "ja": "Google Chromeに送信",
       "es": "Enviar a Google Chrome",
       "pt": "Enviar para Google Chrome",
-      "ko": "Google Chrome에 발송"
+      "ko": "Google Chrome에 발송",
+      "fr": "Envoyer vers Google Chrome"
     },
     "Send to Mozilla Firefox": {
       "ja": "Mozilla Firefoxに送信",
@@ -7911,7 +7952,8 @@
       "ja": "セグメントエディター",
       "es": "Editor de segmentos",
       "pt": "Editor de segmentos",
-      "ko": "세그먼트 편집기"
+      "ko": "세그먼트 편집기",
+      "fr": "Éditeur de segments"
     },
     "Start adding filters to see audience count": {
       "ja": "フィルターを追加するとオーディエンス数が表示されます",
@@ -8107,7 +8149,8 @@
       "ja": "料金と機能の比較を見る。",
       "es": "Ver comparación de precios y funciones.",
       "pt": "Ver comparação de preços e recursos.",
-      "ko": "가격 및 기능 비교 보기."
+      "ko": "가격 및 기능 비교 보기.",
+      "fr": "Voir la comparaison des tarifs et fonctionnalités."
     },
     "Streaming Events": {
       "ja": "ストリーミングイベント",
@@ -8351,7 +8394,8 @@
       "ja": "セグメントを選択...",
       "es": "Seleccionar segmento...",
       "pt": "Selecionar segmento...",
-      "ko": "세그먼트 선택..."
+      "ko": "세그먼트 선택...",
+      "fr": "Sélectionner un segment..."
     },
     "Apns Delegate Never Fired": {
       "ja": "APNsデリゲートが発火しませんでした",
@@ -8447,7 +8491,8 @@
       "ja": "編集エクスペリエンスを選択:",
       "es": "Selecciona tu experiencia de edición:",
       "pt": "Selecione sua experiência de edição:",
-      "ko": "편집 환경 선택:"
+      "ko": "편집 환경 선택:",
+      "fr": "Sélectionnez votre expérience d'édition :"
     },
     "Sender Email": {
       "ja": "送信元メール",
@@ -8830,13 +8875,15 @@
       "ja": "選択...",
       "es": "Seleccionar...",
       "pt": "Selecionar...",
-      "ko": "선택..."
+      "ko": "선택...",
+      "fr": "Sélectionner..."
     },
     "Send Test": {
       "ja": "テストを送信",
       "es": "Enviar prueba",
       "pt": "Enviar teste",
-      "ko": "테스트 발송"
+      "ko": "테스트 발송",
+      "fr": "Envoyer un test"
     },
     "What template do you want to send?": {
       "ja": "どのテンプレートを送信しますか？",
@@ -8973,7 +9020,8 @@
       "ja": "セグメントが作成されました",
       "es": "Segmento creado",
       "pt": "Segmento criado",
-      "ko": "세그먼트 생성됨"
+      "ko": "세그먼트 생성됨",
+      "fr": "Segment créé"
     },
     "Source": {
       "ja": "ソース",
@@ -9835,13 +9883,15 @@
       "ja": "購読状態別にセグメント化",
       "es": "Segmentado por estado de suscripción",
       "pt": "Segmentado por status de assinatura",
-      "ko": "구독 상태별 세그먼트"
+      "ko": "구독 상태별 세그먼트",
+      "fr": "Segmenté par statut d'abonnement"
     },
     "Send Message Prompt is": {
       "ja": "メッセージプロンプト送信:",
       "es": "Enviar mensaje de aviso es",
       "pt": "Enviar prompt de mensagem é",
-      "ko": "메시지 프롬프트 발송:"
+      "ko": "메시지 프롬프트 발송:",
+      "fr": "L'invite d'envoi de message est"
     },
     "Start": {
       "ja": "開始",
