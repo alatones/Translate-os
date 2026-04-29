@@ -3613,350 +3613,400 @@
       "ja": "配信数を表示",
       "pt": "Mostrar entregues",
       "ko": "전달됨 표시",
-      "fr": "Afficher les livrés"
+      "fr": "Afficher les livrés",
+      "tr": "Teslim edilenleri göster"
     },
     "Show Delivered Events": {
       "es": "Mostrar eventos entregados",
       "ja": "配信イベント数を表示",
       "pt": "Mostrar eventos entregues",
       "ko": "전달된 이벤트 표시",
-      "fr": "Afficher les événements livrés"
+      "fr": "Afficher les événements livrés",
+      "tr": "Teslim edilen etkinlikleri göster"
     },
     "Show Exported Events": {
       "es": "Mostrar eventos exportados",
       "ja": "エクスポートイベント数を表示",
       "pt": "Mostrar eventos exportados",
       "ko": "내보낸 이벤트 표시",
-      "fr": "Afficher les événements exportés"
+      "fr": "Afficher les événements exportés",
+      "tr": "Dışa aktarılan etkinlikleri göster"
     },
     "Show Processed Events": {
       "es": "Mostrar eventos procesados",
       "ja": "処理済みイベント数を表示",
       "pt": "Mostrar eventos processados",
       "ko": "처리된 이벤트 표시",
-      "fr": "Afficher les événements traités"
+      "fr": "Afficher les événements traités",
+      "tr": "İşlenen etkinlikleri göster"
     },
     "Show Received Events": {
       "es": "Mostrar eventos recibidos",
       "ja": "受信イベント数を表示",
       "pt": "Mostrar eventos recebidos",
       "ko": "수신된 이벤트 표시",
-      "fr": "Afficher les événements reçus"
+      "fr": "Afficher les événements reçus",
+      "tr": "Alınan etkinlikleri göster"
     },
     "Show Successful Updates": {
       "es": "Mostrar actualizaciones exitosas",
       "ja": "成功した更新数を表示",
       "pt": "Mostrar atualizações bem-sucedidas",
       "ko": "성공적인 업데이트 표시",
-      "fr": "Afficher les mises à jour réussies"
+      "fr": "Afficher les mises à jour réussies",
+      "tr": "Başarılı güncellemeleri göster"
     },
     "Show Total subscribed": {
       "es": "Mostrar total de suscritos",
       "ja": "購読者総数を表示",
       "pt": "Mostrar total de inscritos",
       "ko": "총 구독 수 표시",
-      "fr": "Afficher le total des abonnés"
+      "fr": "Afficher le total des abonnés",
+      "tr": "Toplam abonelikleri göster"
     },
     "Show Unsubscribed": {
       "es": "Mostrar cancelaciones",
       "ja": "購読解除数を表示",
       "pt": "Mostrar cancelamentos",
       "ko": "구독 취소 표시",
-      "fr": "Afficher les désinscriptions"
+      "fr": "Afficher les désinscriptions",
+      "tr": "Abonelikten çıkanları göster"
     },
     "Show/hide columns": {
       "es": "Mostrar/ocultar columnas",
       "ja": "列の表示/非表示",
       "pt": "Mostrar/ocultar colunas",
       "ko": "열 표시/숨기기",
-      "fr": "Afficher / masquer les colonnes"
+      "fr": "Afficher / masquer les colonnes",
+      "tr": "Sütunları göster/gizle"
     },
     "Showing": {
       "es": "Mostrando",
       "ja": "表示中",
       "pt": "Mostrando",
       "ko": "표시 중",
-      "fr": "Affichage"
+      "fr": "Affichage",
+      "tr": "Gösteriliyor"
     },
     "Sign Out": {
       "es": "Cerrar sesión",
       "ja": "サインアウト",
       "pt": "Sair",
       "ko": "로그아웃",
-      "fr": "Se déconnecter"
+      "fr": "Se déconnecter",
+      "tr": "Oturumu kapat"
     },
     "Site URL": {
       "es": "URL del sitio",
       "ja": "サイトURL",
       "pt": "URL do site",
       "ko": "사이트 URL",
-      "fr": "URL du site"
+      "fr": "URL du site",
+      "tr": "Site URL'si"
     },
     "SMS / RCS": {
       "es": "SMS / RCS",
       "ja": "SMS / RCS",
       "pt": "SMS / RCS",
       "ko": "SMS / RCS",
-      "fr": "SMS / RCS"
+      "fr": "SMS / RCS",
+      "tr": "SMS / RCS"
     },
     "Sound": {
       "es": "Sonido",
       "ja": "サウンド",
       "pt": "Som",
       "ko": "소리",
-      "fr": "Son"
+      "fr": "Son",
+      "tr": "Ses"
     },
     "Sources": {
       "es": "Fuentes",
       "ja": "ソース",
       "pt": "Fontes",
       "ko": "소스",
-      "fr": "Sources"
+      "fr": "Sources",
+      "tr": "Kaynaklar"
     },
     "Started": {
       "es": "Iniciado",
       "ja": "開始済み",
       "pt": "Iniciado",
       "ko": "시작됨",
-      "fr": "Démarré"
+      "fr": "Démarré",
+      "tr": "Başladı"
     },
     "Stats": {
       "es": "Estadísticas",
       "ja": "統計",
       "pt": "Estatísticas",
       "ko": "통계",
-      "fr": "Statistiques"
+      "fr": "Statistiques",
+      "tr": "İstatistikler"
     },
     "Status": {
       "es": "Estado",
       "ja": "ステータス",
       "pt": "Status",
       "ko": "상태",
-      "fr": "Statut"
+      "fr": "Statut",
+      "tr": "Durum"
     },
     "Status details": {
       "es": "Detalles del estado",
       "ja": "ステータス詳細",
       "pt": "Detalhes do status",
       "ko": "상태 세부 정보",
-      "fr": "Détails du statut"
+      "fr": "Détails du statut",
+      "tr": "Durum ayrıntıları"
     },
     "Status page": {
       "es": "Página de estado",
       "ja": "ステータスページ",
       "pt": "Página de status",
       "ko": "상태 페이지",
-      "fr": "Page de statut"
+      "fr": "Page de statut",
+      "tr": "Durum sayfası"
     },
     "Step": {
       "es": "Paso",
       "ja": "ステップ",
       "pt": "Etapa",
       "ko": "단계",
-      "fr": "Étape"
+      "fr": "Étape",
+      "tr": "Adım"
     },
     "Stop": {
       "es": "Detener",
       "ja": "停止",
       "pt": "Parar",
       "ko": "중지",
-      "fr": "Arrêter"
+      "fr": "Arrêter",
+      "tr": "Durdur"
     },
     "Storage count": {
       "es": "Recuento de almacenamiento",
       "ja": "ストレージカウント",
       "pt": "Contagem de armazenamento",
       "ko": "저장 수",
-      "fr": "Nombre de stockage"
+      "fr": "Nombre de stockage",
+      "tr": "Depolama sayısı"
     },
     "Storage duration": {
       "es": "Duración de almacenamiento",
       "ja": "ストレージ期間",
       "pt": "Duração de armazenamento",
       "ko": "저장 기간",
-      "fr": "Durée de stockage"
+      "fr": "Durée de stockage",
+      "tr": "Depolama süresi"
     },
     "Subject Line": {
       "es": "Asunto",
       "ja": "件名",
       "pt": "Assunto",
       "ko": "제목 줄",
-      "fr": "Ligne d'objet"
+      "fr": "Ligne d'objet",
+      "tr": "Konu satırı"
     },
     "Subscribed": {
       "es": "Suscrito",
       "ja": "購読中",
       "pt": "Inscrito",
       "ko": "구독됨",
-      "fr": "Abonné"
+      "fr": "Abonné",
+      "tr": "Abone olundu"
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor excluido",
       "ja": "購読者がオプトアウト",
       "pt": "Assinante excluído",
       "ko": "구독자 거부",
-      "fr": "Abonné exclu"
+      "fr": "Abonné exclu",
+      "tr": "Abone onayı geri aldı"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
       "ja": "購読日",
       "pt": "Data de inscrição",
       "ko": "구독 날짜",
-      "fr": "Date d'abonnement"
+      "fr": "Date d'abonnement",
+      "tr": "Abonelik tarihi"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
       "ja": "購読ID",
       "pt": "ID de assinatura",
       "ko": "구독 ID",
-      "fr": "ID d'abonnement"
+      "fr": "ID d'abonnement",
+      "tr": "Abonelik ID"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
       "ja": "購読記録",
       "pt": "Registros de assinaturas",
       "ko": "구독 기록",
-      "fr": "Enregistrements d'abonnement"
+      "fr": "Enregistrements d'abonnement",
+      "tr": "Abonelik kayıtları"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
       "ja": "購読推移",
       "pt": "Tendências de assinaturas",
       "ko": "구독 트렌드",
-      "fr": "Tendances d'abonnement"
+      "fr": "Tendances d'abonnement",
+      "tr": "Abonelik eğilimleri"
     },
     "Subscriptions": {
       "es": "Suscripciones",
       "ja": "購読",
       "pt": "Assinaturas",
       "ko": "구독",
-      "fr": "Abonnements"
+      "fr": "Abonnements",
+      "tr": "Abonelikler"
     },
     "Success": {
       "es": "Éxito",
       "ja": "成功",
       "pt": "Sucesso",
       "ko": "성공",
-      "fr": "Succès"
+      "fr": "Succès",
+      "tr": "Başarılı"
     },
     "Success Rate": {
       "es": "Tasa de éxito",
       "ja": "成功率",
       "pt": "Taxa de sucesso",
       "ko": "성공률",
-      "fr": "Taux de réussite"
+      "fr": "Taux de réussite",
+      "tr": "Başarı oranı"
     },
     "Successful Updates": {
       "es": "Actualizaciones exitosas",
       "ja": "成功した更新",
       "pt": "Atualizações bem-sucedidas",
       "ko": "성공적인 업데이트",
-      "fr": "Mises à jour réussies"
+      "fr": "Mises à jour réussies",
+      "tr": "Başarılı güncellemeler"
     },
     "Sun": {
       "es": "Dom",
       "ja": "日",
       "pt": "Dom",
       "ko": "일",
-      "fr": "Dim"
+      "fr": "Dim",
+      "tr": "Paz"
     },
     "Super User": {
       "es": "Superusuario",
       "ja": "スーパーユーザー",
       "pt": "Superusuário",
       "ko": "슈퍼 사용자",
-      "fr": "Super-utilisateur"
+      "fr": "Super-utilisateur",
+      "tr": "Süper kullanıcı"
     },
     "Support and documentation": {
       "es": "Soporte y documentación",
       "ja": "サポートとドキュメント",
       "pt": "Suporte e documentação",
       "ko": "지원 및 문서",
-      "fr": "Support et documentation"
+      "fr": "Support et documentation",
+      "tr": "Destek ve dokümantasyon"
     },
     "Sync contacts through API": {
       "es": "Sincroniza contactos a través de la API",
       "ja": "APIで連絡先を同期",
       "pt": "Sincronize contatos via API",
       "ko": "API를 통해 연락처 동기화",
-      "fr": "Synchroniser les contacts via l'API"
+      "fr": "Synchroniser les contacts via l'API",
+      "tr": "API üzerinden kişileri senkronize edin"
     },
     "Tag": {
       "es": "Etiqueta",
       "ja": "タグ",
       "pt": "Tag",
       "ko": "태그",
-      "fr": "Tag"
+      "fr": "Tag",
+      "tr": "Etiket"
     },
     "Tags": {
       "es": "Etiquetas",
       "ja": "タグ",
       "pt": "Tags",
       "ko": "태그",
-      "fr": "Tags"
+      "fr": "Tags",
+      "tr": "Etiketler"
     },
     "Team Members": {
       "es": "Miembros del equipo",
       "ja": "チームメンバー",
       "pt": "Membros da equipe",
       "ko": "팀원",
-      "fr": "Membres de l'équipe"
+      "fr": "Membres de l'équipe",
+      "tr": "Ekip üyeleri"
     },
     "Template Name": {
       "es": "Nombre de la plantilla",
       "ja": "テンプレート名",
       "pt": "Nome do modelo",
       "ko": "템플릿 이름",
-      "fr": "Nom du modèle"
+      "fr": "Nom du modèle",
+      "tr": "Şablon adı"
     },
     "Templates": {
       "es": "Plantillas",
       "ja": "テンプレート",
       "pt": "Modelos",
       "ko": "템플릿",
-      "fr": "Modèles"
+      "fr": "Modèles",
+      "tr": "Şablonlar"
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
       "ja": "テスト購読記録",
       "pt": "Registros de assinaturas de teste",
       "ko": "테스트 구독 기록",
-      "fr": "Enregistrements d'abonnements de test"
+      "fr": "Enregistrements d'abonnements de test",
+      "tr": "Test abonelik kayıtları"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
       "ja": "テスト購読",
       "pt": "Assinaturas de teste",
       "ko": "테스트 구독",
-      "fr": "Abonnements de test"
+      "fr": "Abonnements de test",
+      "tr": "Test abonelikleri"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
       "ja": "テストユーザー",
       "pt": "Usuários de teste",
       "ko": "테스트 사용자",
-      "fr": "Utilisateurs de test"
+      "fr": "Utilisateurs de test",
+      "tr": "Test kullanıcıları"
     },
     "This action cannot be undone.": {
       "es": "Esta acción no se puede deshacer.",
       "ja": "この操作は元に戻せません。",
       "pt": "Esta ação não pode ser desfeita.",
       "ko": "이 작업은 취소할 수 없습니다.",
-      "fr": "Cette action ne peut pas être annulée."
+      "fr": "Cette action ne peut pas être annulée.",
+      "tr": "Bu işlem geri alınamaz."
     },
     "This month": {
       "es": "Este mes",
       "ja": "今月",
       "pt": "Este mês",
       "ko": "이번 달",
-      "fr": "Ce mois-ci"
+      "fr": "Ce mois-ci",
+      "tr": "Bu ay"
     },
     "Thu": {
       "es": "Jue",
       "ja": "木",
       "pt": "Qui",
       "ko": "목",
-      "fr": "Jeu"
+      "fr": "Jeu",
+      "tr": "Per"
     },
     "Time": {
       "es": "Hora",
