@@ -24,9 +24,10 @@ Language codes follow ISO 639-1.
 | Code | Language   | Status                     |
 | ---- | ---------- | -------------------------- |
 | `en` | English    | Passthrough (no changes)   |
-| `ja` | Japanese   | ~65 dashboard terms        |
-| `es` | Spanish    | ~65 dashboard terms        |
-| `pt` | Portuguese | Placeholder — contribute!  |
+| `ja` | Japanese   | ~724 dashboard terms + patterns |
+| `es` | Spanish    | ~724 dashboard terms + patterns |
+| `pt` | Portuguese | ~724 dashboard terms + patterns |
+| `ko` | Korean     | ~724 dashboard terms + patterns |
 
 ## How Persistence Works
 
@@ -145,6 +146,153 @@ One edit, one file:
 
 No other files to touch.
 
+## Regex Patterns (for dynamic strings)
+
+Exact-match handles fixed UI copy. For strings with a variable portion —
+"Sent 1,234 messages", "Last 7 days", "3 segments selected" — use a
+pattern. Same file, sibling array:
+
+```json
+"patterns": [
+  {
+    "match": "^Sent (\\d+) messages?$",
+    "translations": {
+      "ja": "{1}件のメッセージを送信しました",
+      "es": "Enviados {1} mensajes"
+    }
+  }
+]
+```
+
+**Authoring rules:**
+
+- `match` is a JavaScript regex source string. Escape backslashes for JSON
+  (`\\d`, `\\s`, etc.).
+- **You are responsible for anchors** (`^…$`). Unanchored patterns will
+  substring-match and may catch more than you intended. Start with `^…$`.
+- `{1}`, `{2}`, … in each translation refer to the first, second, … capture
+  group. `{0}` is the full match.
+- Patterns are tried **after** exact-match, in array order. First match
+  wins. Keep more specific patterns higher up.
+- Missing languages fall through to English for that pattern, same as
+  exact-match.
+- If a `match` regex is invalid, it's skipped with a `console.warn` — it
+  won't break the translator.
+
+## Crowdsourced Missed-String Ledger
+
+The extension notices every English string it sees on the dashboard that
+it can't translate (neither exact-match nor pattern), counts how often
+each one appears, and — if the user opts in — sends a daily anonymized
+batch to a Google Sheet you own. You harvest the highest-count entries
+and add them to `languages.json`.
+
+This replaces the "maintainer has to hand-audit the live dashboard"
+workflow. Actual users of the translated dashboard surface the gaps for
+free.
+
+### What gets sent (and what doesn't)
+
+**Sent:**
+
+- Active language code (`ja` / `es` / `pt`).
+- The English string itself.
+- How many times it was seen on this install.
+- URL **pathname only**, with any segment that looks like an ID
+  (16+ chars) replaced by `:id`. Example:
+  `/apps/6d9b1f09-.../messages/push/new` → `/apps/:id/messages/push/new`.
+
+**Never sent:**
+
+- Full URLs, query strings, hashes.
+- User IDs, install IDs, cookies, auth headers.
+- Strings containing `@`, `http(s)://`, long digit runs, or base64-shaped
+  tokens. These are filtered client-side before the string is even queued.
+- Strings shorter than 2 or longer than 80 characters.
+- Strings seen fewer than 3 times on the install (debounces one-off
+  dynamic content).
+
+Users can view the full pending queue in a bundled page — popup →
+**View what's queued →** — to see exactly what would be sent, and can
+clear it or flip opt-in off at any time.
+
+### Backend Setup (Google Apps Script, once)
+
+Zero-infrastructure receiver. ~5 minutes end-to-end.
+
+1. Create a new Google Sheet. Name the first tab `ledger`. Add a header
+   row: `timestamp | lang | path | string | count`.
+2. **Extensions → Apps Script.** Paste this into `Code.gs`:
+
+   ```javascript
+   function doPost(e) {
+     const sheet = SpreadsheetApp.getActive().getSheetByName("ledger");
+     const body = JSON.parse(e.postData.contents);
+     const now = new Date();
+     const rows = (body.entries || []).map((en) => [
+       now,
+       en.lang || "",
+       en.path || "",
+       en.string || "",
+       en.count || 0,
+     ]);
+     if (rows.length) {
+       sheet.getRange(sheet.getLastRow() + 1, 1, rows.length, 5).setValues(rows);
+     }
+     return ContentService
+       .createTextOutput(JSON.stringify({ ok: true, received: rows.length }))
+       .setMimeType(ContentService.MimeType.JSON);
+   }
+   ```
+
+3. **Deploy → New deployment → Type: Web app.**
+   - Execute as: **Me**.
+   - Who has access: **Anyone** (the URL itself is the secret).
+   - Click **Deploy**, grant permissions, and copy the
+     `https://script.google.com/macros/s/.../exec` URL.
+
+4. Paste that URL into `background.js` at the top:
+
+   ```javascript
+   const LEDGER_ENDPOINT = "https://script.google.com/macros/s/.../exec";
+   ```
+
+5. Reload the extension from `chrome://extensions`.
+
+After a day of use on any install, new rows will appear in the sheet.
+Sort by `count` descending, skim the top entries, and fold anything real
+into `languages.json`.
+
+### Harvesting workflow
+
+- Sort the sheet by `count` descending.
+- Ignore anything that looks like user-generated content (app names,
+  segment names, custom data values). These are the false positives the
+  PII filter can't catch.
+- For each legitimate UI string: add it to `translations` (exact-match)
+  or — if it has a `\d+` / variable portion — add a new entry to
+  `patterns`.
+- Release a new version. Users pull your update and those strings stop
+  appearing in future batches.
+
+### Quotas & scaling
+
+Apps Script gives you 20k executions/day per script. At 1 POST per
+install per day, that's 20k daily active installs before you need to
+think about it. When/if that limit becomes real, the client is written
+to be endpoint-agnostic — point `LEDGER_ENDPOINT` at a tiny serverless
+function on any host.
+
+### Privacy surface
+
+- Default: **on**. The first time the popup opens after install, a
+  one-time banner explains what's shared and links to the queue viewer.
+- One checkbox in the popup flips it off. Opting out stops future POSTs
+  immediately; the local queue is preserved until manually cleared
+  (useful if the user wants to review what would have been sent).
+- Local ledger lives in `chrome.storage.local` and never syncs to Google
+  account storage.
+
 ## How Translation Works (and Why It's Safe With React)
 
 OneSignal's dashboard is a React single-page app. Naive translation
@@ -175,19 +323,29 @@ re-renders.
 
 ```
 manifest.json    Manifest V3 config, scoped to dashboard.onesignal.com
-languages.json   Translation dictionaries keyed by language code
-content.js       Text-node walker + attribute allowlist + MutationObserver
-background.js   Service worker: right-click "Suggest a better translation"
-popup.html       Extension popup UI (language picker + feedback button)
-popup.js         Saves language, warns about unsaved edits, opens issue form
+languages.json   Exact-match dictionary + regex patterns, per language
+content.js       Text-node walker, attribute allowlist, MutationObserver, missed-string tracker
+background.js    Service worker: feedback mailto, daily ledger batch POST
+popup.html       Extension popup: language picker, ledger opt-in, queue link
+popup.js         Saves language, manages opt-in, first-run disclosure
+queue.html       Full-page viewer for the local missed-string queue
+queue.js         Reads chrome.storage.local, renders by lang/path, manual send/clear
 styles.css       CJK-friendly typography (line-height, font stack)
+
+CLAUDE.md        Always-loaded instructions for AI-assisted edits
+STYLE_GUIDE.md   Global translation rules (UI roles, quotes, brand handling)
+glossary.json    Locked English-to-target term mappings (with grammatical alts)
+style/<lang>.md  Per-language addenda (register, punctuation, length budgets)
+validate.py      Mechanical conformance check; must report 0 blocking violations
 ```
 
-## Known Limitations (v1)
+## Known Limitations
 
-- **Exact-match only.** "Settings" is translated, but "Project Settings"
-  is not unless you add it as its own key. This prevents partial-substring
-  corruption (e.g. translating "Settings" inside a URL fragment).
+- **Exact-match + regex patterns only.** "Settings" is translated, but
+  "Project Settings" is not unless you add it as its own key. This
+  prevents partial-substring corruption (e.g. translating "Settings"
+  inside a URL fragment). Dynamic strings (`Sent 1234 messages`) need a
+  regex pattern — see the patterns section above.
 - **Short strings may collide.** A key like "Send" will translate every
   standalone "Send" in the DOM — including attributes. Prefer longer,
   context-specific keys where possible.
@@ -195,6 +353,10 @@ styles.css       CJK-friendly typography (line-height, font stack)
   produced by the browser itself (e.g. the default tooltip on a `required`
   field) are controlled by the browser locale, not the DOM, so the
   extension cannot reach them. App-rendered error text is covered.
+- **Free-form product copy** (long paragraphs, marketing text) is out of
+  scope for exact-match / regex and isn't covered. Post-V1 roadmap may
+  add an LLM fallback, but the ledger should tell us whether that's
+  actually worth the cost.
 
 ## Development
 

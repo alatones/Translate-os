@@ -8,6 +8,10 @@ const FEEDBACK_EMAIL = "bd@onesignal.com";
 const select = document.getElementById("lang");
 const status = document.getElementById("status");
 const feedbackBtn = document.getElementById("feedback");
+const optinBox = document.getElementById("ledger-optin");
+const queueLink = document.getElementById("queue-link");
+const disclosure = document.getElementById("disclosure");
+const disclosureDismiss = document.getElementById("disclosure-dismiss");
 
 function setStatus(msg) {
   status.textContent = msg;
@@ -65,6 +69,28 @@ select.addEventListener("change", async () => {
     setStatus("Saved. Reloading…");
     if (onDashboard) chrome.tabs.reload(tab.id);
   });
+});
+
+chrome.storage.sync.get(
+  { ledgerOptIn: true, ledgerDisclosureSeen: false },
+  ({ ledgerOptIn, ledgerDisclosureSeen }) => {
+    optinBox.checked = !!ledgerOptIn;
+    if (!ledgerDisclosureSeen) disclosure.style.display = "block";
+  },
+);
+
+optinBox.addEventListener("change", () => {
+  chrome.storage.sync.set({ ledgerOptIn: optinBox.checked });
+});
+
+disclosureDismiss.addEventListener("click", () => {
+  disclosure.style.display = "none";
+  chrome.storage.sync.set({ ledgerDisclosureSeen: true });
+});
+
+queueLink.addEventListener("click", (e) => {
+  e.preventDefault();
+  chrome.tabs.create({ url: chrome.runtime.getURL("queue.html") });
 });
 
 feedbackBtn.addEventListener("click", async () => {

@@ -62,16 +62,85 @@
         color: #6b7280;
         line-height: 1.5;
       }
+      #disclosure {
+        display: none;
+        margin: 0 0 12px;
+        padding: 10px;
+        font-size: 12px;
+        line-height: 1.45;
+        color: #1e3a8a;
+        background: #eff6ff;
+        border: 1px solid #bfdbfe;
+        border-radius: 4px;
+      }
+      #disclosure p {
+        margin: 0 0 8px;
+      }
+      #disclosure button {
+        padding: 4px 10px;
+        font-size: 11px;
+        background: #2563eb;
+        color: #fff;
+        border: 0;
+        border-radius: 3px;
+        cursor: pointer;
+      }
+      .optin-row {
+        display: flex;
+        align-items: flex-start;
+        gap: 6px;
+        margin: 0 0 6px;
+      }
+      .optin-row input[type="checkbox"] {
+        margin-top: 2px;
+      }
+      .optin-row label {
+        margin: 0;
+        font-size: 12px;
+        color: #1f2937;
+        cursor: pointer;
+      }
+      #queue-link {
+        display: inline-block;
+        margin-top: 4px;
+        font-size: 11px;
+        color: #2563eb;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      #queue-link:hover {
+        text-decoration: underline;
+      }
     </style>
   </head>
   <body>
     <h3>OneSignal Translator</h3>
+
+    <div id="disclosure">
+      <p>
+        This extension shares a list of dashboard strings that weren't
+        translated so coverage can improve. No URLs, user IDs, or personal
+        data are sent.
+      </p>
+      <button id="disclosure-dismiss" type="button">Got it</button>
+    </div>
+
     <label for="lang">Language</label>
     <select id="lang">
       <option value="en">English (off)</option>
     </select>
     <p id="status"></p>
+
     <hr class="divider" />
+
+    <div class="optin-row">
+      <input id="ledger-optin" type="checkbox" />
+      <label for="ledger-optin">Help improve translations (share anonymized untranslated strings)</label>
+    </div>
+    <a id="queue-link" href="#">View what's queued →</a>
+
+    <hr class="divider" />
+
     <button id="feedback" type="button">Report a translation issue</button>
     <p class="hint">
       Tip: right-click any translated text on the dashboard to suggest a
