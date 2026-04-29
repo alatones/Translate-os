@@ -3689,19 +3689,22 @@
       "es": "Actualizar/importar usuarios",
       "ja": "ユーザーを更新/インポート",
       "pt": "Atualizar/importar usuários",
-      "ko": "사용자 업데이트/가져오기"
+      "ko": "사용자 업데이트/가져오기",
+      "fr": "Mettre à jour / importer des utilisateurs"
     },
     "Updated At": {
       "es": "Actualizado el",
       "ja": "更新日時",
       "pt": "Atualizado em",
-      "ko": "업데이트 일시"
+      "ko": "업데이트 일시",
+      "fr": "Mis à jour le"
     },
     "Upload a CSV": {
       "es": "Subir un CSV",
       "ja": "CSVをアップロード",
       "pt": "Enviar um CSV",
-      "ko": "CSV 업로드"
+      "ko": "CSV 업로드",
+      "fr": "Téléverser un CSV"
     },
     "URL": {
       "es": "URL",
@@ -3714,37 +3717,43 @@
       "es": "Uso",
       "ja": "使用状況",
       "pt": "Uso",
-      "ko": "사용량"
+      "ko": "사용량",
+      "fr": "Utilisation"
     },
     "Usage duration": {
       "es": "Duración de uso",
       "ja": "使用期間",
       "pt": "Duração de uso",
-      "ko": "사용 기간"
+      "ko": "사용 기간",
+      "fr": "Durée d'utilisation"
     },
     "Usage locations": {
       "es": "Ubicaciones de uso",
       "ja": "使用箇所",
       "pt": "Locais de uso",
-      "ko": "사용 위치"
+      "ko": "사용 위치",
+      "fr": "Lieux d'utilisation"
     },
     "Use Template": {
       "es": "Usar plantilla",
       "ja": "テンプレートを使用",
       "pt": "Usar modelo",
-      "ko": "템플릿 사용"
+      "ko": "템플릿 사용",
+      "fr": "Utiliser le modèle"
     },
     "User Records": {
       "es": "Registros de usuarios",
       "ja": "ユーザー記録",
       "pt": "Registros de usuários",
-      "ko": "사용자 기록"
+      "ko": "사용자 기록",
+      "fr": "Enregistrements utilisateurs"
     },
     "Users": {
       "es": "Usuarios",
       "ja": "ユーザー",
       "pt": "Usuários",
-      "ko": "사용자"
+      "ko": "사용자",
+      "fr": "Utilisateurs"
     },
     "UTC": {
       "es": "UTC",
@@ -3764,61 +3773,71 @@
       "es": "Valor",
       "ja": "値",
       "pt": "Valor",
-      "ko": "값"
+      "ko": "값",
+      "fr": "Valeur"
     },
     "View": {
       "es": "Ver",
       "ja": "表示",
       "pt": "Ver",
-      "ko": "보기"
+      "ko": "보기",
+      "fr": "Voir"
     },
     "View activity log for all users": {
       "es": "Ver registro de actividad de todos los usuarios",
       "ja": "全ユーザーのアクティビティログを表示",
       "pt": "Ver registro de atividade de todos os usuários",
-      "ko": "모든 사용자의 활동 로그 보기"
+      "ko": "모든 사용자의 활동 로그 보기",
+      "fr": "Voir le journal d'activité de tous les utilisateurs"
     },
     "View All": {
       "es": "Ver todo",
       "ja": "すべて表示",
       "pt": "Ver todos",
-      "ko": "전체 보기"
+      "ko": "전체 보기",
+      "fr": "Tout voir"
     },
     "View Details": {
       "es": "Ver detalles",
       "ja": "詳細を表示",
       "pt": "Ver detalhes",
-      "ko": "세부 정보 보기"
+      "ko": "세부 정보 보기",
+      "fr": "Voir les détails"
     },
     "View previous imports": {
       "es": "Ver importaciones anteriores",
       "ja": "過去のインポートを表示",
       "pt": "Ver importações anteriores",
-      "ko": "이전 가져오기 보기"
+      "ko": "이전 가져오기 보기",
+      "fr": "Voir les imports précédents"
     },
     "View subscription & billing cycle usage": {
       "es": "Ver uso de suscripción y ciclo de facturación",
       "ja": "購読と請求サイクルの使用状況を表示",
       "pt": "Ver uso de assinatura e ciclo de faturamento",
-      "ko": "구독 및 청구 주기 사용량 보기"
+      "ko": "구독 및 청구 주기 사용량 보기",
+      "fr": "Voir l'utilisation de l'abonnement et du cycle de facturation"
     },
     "Viewer": {
       "es": "Observador",
       "ja": "閲覧者",
       "pt": "Visualizador",
-      "ko": "뷰어"
+      "ko": "뷰어",
+      "fr": "Observateur"
     },
     "Warning": {
       "es": "Advertencia",
       "ja": "警告",
       "pt": "Aviso",
-      "ko": "경고"
+      "ko": "경고",
+      "fr": "Avertissement"
     },
     "Web": {
       "es": "Web",
       "ja": "ウェブ",
       "pt": "Web",
-      "ko": "웹"
+      "ko": "웹",
+      "fr": "Web"
     },
     "Web push subscribers": {
       "es": "Suscriptores de push web",
@@ -3885,7 +3904,8 @@
       "ja": "タイムリーなメッセージでユーザーを引き戻す",
       "es": "Los mensajes visibles y oportunos hacen que tus usuarios regresen",
       "pt": "Mensagens visíveis e oportunas trazem seus usuários de volta",
-      "ko": "눈에 띄고 적시의 메시지로 사용자를 돌아오게 하세요"
+      "ko": "눈에 띄고 적시의 메시지로 사용자를 돌아오게 하세요",
+      "fr": "Des messages visibles et opportuns font revenir vos utilisateurs"
     },
     "Easily manage mobile and web push in one place": {
       "ja": "モバイルとウェブのプッシュを一か所で簡単に管理",
@@ -4308,7 +4328,8 @@
       "ja": "アカウントを確認",
       "es": "Verificar cuenta",
       "pt": "Verificar conta",
-      "ko": "계정 확인"
+      "ko": "계정 확인",
+      "fr": "Vérifier le compte"
     },
     "Create sender": {
       "ja": "送信者を作成",
@@ -4412,7 +4433,8 @@
       "ja": "すべてが正しく設定されているか確認します",
       "es": "Verificaremos que todo esté configurado correctamente",
       "pt": "Verificaremos se tudo está configurado corretamente",
-      "ko": "모든 것이 올바르게 설정되었는지 확인합니다"
+      "ko": "모든 것이 올바르게 설정되었는지 확인합니다",
+      "fr": "Nous vérifierons que tout est correctement configuré"
     },
     "Customize app experiences": {
       "ja": "アプリ体験をカスタマイズ",
@@ -4753,7 +4775,8 @@
       "ja": "ユーザードキュメント",
       "es": "Documentación de usuario",
       "pt": "Documentação do usuário",
-      "ko": "사용자 문서"
+      "ko": "사용자 문서",
+      "fr": "Documentation utilisateur"
     },
     "Set up": {
       "ja": "セットアップ",
@@ -4828,7 +4851,8 @@
       "ja": "最近のアクティビティと設定を表示",
       "es": "Ver actividad reciente y preferencias",
       "pt": "Ver atividade recente e preferências",
-      "ko": "최근 활동 및 기본 설정 보기"
+      "ko": "최근 활동 및 기본 설정 보기",
+      "fr": "Voir l'activité récente et les préférences"
     },
     "Add Test Subscriptions": {
       "ja": "テスト購読を追加",
@@ -4876,7 +4900,8 @@
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルー",
       "es": "Recorre en tu propio dispositivo el journey del usuario, desde el mensaje hasta la conversión",
       "pt": "Percorra a jornada do usuário no seu próprio dispositivo, da mensagem à conversão",
-      "ko": "자신의 기기에서 메시지부터 전환까지 사용자 여정을 직접 체험하세요"
+      "ko": "자신의 기기에서 메시지부터 전환까지 사용자 여정을 직접 체험하세요",
+      "fr": "Parcourez le parcours utilisateur sur votre propre appareil, du message à la conversion"
     },
     "Live Activities documentation": {
       "ja": "ライブアクティビティのドキュメント",
@@ -5015,7 +5040,8 @@
       "ja": "最大8時間表示",
       "es": "Visible durante hasta 8 horas",
       "pt": "Visível por até 8 horas",
-      "ko": "최대 8시간 동안 표시됨"
+      "ko": "최대 8시간 동안 표시됨",
+      "fr": "Visible jusqu'à 8 heures"
     },
     "Manage OneSignal with AI tools": {
       "ja": "AIツールでOneSignalを管理",
@@ -5098,7 +5124,8 @@
       "ja": "ユーザーアバター",
       "es": "Avatar del usuario",
       "pt": "Avatar do usuário",
-      "ko": "사용자 아바타"
+      "ko": "사용자 아바타",
+      "fr": "Avatar de l'utilisateur"
     },
     "Product": {
       "ja": "製品",
@@ -5160,31 +5187,36 @@
       "ja": "Webプッシュ (Apple Web)",
       "es": "Web Push (Apple Web)",
       "pt": "Web Push (Apple Web)",
-      "ko": "웹 푸시 (Apple Web)"
+      "ko": "웹 푸시 (Apple Web)",
+      "fr": "Web Push (Apple Web)"
     },
     "Web Push (Chrome)": {
       "ja": "Webプッシュ (Chrome)",
       "es": "Web Push (Chrome)",
       "pt": "Web Push (Chrome)",
-      "ko": "웹 푸시 (Chrome)"
+      "ko": "웹 푸시 (Chrome)",
+      "fr": "Web Push (Chrome)"
     },
     "Web Push (Firefox)": {
       "ja": "Webプッシュ (Firefox)",
       "es": "Web Push (Firefox)",
       "pt": "Web Push (Firefox)",
-      "ko": "웹 푸시 (Firefox)"
+      "ko": "웹 푸시 (Firefox)",
+      "fr": "Web Push (Firefox)"
     },
     "Web Push (Edge)": {
       "ja": "Webプッシュ (Edge)",
       "es": "Web Push (Edge)",
       "pt": "Web Push (Edge)",
-      "ko": "웹 푸시 (Edge)"
+      "ko": "웹 푸시 (Edge)",
+      "fr": "Web Push (Edge)"
     },
     "Web Browser": {
       "ja": "Webブラウザ",
       "es": "Navegador web",
       "pt": "Navegador web",
-      "ko": "웹 브라우저"
+      "ko": "웹 브라우저",
+      "fr": "Navigateur web"
     },
     "Native App": {
       "ja": "ネイティブアプリ",
@@ -5822,7 +5854,8 @@
       "ja": "画像とテキストブロックを使った視覚的なドラッグ＆ドロップ編集。",
       "es": "Edición visual de arrastrar y soltar con bloques de imagen y texto.",
       "pt": "Edição visual de arrastar e soltar com blocos de imagem e texto.",
-      "ko": "이미지와 텍스트 블록을 사용한 시각적 드래그 앤 드롭 편집."
+      "ko": "이미지와 텍스트 블록을 사용한 시각적 드래그 앤 드롭 편집.",
+      "fr": "Édition visuelle par glisser-déposer avec des blocs image et texte."
     },
     "Write or copy/paste your own HTML and CSS.": {
       "ja": "独自のHTMLとCSSを書き込むか、コピー＆ペーストしてください。",
@@ -6782,7 +6815,8 @@
       "ja": "画像とテキストブロックでの視覚編集。",
       "es": "Edición visual con bloques de imagen y texto.",
       "pt": "Edição visual com blocos de imagem e texto.",
-      "ko": "이미지 및 텍스트 블록을 사용한 시각적 편집."
+      "ko": "이미지 및 텍스트 블록을 사용한 시각적 편집.",
+      "fr": "Édition visuelle avec des blocs image et texte."
     },
     "When certain conditions are satisfied during the session": {
       "ja": "セッション中に特定の条件が満たされたとき",
@@ -7071,19 +7105,22 @@
       "ja": "ユーザーがジャーニー全体を通過しました",
       "es": "El usuario ha pasado por todo el Journey",
       "pt": "O usuário passou por todo o Journey",
-      "ko": "사용자가 전체 저니를 통과했습니다"
+      "ko": "사용자가 전체 저니를 통과했습니다",
+      "fr": "L'utilisateur a parcouru tout le Journey"
     },
     "Users can only enter the Journey once": {
       "ja": "ユーザーはジャーニーに1回しか入れません",
       "es": "Los usuarios solo pueden entrar al Journey una vez",
       "pt": "Os usuários só podem entrar no Journey uma vez",
-      "ko": "사용자는 저니에 한 번만 진입할 수 있습니다"
+      "ko": "사용자는 저니에 한 번만 진입할 수 있습니다",
+      "fr": "Les utilisateurs ne peuvent entrer dans le Journey qu'une seule fois"
     },
     "Users in the chosen segment will start your Journey": {
       "ja": "選択したセグメントのユーザーがあなたのジャーニーを開始します",
       "es": "Los usuarios del segmento elegido iniciarán tu Journey",
       "pt": "Os usuários no segmento escolhido iniciarão seu Journey",
-      "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다"
+      "ko": "선택한 세그먼트의 사용자가 저니를 시작합니다",
+      "fr": "Les utilisateurs du segment choisi commenceront votre Journey"
     },
     "Zoom In": {
       "ja": "拡大",
@@ -7314,13 +7351,15 @@
       "ja": "ユーザーはジャーニー全体を通過したときに退出します。",
       "es": "Los usuarios salen cuando han pasado por todo el Journey.",
       "pt": "Os usuários saem quando passaram por todo o Journey.",
-      "ko": "사용자는 전체 저니를 통과하면 종료됩니다."
+      "ko": "사용자는 전체 저니를 통과하면 종료됩니다.",
+      "fr": "Les utilisateurs sortent lorsqu'ils ont parcouru tout le Journey."
     },
     "Users exit when they match the rules you have set on a particular segment or condition.": {
       "ja": "ユーザーは特定のセグメントまたは条件に設定したルールに一致したときに退出します。",
       "es": "Los usuarios salen cuando coinciden con las reglas que has establecido en un segmento o condición particular.",
       "pt": "Os usuários saem quando correspondem às regras que você definiu em um segmento ou condição específica.",
-      "ko": "사용자는 특정 세그먼트 또는 조건에 설정한 규칙과 일치하면 종료됩니다."
+      "ko": "사용자는 특정 세그먼트 또는 조건에 설정한 규칙과 일치하면 종료됩니다.",
+      "fr": "Les utilisateurs sortent lorsqu'ils correspondent aux règles que vous avez définies sur un segment ou une condition particulière."
     },
     "When should users exit this Journey?": {
       "ja": "ユーザーはいつこのジャーニーを退出すべきですか？",
@@ -7979,19 +8018,22 @@
       "ja": "緊急 (音なし)",
       "es": "Urgente sin sonido",
       "pt": "Urgente sem som",
-      "ko": "긴급 무음"
+      "ko": "긴급 무음",
+      "fr": "Urgent sans son"
     },
     "Urgent priority": {
       "ja": "緊急優先度",
       "es": "Prioridad urgente",
       "pt": "Prioridade urgente",
-      "ko": "긴급 우선순위"
+      "ko": "긴급 우선순위",
+      "fr": "Priorité urgente"
     },
     "Value 1": {
       "ja": "値 1",
       "es": "Valor 1",
       "pt": "Valor 1",
-      "ko": "값 1"
+      "ko": "값 1",
+      "fr": "Valeur 1"
     },
     "Web Push Topic": {
       "ja": "Webプッシュトピック",
@@ -8213,13 +8255,15 @@
       "ja": "ユーザータグ",
       "es": "Etiqueta de usuario",
       "pt": "Tag de usuário",
-      "ko": "사용자 태그"
+      "ko": "사용자 태그",
+      "fr": "Tag utilisateur"
     },
     "Version of your app": {
       "ja": "あなたのアプリのバージョン",
       "es": "Versión de tu app",
       "pt": "Versão do seu app",
-      "ko": "앱 버전"
+      "ko": "앱 버전",
+      "fr": "Version de votre app"
     },
     "hours ago": {
       "ja": "時間前",
@@ -8499,7 +8543,8 @@
       "ja": "アップロード",
       "es": "Cargar",
       "pt": "Enviar",
-      "ko": "업로드"
+      "ko": "업로드",
+      "fr": "Téléverser"
     },
     "Contact us": {
       "ja": "お問い合わせ",
@@ -8752,7 +8797,8 @@
       "ja": "お探しのテンプレートが見つかりませんでした。",
       "es": "No pudimos encontrar la plantilla que estabas buscando.",
       "pt": "Não conseguimos encontrar o modelo que você estava procurando.",
-      "ko": "찾으시는 템플릿을 찾을 수 없습니다."
+      "ko": "찾으시는 템플릿을 찾을 수 없습니다.",
+      "fr": "Nous n'avons pas trouvé le modèle que vous cherchiez."
     },
     "template index": {
       "ja": "テンプレート一覧",
@@ -8986,13 +9032,15 @@
       "ja": "ユーザーはどのジャーニーにも参加していません",
       "es": "El usuario no ha estado en ningún Journey",
       "pt": "O usuário não esteve em nenhum Journey",
-      "ko": "사용자가 어떤 저니에도 참여하지 않았습니다"
+      "ko": "사용자가 어떤 저니에도 참여하지 않았습니다",
+      "fr": "L'utilisateur n'a été dans aucun Journey"
     },
     "View all": {
       "ja": "すべて表示",
       "es": "Ver todo",
       "pt": "Ver tudo",
-      "ko": "전체 보기"
+      "ko": "전체 보기",
+      "fr": "Tout voir"
     },
     "Override frequency capping settings (": {
       "ja": "頻度制限設定を上書き (",
@@ -9261,7 +9309,8 @@
       "ja": "ユーザーアクション",
       "es": "Acción del usuario",
       "pt": "Ação do usuário",
-      "ko": "사용자 작업"
+      "ko": "사용자 작업",
+      "fr": "Action de l'utilisateur"
     },
     "Disable App": {
       "ja": "アプリを無効化",
@@ -9824,7 +9873,8 @@
       "ja": "更新日時",
       "es": "Actualizado el",
       "pt": "Atualizado em",
-      "ko": "업데이트 시간"
+      "ko": "업데이트 시간",
+      "fr": "Mis à jour le"
     },
     "Frequency Capping": {
       "ja": "頻度制限",
