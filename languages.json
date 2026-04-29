@@ -914,7 +914,7 @@
     },
     "Disable": {
       "es": "Deshabilitar",
-      "ja": "無効にする",
+      "ja": "無効化",
       "pt": "Desativar",
       "ko": "비활성화"
     },
@@ -1016,7 +1016,7 @@
     },
     "Enable": {
       "es": "Habilitar",
-      "ja": "有効にする",
+      "ja": "有効化",
       "pt": "Ativar",
       "ko": "활성화"
     },
@@ -3146,7 +3146,7 @@
     },
     "Unpublish": {
       "es": "Despublicar",
-      "ja": "非公開にする",
+      "ja": "非公開化",
       "pt": "Cancelar publicação",
       "ko": "게시 취소"
     },
@@ -3433,7 +3433,7 @@
       "ko": "인앱 메시지"
     },
     "Add your users & subscriptions": {
-      "ja": "ユーザーと購読を追加する",
+      "ja": "ユーザーと購読を追加",
       "es": "Agrega tus usuarios y suscripciones",
       "pt": "Adicione seus usuários e assinaturas",
       "ko": "사용자 및 구독 추가"
@@ -3727,19 +3727,19 @@
       "ko": "또는 API를 사용하여 이벤트 전송 시작"
     },
     "Authenticate domain": {
-      "ja": "ドメインを認証する",
+      "ja": "ドメインを認証",
       "es": "Autenticar dominio",
       "pt": "Autenticar domínio",
       "ko": "도메인 인증"
     },
     "Verify account": {
-      "ja": "アカウントを確認する",
+      "ja": "アカウントを確認",
       "es": "Verificar cuenta",
       "pt": "Verificar conta",
       "ko": "계정 확인"
     },
     "Create sender": {
-      "ja": "送信者を作成する",
+      "ja": "送信者を作成",
       "es": "Crear remitente",
       "pt": "Criar remetente",
       "ko": "발신자 만들기"
@@ -3799,7 +3799,7 @@
       "ko": "사용자에게 매력적인 이메일을 보내세요. 먼저 테스트 이메일을 발송하여 작동 방식을 확인하세요."
     },
     "Send with confidence": {
-      "ja": "自信を持って送信する",
+      "ja": "自信を持って送信",
       "es": "Envía con confianza",
       "pt": "Envie com confiança",
       "ko": "자신 있게 발송하세요"
@@ -3985,7 +3985,7 @@
       "ko": "캠페인 전체의 전달률을 모니터링하세요"
     },
     "Keep an eye on what's ahead": {
-      "ja": "今後の予定を確認する",
+      "ja": "今後の予定を確認",
       "es": "Mantén un ojo en lo que viene",
       "pt": "Fique de olho no que está por vir",
       "ko": "앞으로 있을 일을 주시하세요"
@@ -4093,13 +4093,13 @@
       "ko": "사용자 목록 내보내기"
     },
     "Integrate SDK": {
-      "ja": "SDKを統合する",
+      "ja": "SDKを統合",
       "es": "Integrar SDK",
       "pt": "Integrar SDK",
       "ko": "SDK 통합"
     },
     "Know your users": {
-      "ja": "ユーザーを把握する",
+      "ja": "ユーザーを把握",
       "es": "Conoce a tus usuarios",
       "pt": "Conheça seus usuários",
       "ko": "사용자를 파악하세요"
@@ -4177,7 +4177,7 @@
       "ko": "구독 문서"
     },
     "Understand your audience": {
-      "ja": "オーディエンスを理解する",
+      "ja": "オーディエンスを理解",
       "es": "Entiende a tu audiencia",
       "pt": "Entenda seu público",
       "ko": "대상을 이해하세요"
@@ -4189,7 +4189,7 @@
       "ko": "최근 활동 및 기본 설정 보기"
     },
     "Add Test Subscriptions": {
-      "ja": "テスト購読を追加する",
+      "ja": "テスト購読を追加",
       "es": "Agregar suscripciones de prueba",
       "pt": "Adicionar assinaturas de teste",
       "ko": "테스트 구독 추가"
@@ -4237,13 +4237,13 @@
       "ko": "라이브 액티비티 문서"
     },
     "Book a demo": {
-      "ja": "デモを予約する",
+      "ja": "デモを予約",
       "es": "Reservar una demo",
       "pt": "Agendar uma demonstração",
       "ko": "데모 예약"
     },
     "Book a live demo": {
-      "ja": "ライブデモを予約する",
+      "ja": "ライブデモを予約",
       "es": "Reservar una demo en vivo",
       "pt": "Agendar uma demonstração ao vivo",
       "ko": "라이브 데모 예약"
@@ -4261,13 +4261,13 @@
       "ko": "Figma에서 RCS 디자인"
     },
     "Discover RCS": {
-      "ja": "RCSを発見する",
+      "ja": "RCSを知る",
       "es": "Descubrir RCS",
       "pt": "Descobrir o RCS",
       "ko": "RCS 알아보기"
     },
     "Discover what RCS can do": {
-      "ja": "RCSでできることを発見する",
+      "ja": "RCSでできることを確認",
       "es": "Descubre qué puede hacer RCS",
       "pt": "Descubra o que o RCS pode fazer",
       "ko": "RCS가 할 수 있는 것 알아보기"
