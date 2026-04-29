@@ -8813,350 +8813,400 @@
       "es": "5 por minuto",
       "pt": "5 por minuto",
       "ko": "분당 5건",
-      "fr": "5 par minute"
+      "fr": "5 par minute",
+      "tr": "Dakikada 5"
     },
     "Accent Color": {
       "ja": "アクセントカラー",
       "es": "Color de acento",
       "pt": "Cor de destaque",
       "ko": "강조 색상",
-      "fr": "Couleur d'accentuation"
+      "fr": "Couleur d'accentuation",
+      "tr": "Vurgu rengi"
     },
     "Action Icon Path 1": {
       "ja": "アクションアイコンパス 1",
       "es": "Ruta del icono de acción 1",
       "pt": "Caminho do ícone de ação 1",
       "ko": "액션 아이콘 경로 1",
-      "fr": "Chemin de l'icône d'action 1"
+      "fr": "Chemin de l'icône d'action 1",
+      "tr": "Eylem simgesi yolu 1"
     },
     "Add Field": {
       "ja": "フィールドを追加",
       "es": "Agregar campo",
       "pt": "Adicionar campo",
       "ko": "필드 추가",
-      "fr": "Ajouter un champ"
+      "fr": "Ajouter un champ",
+      "tr": "Alan ekle"
     },
     "Add Languages": {
       "ja": "言語を追加",
       "es": "Agregar idiomas",
       "pt": "Adicionar idiomas",
       "ko": "언어 추가",
-      "fr": "Ajouter des langues"
+      "fr": "Ajouter des langues",
+      "tr": "Dil ekle"
     },
     "Begin typing to try our new AI refine feature": {
       "ja": "新しいAI洗練機能を試すには入力を開始してください",
       "es": "Empieza a escribir para probar nuestra nueva función de refinamiento con IA",
       "pt": "Comece a digitar para experimentar nosso novo recurso de refinamento de IA",
       "ko": "새로운 AI 다듬기 기능을 사용해보려면 입력을 시작하세요",
-      "fr": "Commencez à taper pour essayer notre nouvelle fonction d'amélioration IA"
+      "fr": "Commencez à taper pour essayer notre nouvelle fonction d'amélioration IA",
+      "tr": "Yeni AI iyileştirme özelliğimizi denemek için yazmaya başlayın"
     },
     "Big Picture": {
       "ja": "ビッグピクチャー",
       "es": "Imagen grande",
       "pt": "Imagem grande",
       "ko": "큰 그림",
-      "fr": "Grande image"
+      "fr": "Grande image",
+      "tr": "Büyük resim"
     },
     "Chrome Action Buttons": {
       "ja": "Chromeアクションボタン",
       "es": "Botones de acción de Chrome",
       "pt": "Botões de ação do Chrome",
       "ko": "Chrome 액션 버튼",
-      "fr": "Boutons d'action Chrome"
+      "fr": "Boutons d'action Chrome",
+      "tr": "Chrome eylem düğmeleri"
     },
     "Collapse ID": {
       "ja": "折りたたみID",
       "es": "ID de colapso",
       "pt": "ID de recolhimento",
       "ko": "접기 ID",
-      "fr": "ID de regroupement"
+      "fr": "ID de regroupement",
+      "tr": "Daraltma ID"
     },
     "Content available": {
       "ja": "コンテンツ利用可能",
       "es": "Contenido disponible",
       "pt": "Conteúdo disponível",
       "ko": "콘텐츠 사용 가능",
-      "fr": "Contenu disponible"
+      "fr": "Contenu disponible",
+      "tr": "İçerik mevcut"
     },
     "Critical": {
       "ja": "クリティカル",
       "es": "Crítico",
       "pt": "Crítico",
       "ko": "중요",
-      "fr": "Critique"
+      "fr": "Critique",
+      "tr": "Kritik"
     },
     "Default is a bell icon (resource name)": {
       "ja": "デフォルトはベルアイコン（リソース名）",
       "es": "El predeterminado es un icono de campana (nombre de recurso)",
       "pt": "O padrão é um ícone de sino (nome do recurso)",
       "ko": "기본값은 종 아이콘 (리소스 이름)",
-      "fr": "Par défaut, icône de cloche (nom de ressource)"
+      "fr": "Par défaut, icône de cloche (nom de ressource)",
+      "tr": "Varsayılan zil simgesidir (kaynak adı)"
     },
     "Default is device's default": {
       "ja": "デフォルトはデバイスの既定値",
       "es": "El predeterminado es el predeterminado del dispositivo",
       "pt": "O padrão é o padrão do dispositivo",
       "ko": "기본값은 기기의 기본값",
-      "fr": "Par défaut, paramètre par défaut de l'appareil"
+      "fr": "Par défaut, paramètre par défaut de l'appareil",
+      "tr": "Varsayılan, cihazın varsayılanıdır"
     },
     "Different URL for web/app": {
       "ja": "ウェブ/アプリで異なるURL",
       "es": "URL diferente para web/aplicación",
       "pt": "URL diferente para web/app",
       "ko": "웹/앱용 다른 URL",
-      "fr": "URL différente pour web/app"
+      "fr": "URL différente pour web/app",
+      "tr": "Web/uygulama için farklı URL"
     },
     "Device's default (filename.extension)": {
       "ja": "デバイスの既定値 (ファイル名.拡張子)",
       "es": "El predeterminado del dispositivo (nombredearchivo.extensión)",
       "pt": "O padrão do dispositivo (nomedoarquivo.extensão)",
       "ko": "기기의 기본값 (파일명.확장자)",
-      "fr": "Par défaut de l'appareil (nomdefichier.extension)"
+      "fr": "Par défaut de l'appareil (nomdefichier.extension)",
+      "tr": "Cihazın varsayılanı (dosyaadı.uzantı)"
     },
     "Don't set": {
       "ja": "設定しない",
       "es": "No establecer",
       "pt": "Não definir",
       "ko": "설정하지 않음",
-      "fr": "Ne pas définir"
+      "fr": "Ne pas définir",
+      "tr": "Ayarlama"
     },
     "Field 1": {
       "ja": "フィールド 1",
       "es": "Campo 1",
       "pt": "Campo 1",
       "ko": "필드 1",
-      "fr": "Champ 1"
+      "fr": "Champ 1",
+      "tr": "Alan 1"
     },
     "Global image upload input": {
       "ja": "グローバル画像アップロード入力",
       "es": "Entrada de carga de imagen global",
       "pt": "Entrada de upload de imagem global",
       "ko": "글로벌 이미지 업로드 입력",
-      "fr": "Entrée globale de téléversement d'image"
+      "fr": "Entrée globale de téléversement d'image",
+      "tr": "Genel görsel yükleme girişi"
     },
     "Group Key": {
       "ja": "グループキー",
       "es": "Clave de grupo",
       "pt": "Chave do grupo",
       "ko": "그룹 키",
-      "fr": "Clé de groupe"
+      "fr": "Clé de groupe",
+      "tr": "Grup anahtarı"
     },
     "High": {
       "ja": "高",
       "es": "Alta",
       "pt": "Alta",
       "ko": "높음",
-      "fr": "Élevée"
+      "fr": "Élevée",
+      "tr": "Yüksek"
     },
     "High importance": {
       "ja": "高い重要度",
       "es": "Alta importancia",
       "pt": "Alta importância",
       "ko": "높은 중요도",
-      "fr": "Importance élevée"
+      "fr": "Importance élevée",
+      "tr": "Yüksek önem"
     },
     "Icon URL 1": {
       "ja": "アイコンURL 1",
       "es": "URL del icono 1",
       "pt": "URL do ícone 1",
       "ko": "아이콘 URL 1",
-      "fr": "URL de l'icône 1"
+      "fr": "URL de l'icône 1",
+      "tr": "Simge URL 1"
     },
     "Increase by": {
       "ja": "増分",
       "es": "Aumentar en",
       "pt": "Aumentar em",
       "ko": "증가시킬 양",
-      "fr": "Augmenter de"
+      "fr": "Augmenter de",
+      "tr": "Şu kadar artır:"
     },
     "LED Color": {
       "ja": "LEDの色",
       "es": "Color del LED",
       "pt": "Cor do LED",
       "ko": "LED 색상",
-      "fr": "Couleur de la LED"
+      "fr": "Couleur de la LED",
+      "tr": "LED rengi"
     },
     "Large Icon": {
       "ja": "大きいアイコン",
       "es": "Icono grande",
       "pt": "Ícone grande",
       "ko": "큰 아이콘",
-      "fr": "Grande icône"
+      "fr": "Grande icône",
+      "tr": "Büyük simge"
     },
     "Launch URL 1": {
       "ja": "起動URL 1",
       "es": "URL de lanzamiento 1",
       "pt": "URL de lançamento 1",
       "ko": "실행 URL 1",
-      "fr": "URL de lancement 1"
+      "fr": "URL de lancement 1",
+      "tr": "Başlatma URL'si 1"
     },
     "Media": {
       "ja": "メディア",
       "es": "Medios",
       "pt": "Mídia",
       "ko": "미디어",
-      "fr": "Média"
+      "fr": "Média",
+      "tr": "Medya"
     },
     "Message (Any/English)": {
       "ja": "メッセージ (Any/英語)",
       "es": "Mensaje (cualquiera/inglés)",
       "pt": "Mensagem (qualquer/inglês)",
       "ko": "메시지 (Any/영어)",
-      "fr": "Message (Tout/Anglais)"
+      "fr": "Message (Tout/Anglais)",
+      "tr": "Mesaj (Tümü/İngilizce)"
     },
     "Message input": {
       "ja": "メッセージ入力",
       "es": "Entrada del mensaje",
       "pt": "Entrada da mensagem",
       "ko": "메시지 입력",
-      "fr": "Saisie du message"
+      "fr": "Saisie du message",
+      "tr": "Mesaj girişi"
     },
     "None": {
       "ja": "なし",
       "es": "Ninguno",
       "pt": "Nenhum",
       "ko": "없음",
-      "fr": "Aucun"
+      "fr": "Aucun",
+      "tr": "Yok"
     },
     "Notification Interruption Level": {
       "ja": "通知の割り込みレベル",
       "es": "Nivel de interrupción de la notificación",
       "pt": "Nível de interrupção da notificação",
       "ko": "알림 중단 수준",
-      "fr": "Niveau d'interruption de la notification"
+      "fr": "Niveau d'interruption de la notification",
+      "tr": "Bildirim kesinti düzeyi"
     },
     "Passive": {
       "ja": "パッシブ",
       "es": "Pasivo",
       "pt": "Passivo",
       "ko": "수동",
-      "fr": "Passif"
+      "fr": "Passif",
+      "tr": "Pasif"
     },
     "Private": {
       "ja": "非公開",
       "es": "Privado",
       "pt": "Privado",
       "ko": "비공개",
-      "fr": "Privé"
+      "fr": "Privé",
+      "tr": "Özel"
     },
     "Public": {
       "ja": "公開",
       "es": "Público",
       "pt": "Público",
       "ko": "공개",
-      "fr": "Public"
+      "fr": "Public",
+      "tr": "Genel"
     },
     "Remove Field 1": {
       "ja": "フィールド1を削除",
       "es": "Quitar campo 1",
       "pt": "Remover campo 1",
       "ko": "필드 1 제거",
-      "fr": "Retirer le champ 1"
+      "fr": "Retirer le champ 1",
+      "tr": "Alan 1'i kaldır"
     },
     "Review and Send": {
       "ja": "確認して送信",
       "es": "Revisar y enviar",
       "pt": "Revisar e enviar",
       "ko": "검토 후 발송",
-      "fr": "Vérifier et envoyer"
+      "fr": "Vérifier et envoyer",
+      "tr": "İncele ve gönder"
     },
     "Select media": {
       "ja": "メディアを選択",
       "es": "Seleccionar medios",
       "pt": "Selecionar mídia",
       "ko": "미디어 선택",
-      "fr": "Sélectionner un média"
+      "fr": "Sélectionner un média",
+      "tr": "Medya seç"
     },
     "Send to": {
       "ja": "送信先",
       "es": "Enviar a",
       "pt": "Enviar para",
       "ko": "발송 대상",
-      "fr": "Envoyer à"
+      "fr": "Envoyer à",
+      "tr": "Şuna gönder:"
     },
     "Send to Apple Web": {
       "ja": "Apple Webに送信",
       "es": "Enviar a Apple Web",
       "pt": "Enviar para Apple Web",
       "ko": "Apple Web에 발송",
-      "fr": "Envoyer vers Apple Web"
+      "fr": "Envoyer vers Apple Web",
+      "tr": "Apple Web'e gönder"
     },
     "Send to Apple iOS": {
       "ja": "Apple iOSに送信",
       "es": "Enviar a Apple iOS",
       "pt": "Enviar para Apple iOS",
       "ko": "Apple iOS에 발송",
-      "fr": "Envoyer vers Apple iOS"
+      "fr": "Envoyer vers Apple iOS",
+      "tr": "Apple iOS'a gönder"
     },
     "Send to Edge": {
       "ja": "Edgeに送信",
       "es": "Enviar a Edge",
       "pt": "Enviar para Edge",
       "ko": "Edge에 발송",
-      "fr": "Envoyer vers Edge"
+      "fr": "Envoyer vers Edge",
+      "tr": "Edge'e gönder"
     },
     "Send to Google Android": {
       "ja": "Google Androidに送信",
       "es": "Enviar a Google Android",
       "pt": "Enviar para Google Android",
       "ko": "Google Android에 발송",
-      "fr": "Envoyer vers Google Android"
+      "fr": "Envoyer vers Google Android",
+      "tr": "Google Android'e gönder"
     },
     "Send to Google Chrome": {
       "ja": "Google Chromeに送信",
       "es": "Enviar a Google Chrome",
       "pt": "Enviar para Google Chrome",
       "ko": "Google Chrome에 발송",
-      "fr": "Envoyer vers Google Chrome"
+      "fr": "Envoyer vers Google Chrome",
+      "tr": "Google Chrome'a gönder"
     },
     "Send to Mozilla Firefox": {
       "ja": "Mozilla Firefoxに送信",
       "es": "Enviar a Mozilla Firefox",
       "pt": "Enviar para Mozilla Firefox",
       "ko": "Mozilla Firefox에 발송",
-      "fr": "Envoyer vers Mozilla Firefox"
+      "fr": "Envoyer vers Mozilla Firefox",
+      "tr": "Mozilla Firefox'a gönder"
     },
     "Send to Windows": {
       "ja": "Windowsに送信",
       "es": "Enviar a Windows",
       "pt": "Enviar para Windows",
       "ko": "Windows에 발송",
-      "fr": "Envoyer vers Windows"
+      "fr": "Envoyer vers Windows",
+      "tr": "Windows'a gönder"
     },
     "Send to particular segment(s)": {
       "ja": "特定のセグメントに送信",
       "es": "Enviar a segmento(s) específico(s)",
       "pt": "Enviar a segmento(s) específico(s)",
       "ko": "특정 세그먼트에 발송",
-      "fr": "Envoyer à des segments spécifiques"
+      "fr": "Envoyer à des segments spécifiques",
+      "tr": "Belirli segment(ler)e gönder"
     },
     "Set to": {
       "ja": "設定:",
       "es": "Establecer en",
       "pt": "Definir como",
       "ko": "설정값",
-      "fr": "Définir sur"
+      "fr": "Définir sur",
+      "tr": "Şuna ayarla:"
     },
     "Small Icon": {
       "ja": "小さいアイコン",
       "es": "Icono pequeño",
       "pt": "Ícone pequeno",
       "ko": "작은 아이콘",
-      "fr": "Petite icône"
+      "fr": "Petite icône",
+      "tr": "Küçük simge"
     },
     "Subtitle (Any/English)": {
       "ja": "サブタイトル (Any/英語)",
       "es": "Subtítulo (cualquiera/inglés)",
       "pt": "Subtítulo (qualquer/inglês)",
       "ko": "부제목 (Any/영어)",
-      "fr": "Sous-titre (Tout/Anglais)"
+      "fr": "Sous-titre (Tout/Anglais)",
+      "tr": "Alt başlık (Tümü/İngilizce)"
     },
     "Subtitle input": {
       "ja": "サブタイトル入力",
       "es": "Entrada del subtítulo",
       "pt": "Entrada do subtítulo",
       "ko": "부제목 입력",
-      "fr": "Saisie du sous-titre"
+      "fr": "Saisie du sous-titre",
+      "tr": "Alt başlık girişi"
     },
     "System Icon": {
       "ja": "システムアイコン",
