@@ -1213,350 +1213,400 @@
       "ja": "ダイレクト",
       "pt": "Direto",
       "ko": "직접",
-      "fr": "Direct"
+      "fr": "Direct",
+      "tr": "Doğrudan"
     },
     "Disable": {
       "es": "Deshabilitar",
       "ja": "無効化",
       "pt": "Desativar",
       "ko": "비활성화",
-      "fr": "Désactiver"
+      "fr": "Désactiver",
+      "tr": "Devre dışı bırak"
     },
     "Disabled": {
       "es": "Deshabilitado",
       "ja": "無効",
       "pt": "Desativado",
       "ko": "비활성화됨",
-      "fr": "Désactivé"
+      "fr": "Désactivé",
+      "tr": "Devre dışı"
     },
     "Discard": {
       "es": "Descartar",
       "ja": "破棄",
       "pt": "Descartar",
       "ko": "취소",
-      "fr": "Abandonner"
+      "fr": "Abandonner",
+      "tr": "Vazgeç"
     },
     "Disconnected": {
       "es": "Desconectado",
       "ja": "未接続",
       "pt": "Desconectado",
       "ko": "연결 해제됨",
-      "fr": "Déconnecté"
+      "fr": "Déconnecté",
+      "tr": "Bağlantı kesildi"
     },
     "Documentation": {
       "es": "Documentación",
       "ja": "ドキュメント",
       "pt": "Documentação",
       "ko": "문서",
-      "fr": "Documentation"
+      "fr": "Documentation",
+      "tr": "Dokümantasyon"
     },
     "does not contain": {
       "es": "no contiene",
       "ja": "含まない",
       "pt": "não contém",
       "ko": "포함하지 않음",
-      "fr": "ne contient pas"
+      "fr": "ne contient pas",
+      "tr": "içermez"
     },
     "Done": {
       "es": "Listo",
       "ja": "完了",
       "pt": "Concluído",
       "ko": "완료",
-      "fr": "Terminé"
+      "fr": "Terminé",
+      "tr": "Tamam"
     },
     "Draft": {
       "es": "Borrador",
       "ja": "下書き",
       "pt": "Rascunho",
       "ko": "초안",
-      "fr": "Brouillon"
+      "fr": "Brouillon",
+      "tr": "Taslak"
     },
     "Drafts": {
       "es": "Borradores",
       "ja": "下書き一覧",
       "pt": "Rascunhos",
       "ko": "초안",
-      "fr": "Brouillons"
+      "fr": "Brouillons",
+      "tr": "Taslaklar"
     },
     "Duplicate": {
       "es": "Duplicar",
       "ja": "複製",
       "pt": "Duplicar",
       "ko": "복제",
-      "fr": "Dupliquer"
+      "fr": "Dupliquer",
+      "tr": "Çoğalt"
     },
     "Edit": {
       "es": "Editar",
       "ja": "編集",
       "pt": "Editar",
       "ko": "편집",
-      "fr": "Modifier"
+      "fr": "Modifier",
+      "tr": "Düzenle"
     },
     "Edit Segment": {
       "es": "Editar segmento",
       "ja": "セグメントを編集",
       "pt": "Editar segmento",
       "ko": "세그먼트 편집",
-      "fr": "Modifier le segment"
+      "fr": "Modifier le segment",
+      "tr": "Segmenti düzenle"
     },
     "Edit Template": {
       "es": "Editar plantilla",
       "ja": "テンプレートを編集",
       "pt": "Editar modelo",
       "ko": "템플릿 편집",
-      "fr": "Modifier le modèle"
+      "fr": "Modifier le modèle",
+      "tr": "Şablonu düzenle"
     },
     "Educate your users on how to maximize their value from your product.": {
       "es": "Educa a tus usuarios sobre cómo maximizar el valor de tu producto.",
       "ja": "製品から最大の価値を引き出す方法をユーザーに伝えます。",
       "pt": "Eduque seus usuários sobre como obter o máximo valor do seu produto.",
       "ko": "사용자가 제품에서 최대한의 가치를 얻을 수 있도록 교육하세요.",
-      "fr": "Apprenez à vos utilisateurs à tirer le meilleur parti de votre produit."
+      "fr": "Apprenez à vos utilisateurs à tirer le meilleur parti de votre produit.",
+      "tr": "Kullanıcılarınıza ürününüzden maksimum değeri nasıl alacaklarını öğretin."
     },
     "Email": {
       "es": "Email",
       "ja": "メール",
       "pt": "Email",
       "ko": "이메일",
-      "fr": "Email"
+      "fr": "Email",
+      "tr": "Email"
     },
     "Email Address": {
       "es": "Dirección de email",
       "ja": "メールアドレス",
       "pt": "Endereço de email",
       "ko": "이메일 주소",
-      "fr": "Adresse email"
+      "fr": "Adresse email",
+      "tr": "Email adresi"
     },
     "Email Settings": {
       "es": "Configuración de email",
       "ja": "メール設定",
       "pt": "Configurações de email",
       "ko": "이메일 설정",
-      "fr": "Paramètres email"
+      "fr": "Paramètres email",
+      "tr": "Email ayarları"
     },
     "Enable": {
       "es": "Habilitar",
       "ja": "有効化",
       "pt": "Ativar",
       "ko": "활성화",
-      "fr": "Activer"
+      "fr": "Activer",
+      "tr": "Etkinleştir"
     },
     "End": {
       "es": "Fin",
       "ja": "終了",
       "pt": "Fim",
       "ko": "종료",
-      "fr": "Fin"
+      "fr": "Fin",
+      "tr": "Son"
     },
     "Engage recently active contacts": {
       "es": "Contacta a usuarios activos recientemente",
       "ja": "最近アクティブなコンタクトにエンゲージ",
       "pt": "Engaje contatos recentemente ativos",
       "ko": "최근 활동한 연락처와 소통하세요",
-      "fr": "Engagez les contacts récemment actifs"
+      "fr": "Engagez les contacts récemment actifs",
+      "tr": "Yakın zamanda aktif olan kişilerle etkileşime geçin"
     },
     "Engagement trends": {
       "es": "Tendencias de participación",
       "ja": "エンゲージメント推移",
       "pt": "Tendências de engajamento",
       "ko": "참여 트렌드",
-      "fr": "Tendances d'engagement"
+      "fr": "Tendances d'engagement",
+      "tr": "Etkileşim eğilimleri"
     },
     "Error": {
       "es": "Error",
       "ja": "エラー",
       "pt": "Erro",
       "ko": "오류",
-      "fr": "Erreur"
+      "fr": "Erreur",
+      "tr": "Hata"
     },
     "Errored": {
       "es": "Con error",
       "ja": "エラー発生",
       "pt": "Com erro",
       "ko": "오류 발생",
-      "fr": "En erreur"
+      "fr": "En erreur",
+      "tr": "Hata oluştu"
     },
     "Event Activity": {
       "es": "Actividad de eventos",
       "ja": "イベントアクティビティ",
       "pt": "Atividade de eventos",
       "ko": "이벤트 활동",
-      "fr": "Activité des événements"
+      "fr": "Activité des événements",
+      "tr": "Etkinlik aktivitesi"
     },
     "Event List": {
       "es": "Lista de eventos",
       "ja": "イベントリスト",
       "pt": "Lista de eventos",
       "ko": "이벤트 목록",
-      "fr": "Liste des événements"
+      "fr": "Liste des événements",
+      "tr": "Etkinlik listesi"
     },
     "Event name": {
       "es": "Nombre del evento",
       "ja": "イベント名",
       "pt": "Nome do evento",
       "ko": "이벤트 이름",
-      "fr": "Nom de l'événement"
+      "fr": "Nom de l'événement",
+      "tr": "Etkinlik adı"
     },
     "Event Stream": {
       "es": "Flujo de eventos",
       "ja": "イベントストリーム",
       "pt": "Fluxo de eventos",
       "ko": "이벤트 스트림",
-      "fr": "Flux d'événements"
+      "fr": "Flux d'événements",
+      "tr": "Etkinlik akışı"
     },
     "Event Streams": {
       "es": "Flujos de eventos",
       "ja": "イベントストリーム",
       "pt": "Fluxos de eventos",
       "ko": "이벤트 스트림",
-      "fr": "Flux d'événements"
+      "fr": "Flux d'événements",
+      "tr": "Etkinlik akışları"
     },
     "Exclude Segments": {
       "es": "Excluir segmentos",
       "ja": "セグメントを除外",
       "pt": "Excluir segmentos",
       "ko": "세그먼트 제외",
-      "fr": "Exclure les segments"
+      "fr": "Exclure les segments",
+      "tr": "Segmentleri hariç tut"
     },
     "exists": {
       "es": "existe",
       "ja": "存在する",
       "pt": "existe",
       "ko": "존재함",
-      "fr": "existe"
+      "fr": "existe",
+      "tr": "var"
     },
     "Expand row": {
       "es": "Expandir fila",
       "ja": "行を展開",
       "pt": "Expandir linha",
       "ko": "행 확장",
-      "fr": "Développer la ligne"
+      "fr": "Développer la ligne",
+      "tr": "Satırı genişlet"
     },
     "Export": {
       "es": "Exportar",
       "ja": "エクスポート",
       "pt": "Exportar",
       "ko": "내보내기",
-      "fr": "Exporter"
+      "fr": "Exporter",
+      "tr": "Dışa aktar"
     },
     "Exported Events": {
       "es": "Eventos exportados",
       "ja": "エクスポートイベント数",
       "pt": "Eventos exportados",
       "ko": "내보낸 이벤트",
-      "fr": "Événements exportés"
+      "fr": "Événements exportés",
+      "tr": "Dışa aktarılan etkinlikler"
     },
     "External ID": {
       "es": "ID externo",
       "ja": "外部ID",
       "pt": "ID externo",
       "ko": "외부 ID",
-      "fr": "ID externe"
+      "fr": "ID externe",
+      "tr": "Harici ID"
     },
     "Failed": {
       "es": "Fallido",
       "ja": "失敗",
       "pt": "Com falha",
       "ko": "실패됨",
-      "fr": "Échoué"
+      "fr": "Échoué",
+      "tr": "Başarısız"
     },
     "Failed Events": {
       "es": "Eventos fallidos",
       "ja": "失敗イベント",
       "pt": "Eventos com falha",
       "ko": "실패된 이벤트",
-      "fr": "Événements échoués"
+      "fr": "Événements échoués",
+      "tr": "Başarısız etkinlikler"
     },
     "Failed Updates": {
       "es": "Actualizaciones fallidas",
       "ja": "失敗した更新",
       "pt": "Atualizações com falha",
       "ko": "실패된 업데이트",
-      "fr": "Mises à jour échouées"
+      "fr": "Mises à jour échouées",
+      "tr": "Başarısız güncellemeler"
     },
     "false": {
       "es": "falso",
       "ja": "いいえ",
       "pt": "falso",
       "ko": "거짓",
-      "fr": "faux"
+      "fr": "faux",
+      "tr": "yanlış"
     },
     "Feb": {
       "es": "feb",
       "ja": "2月",
       "pt": "fev",
       "ko": "2월",
-      "fr": "fév"
+      "fr": "fév",
+      "tr": "şub"
     },
     "February": {
       "es": "febrero",
       "ja": "2月",
       "pt": "fevereiro",
       "ko": "2월",
-      "fr": "février"
+      "fr": "février",
+      "tr": "şubat"
     },
     "Filter": {
       "es": "Filtro",
       "ja": "フィルター",
       "pt": "Filtro",
       "ko": "필터",
-      "fr": "Filtre"
+      "fr": "Filtre",
+      "tr": "Filtre"
     },
     "Filters": {
       "es": "Filtros",
       "ja": "フィルター",
       "pt": "Filtros",
       "ko": "필터",
-      "fr": "Filtres"
+      "fr": "Filtres",
+      "tr": "Filtreler"
     },
     "Firefox": {
       "es": "Firefox",
       "ja": "Firefox",
       "pt": "Firefox",
       "ko": "파이어폭스",
-      "fr": "Firefox"
+      "fr": "Firefox",
+      "tr": "Firefox"
     },
     "First active": {
       "es": "Primera actividad",
       "ja": "初回アクティブ",
       "pt": "Primeira atividade",
       "ko": "첫 활성",
-      "fr": "Première activité"
+      "fr": "Première activité",
+      "tr": "İlk aktiflik"
     },
     "First Session": {
       "es": "Primera sesión",
       "ja": "初回セッション",
       "pt": "Primeira sessão",
       "ko": "첫 번째 세션",
-      "fr": "Première session"
+      "fr": "Première session",
+      "tr": "İlk oturum"
     },
     "First session": {
       "es": "Primera sesión",
       "ja": "初回セッション",
       "pt": "Primeira sessão",
       "ko": "첫 번째 세션",
-      "fr": "Première session"
+      "fr": "Première session",
+      "tr": "İlk oturum"
     },
     "First-time Audience": {
       "es": "Audiencia nueva",
       "ja": "初回オーディエンス",
       "pt": "Público novo",
       "ko": "신규 대상",
-      "fr": "Nouvelle audience"
+      "fr": "Nouvelle audience",
+      "tr": "Yeni hedef kitle"
     },
     "Fri": {
       "es": "Vie",
       "ja": "金",
       "pt": "Sex",
       "ko": "금",
-      "fr": "Ven"
+      "fr": "Ven",
+      "tr": "Cum"
     },
     "From Address": {
       "es": "Dirección del remitente",
       "ja": "送信元アドレス",
       "pt": "Endereço do remetente",
       "ko": "발신 주소",
-      "fr": "Adresse de l'expéditeur"
+      "fr": "Adresse de l'expéditeur",
+      "tr": "Gönderen adresi"
     },
     "From Name": {
       "es": "Nombre del remitente",
