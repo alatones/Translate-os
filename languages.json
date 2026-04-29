@@ -813,350 +813,400 @@
       "ja": "指定した国のアクティブオーディエンスに連絡",
       "pt": "Contate seu público ativo de um país específico",
       "ko": "특정 국가의 활성 대상에게 연락하세요",
-      "fr": "Contactez votre audience active d'un pays spécifique"
+      "fr": "Contactez votre audience active d'un pays spécifique",
+      "tr": "Belirli bir ülkedeki aktif hedef kitlenize ulaşın"
     },
     "contains": {
       "es": "contiene",
       "ja": "含む",
       "pt": "contém",
       "ko": "포함",
-      "fr": "contient"
+      "fr": "contient",
+      "tr": "içerir"
     },
     "Continue": {
       "es": "Continuar",
       "ja": "続ける",
       "pt": "Continuar",
       "ko": "계속",
-      "fr": "Continuer"
+      "fr": "Continuer",
+      "tr": "Devam et"
     },
     "Continue Setup": {
       "es": "Continuar configuración",
       "ja": "セットアップを続ける",
       "pt": "Continuar configuração",
       "ko": "설정 계속",
-      "fr": "Continuer la configuration"
+      "fr": "Continuer la configuration",
+      "tr": "Kuruluma devam et"
     },
     "Conversion": {
       "es": "Conversión",
       "ja": "コンバージョン",
       "pt": "Conversão",
       "ko": "전환",
-      "fr": "Conversion"
+      "fr": "Conversion",
+      "tr": "Dönüşüm"
     },
     "Copied to clipboard": {
       "es": "Copiado al portapapeles",
       "ja": "クリップボードにコピーしました",
       "pt": "Copiado para a área de transferência",
       "ko": "클립보드에 복사됨",
-      "fr": "Copié dans le presse-papiers"
+      "fr": "Copié dans le presse-papiers",
+      "tr": "Panoya kopyalandı"
     },
     "Copy": {
       "es": "Copiar",
       "ja": "コピー",
       "pt": "Copiar",
       "ko": "복사",
-      "fr": "Copier"
+      "fr": "Copier",
+      "tr": "Kopyala"
     },
     "Count": {
       "es": "Recuento",
       "ja": "カウント",
       "pt": "Contagem",
       "ko": "수",
-      "fr": "Nombre"
+      "fr": "Nombre",
+      "tr": "Sayı"
     },
     "Country": {
       "es": "País",
       "ja": "国",
       "pt": "País",
       "ko": "국가",
-      "fr": "Pays"
+      "fr": "Pays",
+      "tr": "Ülke"
     },
     "Create": {
       "es": "Crear",
       "ja": "作成",
       "pt": "Criar",
       "ko": "만들기",
-      "fr": "Créer"
+      "fr": "Créer",
+      "tr": "Oluştur"
     },
     "Create Segment": {
       "es": "Crear segmento",
       "ja": "セグメントを作成",
       "pt": "Criar segmento",
       "ko": "세그먼트 만들기",
-      "fr": "Créer un segment"
+      "fr": "Créer un segment",
+      "tr": "Segment oluştur"
     },
     "Create Template": {
       "es": "Crear plantilla",
       "ja": "テンプレートを作成",
       "pt": "Criar modelo",
       "ko": "템플릿 만들기",
-      "fr": "Créer un modèle"
+      "fr": "Créer un modèle",
+      "tr": "Şablon oluştur"
     },
     "Create...": {
       "es": "Crear...",
       "ja": "作成...",
       "pt": "Criar...",
       "ko": "만들기...",
-      "fr": "Créer..."
+      "fr": "Créer...",
+      "tr": "Oluştur..."
     },
     "Created": {
       "es": "Creado",
       "ja": "作成日",
       "pt": "Criado",
       "ko": "생성됨",
-      "fr": "Créé"
+      "fr": "Créé",
+      "tr": "Oluşturuldu"
     },
     "Created At": {
       "es": "Creado el",
       "ja": "作成日時",
       "pt": "Criado em",
       "ko": "생성일시",
-      "fr": "Créé le"
+      "fr": "Créé le",
+      "tr": "Oluşturulma tarihi"
     },
     "Created at": {
       "es": "Creado el",
       "ja": "作成日時",
       "pt": "Criado em",
       "ko": "생성일시",
-      "fr": "Créé le"
+      "fr": "Créé le",
+      "tr": "Oluşturulma tarihi"
     },
     "Created by": {
       "es": "Creado por",
       "ja": "作成者",
       "pt": "Criado por",
       "ko": "생성자",
-      "fr": "Créé par"
+      "fr": "Créé par",
+      "tr": "Oluşturan"
     },
     "CSV": {
       "es": "CSV",
       "ja": "CSV",
       "pt": "CSV",
       "ko": "CSV",
-      "fr": "CSV"
+      "fr": "CSV",
+      "tr": "CSV"
     },
     "CTR": {
       "es": "CTR",
       "ja": "CTR",
       "pt": "CTR",
       "ko": "CTR",
-      "fr": "CTR"
+      "fr": "CTR",
+      "tr": "CTR"
     },
     "Custom": {
       "es": "Personalizado",
       "ja": "カスタム",
       "pt": "Personalizado",
       "ko": "사용자 정의",
-      "fr": "Personnalisé"
+      "fr": "Personnalisé",
+      "tr": "Özel"
     },
     "Custom Audience": {
       "es": "Audiencia personalizada",
       "ja": "カスタムオーディエンス",
       "pt": "Público personalizado",
       "ko": "맞춤 대상",
-      "fr": "Audience personnalisée"
+      "fr": "Audience personnalisée",
+      "tr": "Özel hedef kitle"
     },
     "Custom Data": {
       "es": "Datos personalizados",
       "ja": "カスタムデータ",
       "pt": "Dados personalizados",
       "ko": "사용자 정의 데이터",
-      "fr": "Données personnalisées"
+      "fr": "Données personnalisées",
+      "tr": "Özel veriler"
     },
     "Custom Events": {
       "es": "Eventos personalizados",
       "ja": "カスタムイベント",
       "pt": "Eventos personalizados",
       "ko": "사용자 정의 이벤트",
-      "fr": "Événements personnalisés"
+      "fr": "Événements personnalisés",
+      "tr": "Özel etkinlikler"
     },
     "Custom Range": {
       "es": "Rango personalizado",
       "ja": "カスタム範囲",
       "pt": "Período personalizado",
       "ko": "사용자 정의 기간",
-      "fr": "Plage personnalisée"
+      "fr": "Plage personnalisée",
+      "tr": "Özel aralık"
     },
     "Dashboard": {
       "es": "Panel de control",
       "ja": "ダッシュボード",
       "pt": "Painel",
       "ko": "대시보드",
-      "fr": "Tableau de bord"
+      "fr": "Tableau de bord",
+      "tr": "Pano"
     },
     "Data": {
       "es": "Datos",
       "ja": "データ",
       "pt": "Dados",
       "ko": "데이터",
-      "fr": "Données"
+      "fr": "Données",
+      "tr": "Veriler"
     },
     "Data Feeds": {
       "es": "Fuentes de datos",
       "ja": "データフィード",
       "pt": "Feeds de dados",
       "ko": "데이터 피드",
-      "fr": "Flux de données"
+      "fr": "Flux de données",
+      "tr": "Veri akışları"
     },
     "Data Tags": {
       "es": "Etiquetas de datos",
       "ja": "データタグ",
       "pt": "Tags de dados",
       "ko": "데이터 태그",
-      "fr": "Tags de données"
+      "fr": "Tags de données",
+      "tr": "Veri etiketleri"
     },
     "data tags": {
       "es": "etiquetas de datos",
       "ja": "データタグ",
       "pt": "tags de dados",
       "ko": "데이터 태그",
-      "fr": "tags de données"
+      "fr": "tags de données",
+      "tr": "veri etiketleri"
     },
     "Date": {
       "es": "Fecha",
       "ja": "日付",
       "pt": "Data",
       "ko": "날짜",
-      "fr": "Date"
+      "fr": "Date",
+      "tr": "Tarih"
     },
     "Date Range": {
       "es": "Rango de fechas",
       "ja": "日付範囲",
       "pt": "Intervalo de datas",
       "ko": "날짜 범위",
-      "fr": "Plage de dates"
+      "fr": "Plage de dates",
+      "tr": "Tarih aralığı"
     },
     "Date Sent": {
       "es": "Fecha de envío",
       "ja": "送信日",
       "pt": "Data de envio",
       "ko": "발송 날짜",
-      "fr": "Date d'envoi"
+      "fr": "Date d'envoi",
+      "tr": "Gönderim tarihi"
     },
     "Date timestamps are stored in UTC time (EDT is -04:00 from UTC)": {
       "es": "Las fechas se almacenan en UTC (EDT es -04:00 desde UTC)",
       "ja": "日付はUTC時刻で保存されています（EDTはUTCから-04:00）",
       "pt": "Datas são armazenadas em UTC (EDT é -04:00 do UTC)",
       "ko": "날짜 타임스탬프는 UTC 기준으로 저장됩니다 (EDT는 UTC -04:00)",
-      "fr": "Les horodatages sont stockés au format UTC (EDT est UTC -04:00)"
+      "fr": "Les horodatages sont stockés au format UTC (EDT est UTC -04:00)",
+      "tr": "Tarih damgaları UTC zamanında saklanır (EDT, UTC'den -04:00'tür)"
     },
     "Deactivate": {
       "es": "Desactivar",
       "ja": "無効化",
       "pt": "Desativar",
       "ko": "비활성화",
-      "fr": "Désactiver"
+      "fr": "Désactiver",
+      "tr": "Devre dışı bırak"
     },
     "Dec": {
       "es": "dic",
       "ja": "12月",
       "pt": "dez",
       "ko": "12월",
-      "fr": "déc"
+      "fr": "déc",
+      "tr": "ara"
     },
     "December": {
       "es": "diciembre",
       "ja": "12月",
       "pt": "dezembro",
       "ko": "12월",
-      "fr": "décembre"
+      "fr": "décembre",
+      "tr": "aralık"
     },
     "Default Language": {
       "es": "Idioma predeterminado",
       "ja": "デフォルト言語",
       "pt": "Idioma padrão",
       "ko": "기본 언어",
-      "fr": "Langue par défaut"
+      "fr": "Langue par défaut",
+      "tr": "Varsayılan dil"
     },
     "Delay": {
       "es": "Retraso",
       "ja": "遅延",
       "pt": "Atraso",
       "ko": "지연",
-      "fr": "Délai"
+      "fr": "Délai",
+      "tr": "Gecikme"
     },
     "Delete": {
       "es": "Eliminar",
       "ja": "削除",
       "pt": "Excluir",
       "ko": "삭제",
-      "fr": "Supprimer"
+      "fr": "Supprimer",
+      "tr": "Sil"
     },
     "Delete App": {
       "es": "Eliminar app",
       "ja": "アプリを削除",
       "pt": "Excluir app",
       "ko": "앱 삭제",
-      "fr": "Supprimer l'app"
+      "fr": "Supprimer l'app",
+      "tr": "Uygulamayı sil"
     },
     "Delete Segment": {
       "es": "Eliminar segmento",
       "ja": "セグメントを削除",
       "pt": "Excluir segmento",
       "ko": "세그먼트 삭제",
-      "fr": "Supprimer le segment"
+      "fr": "Supprimer le segment",
+      "tr": "Segmenti sil"
     },
     "Delete Template": {
       "es": "Eliminar plantilla",
       "ja": "テンプレートを削除",
       "pt": "Excluir modelo",
       "ko": "템플릿 삭제",
-      "fr": "Supprimer le modèle"
+      "fr": "Supprimer le modèle",
+      "tr": "Şablonu sil"
     },
     "Delivered": {
       "es": "Entregado",
       "ja": "配信済み",
       "pt": "Entregue",
       "ko": "전달됨",
-      "fr": "Livré"
+      "fr": "Livré",
+      "tr": "Teslim edildi"
     },
     "Delivered Events": {
       "es": "Eventos entregados",
       "ja": "配信済みイベント",
       "pt": "Eventos entregues",
       "ko": "전달된 이벤트",
-      "fr": "Événements livrés"
+      "fr": "Événements livrés",
+      "tr": "Teslim edilen etkinlikler"
     },
     "Delivery": {
       "es": "Entrega",
       "ja": "配信",
       "pt": "Entrega",
       "ko": "전달",
-      "fr": "Livraison"
+      "fr": "Livraison",
+      "tr": "Teslimat"
     },
     "Delivery Rate": {
       "es": "Tasa de entrega",
       "ja": "配信率",
       "pt": "Taxa de entrega",
       "ko": "전달률",
-      "fr": "Taux de livraison"
+      "fr": "Taux de livraison",
+      "tr": "Teslim oranı"
     },
     "Destination URL": {
       "es": "URL de destino",
       "ja": "送信先URL",
       "pt": "URL de destino",
       "ko": "대상 URL",
-      "fr": "URL de destination"
+      "fr": "URL de destination",
+      "tr": "Hedef URL"
     },
     "Details": {
       "es": "Detalles",
       "ja": "詳細",
       "pt": "Detalhes",
       "ko": "세부 정보",
-      "fr": "Détails"
+      "fr": "Détails",
+      "tr": "Ayrıntılar"
     },
     "Device": {
       "es": "Dispositivo",
       "ja": "デバイス",
       "pt": "Dispositivo",
       "ko": "기기",
-      "fr": "Appareil"
+      "fr": "Appareil",
+      "tr": "Cihaz"
     },
     "Device Type": {
       "es": "Tipo de dispositivo",
       "ja": "デバイスタイプ",
       "pt": "Tipo de dispositivo",
       "ko": "기기 유형",
-      "fr": "Type d'appareil"
+      "fr": "Type d'appareil",
+      "tr": "Cihaz türü"
     },
     "Direct": {
       "es": "Directo",
