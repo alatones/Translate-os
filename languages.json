@@ -2662,55 +2662,64 @@
       "es": "Actualizar lista",
       "ja": "リストを更新",
       "pt": "Atualizar lista",
-      "ko": "목록 새로 고침"
+      "ko": "목록 새로 고침",
+      "fr": "Actualiser la liste"
     },
     "Regional Audience": {
       "es": "Audiencia regional",
       "ja": "地域オーディエンス",
       "pt": "Público regional",
-      "ko": "지역 대상"
+      "ko": "지역 대상",
+      "fr": "Audience régionale"
     },
     "Relative:": {
       "es": "Relativa:",
       "ja": "相対時間：",
       "pt": "Relativa:",
-      "ko": "상대적:"
+      "ko": "상대적:",
+      "fr": "Relatif :"
     },
     "Remove": {
       "es": "Quitar",
       "ja": "削除",
       "pt": "Remover",
-      "ko": "제거"
+      "ko": "제거",
+      "fr": "Retirer"
     },
     "Reply-To Address": {
       "es": "Dirección de respuesta",
       "ja": "返信先アドレス",
       "pt": "Endereço de resposta",
-      "ko": "회신 주소"
+      "ko": "회신 주소",
+      "fr": "Adresse de réponse"
     },
     "Report": {
       "es": "Informe",
       "ja": "レポート",
       "pt": "Relatório",
-      "ko": "보고서"
+      "ko": "보고서",
+      "fr": "Rapport"
     },
     "Required": {
       "es": "Obligatorio",
       "ja": "必須",
       "pt": "Obrigatório",
-      "ko": "필수"
+      "ko": "필수",
+      "fr": "Obligatoire"
     },
     "Required field": {
       "es": "Campo obligatorio",
       "ja": "必須フィールド",
       "pt": "Campo obrigatório",
-      "ko": "필수 항목"
+      "ko": "필수 항목",
+      "fr": "Champ obligatoire"
     },
     "Resend": {
       "es": "Reenviar",
       "ja": "再送信",
       "pt": "Reenviar",
-      "ko": "재발송"
+      "ko": "재발송",
+      "fr": "Renvoyer"
     },
     "REST API Key": {
       "es": "Clave REST API",
@@ -2723,25 +2732,29 @@
       "es": "Resultados",
       "ja": "結果",
       "pt": "Resultados",
-      "ko": "결과"
+      "ko": "결과",
+      "fr": "Résultats"
     },
     "Resume": {
       "es": "Reanudar",
       "ja": "再開",
       "pt": "Retomar",
-      "ko": "재개"
+      "ko": "재개",
+      "fr": "Reprendre"
     },
     "Role": {
       "es": "Rol",
       "ja": "ロール",
       "pt": "Função",
-      "ko": "역할"
+      "ko": "역할",
+      "fr": "Rôle"
     },
     "Rooted": {
       "es": "Rooteado",
       "ja": "ルート化済み",
       "pt": "Com root",
-      "ko": "루팅됨"
+      "ko": "루팅됨",
+      "fr": "Rooté"
     },
     "rows per page": {
       "es": "filas por página",
@@ -2813,25 +2826,29 @@
       "es": "SDK",
       "ja": "SDK",
       "pt": "SDK",
-      "ko": "SDK"
+      "ko": "SDK",
+      "fr": "SDK"
     },
     "SDK version": {
       "es": "Versión del SDK",
       "ja": "SDKバージョン",
       "pt": "Versão do SDK",
-      "ko": "SDK 버전"
+      "ko": "SDK 버전",
+      "fr": "Version du SDK"
     },
     "SDKs": {
       "es": "SDKs",
       "ja": "SDK",
       "pt": "SDKs",
-      "ko": "SDK"
+      "ko": "SDK",
+      "fr": "SDK"
     },
     "SDKs Guide": {
       "es": "Guía de SDKs",
       "ja": "SDKガイド",
       "pt": "Guia de SDKs",
-      "ko": "SDK 가이드"
+      "ko": "SDK 가이드",
+      "fr": "Guide des SDK"
     },
     "Search": {
       "es": "Buscar",
@@ -3149,7 +3166,8 @@
       "es": "SMS / RCS",
       "ja": "SMS / RCS",
       "pt": "SMS / RCS",
-      "ko": "SMS / RCS"
+      "ko": "SMS / RCS",
+      "fr": "SMS / RCS"
     },
     "Sound": {
       "es": "Sonido",
@@ -3879,7 +3897,8 @@
       "ja": "SMS / RCS - 未設定 - クリックしてセットアップ",
       "es": "SMS / RCS - No configurado - Haz clic para configurar",
       "pt": "SMS / RCS - Não configurado - Clique para configurar",
-      "ko": "SMS / RCS - 미구성 - 클릭하여 설정"
+      "ko": "SMS / RCS - 미구성 - 클릭하여 설정",
+      "fr": "SMS / RCS - Non configuré - Cliquez pour configurer"
     },
     "Account options": {
       "ja": "アカウントオプション",
@@ -3961,7 +3980,8 @@
       "ja": "監査・コンプライアンスや機械学習エンジンのためにデータを長期保存する",
       "es": "Retén datos a largo plazo para auditorías, cumplimiento normativo o para potenciar motores de machine learning",
       "pt": "Retenha dados a longo prazo para auditoria, conformidade ou para alimentar mecanismos de machine learning",
-      "ko": "감사 및 규정 준수 또는 머신 러닝 엔진 구동을 위해 데이터를 장기 보관하세요"
+      "ko": "감사 및 규정 준수 또는 머신 러닝 엔진 구동을 위해 데이터를 장기 보관하세요",
+      "fr": "Conservez les données à long terme pour l'audit et la conformité, ou pour alimenter des moteurs de machine learning"
     },
     "Send History": {
       "ja": "送信履歴",
@@ -4848,19 +4868,22 @@
       "ja": "クリックフィルターを削除",
       "es": "Quitar filtro de clics",
       "pt": "Remover filtro de cliques",
-      "ko": "클릭 필터 제거"
+      "ko": "클릭 필터 제거",
+      "fr": "Retirer le filtre Clics"
     },
     "Remove Confirmed filter": {
       "ja": "確認済みフィルターを削除",
       "es": "Quitar filtro de confirmados",
       "pt": "Remover filtro de confirmados",
-      "ko": "확인됨 필터 제거"
+      "ko": "확인됨 필터 제거",
+      "fr": "Retirer le filtre Confirmés"
     },
     "Remove Sessions filter": {
       "ja": "セッションフィルターを削除",
       "es": "Quitar filtro de sesiones",
       "pt": "Remover filtro de sessões",
-      "ko": "세션 필터 제거"
+      "ko": "세션 필터 제거",
+      "fr": "Retirer le filtre Sessions"
     },
     "Select comparison period for subscription trends": {
       "ja": "購読トレンドの比較期間を選択",
@@ -5208,13 +5231,15 @@
       "ja": "関連度スコア",
       "es": "Puntuación de relevancia",
       "pt": "Pontuação de relevância",
-      "ko": "관련성 점수"
+      "ko": "관련성 점수",
+      "fr": "Score de pertinence"
     },
     "Remaining": {
       "ja": "残り",
       "es": "Restante",
       "pt": "Restante",
-      "ko": "남음"
+      "ko": "남음",
+      "fr": "Restant"
     },
     "Send a Retargeted Message": {
       "ja": "リターゲティングメッセージを送信",
@@ -5347,7 +5372,8 @@
       "ja": "メディアを削除",
       "es": "Quitar medios",
       "pt": "Remover mídia",
-      "ko": "미디어 제거"
+      "ko": "미디어 제거",
+      "fr": "Retirer le média"
     },
     "TAKE A TOUR": {
       "ja": "ツアーを開始",
@@ -5461,19 +5487,22 @@
       "ja": "永続的な失敗フィルターを削除",
       "es": "Quitar filtro de falla permanente",
       "pt": "Remover filtro de falha permanente",
-      "ko": "영구 실패 필터 제거"
+      "ko": "영구 실패 필터 제거",
+      "fr": "Retirer le filtre Échec permanent"
     },
     "Remove Sent filter": {
       "ja": "送信済みフィルターを削除",
       "es": "Quitar filtro de enviados",
       "pt": "Remover filtro de enviados",
-      "ko": "발송 필터 제거"
+      "ko": "발송 필터 제거",
+      "fr": "Retirer le filtre Envoyés"
     },
     "Remove Success filter": {
       "ja": "成功フィルターを削除",
       "es": "Quitar filtro de éxito",
       "pt": "Remover filtro de sucesso",
-      "ko": "성공 필터 제거"
+      "ko": "성공 필터 제거",
+      "fr": "Retirer le filtre Succès"
     },
     "Timeouts": {
       "ja": "タイムアウト",
@@ -5822,19 +5851,22 @@
       "ja": "返信先メール",
       "es": "Correo de respuesta",
       "pt": "Email de resposta",
-      "ko": "회신 이메일"
+      "ko": "회신 이메일",
+      "fr": "Email de réponse"
     },
     "Review & Send": {
       "ja": "確認して送信",
       "es": "Revisar y enviar",
       "pt": "Revisar e enviar",
-      "ko": "검토 및 발송"
+      "ko": "검토 및 발송",
+      "fr": "Vérifier et envoyer"
     },
     "SMS": {
       "ja": "SMS",
       "es": "SMS",
       "pt": "SMS",
-      "ko": "SMS"
+      "ko": "SMS",
+      "fr": "SMS"
     },
     "Save as Template": {
       "ja": "テンプレートとして保存",
@@ -6140,7 +6172,8 @@
       "ja": "右揃え",
       "es": "Alineado a la derecha",
       "pt": "Alinhado à direita",
-      "ko": "오른쪽 정렬"
+      "ko": "오른쪽 정렬",
+      "fr": "Aligné à droite"
     },
     "Specific time": {
       "ja": "特定の時刻",
@@ -6453,7 +6486,8 @@
       "ja": "確認してライブ化",
       "es": "Revisar y publicar",
       "pt": "Revisar e ativar",
-      "ko": "검토 및 라이브 설정"
+      "ko": "검토 및 라이브 설정",
+      "fr": "Vérifier et publier"
     },
     "Show forever": {
       "ja": "常に表示",
@@ -7260,7 +7294,8 @@
       "ja": "アクション1を削除",
       "es": "Quitar acción 1",
       "pt": "Remover ação 1",
-      "ko": "액션 1 제거"
+      "ko": "액션 1 제거",
+      "fr": "Retirer l'action 1"
     },
     "e.g. Accept": {
       "ja": "例: 承諾",
@@ -7544,13 +7579,15 @@
       "ja": "フィールド1を削除",
       "es": "Quitar campo 1",
       "pt": "Remover campo 1",
-      "ko": "필드 1 제거"
+      "ko": "필드 1 제거",
+      "fr": "Retirer le champ 1"
     },
     "Review and Send": {
       "ja": "確認して送信",
       "es": "Revisar y enviar",
       "pt": "Revisar e enviar",
-      "ko": "검토 후 발송"
+      "ko": "검토 후 발송",
+      "fr": "Vérifier et envoyer"
     },
     "Select media": {
       "ja": "メディアを選択",
@@ -7940,7 +7977,8 @@
       "ja": "SMS / MMS / RCSセグメント",
       "es": "Segmentos SMS / MMS / RCS",
       "pt": "Segmentos SMS / MMS / RCS",
-      "ko": "SMS / MMS / RCS 세그먼트"
+      "ko": "SMS / MMS / RCS 세그먼트",
+      "fr": "Segments SMS / MMS / RCS"
     },
     "To see your usage, go to your Twilio dashboard, or switch to": {
       "ja": "使用状況を確認するには、Twilioダッシュボードに移動するか、以下に切り替えてください:",
@@ -8122,7 +8160,8 @@
       "ja": "リッチ",
       "es": "Enriquecido",
       "pt": "Rich",
-      "ko": "리치"
+      "ko": "리치",
+      "fr": "Enrichi"
     },
     "SMS fallback": {
       "ja": "SMSフォールバック",
@@ -8474,7 +8513,8 @@
       "ja": "更新",
       "es": "Actualizar",
       "pt": "Atualizar",
-      "ko": "새로 고침"
+      "ko": "새로 고침",
+      "fr": "Actualiser"
     },
     "Timestamp": {
       "ja": "タイムスタンプ",
@@ -8506,7 +8546,8 @@
       "ja": "更新中...",
       "es": "Actualizando...",
       "pt": "Atualizando...",
-      "ko": "새로 고치는 중..."
+      "ko": "새로 고치는 중...",
+      "fr": "Actualisation..."
     },
     "Search by journey name": {
       "ja": "ジャーニー名で検索",
@@ -9122,13 +9163,15 @@
       "ja": "返信先",
       "es": "Responder a",
       "pt": "Responder a",
-      "ko": "회신 받는 곳"
+      "ko": "회신 받는 곳",
+      "fr": "Répondre à"
     },
     "Reputation": {
       "ja": "評判",
       "es": "Reputación",
       "pt": "Reputação",
-      "ko": "평판"
+      "ko": "평판",
+      "fr": "Réputation"
     },
     "Set Up Authenticated Sender": {
       "ja": "認証済み送信者を設定",
@@ -9286,25 +9329,29 @@
       "ja": "すべて削除",
       "es": "Quitar todo",
       "pt": "Remover tudo",
-      "ko": "모두 제거"
+      "ko": "모두 제거",
+      "fr": "Tout retirer"
     },
     "Reported as Spam": {
       "ja": "スパムとして報告された",
       "es": "Reportado como spam",
       "pt": "Reportado como spam",
-      "ko": "스팸으로 신고됨"
+      "ko": "스팸으로 신고됨",
+      "fr": "Signalé comme spam"
     },
     "Reported as Spam Rate": {
       "ja": "スパム報告率",
       "es": "Tasa de reportes como spam",
       "pt": "Taxa de denúncias como spam",
-      "ko": "스팸 신고율"
+      "ko": "스팸 신고율",
+      "fr": "Taux de signalement spam"
     },
     "Reputation Rates": {
       "ja": "評判率",
       "es": "Tasas de reputación",
       "pt": "Taxas de reputação",
-      "ko": "평판 비율"
+      "ko": "평판 비율",
+      "fr": "Taux de réputation"
     },
     "SMTP Login": {
       "ja": "SMTPログイン",
@@ -9427,13 +9474,15 @@
       "ja": "APIプッシュ通知に認証を要求 (推奨)",
       "es": "Requerir autenticación para notificaciones push de API (recomendado)",
       "pt": "Exigir autenticação para notificações push de API (recomendado)",
-      "ko": "API 푸시 알림에 인증 요구 (권장)"
+      "ko": "API 푸시 알림에 인증 요구 (권장)",
+      "fr": "Exiger l'authentification pour les notifications push API (recommandé)"
     },
     "Rest API Key documentation": {
       "ja": "REST APIキー文書",
       "es": "Documentación de la clave API REST",
       "pt": "Documentação da chave de API REST",
-      "ko": "REST API 키 문서"
+      "ko": "REST API 키 문서",
+      "fr": "Documentation de la clé d'API REST"
     },
     "Treat your API key like a password.": {
       "ja": "APIキーはパスワードと同じように扱ってください。",
@@ -9700,7 +9749,8 @@
       "ja": "購読解除はSTOPと返信してください。メッセージおよびデータ料金がかかる場合があります。",
       "es": "Responde STOP para darte de baja. Pueden aplicar tarifas de mensajes y datos.",
       "pt": "Responda STOP para cancelar a inscrição. Podem ser aplicadas taxas de mensagem e dados.",
-      "ko": "구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다."
+      "ko": "구독 해지는 STOP을 회신하세요. 메시지 및 데이터 요금이 부과될 수 있습니다.",
+      "fr": "Répondez STOP pour vous désabonner. Frais de message et données possibles."
     },
     "SMS Regulatory Compliance Documentation": {
       "ja": "SMS規制遵守文書",
