@@ -12,13 +12,18 @@
         "JOURNEY",
         "Walkthrough your user journey on your own device, from message to conversion",
         "The journey is the reward."
-      ]
+      ],
+      "fr": "Journey"
     },
     "Journeys": {
       "ja": "ジャーニー",
       "es": "Journeys",
       "pt": "Journeys",
-      "ko": "저니"
+      "ko": "저니",
+      "fr": [
+        "Journeys",
+        "Journey"
+      ]
     },
     "Segment": {
       "ja": "セグメント",
@@ -28,13 +33,15 @@
       "note": "OneSignal feature noun. The company 'Segment' (Twilio Segment) stays Latin and is excluded from glossary check via _skip_keys.",
       "_skip_keys": [
         "Seamlessly integrate with APIs, SDKs, or tools like Segment"
-      ]
+      ],
+      "fr": "Segment"
     },
     "Segments": {
       "ja": "セグメント",
       "es": "Segmentos",
       "pt": "Segmentos",
-      "ko": "세그먼트"
+      "ko": "세그먼트",
+      "fr": "Segments"
     },
     "Subscription": {
       "ja": "購読",
@@ -50,7 +57,8 @@
         "Assinaturas",
         "assinaturas"
       ],
-      "ko": "구독"
+      "ko": "구독",
+      "fr": "Abonnement"
     },
     "Subscriptions": {
       "ja": "購読",
@@ -62,19 +70,25 @@
         "Assinatura",
         "assinatura"
       ],
-      "ko": "구독"
+      "ko": "구독",
+      "fr": [
+        "Abonnements",
+        "Abonnement"
+      ]
     },
     "Subscriber": {
       "ja": "購読者",
       "es": "Suscriptor",
       "pt": "Assinante",
-      "ko": "구독자"
+      "ko": "구독자",
+      "fr": "Abonné"
     },
     "Subscribers": {
       "ja": "購読者",
       "es": "Suscriptores",
       "pt": "Assinantes",
-      "ko": "구독자"
+      "ko": "구독자",
+      "fr": "Abonnés"
     },
     "Outcome": {
       "ja": [
@@ -84,7 +98,8 @@
       "es": "Resultado",
       "pt": "Resultado",
       "ko": "결과",
-      "note": "ja uses loanword; es/pt/ko translate."
+      "note": "ja uses loanword; es/pt/ko translate.",
+      "fr": "Résultat"
     },
     "Outcomes": {
       "ja": [
@@ -93,7 +108,8 @@
       ],
       "es": "Resultados",
       "pt": "Resultados",
-      "ko": "결과"
+      "ko": "결과",
+      "fr": "Résultats"
     },
     "In-App": {
       "ja": [
@@ -113,13 +129,20 @@
         "mensagens no app"
       ],
       "ko": "인앱",
-      "note": "es/pt keep Latin (product feature). ja/ko translate/transliterate."
+      "note": "es/pt keep Latin (product feature). ja/ko translate/transliterate.",
+      "fr": [
+        "In-App",
+        "in-app",
+        "dans l'application",
+        "dans l'app"
+      ]
     },
     "Push": {
       "ja": "プッシュ",
       "es": "Push",
       "pt": "Push",
-      "ko": "푸시"
+      "ko": "푸시",
+      "fr": "Push"
     },
     "Email": {
       "ja": "メール",
@@ -134,19 +157,27 @@
         "e-mail",
         "E-mail"
       ],
-      "ko": "이메일"
+      "ko": "이메일",
+      "fr": [
+        "Email",
+        "email",
+        "E-mail",
+        "e-mail"
+      ]
     },
     "SMS": {
       "ja": "SMS",
       "es": "SMS",
       "pt": "SMS",
-      "ko": "SMS"
+      "ko": "SMS",
+      "fr": "SMS"
     },
     "RCS": {
       "ja": "RCS",
       "es": "RCS",
       "pt": "RCS",
-      "ko": "RCS"
+      "ko": "RCS",
+      "fr": "RCS"
     },
     "Live Activity": {
       "ja": "ライブアクティビティ",
@@ -159,7 +190,11 @@
         "Atividade ao vivo"
       ],
       "ko": "라이브 액티비티",
-      "note": "Apple-platform feature; es/pt keep Latin to match Apple's localization."
+      "note": "Apple-platform feature; es/pt keep Latin to match Apple's localization.",
+      "fr": [
+        "Live Activity",
+        "Activité en direct"
+      ]
     },
     "Live Activities": {
       "ja": "ライブアクティビティ",
@@ -171,7 +206,11 @@
         "Live Activities",
         "Atividades ao vivo"
       ],
-      "ko": "라이브 액티비티"
+      "ko": "라이브 액티비티",
+      "fr": [
+        "Live Activities",
+        "Activités en direct"
+      ]
     },
     "Data Feed": {
       "ja": "データフィード",
@@ -183,7 +222,11 @@
         "Feed de dados",
         "Data Feed"
       ],
-      "ko": "데이터 피드"
+      "ko": "데이터 피드",
+      "fr": [
+        "Flux de données",
+        "Data Feed"
+      ]
     },
     "Data Feeds": {
       "ja": "データフィード",
@@ -195,32 +238,40 @@
         "Feeds de dados",
         "Data Feeds"
       ],
-      "ko": "데이터 피드"
+      "ko": "데이터 피드",
+      "fr": [
+        "Flux de données",
+        "Data Feeds"
+      ]
     },
     "Webhook": {
       "ja": "Webhook",
       "es": "Webhook",
       "pt": "Webhook",
       "ko": "웹훅",
-      "note": "ja/es/pt keep Latin; ko transliterates."
+      "note": "ja/es/pt keep Latin; ko transliterates.",
+      "fr": "Webhook"
     },
     "Webhooks": {
       "ja": "Webhook",
       "es": "Webhooks",
       "pt": "Webhooks",
-      "ko": "웹훅"
+      "ko": "웹훅",
+      "fr": "Webhooks"
     },
     "Template": {
       "ja": "テンプレート",
       "es": "Plantilla",
       "pt": "Modelo",
-      "ko": "템플릿"
+      "ko": "템플릿",
+      "fr": "Modèle"
     },
     "Templates": {
       "ja": "テンプレート",
       "es": "Plantillas",
       "pt": "Modelos",
-      "ko": "템플릿"
+      "ko": "템플릿",
+      "fr": "Modèles"
     },
     "Audience": {
       "ja": "オーディエンス",
@@ -231,26 +282,36 @@
         "Audiência"
       ],
       "ko": "대상",
-      "note": "ko uses 대상 (target group). pt-BR primarily uses Público (matches BR SaaS convention — Mailchimp BR, HubSpot BR, RD Station). Audiência kept as alt for legacy entries."
+      "note": "ko uses 대상 (target group). pt-BR primarily uses Público (matches BR SaaS convention — Mailchimp BR, HubSpot BR, RD Station). Audiência kept as alt for legacy entries.",
+      "fr": "Audience"
     },
     "Campaign": {
       "ja": "キャンペーン",
       "es": "Campaña",
       "pt": "Campanha",
-      "ko": "캠페인"
+      "ko": "캠페인",
+      "fr": "Campagne"
     },
     "Tag": {
       "ja": "タグ",
       "es": "Etiqueta",
       "pt": "Tag",
       "ko": "태그",
-      "note": "pt keeps Latin; es translates."
+      "note": "pt keeps Latin; es translates.",
+      "fr": [
+        "Tag",
+        "tag"
+      ]
     },
     "Tags": {
       "ja": "タグ",
       "es": "Etiquetas",
       "pt": "Tags",
-      "ko": "태그"
+      "ko": "태그",
+      "fr": [
+        "Tags",
+        "tags"
+      ]
     },
     "Data Tag": {
       "ja": "データタグ",
@@ -262,7 +323,11 @@
         "Tag de dados",
         "data tag"
       ],
-      "ko": "데이터 태그"
+      "ko": "데이터 태그",
+      "fr": [
+        "Tag de données",
+        "data tag"
+      ]
     },
     "Data Tags": {
       "ja": "データタグ",
@@ -274,7 +339,11 @@
         "Tags de dados",
         "data tags"
       ],
-      "ko": "데이터 태그"
+      "ko": "데이터 태그",
+      "fr": [
+        "Tags de données",
+        "data tags"
+      ]
     },
     "Notification": {
       "ja": "通知",
@@ -286,13 +355,18 @@
         "Notificação",
         "Notificações"
       ],
-      "ko": "알림"
+      "ko": "알림",
+      "fr": [
+        "Notification",
+        "Notifications"
+      ]
     },
     "Notifications": {
       "ja": "通知",
       "es": "Notificaciones",
       "pt": "Notificações",
-      "ko": "알림"
+      "ko": "알림",
+      "fr": "Notifications"
     },
     "Save": {
       "ja": "保存",
@@ -307,7 +381,12 @@
         "Salvo",
         "Salve"
       ],
-      "ko": "저장"
+      "ko": "저장",
+      "fr": [
+        "Enregistrer",
+        "Enregistré",
+        "enregistrement"
+      ]
     },
     "Send": {
       "ja": "送信",
@@ -332,6 +411,18 @@
         "보내",
         "전송",
         "보냅"
+      ],
+      "fr": [
+        "Envoyer",
+        "envoi",
+        "envois",
+        "Envoyez",
+        "envoyé",
+        "envoyée",
+        "envoyés",
+        "envoyées",
+        "enverra",
+        "enverront"
       ]
     },
     "Sent": {
@@ -355,6 +446,12 @@
         "발송됨",
         "발송",
         "발송된"
+      ],
+      "fr": [
+        "Envoyé",
+        "Envoyée",
+        "envoi",
+        "envois"
       ]
     },
     "Delete": {
@@ -373,7 +470,12 @@
         "Exclua",
         "Apague"
       ],
-      "ko": "삭제"
+      "ko": "삭제",
+      "fr": [
+        "Supprimer",
+        "Suppression",
+        "Supprimé"
+      ]
     },
     "Edit": {
       "ja": "編集",
@@ -390,7 +492,12 @@
         "Editado",
         "Edite"
       ],
-      "ko": "편집"
+      "ko": "편집",
+      "fr": [
+        "Modifier",
+        "Modification",
+        "Modifié"
+      ]
     },
     "Cancel": {
       "ja": "キャンセル",
@@ -406,7 +513,8 @@
       "_skip_keys": [
         "CANCEL"
       ],
-      "note": "Button label. The SMS protocol keyword CANCEL stays Latin and is excluded via _skip_keys."
+      "note": "Button label. The SMS protocol keyword CANCEL stays Latin and is excluded via _skip_keys.",
+      "fr": "Annuler"
     },
     "Confirm": {
       "ja": "確認",
@@ -421,7 +529,13 @@
         "Confirme",
         "confirmou"
       ],
-      "ko": "확인"
+      "ko": "확인",
+      "fr": [
+        "Confirmer",
+        "Confirmation",
+        "Confirmé",
+        "Confirmez"
+      ]
     },
     "Create": {
       "ja": "作成",
@@ -440,6 +554,14 @@
         "만들",
         "만드세요",
         "생성"
+      ],
+      "fr": [
+        "Créer",
+        "Création",
+        "Créé",
+        "Créez",
+        "créent",
+        "créons"
       ]
     },
     "Add": {
@@ -453,7 +575,13 @@
         "Adicionar",
         "Adicione"
       ],
-      "ko": "추가"
+      "ko": "추가",
+      "fr": [
+        "Ajouter",
+        "Ajoutez",
+        "Ajouté",
+        "ajoutons"
+      ]
     },
     "Remove": {
       "ja": "削除",
@@ -465,7 +593,11 @@
         "Remover",
         "Remova"
       ],
-      "ko": "제거"
+      "ko": "제거",
+      "fr": [
+        "Retirer",
+        "Supprimer"
+      ]
     },
     "Update": {
       "ja": "更新",
@@ -481,7 +613,13 @@
         "Atualizado",
         "Atualize"
       ],
-      "ko": "업데이트"
+      "ko": "업데이트",
+      "fr": [
+        "Mettre à jour",
+        "Mise à jour",
+        "mises à jour",
+        "Mis à jour"
+      ]
     },
     "Import": {
       "ja": "インポート",
@@ -497,7 +635,14 @@
         "Importado",
         "Importe"
       ],
-      "ko": "가져오기"
+      "ko": "가져오기",
+      "fr": [
+        "Importer",
+        "Importation",
+        "Importé",
+        "Import",
+        "import"
+      ]
     },
     "Export": {
       "ja": [
@@ -516,7 +661,14 @@
         "Exportado",
         "Exporte"
       ],
-      "ko": "내보내기"
+      "ko": "내보내기",
+      "fr": [
+        "Exporter",
+        "Exportation",
+        "Exporté",
+        "Export",
+        "export"
+      ]
     },
     "Settings": {
       "ja": "設定",
@@ -528,7 +680,11 @@
         "Configurações",
         "Configuração"
       ],
-      "ko": "설정"
+      "ko": "설정",
+      "fr": [
+        "Paramètres",
+        "Configuration"
+      ]
     },
     "Search": {
       "ja": "検索",
@@ -542,7 +698,11 @@
         "pesquisa",
         "Pesquisa"
       ],
-      "ko": "검색"
+      "ko": "검색",
+      "fr": [
+        "Rechercher",
+        "Recherche"
+      ]
     },
     "Filter": {
       "ja": [
@@ -559,7 +719,12 @@
         "Filtrar",
         "Filtre"
       ],
-      "ko": "필터"
+      "ko": "필터",
+      "fr": [
+        "Filtre",
+        "Filtrer",
+        "filtre"
+      ]
     },
     "Filters": {
       "ja": [
@@ -576,7 +741,11 @@
         "Filtrar",
         "Filtre"
       ],
-      "ko": "필터"
+      "ko": "필터",
+      "fr": [
+        "Filtres",
+        "Filtrer"
+      ]
     },
     "Active": {
       "ja": "アクティブ",
@@ -599,6 +768,13 @@
       "ko": [
         "활성",
         "활동"
+      ],
+      "fr": [
+        "Actif",
+        "Actifs",
+        "Active",
+        "Actives",
+        "activité"
       ]
     },
     "Inactive": {
@@ -615,13 +791,25 @@
         "Inativa",
         "Inativas"
       ],
-      "ko": "비활성"
+      "ko": "비활성",
+      "fr": [
+        "Inactif",
+        "Inactifs",
+        "Inactive",
+        "Inactives"
+      ]
     },
     "Disabled": {
       "ja": "無効",
       "es": "Deshabilitado",
       "pt": "Desativado",
-      "ko": "비활성화됨"
+      "ko": "비활성화됨",
+      "fr": [
+        "Désactivé",
+        "Désactivée",
+        "Désactivés",
+        "Désactivées"
+      ]
     },
     "Paused": {
       "ja": "一時停止中",
@@ -637,6 +825,12 @@
         "일시 정지됨",
         "중지",
         "일시 중지"
+      ],
+      "fr": [
+        "Suspendu",
+        "Suspendue",
+        "En pause",
+        "Pausé"
       ]
     },
     "Failed": {
@@ -657,19 +851,32 @@
         "실패됨",
         "실패된",
         "실패"
+      ],
+      "fr": [
+        "Échoué",
+        "Échouée",
+        "Échec",
+        "Échouées"
       ]
     },
     "Draft": {
       "ja": "下書き",
       "es": "Borrador",
       "pt": "Rascunho",
-      "ko": "초안"
+      "ko": "초안",
+      "fr": "Brouillon"
     },
     "Archived": {
       "ja": "アーカイブ済み",
       "es": "Archivado",
       "pt": "Arquivado",
-      "ko": "보관됨"
+      "ko": "보관됨",
+      "fr": [
+        "Archivé",
+        "Archivée",
+        "Archivés",
+        "Archivées"
+      ]
     },
     "Completed": {
       "ja": "完了",
@@ -685,7 +892,13 @@
         "Concluída",
         "Concluídas"
       ],
-      "ko": "완료됨"
+      "ko": "완료됨",
+      "fr": [
+        "Terminé",
+        "Terminée",
+        "Terminés",
+        "Terminées"
+      ]
     },
     "Delivered": {
       "ja": [
@@ -713,6 +926,14 @@
         "전달",
         "전달된",
         "수신"
+      ],
+      "fr": [
+        "Livré",
+        "Livrée",
+        "Livraison",
+        "livraison",
+        "envoi",
+        "envois"
       ]
     },
     "Delivery": {
@@ -725,19 +946,27 @@
         "Entrega",
         "Entregar"
       ],
-      "ko": "전달"
+      "ko": "전달",
+      "fr": [
+        "Livraison",
+        "Livrer",
+        "envoi",
+        "envois"
+      ]
     },
     "Delivery Rate": {
       "ja": "配信率",
       "es": "Tasa de entrega",
       "pt": "Taxa de entrega",
-      "ko": "전달률"
+      "ko": "전달률",
+      "fr": "Taux de livraison"
     },
     "Click-through Rate": {
       "ja": "クリック率",
       "es": "Tasa de clics",
       "pt": "Taxa de cliques",
-      "ko": "클릭률"
+      "ko": "클릭률",
+      "fr": "Taux de clics"
     },
     "CTR": {
       "ja": [
@@ -749,13 +978,18 @@
       "ko": [
         "CTR",
         "클릭률"
+      ],
+      "fr": [
+        "CTR",
+        "Taux de clics"
       ]
     },
     "Open Rate": {
       "ja": "開封率",
       "es": "Tasa de apertura",
       "pt": "Taxa de abertura",
-      "ko": "열람률"
+      "ko": "열람률",
+      "fr": "Taux d'ouverture"
     },
     "Conversion": {
       "ja": "コンバージョン",
@@ -767,7 +1001,11 @@
         "Conversão",
         "Conversões"
       ],
-      "ko": "전환"
+      "ko": "전환",
+      "fr": [
+        "Conversion",
+        "Conversions"
+      ]
     },
     "Recipients": {
       "ja": [
@@ -782,7 +1020,11 @@
         "Destinatários",
         "Destinatário"
       ],
-      "ko": "수신자"
+      "ko": "수신자",
+      "fr": [
+        "Destinataires",
+        "Destinataire"
+      ]
     },
     "Sender": {
       "ja": [
@@ -797,7 +1039,11 @@
         "Remetente",
         "Remetentes"
       ],
-      "ko": "발신자"
+      "ko": "발신자",
+      "fr": [
+        "Expéditeur",
+        "Expéditeurs"
+      ]
     },
     "Senders": {
       "ja": [
@@ -812,7 +1058,11 @@
         "Remetentes",
         "Remetente"
       ],
-      "ko": "발신자"
+      "ko": "발신자",
+      "fr": [
+        "Expéditeurs",
+        "Expéditeur"
+      ]
     },
     "App": {
       "ja": "アプリ",
@@ -824,7 +1074,12 @@
         "App",
         "Aplicativo"
       ],
-      "ko": "앱"
+      "ko": "앱",
+      "fr": [
+        "App",
+        "Application",
+        "application"
+      ]
     },
     "Apps": {
       "ja": "アプリ",
@@ -836,7 +1091,12 @@
         "Apps",
         "Aplicativos"
       ],
-      "ko": "앱"
+      "ko": "앱",
+      "fr": [
+        "Apps",
+        "Applications",
+        "applications"
+      ]
     }
   }
 }
