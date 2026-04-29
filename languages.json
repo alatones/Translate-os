@@ -5613,350 +5613,400 @@
       "es": "Envía mensajes perfectos",
       "pt": "Envie mensagens perfeitas",
       "ko": "완벽한 메시지 발송",
-      "fr": "Envoyez des messages parfaits"
+      "fr": "Envoyez des messages parfaits",
+      "tr": "Mükemmel mesajlar gönderin"
     },
     "Test Subscriptions documentation": {
       "ja": "テスト購読のドキュメント",
       "es": "Documentación de suscripciones de prueba",
       "pt": "Documentação de assinaturas de teste",
       "ko": "테스트 구독 문서",
-      "fr": "Documentation des abonnements de test"
+      "fr": "Documentation des abonnements de test",
+      "tr": "Test abonelikleri dokümantasyonu"
     },
     "Test personalized push message content": {
       "ja": "パーソナライズされたプッシュメッセージコンテンツをテスト",
       "es": "Prueba el contenido de mensajes push personalizados",
       "pt": "Teste o conteúdo de mensagens push personalizadas",
       "ko": "개인화된 푸시 메시지 내용 테스트",
-      "fr": "Tester du contenu de message push personnalisé"
+      "fr": "Tester du contenu de message push personnalisé",
+      "tr": "Kişiselleştirilmiş push mesaj içeriğini test edin"
     },
     "Walkthrough your user journey on your own device, from message to conversion": {
       "ja": "メッセージからコンバージョンまで、自分のデバイスでユーザージャーニーをウォークスルー",
       "es": "Recorre en tu propio dispositivo el journey del usuario, desde el mensaje hasta la conversión",
       "pt": "Percorra a jornada do usuário no seu próprio dispositivo, da mensagem à conversão",
       "ko": "자신의 기기에서 메시지부터 전환까지 사용자 여정을 직접 체험하세요",
-      "fr": "Parcourez le parcours utilisateur sur votre propre appareil, du message à la conversion"
+      "fr": "Parcourez le parcours utilisateur sur votre propre appareil, du message à la conversion",
+      "tr": "Mesajdan dönüşüme kadar kullanıcı yolculuğunuzu kendi cihazınızda gözden geçirin"
     },
     "Live Activities documentation": {
       "ja": "ライブアクティビティのドキュメント",
       "es": "Documentación de Live Activities",
       "pt": "Documentação de Live Activities",
       "ko": "라이브 액티비티 문서",
-      "fr": "Documentation Live Activities"
+      "fr": "Documentation Live Activities",
+      "tr": "Live Activities dokümantasyonu"
     },
     "Book a demo": {
       "ja": "デモを予約",
       "es": "Reservar una demo",
       "pt": "Agendar uma demonstração",
       "ko": "데모 예약",
-      "fr": "Réserver une démo"
+      "fr": "Réserver une démo",
+      "tr": "Demo rezervasyonu yap"
     },
     "Book a live demo": {
       "ja": "ライブデモを予約",
       "es": "Reservar una demo en vivo",
       "pt": "Agendar uma demonstração ao vivo",
       "ko": "라이브 데모 예약",
-      "fr": "Réserver une démo en direct"
+      "fr": "Réserver une démo en direct",
+      "tr": "Canlı demo rezervasyonu yap"
     },
     "Communicate mobile-first with users outside your app": {
       "ja": "アプリ外でもモバイルファーストでユーザーとコミュニケーションを取る",
       "es": "Comunícate con enfoque mobile-first con usuarios fuera de tu app",
       "pt": "Comunique-se com foco em mobile com usuários fora do seu app",
       "ko": "앱 외부의 사용자와 모바일 우선으로 소통하세요",
-      "fr": "Communiquez en mobile-first avec les utilisateurs en dehors de votre app"
+      "fr": "Communiquez en mobile-first avec les utilisateurs en dehors de votre app",
+      "tr": "Uygulamanız dışındaki kullanıcılarla mobil öncelikli olarak iletişim kurun"
     },
     "Design RCS in Figma": {
       "ja": "FigmaでRCSをデザイン",
       "es": "Diseñar RCS en Figma",
       "pt": "Criar design de RCS no Figma",
       "ko": "Figma에서 RCS 디자인",
-      "fr": "Concevoir RCS dans Figma"
+      "fr": "Concevoir RCS dans Figma",
+      "tr": "Figma'da RCS tasarla"
     },
     "Discover RCS": {
       "ja": "RCSを知る",
       "es": "Descubrir RCS",
       "pt": "Descobrir o RCS",
       "ko": "RCS 알아보기",
-      "fr": "Découvrir RCS"
+      "fr": "Découvrir RCS",
+      "tr": "RCS'yi keşfet"
     },
     "Discover what RCS can do": {
       "ja": "RCSでできることを確認",
       "es": "Descubre qué puede hacer RCS",
       "pt": "Descubra o que o RCS pode fazer",
       "ko": "RCS가 할 수 있는 것 알아보기",
-      "fr": "Découvrir ce que RCS peut faire"
+      "fr": "Découvrir ce que RCS peut faire",
+      "tr": "RCS'nin neler yapabileceğini keşfedin"
     },
     "Explore RCS in Figma with ready-made components to prototype messaging flows tailored to your use case.": {
       "ja": "ユースケースに合わせたメッセージングフローをプロトタイプするための既製コンポーネントを使って、FigmaでRCSを探索します。",
       "es": "Explora RCS en Figma con componentes listos para usar y prototipa flujos de mensajería adaptados a tu caso de uso.",
       "pt": "Explore o RCS no Figma com componentes prontos para prototipação de fluxos de mensagens personalizados para o seu caso de uso.",
       "ko": "사용 사례에 맞게 조정된 메시지 흐름을 프로토타입화하기 위해 준비된 컴포넌트로 Figma에서 RCS를 탐색하세요.",
-      "fr": "Explorez RCS dans Figma avec des composants prêts à l'emploi pour prototyper des flux de messagerie adaptés à votre cas d'usage."
+      "fr": "Explorez RCS dans Figma avec des composants prêts à l'emploi pour prototyper des flux de messagerie adaptés à votre cas d'usage.",
+      "tr": "Kullanım durumunuza özel mesajlaşma akışlarını prototiplemek için Figma'daki hazır bileşenlerle RCS'yi keşfedin."
     },
     "Get your brand on the lock screen": {
       "ja": "ブランドをロック画面に表示",
       "es": "Lleva tu marca a la pantalla de bloqueo",
       "pt": "Coloque sua marca na tela de bloqueio",
       "ko": "잠금 화면에 브랜드를 표시하세요",
-      "fr": "Faites apparaître votre marque sur l'écran de verrouillage"
+      "fr": "Faites apparaître votre marque sur l'écran de verrouillage",
+      "tr": "Markanızı kilit ekranına taşıyın"
     },
     "Great for real-time, transactional, or time-bound updates": {
       "ja": "リアルタイム・トランザクション・期間限定の更新に最適",
       "es": "Ideal para actualizaciones en tiempo real, transaccionales o con límite de tiempo",
       "pt": "Ótimo para atualizações em tempo real, transacionais ou com prazo determinado",
       "ko": "실시간, 거래 또는 시간 제한 업데이트에 적합합니다",
-      "fr": "Idéal pour les mises à jour en temps réel, transactionnelles ou limitées dans le temps"
+      "fr": "Idéal pour les mises à jour en temps réel, transactionnelles ou limitées dans le temps",
+      "tr": "Gerçek zamanlı, işlemsel veya zaman sınırlı güncellemeler için ideal"
     },
     "Highly engaging and visible on premium device surfaces like the Lock Screen or Dynamic Island": {
       "ja": "ロック画面やダイナミックアイランドなどのプレミアムデバイスサーフェスで高いエンゲージメントと視認性を実現",
       "es": "Muy atractivo y visible en superficies premium del dispositivo como la pantalla de bloqueo o el Dynamic Island",
       "pt": "Altamente envolvente e visível em superfícies premium do dispositivo, como a tela de bloqueio ou a Dynamic Island",
       "ko": "잠금 화면이나 Dynamic Island와 같은 프리미엄 기기 인터페이스에서 높은 참여도와 가시성을 제공합니다",
-      "fr": "Très engageant et visible sur les surfaces premium des appareils comme l'écran de verrouillage ou Dynamic Island"
+      "fr": "Très engageant et visible sur les surfaces premium des appareils comme l'écran de verrouillage ou Dynamic Island",
+      "tr": "Kilit Ekranı veya Dynamic Island gibi premium cihaz yüzeylerinde son derece etkileşimli ve görünür"
     },
     "Open in Figma": {
       "ja": "Figmaで開く",
       "es": "Abrir en Figma",
       "pt": "Abrir no Figma",
       "ko": "Figma에서 열기",
-      "fr": "Ouvrir dans Figma"
+      "fr": "Ouvrir dans Figma",
+      "tr": "Figma'da aç"
     },
     "RCS drives up to 60% more conversions than SMS. See how brands use rich media messages to boost results.": {
       "ja": "RCSはSMSよりも最大60%多くのコンバージョンを促進します。ブランドがリッチメディアメッセージをどのように活用して成果を上げているかをご覧ください。",
       "es": "RCS impulsa hasta un 60% más de conversiones que los SMS. Descubre cómo las marcas usan mensajes de rich media para mejorar los resultados.",
       "pt": "O RCS gera até 60% mais conversões do que o SMS. Veja como as marcas usam mensagens de rich media para aumentar os resultados.",
       "ko": "RCS는 SMS보다 최대 60% 더 많은 전환을 유도합니다. 브랜드가 리치 미디어 메시지를 사용하여 결과를 향상시키는 방법을 확인하세요.",
-      "fr": "RCS génère jusqu'à 60 % de conversions en plus que les SMS. Découvrez comment les marques utilisent les messages enrichis pour de meilleurs résultats."
+      "fr": "RCS génère jusqu'à 60 % de conversions en plus que les SMS. Découvrez comment les marques utilisent les messages enrichis pour de meilleurs résultats.",
+      "tr": "RCS, SMS'e kıyasla %60'a kadar daha fazla dönüşüm sağlar. Markaların sonuçları artırmak için zengin medya mesajlarını nasıl kullandığını görün."
     },
     "SMS / RCS documentation": {
       "ja": "SMS / RCSドキュメント",
       "es": "Documentación de SMS / RCS",
       "pt": "Documentação de SMS / RCS",
       "ko": "SMS / RCS 문서",
-      "fr": "Documentation SMS / RCS"
+      "fr": "Documentation SMS / RCS",
+      "tr": "SMS / RCS dokümantasyonu"
     },
     "SMS for promos, security verifications, and more": {
       "ja": "プロモーション、セキュリティ認証などにSMSを活用",
       "es": "SMS para promociones, verificaciones de seguridad y más",
       "pt": "SMS para promoções, verificações de segurança e muito mais",
       "ko": "프로모션, 보안 인증 등을 위한 SMS",
-      "fr": "SMS pour les promotions, vérifications de sécurité, etc."
+      "fr": "SMS pour les promotions, vérifications de sécurité, etc.",
+      "tr": "Promosyonlar, güvenlik doğrulamaları ve daha fazlası için SMS"
     },
     "SMS has the highest open and engagement rates": {
       "ja": "SMSは最も高い開封率とエンゲージメント率を誇ります",
       "es": "Los SMS tienen las tasas de apertura y engagement más altas",
       "pt": "O SMS tem as mais altas taxas de abertura e engajamento",
       "ko": "SMS는 가장 높은 열람율 및 참여율을 자랑합니다",
-      "fr": "Les SMS ont les taux d'ouverture et d'engagement les plus élevés"
+      "fr": "Les SMS ont les taux d'ouverture et d'engagement les plus élevés",
+      "tr": "SMS en yüksek açılma ve etkileşim oranlarına sahiptir"
     },
     "See how SMS and RCS fit into your engagement strategy. Get expert tips on growing conversions and retention.": {
       "ja": "SMSとRCSがエンゲージメント戦略にどのように組み込まれるかをご覧ください。コンバージョンとリテンションを高めるための専門家のヒントをご紹介します。",
       "es": "Descubre cómo SMS y RCS encajan en tu estrategia de engagement. Obtén consejos de expertos para aumentar conversiones y retención.",
       "pt": "Veja como o SMS e o RCS se encaixam na sua estratégia de engajamento. Obtenha dicas de especialistas para aumentar conversões e retenção.",
       "ko": "SMS와 RCS가 참여 전략에 어떻게 맞는지 알아보세요. 전환율과 유지율을 높이기 위한 전문가 팁을 얻으세요.",
-      "fr": "Découvrez comment SMS et RCS s'intègrent dans votre stratégie d'engagement. Obtenez des conseils d'experts pour augmenter conversions et rétention."
+      "fr": "Découvrez comment SMS et RCS s'intègrent dans votre stratégie d'engagement. Obtenez des conseils d'experts pour augmenter conversions et rétention.",
+      "tr": "SMS ve RCS'nin etkileşim stratejinize nasıl uyduğunu görün. Dönüşüm ve elde tutmayı artırmak için uzman ipuçları alın."
     },
     "Set Up SMS / RCS": {
       "ja": "SMS / RCSをセットアップ",
       "es": "Configurar SMS / RCS",
       "pt": "Configurar SMS / RCS",
       "ko": "SMS / RCS 설정",
-      "fr": "Configurer SMS / RCS"
+      "fr": "Configurer SMS / RCS",
+      "tr": "SMS / RCS kur"
     },
     "Texts that work": {
       "ja": "効果的なテキストメッセージ",
       "es": "Textos que funcionan",
       "pt": "Textos que funcionam",
       "ko": "효과적인 문자 메시지",
-      "fr": "Des SMS qui fonctionnent"
+      "fr": "Des SMS qui fonctionnent",
+      "tr": "İşe yarayan SMS'ler"
     },
     "Visible for up to 8 hours": {
       "ja": "最大8時間表示",
       "es": "Visible durante hasta 8 horas",
       "pt": "Visível por até 8 horas",
       "ko": "최대 8시간 동안 표시됨",
-      "fr": "Visible jusqu'à 8 heures"
+      "fr": "Visible jusqu'à 8 heures",
+      "tr": "8 saate kadar görünür"
     },
     "Manage OneSignal with AI tools": {
       "ja": "AIツールでOneSignalを管理",
       "es": "Administra OneSignal con herramientas de IA",
       "pt": "Gerencie o OneSignal com ferramentas de IA",
       "ko": "AI 도구로 OneSignal 관리",
-      "fr": "Gérer OneSignal avec des outils IA"
+      "fr": "Gérer OneSignal avec des outils IA",
+      "tr": "OneSignal'i yapay zeka araçlarıyla yönetin"
     },
     "OneSignal Logo": {
       "ja": "OneSignalロゴ",
       "es": "Logotipo de OneSignal",
       "pt": "Logotipo da OneSignal",
       "ko": "OneSignal 로고",
-      "fr": "Logo OneSignal"
+      "fr": "Logo OneSignal",
+      "tr": "OneSignal logosu"
     },
     "OneSignal logo": {
       "ja": "OneSignalロゴ",
       "es": "Logotipo de OneSignal",
       "pt": "Logotipo da OneSignal",
       "ko": "OneSignal 로고",
-      "fr": "Logo OneSignal"
+      "fr": "Logo OneSignal",
+      "tr": "OneSignal logosu"
     },
     "Remove Clicks filter": {
       "ja": "クリックフィルターを削除",
       "es": "Quitar filtro de clics",
       "pt": "Remover filtro de cliques",
       "ko": "클릭 필터 제거",
-      "fr": "Retirer le filtre Clics"
+      "fr": "Retirer le filtre Clics",
+      "tr": "Tıklamalar filtresini kaldır"
     },
     "Remove Confirmed filter": {
       "ja": "確認済みフィルターを削除",
       "es": "Quitar filtro de confirmados",
       "pt": "Remover filtro de confirmados",
       "ko": "확인됨 필터 제거",
-      "fr": "Retirer le filtre Confirmés"
+      "fr": "Retirer le filtre Confirmés",
+      "tr": "Onaylananlar filtresini kaldır"
     },
     "Remove Sessions filter": {
       "ja": "セッションフィルターを削除",
       "es": "Quitar filtro de sesiones",
       "pt": "Remover filtro de sessões",
       "ko": "세션 필터 제거",
-      "fr": "Retirer le filtre Sessions"
+      "fr": "Retirer le filtre Sessions",
+      "tr": "Oturumlar filtresini kaldır"
     },
     "Select comparison period for subscription trends": {
       "ja": "購読トレンドの比較期間を選択",
       "es": "Seleccionar período de comparación para tendencias de suscripción",
       "pt": "Selecionar período de comparação para tendências de assinatura",
       "ko": "구독 트렌드의 비교 기간 선택",
-      "fr": "Sélectionner la période de comparaison pour les tendances d'abonnement"
+      "fr": "Sélectionner la période de comparaison pour les tendances d'abonnement",
+      "tr": "Abonelik eğilimleri için karşılaştırma dönemi seçin"
     },
     "Select custom date range for subscription trends": {
       "ja": "購読トレンドのカスタム期間を選択",
       "es": "Seleccionar rango de fechas personalizado para tendencias de suscripción",
       "pt": "Selecionar intervalo de datas personalizado para tendências de assinatura",
       "ko": "구독 트렌드의 사용자 정의 날짜 범위 선택",
-      "fr": "Sélectionner une plage de dates personnalisée pour les tendances d'abonnement"
+      "fr": "Sélectionner une plage de dates personnalisée pour les tendances d'abonnement",
+      "tr": "Abonelik eğilimleri için özel tarih aralığı seçin"
     },
     "Select outcome metric to add": {
       "ja": "追加する結果指標を選択",
       "es": "Seleccionar métrica de resultado para agregar",
       "pt": "Selecionar métrica de resultado para adicionar",
       "ko": "추가할 결과 지표 선택",
-      "fr": "Sélectionner une métrique de résultat à ajouter"
+      "fr": "Sélectionner une métrique de résultat à ajouter",
+      "tr": "Eklenecek sonuç metriğini seçin"
     },
     "Select time period for subscription trends": {
       "ja": "購読トレンドの期間を選択",
       "es": "Seleccionar período de tiempo para tendencias de suscripción",
       "pt": "Selecionar período de tempo para tendências de assinatura",
       "ko": "구독 트렌드의 기간 선택",
-      "fr": "Sélectionner la période pour les tendances d'abonnement"
+      "fr": "Sélectionner la période pour les tendances d'abonnement",
+      "tr": "Abonelik eğilimleri için zaman dilimi seçin"
     },
     "Setup guide": {
       "ja": "セットアップガイド",
       "es": "Guía de configuración",
       "pt": "Guia de configuração",
       "ko": "설정 가이드",
-      "fr": "Guide de configuration"
+      "fr": "Guide de configuration",
+      "tr": "Kurulum kılavuzu"
     },
     "User avatar": {
       "ja": "ユーザーアバター",
       "es": "Avatar del usuario",
       "pt": "Avatar do usuário",
       "ko": "사용자 아바타",
-      "fr": "Avatar de l'utilisateur"
+      "fr": "Avatar de l'utilisateur",
+      "tr": "Kullanıcı avatarı"
     },
     "Product": {
       "ja": "製品",
       "es": "Producto",
       "pt": "Produto",
       "ko": "제품",
-      "fr": "Produit"
+      "fr": "Produit",
+      "tr": "Ürün"
     },
     "Failure message": {
       "ja": "失敗メッセージ",
       "es": "Mensaje de error",
       "pt": "Mensagem de falha",
       "ko": "실패 메시지",
-      "fr": "Message d'échec"
+      "fr": "Message d'échec",
+      "tr": "Hata mesajı"
     },
     "Subscription status": {
       "ja": "購読状況",
       "es": "Estado de suscripción",
       "pt": "Status de assinatura",
       "ko": "구독 상태",
-      "fr": "Statut d'abonnement"
+      "fr": "Statut d'abonnement",
+      "tr": "Abonelik durumu"
     },
     "Google Android": {
       "ja": "Google Android",
       "es": "Google Android",
       "pt": "Google Android",
       "ko": "Google Android",
-      "fr": "Google Android"
+      "fr": "Google Android",
+      "tr": "Google Android"
     },
     "Apple iOS": {
       "ja": "Apple iOS",
       "es": "Apple iOS",
       "pt": "Apple iOS",
       "ko": "Apple iOS",
-      "fr": "Apple iOS"
+      "fr": "Apple iOS",
+      "tr": "Apple iOS"
     },
     "Google Chrome": {
       "ja": "Google Chrome",
       "es": "Google Chrome",
       "pt": "Google Chrome",
       "ko": "Google Chrome",
-      "fr": "Google Chrome"
+      "fr": "Google Chrome",
+      "tr": "Google Chrome"
     },
     "Mozilla Firefox": {
       "ja": "Mozilla Firefox",
       "es": "Mozilla Firefox",
       "pt": "Mozilla Firefox",
       "ko": "Mozilla Firefox",
-      "fr": "Mozilla Firefox"
+      "fr": "Mozilla Firefox",
+      "tr": "Mozilla Firefox"
     },
     "Edge": {
       "ja": "Edge",
       "es": "Edge",
       "pt": "Edge",
       "ko": "Edge",
-      "fr": "Edge"
+      "fr": "Edge",
+      "tr": "Edge"
     },
     "Web Push (Apple Web)": {
       "ja": "Webプッシュ (Apple Web)",
       "es": "Web Push (Apple Web)",
       "pt": "Web Push (Apple Web)",
       "ko": "웹 푸시 (Apple Web)",
-      "fr": "Web Push (Apple Web)"
+      "fr": "Web Push (Apple Web)",
+      "tr": "Web Push (Apple Web)"
     },
     "Web Push (Chrome)": {
       "ja": "Webプッシュ (Chrome)",
       "es": "Web Push (Chrome)",
       "pt": "Web Push (Chrome)",
       "ko": "웹 푸시 (Chrome)",
-      "fr": "Web Push (Chrome)"
+      "fr": "Web Push (Chrome)",
+      "tr": "Web Push (Chrome)"
     },
     "Web Push (Firefox)": {
       "ja": "Webプッシュ (Firefox)",
       "es": "Web Push (Firefox)",
       "pt": "Web Push (Firefox)",
       "ko": "웹 푸시 (Firefox)",
-      "fr": "Web Push (Firefox)"
+      "fr": "Web Push (Firefox)",
+      "tr": "Web Push (Firefox)"
     },
     "Web Push (Edge)": {
       "ja": "Webプッシュ (Edge)",
       "es": "Web Push (Edge)",
       "pt": "Web Push (Edge)",
       "ko": "웹 푸시 (Edge)",
-      "fr": "Web Push (Edge)"
+      "fr": "Web Push (Edge)",
+      "tr": "Web Push (Edge)"
     },
     "Web Browser": {
       "ja": "Webブラウザ",
       "es": "Navegador web",
       "pt": "Navegador web",
       "ko": "웹 브라우저",
-      "fr": "Navigateur web"
+      "fr": "Navigateur web",
+      "tr": "Web tarayıcısı"
     },
     "Native App": {
       "ja": "ネイティブアプリ",
       "es": "Aplicación nativa",
       "pt": "Aplicativo nativo",
       "ko": "네이티브 앱",
-      "fr": "Application native"
+      "fr": "Application native",
+      "tr": "Yerel uygulama"
     },
     "Windows": {
       "ja": "Windows",
