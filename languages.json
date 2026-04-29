@@ -3312,139 +3312,162 @@
       "es": "Asunto",
       "ja": "件名",
       "pt": "Assunto",
-      "ko": "제목 줄"
+      "ko": "제목 줄",
+      "fr": "Ligne d'objet"
     },
     "Subscribed": {
       "es": "Suscrito",
       "ja": "購読中",
       "pt": "Inscrito",
-      "ko": "구독됨"
+      "ko": "구독됨",
+      "fr": "Abonné"
     },
     "Subscriber Opted Out": {
       "es": "Suscriptor excluido",
       "ja": "購読者がオプトアウト",
       "pt": "Assinante excluído",
-      "ko": "구독자 거부"
+      "ko": "구독자 거부",
+      "fr": "Abonné exclu"
     },
     "Subscription Date": {
       "es": "Fecha de suscripción",
       "ja": "購読日",
       "pt": "Data de inscrição",
-      "ko": "구독 날짜"
+      "ko": "구독 날짜",
+      "fr": "Date d'abonnement"
     },
     "Subscription ID": {
       "es": "ID de suscripción",
       "ja": "購読ID",
       "pt": "ID de assinatura",
-      "ko": "구독 ID"
+      "ko": "구독 ID",
+      "fr": "ID d'abonnement"
     },
     "Subscription Records": {
       "es": "Registros de suscripción",
       "ja": "購読記録",
       "pt": "Registros de assinaturas",
-      "ko": "구독 기록"
+      "ko": "구독 기록",
+      "fr": "Enregistrements d'abonnement"
     },
     "Subscription trends": {
       "es": "Tendencias de suscripciones",
       "ja": "購読推移",
       "pt": "Tendências de assinaturas",
-      "ko": "구독 트렌드"
+      "ko": "구독 트렌드",
+      "fr": "Tendances d'abonnement"
     },
     "Subscriptions": {
       "es": "Suscripciones",
       "ja": "購読",
       "pt": "Assinaturas",
-      "ko": "구독"
+      "ko": "구독",
+      "fr": "Abonnements"
     },
     "Success": {
       "es": "Éxito",
       "ja": "成功",
       "pt": "Sucesso",
-      "ko": "성공"
+      "ko": "성공",
+      "fr": "Succès"
     },
     "Success Rate": {
       "es": "Tasa de éxito",
       "ja": "成功率",
       "pt": "Taxa de sucesso",
-      "ko": "성공률"
+      "ko": "성공률",
+      "fr": "Taux de réussite"
     },
     "Successful Updates": {
       "es": "Actualizaciones exitosas",
       "ja": "成功した更新",
       "pt": "Atualizações bem-sucedidas",
-      "ko": "성공적인 업데이트"
+      "ko": "성공적인 업데이트",
+      "fr": "Mises à jour réussies"
     },
     "Sun": {
       "es": "Dom",
       "ja": "日",
       "pt": "Dom",
-      "ko": "일"
+      "ko": "일",
+      "fr": "Dim"
     },
     "Super User": {
       "es": "Superusuario",
       "ja": "スーパーユーザー",
       "pt": "Superusuário",
-      "ko": "슈퍼 사용자"
+      "ko": "슈퍼 사용자",
+      "fr": "Super-utilisateur"
     },
     "Support and documentation": {
       "es": "Soporte y documentación",
       "ja": "サポートとドキュメント",
       "pt": "Suporte e documentação",
-      "ko": "지원 및 문서"
+      "ko": "지원 및 문서",
+      "fr": "Support et documentation"
     },
     "Sync contacts through API": {
       "es": "Sincroniza contactos a través de la API",
       "ja": "APIで連絡先を同期",
       "pt": "Sincronize contatos via API",
-      "ko": "API를 통해 연락처 동기화"
+      "ko": "API를 통해 연락처 동기화",
+      "fr": "Synchroniser les contacts via l'API"
     },
     "Tag": {
       "es": "Etiqueta",
       "ja": "タグ",
       "pt": "Tag",
-      "ko": "태그"
+      "ko": "태그",
+      "fr": "Tag"
     },
     "Tags": {
       "es": "Etiquetas",
       "ja": "タグ",
       "pt": "Tags",
-      "ko": "태그"
+      "ko": "태그",
+      "fr": "Tags"
     },
     "Team Members": {
       "es": "Miembros del equipo",
       "ja": "チームメンバー",
       "pt": "Membros da equipe",
-      "ko": "팀원"
+      "ko": "팀원",
+      "fr": "Membres de l'équipe"
     },
     "Template Name": {
       "es": "Nombre de la plantilla",
       "ja": "テンプレート名",
       "pt": "Nome do modelo",
-      "ko": "템플릿 이름"
+      "ko": "템플릿 이름",
+      "fr": "Nom du modèle"
     },
     "Templates": {
       "es": "Plantillas",
       "ja": "テンプレート",
       "pt": "Modelos",
-      "ko": "템플릿"
+      "ko": "템플릿",
+      "fr": "Modèles"
     },
     "Test Subscription Records": {
       "es": "Registros de suscripciones de prueba",
       "ja": "テスト購読記録",
       "pt": "Registros de assinaturas de teste",
-      "ko": "테스트 구독 기록"
+      "ko": "테스트 구독 기록",
+      "fr": "Enregistrements d'abonnements de test"
     },
     "Test Subscriptions": {
       "es": "Suscripciones de prueba",
       "ja": "テスト購読",
       "pt": "Assinaturas de teste",
-      "ko": "테스트 구독"
+      "ko": "테스트 구독",
+      "fr": "Abonnements de test"
     },
     "Test Users": {
       "es": "Usuarios de prueba",
       "ja": "テストユーザー",
       "pt": "Usuários de teste",
-      "ko": "테스트 사용자"
+      "ko": "테스트 사용자",
+      "fr": "Utilisateurs de test"
     },
     "This action cannot be undone.": {
       "es": "Esta acción no se puede deshacer.",
@@ -3564,7 +3587,8 @@
       "es": "TTL",
       "ja": "TTL",
       "pt": "TTL",
-      "ko": "TTL"
+      "ko": "TTL",
+      "fr": "TTL"
     },
     "Tue": {
       "es": "Mar",
@@ -4085,7 +4109,8 @@
       "ja": "リアルタイムでデータをストリーミングして、他のCRMツールでタイムリーなアクションやワークフローをトリガーする",
       "es": "Transmite datos en tiempo real para activar acciones o flujos de trabajo en otras herramientas de CRM",
       "pt": "Transmita dados em tempo real para acionar ações ou fluxos de trabalho em outras ferramentas de relacionamento",
-      "ko": "실시간으로 데이터를 스트리밍하여 다른 고객 관계 도구에서 시의적절한 작업 또는 워크플로를 트리거하세요"
+      "ko": "실시간으로 데이터를 스트리밍하여 다른 고객 관계 도구에서 시의적절한 작업 또는 워크플로를 트리거하세요",
+      "fr": "Transmettez les données en temps réel pour déclencher des actions ou flux de travail opportuns dans vos autres outils CRM"
     },
     "Data Warehouse": {
       "ja": "データウェアハウス",
@@ -4751,7 +4776,8 @@
       "ja": "購読のドキュメント",
       "es": "Documentación de suscripciones",
       "pt": "Documentação de assinaturas",
-      "ko": "구독 문서"
+      "ko": "구독 문서",
+      "fr": "Documentation des abonnements"
     },
     "Understand your audience": {
       "ja": "オーディエンスを理解",
@@ -4797,7 +4823,8 @@
       "ja": "テスト購読のドキュメント",
       "es": "Documentación de suscripciones de prueba",
       "pt": "Documentação de assinaturas de teste",
-      "ko": "테스트 구독 문서"
+      "ko": "테스트 구독 문서",
+      "fr": "Documentation des abonnements de test"
     },
     "Test personalized push message content": {
       "ja": "パーソナライズされたプッシュメッセージコンテンツをテスト",
@@ -5050,7 +5077,8 @@
       "ja": "購読状況",
       "es": "Estado de suscripción",
       "pt": "Status de assinatura",
-      "ko": "구독 상태"
+      "ko": "구독 상태",
+      "fr": "Statut d'abonnement"
     },
     "Google Android": {
       "ja": "Google Android",
@@ -5377,7 +5405,8 @@
       "ja": "サブタイトル",
       "es": "Subtítulo",
       "pt": "Subtítulo",
-      "ko": "부제목"
+      "ko": "부제목",
+      "fr": "Sous-titre"
     },
     "Throttling": {
       "ja": "スロットリング",
@@ -5496,7 +5525,8 @@
       "ja": "ツアーを開始",
       "es": "INICIAR RECORRIDO",
       "pt": "INICIAR TOUR",
-      "ko": "둘러보기"
+      "ko": "둘러보기",
+      "fr": "FAIRE LA VISITE"
     },
     "Tooltip anchor": {
       "ja": "ツールチップのアンカー",
@@ -5535,7 +5565,8 @@
       "ja": "成功",
       "es": "Exitoso",
       "pt": "Bem-sucedido",
-      "ko": "성공"
+      "ko": "성공",
+      "fr": "Réussi"
     },
     "4xx Responses": {
       "ja": "4xx応答",
@@ -5752,7 +5783,8 @@
       "ja": "テストとプレビュー",
       "es": "Probar y previsualizar",
       "pt": "Testar e visualizar",
-      "ko": "테스트 및 미리보기"
+      "ko": "테스트 및 미리보기",
+      "fr": "Tester et prévisualiser"
     },
     "What segment(s)": {
       "ja": "どのセグメント",
@@ -6062,7 +6094,8 @@
       "ja": "件名",
       "es": "Asunto",
       "pt": "Assunto",
-      "ko": "제목"
+      "ko": "제목",
+      "fr": "Objet"
     },
     "Total Users": {
       "ja": "全ユーザー",
@@ -6318,7 +6351,8 @@
       "ja": "システムフォント (デフォルト)",
       "es": "Fuente del sistema (predeterminada)",
       "pt": "Fonte do sistema (padrão)",
-      "ko": "시스템 글꼴 (기본)"
+      "ko": "시스템 글꼴 (기본)",
+      "fr": "Police système (par défaut)"
     },
     "Text formatting": {
       "ja": "テキスト書式",
@@ -6668,7 +6702,8 @@
       "ja": "エディターを切り替え",
       "es": "Cambiar de editor",
       "pt": "Alternar editor",
-      "ko": "편집기 전환"
+      "ko": "편집기 전환",
+      "fr": "Changer d'éditeur"
     },
     "Text": {
       "ja": "テキスト",
@@ -7828,25 +7863,29 @@
       "ja": "サブタイトル (Any/英語)",
       "es": "Subtítulo (cualquiera/inglés)",
       "pt": "Subtítulo (qualquer/inglês)",
-      "ko": "부제목 (Any/영어)"
+      "ko": "부제목 (Any/영어)",
+      "fr": "Sous-titre (Tout/Anglais)"
     },
     "Subtitle input": {
       "ja": "サブタイトル入力",
       "es": "Entrada del subtítulo",
       "pt": "Entrada do subtítulo",
-      "ko": "부제목 입력"
+      "ko": "부제목 입력",
+      "fr": "Saisie du sous-titre"
     },
     "System Icon": {
       "ja": "システムアイコン",
       "es": "Icono del sistema",
       "pt": "Ícone do sistema",
-      "ko": "시스템 아이콘"
+      "ko": "시스템 아이콘",
+      "fr": "Icône système"
     },
     "Target Content Id": {
       "ja": "ターゲットコンテンツID",
       "es": "Id. de contenido de destino",
       "pt": "ID do conteúdo alvo",
-      "ko": "타겟 콘텐츠 ID"
+      "ko": "타겟 콘텐츠 ID",
+      "fr": "ID de contenu cible"
     },
     "Time Sensitive": {
       "ja": "時間に敏感",
@@ -7943,7 +7982,8 @@
       "ja": "テストユーザーがtrue",
       "es": "Usuarios de prueba es verdadero",
       "pt": "Usuários de teste é verdadeiro",
-      "ko": "테스트 사용자가 참"
+      "ko": "테스트 사용자가 참",
+      "fr": "Utilisateurs de test est vrai"
     },
     "Device Type is Web Push (All Browsers)": {
       "ja": "デバイスタイプはWebプッシュ (全ブラウザ)",
@@ -8054,7 +8094,8 @@
       "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
       "es": "Los registros de suscripción en este segmento deben cumplir estas reglas:",
       "pt": "Os registros de assinatura neste segmento devem atender a estas regras:",
-      "ko": "이 세그먼트의 구독 기록은 다음 규칙을 충족해야 합니다:"
+      "ko": "이 세그먼트의 구독 기록은 다음 규칙을 충족해야 합니다:",
+      "fr": "Les enregistrements d'abonnement de ce segment doivent respecter ces règles :"
     },
     "The first date/time the device communicated with our servers": {
       "ja": "デバイスが最初にサーバーと通信した日時",
@@ -8245,13 +8286,15 @@
       "ja": "ストリーミングイベント",
       "es": "Eventos de streaming",
       "pt": "Eventos de streaming",
-      "ko": "스트리밍 이벤트"
+      "ko": "스트리밍 이벤트",
+      "fr": "Événements en streaming"
     },
     "Subscription Cycle": {
       "ja": "購読サイクル",
       "es": "Ciclo de suscripción",
       "pt": "Ciclo de assinatura",
-      "ko": "구독 주기"
+      "ko": "구독 주기",
+      "fr": "Cycle d'abonnement"
     },
     "Blank SMS / RCS": {
       "ja": "空のSMS / RCS",
@@ -8519,7 +8562,8 @@
       "ja": "テンプレート",
       "es": "Plantilla",
       "pt": "Modelo",
-      "ko": "템플릿"
+      "ko": "템플릿",
+      "fr": "Modèle"
     },
     "AI-generated Push Template": {
       "ja": "AI生成プッシュテンプレート",
@@ -9128,7 +9172,8 @@
       "ja": "テンプレートが作成されました",
       "es": "Plantilla creada",
       "pt": "Modelo criado",
-      "ko": "템플릿 생성됨"
+      "ko": "템플릿 생성됨",
+      "fr": "Modèle créé"
     },
     "User action": {
       "ja": "ユーザーアクション",
@@ -9369,13 +9414,15 @@
       "ja": "スーパーユーザー",
       "es": "Superusuario",
       "pt": "Superusuário",
-      "ko": "슈퍼 사용자"
+      "ko": "슈퍼 사용자",
+      "fr": "Super-utilisateur"
     },
     "Suppressions": {
       "ja": "サプレッション",
       "es": "Supresiones",
       "pt": "Supressões",
-      "ko": "수신 거부"
+      "ko": "수신 거부",
+      "fr": "Suppressions"
     },
     "Turn on automated UTM tagging": {
       "ja": "自動UTMタグ付けを有効化",
@@ -10002,7 +10049,8 @@
       "ja": "購読キーワードの応答",
       "es": "Respuesta de palabra clave de suscripción",
       "pt": "Resposta da palavra-chave de inscrição",
-      "ko": "구독 키워드 응답"
+      "ko": "구독 키워드 응답",
+      "fr": "Réponse au mot-clé d'abonnement"
     },
     "Text-To-Subscribe Keywords": {
       "ja": "テキスト購読キーワード",
@@ -10205,7 +10253,8 @@
       "ja": "プロバイダーを切り替え",
       "es": "Cambiar de proveedor",
       "pt": "Alternar provedores",
-      "ko": "공급자 전환"
+      "ko": "공급자 전환",
+      "fr": "Changer de fournisseur"
     },
     "To understand your reputation, see your ESP provider or email reputation tools": {
       "ja": "評判を確認するには、ESPプロバイダーまたはメール評判ツールをご確認ください",
@@ -10224,7 +10273,8 @@
       "ja": "チームメンバー",
       "es": "Miembro del equipo",
       "pt": "Membro da equipe",
-      "ko": "팀원"
+      "ko": "팀원",
+      "fr": "Membre de l'équipe"
     },
     "CANCEL": {
       "ja": "CANCEL",
