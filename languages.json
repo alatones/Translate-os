@@ -10365,7 +10365,8 @@
       "pt": "Ícone do sistema",
       "ko": "시스템 아이콘",
       "fr": "Icône système",
-      "tr": "Sistem simgesi"
+      "tr": "Sistem simgesi",
+      "zh-CN": "系统图标"
     },
     "Target Content Id": {
       "ja": "ターゲットコンテンツID",
@@ -10373,7 +10374,8 @@
       "pt": "ID do conteúdo alvo",
       "ko": "타겟 콘텐츠 ID",
       "fr": "ID de contenu cible",
-      "tr": "Hedef içerik ID"
+      "tr": "Hedef içerik ID",
+      "zh-CN": "目标内容 ID"
     },
     "Time Sensitive": {
       "ja": "時間に敏感",
@@ -10381,7 +10383,8 @@
       "pt": "Sensível ao tempo",
       "ko": "시간 민감",
       "fr": "Sensible au temps",
-      "tr": "Zamana duyarlı"
+      "tr": "Zamana duyarlı",
+      "zh-CN": "时间敏感"
     },
     "Title (Any/English)": {
       "ja": "タイトル (Any/英語)",
@@ -10389,7 +10392,8 @@
       "pt": "Título (qualquer/inglês)",
       "ko": "제목 (Any/영어)",
       "fr": "Titre (Tout/Anglais)",
-      "tr": "Başlık (Tümü/İngilizce)"
+      "tr": "Başlık (Tümü/İngilizce)",
+      "zh-CN": "标题（任意/英语）"
     },
     "Title input": {
       "ja": "タイトル入力",
@@ -10397,7 +10401,8 @@
       "pt": "Entrada do título",
       "ko": "제목 입력",
       "fr": "Saisie du titre",
-      "tr": "Başlık girişi"
+      "tr": "Başlık girişi",
+      "zh-CN": "标题输入"
     },
     "Urgent no sound": {
       "ja": "緊急 (音なし)",
@@ -10405,7 +10410,8 @@
       "pt": "Urgente sem som",
       "ko": "긴급 무음",
       "fr": "Urgent sans son",
-      "tr": "Acil sessiz"
+      "tr": "Acil sessiz",
+      "zh-CN": "紧急无声"
     },
     "Urgent priority": {
       "ja": "緊急優先度",
@@ -10413,7 +10419,8 @@
       "pt": "Prioridade urgente",
       "ko": "긴급 우선순위",
       "fr": "Priorité urgente",
-      "tr": "Acil öncelik"
+      "tr": "Acil öncelik",
+      "zh-CN": "紧急优先级"
     },
     "Value 1": {
       "ja": "値 1",
@@ -10421,7 +10428,8 @@
       "pt": "Valor 1",
       "ko": "값 1",
       "fr": "Valeur 1",
-      "tr": "Değer 1"
+      "tr": "Değer 1",
+      "zh-CN": "值 1"
     },
     "Web Push Topic": {
       "ja": "Webプッシュトピック",
@@ -10429,7 +10437,8 @@
       "pt": "Tópico de push web",
       "ko": "웹 푸시 토픽",
       "fr": "Sujet du Web Push",
-      "tr": "Web Push konusu"
+      "tr": "Web Push konusu",
+      "zh-CN": "Web Push 主题"
     },
     "days": {
       "ja": "日",
@@ -10437,7 +10446,8 @@
       "pt": "dias",
       "ko": "일",
       "fr": "jours",
-      "tr": "gün"
+      "tr": "gün",
+      "zh-CN": "天"
     },
     "e.g. hand.thumbsup": {
       "ja": "例: hand.thumbsup",
@@ -10445,7 +10455,8 @@
       "pt": "ex.: hand.thumbsup",
       "ko": "예: hand.thumbsup",
       "fr": "par ex. hand.thumbsup",
-      "tr": "örn. hand.thumbsup"
+      "tr": "örn. hand.thumbsup",
+      "zh-CN": "例如 hand.thumbsup"
     },
     "hours": {
       "ja": "時間",
@@ -10453,7 +10464,8 @@
       "pt": "horas",
       "ko": "시간",
       "fr": "heures",
-      "tr": "saat"
+      "tr": "saat",
+      "zh-CN": "小时"
     },
     "iOS/Android Action Buttons": {
       "ja": "iOS/Androidアクションボタン",
@@ -10461,7 +10473,8 @@
       "pt": "Botões de ação iOS/Android",
       "ko": "iOS/Android 액션 버튼",
       "fr": "Boutons d'action iOS/Android",
-      "tr": "iOS/Android eylem düğmeleri"
+      "tr": "iOS/Android eylem düğmeleri",
+      "zh-CN": "iOS/Android 操作按钮"
     },
     "minutes": {
       "ja": "分",
@@ -10469,7 +10482,8 @@
       "pt": "minutos",
       "ko": "분",
       "fr": "minutes",
-      "tr": "dakika"
+      "tr": "dakika",
+      "zh-CN": "分钟"
     },
     "or paste URL to image, sound, video": {
       "ja": "または画像、音声、動画のURLを貼り付け",
@@ -10477,7 +10491,8 @@
       "pt": "ou cole a URL de imagem, som ou vídeo",
       "ko": "또는 이미지, 소리, 동영상 URL 붙여넣기",
       "fr": "ou collez une URL d'image, son ou vidéo",
-      "tr": "veya görsel, ses, video URL'si yapıştırın"
+      "tr": "veya görsel, ses, video URL'si yapıştırın",
+      "zh-CN": "或粘贴图像、音频、视频的 URL"
     },
     "seconds": {
       "ja": "秒",
@@ -10485,7 +10500,8 @@
       "pt": "segundos",
       "ko": "초",
       "fr": "secondes",
-      "tr": "saniye"
+      "tr": "saniye",
+      "zh-CN": "秒"
     },
     "Device Type is iOS": {
       "ja": "デバイスタイプはiOS",
@@ -10493,7 +10509,8 @@
       "pt": "O tipo de dispositivo é iOS",
       "ko": "기기 유형: iOS",
       "fr": "Type d'appareil : iOS",
-      "tr": "Cihaz türü iOS"
+      "tr": "Cihaz türü iOS",
+      "zh-CN": "设备类型为 iOS"
     },
     "Test Users is true": {
       "ja": "テストユーザーがtrue",
@@ -10501,7 +10518,8 @@
       "pt": "Usuários de teste é verdadeiro",
       "ko": "테스트 사용자가 참",
       "fr": "Utilisateurs de test est vrai",
-      "tr": "Test kullanıcıları doğru"
+      "tr": "Test kullanıcıları doğru",
+      "zh-CN": "测试用户为真"
     },
     "Device Type is Web Push (All Browsers)": {
       "ja": "デバイスタイプはWebプッシュ (全ブラウザ)",
@@ -10509,7 +10527,8 @@
       "pt": "O tipo de dispositivo é Web Push (todos os navegadores)",
       "ko": "기기 유형: 웹 푸시 (모든 브라우저)",
       "fr": "Type d'appareil : Web Push (tous navigateurs)",
-      "tr": "Cihaz türü Web Push (Tüm tarayıcılar)"
+      "tr": "Cihaz türü Web Push (Tüm tarayıcılar)",
+      "zh-CN": "设备类型为 Web Push（所有浏览器）"
     },
     "Add Or": {
       "ja": "ORを追加",
@@ -10517,7 +10536,8 @@
       "pt": "Adicionar OU",
       "ko": "OR 추가",
       "fr": "Ajouter OU",
-      "tr": "VEYA ekle"
+      "tr": "VEYA ekle",
+      "zh-CN": "添加或"
     },
     "Country the device was in the last time it communicated with our servers": {
       "ja": "デバイスが最後にサーバーと通信した時の所在国",
@@ -10525,7 +10545,8 @@
       "pt": "País em que o dispositivo estava na última vez que se comunicou com nossos servidores",
       "ko": "기기가 서버와 마지막으로 통신했을 때의 국가",
       "fr": "Pays où se trouvait l'appareil lors de sa dernière communication avec nos serveurs",
-      "tr": "Cihazın sunucularımızla en son iletişim kurduğunda bulunduğu ülke"
+      "tr": "Cihazın sunucularımızla en son iletişim kurduğunda bulunduğu ülke",
+      "zh-CN": "设备最近一次与我们的服务器通信时所在的国家/地区"
     },
     "Custom tags you have added to the User record": {
       "ja": "ユーザーレコードに追加したカスタムタグ",
@@ -10533,7 +10554,8 @@
       "pt": "Tags personalizadas que você adicionou ao registro do usuário",
       "ko": "사용자 기록에 추가한 사용자 정의 태그",
       "fr": "Tags personnalisés que vous avez ajoutés à l'enregistrement utilisateur",
-      "tr": "Kullanıcı kaydına eklediğiniz özel etiketler"
+      "tr": "Kullanıcı kaydına eklediğiniz özel etiketler",
+      "zh-CN": "您已添加到用户记录的自定义标签"
     },
     "Device operating system": {
       "ja": "デバイスのオペレーティングシステム",
@@ -10541,7 +10563,8 @@
       "pt": "Sistema operacional do dispositivo",
       "ko": "기기 운영 체제",
       "fr": "Système d'exploitation de l'appareil",
-      "tr": "Cihaz işletim sistemi"
+      "tr": "Cihaz işletim sistemi",
+      "zh-CN": "设备操作系统"
     },
     "Early Access": {
       "ja": "早期アクセス",
@@ -10549,7 +10572,8 @@
       "pt": "Acesso antecipado",
       "ko": "얼리 액세스",
       "fr": "Accès anticipé",
-      "tr": "Erken erişim"
+      "tr": "Erken erişim",
+      "zh-CN": "抢先体验"
     },
     "Export as Image": {
       "ja": "画像として書き出し",
@@ -10557,7 +10581,8 @@
       "pt": "Exportar como imagem",
       "ko": "이미지로 내보내기",
       "fr": "Exporter en image",
-      "tr": "Görsel olarak dışa aktar"
+      "tr": "Görsel olarak dışa aktar",
+      "zh-CN": "导出为图像"
     },
     "Filter by custom events ingested through SDKs, integrations, or data sources": {
       "ja": "SDK、統合、またはデータソースから取り込まれたカスタムイベントでフィルター",
@@ -10565,7 +10590,8 @@
       "pt": "Filtrar por eventos personalizados ingeridos via SDKs, integrações ou fontes de dados",
       "ko": "SDK, 통합 또는 데이터 소스를 통해 수집된 사용자 정의 이벤트로 필터링",
       "fr": "Filtrer par événements personnalisés ingérés via SDK, intégrations ou sources de données",
-      "tr": "SDK'ler, entegrasyonlar veya veri kaynakları aracılığıyla alınan özel etkinliklere göre filtrele"
+      "tr": "SDK'ler, entegrasyonlar veya veri kaynakları aracılığıyla alınan özel etkinliklere göre filtrele",
+      "zh-CN": "按通过 SDK、集成或数据源接入的自定义事件筛选"
     },
     "Filter by message interactions": {
       "ja": "メッセージインタラクションでフィルター",
@@ -10573,7 +10599,8 @@
       "pt": "Filtrar por interações de mensagens",
       "ko": "메시지 상호 작용으로 필터링",
       "fr": "Filtrer par interactions de message",
-      "tr": "Mesaj etkileşimlerine göre filtrele"
+      "tr": "Mesaj etkileşimlerine göre filtrele",
+      "zh-CN": "按消息交互筛选"
     },
     "Includes all test users, which can be set up in All Users page": {
       "ja": "すべてのテストユーザーを含みます。All Usersページで設定できます",
@@ -10581,7 +10608,8 @@
       "pt": "Inclui todos os usuários de teste, que podem ser configurados na página All Users",
       "ko": "모든 사용자 페이지에서 설정할 수 있는 모든 테스트 사용자를 포함",
       "fr": "Inclut tous les utilisateurs de test, configurables dans la page Tous les utilisateurs",
-      "tr": "Tüm kullanıcılar sayfasında ayarlanabilen tüm test kullanıcılarını içerir"
+      "tr": "Tüm kullanıcılar sayfasında ayarlanabilen tüm test kullanıcılarını içerir",
+      "zh-CN": "包含所有测试用户，可在所有用户页面进行设置"
     },
     "Message Event": {
       "ja": "メッセージイベント",
@@ -10589,7 +10617,8 @@
       "pt": "Evento de mensagem",
       "ko": "메시지 이벤트",
       "fr": "Événement de message",
-      "tr": "Mesaj etkinliği"
+      "tr": "Mesaj etkinliği",
+      "zh-CN": "消息事件"
     },
     "Name of segment": {
       "ja": "セグメント名",
@@ -10597,7 +10626,8 @@
       "pt": "Nome do segmento",
       "ko": "세그먼트 이름",
       "fr": "Nom du segment",
-      "tr": "Segment adı"
+      "tr": "Segment adı",
+      "zh-CN": "Segment 名称"
     },
     "Radius in meters from a particular geocoordinate (lat, long)": {
       "ja": "特定のジオ座標 (緯度、経度) からの半径 (メートル)",
@@ -10605,7 +10635,8 @@
       "pt": "Raio em metros a partir de uma geocoordenada específica (lat, long)",
       "ko": "특정 좌표 (위도, 경도)로부터의 반경 (미터)",
       "fr": "Rayon en mètres depuis une géo-coordonnée donnée (lat, long)",
-      "tr": "Belirli bir coğrafi koordinattan (enlem, boylam) metre cinsinden yarıçap"
+      "tr": "Belirli bir coğrafi koordinattan (enlem, boylam) metre cinsinden yarıçap",
+      "zh-CN": "距特定地理坐标（纬度，经度）的米数半径"
     },
     "Segment Editor": {
       "ja": "セグメントエディター",
@@ -10613,7 +10644,8 @@
       "pt": "Editor de segmentos",
       "ko": "세그먼트 편집기",
       "fr": "Éditeur de segments",
-      "tr": "Segment düzenleyici"
+      "tr": "Segment düzenleyici",
+      "zh-CN": "Segment 编辑器"
     },
     "Start adding filters to see audience count": {
       "ja": "フィルターを追加するとオーディエンス数が表示されます",
@@ -10621,7 +10653,8 @@
       "pt": "Comece a adicionar filtros para ver a contagem do público",
       "ko": "필터를 추가하면 대상 수가 표시됩니다",
       "fr": "Commencez à ajouter des filtres pour voir le nombre d'audience",
-      "tr": "Hedef kitle sayısını görmek için filtre eklemeye başlayın"
+      "tr": "Hedef kitle sayısını görmek için filtre eklemeye başlayın",
+      "zh-CN": "开始添加筛选以查看受众数量"
     },
     "Subscription records in this segment must meet these rules:": {
       "ja": "このセグメントの購読レコードは次のルールを満たす必要があります:",
@@ -10629,7 +10662,8 @@
       "pt": "Os registros de assinatura neste segmento devem atender a estas regras:",
       "ko": "이 세그먼트의 구독 기록은 다음 규칙을 충족해야 합니다:",
       "fr": "Les enregistrements d'abonnement de ce segment doivent respecter ces règles :",
-      "tr": "Bu segmentteki abonelik kayıtları şu kurallara uymalıdır:"
+      "tr": "Bu segmentteki abonelik kayıtları şu kurallara uymalıdır:",
+      "zh-CN": "此 Segment 中的订阅记录必须满足这些规则:"
     },
     "The first date/time the device communicated with our servers": {
       "ja": "デバイスが最初にサーバーと通信した日時",
@@ -10637,7 +10671,8 @@
       "pt": "A primeira data/hora em que o dispositivo se comunicou com nossos servidores",
       "ko": "기기가 서버와 처음 통신한 날짜/시간",
       "fr": "Première date/heure à laquelle l'appareil a communiqué avec nos serveurs",
-      "tr": "Cihazın sunucularımızla iletişim kurduğu ilk tarih/saat"
+      "tr": "Cihazın sunucularımızla iletişim kurduğu ilk tarih/saat",
+      "zh-CN": "设备首次与我们的服务器通信的日期/时间"
     },
     "The language of the user's device": {
       "ja": "ユーザーのデバイスの言語",
@@ -10645,7 +10680,8 @@
       "pt": "O idioma do dispositivo do usuário",
       "ko": "사용자 기기의 언어",
       "fr": "La langue de l'appareil de l'utilisateur",
-      "tr": "Kullanıcının cihazının dili"
+      "tr": "Kullanıcının cihazının dili",
+      "zh-CN": "用户设备的语言"
     },
     "The most recent date/time the device communicated with our servers": {
       "ja": "デバイスが最後にサーバーと通信した日時",
@@ -10653,7 +10689,8 @@
       "pt": "A data/hora mais recente em que o dispositivo se comunicou com nossos servidores",
       "ko": "기기가 서버와 가장 최근에 통신한 날짜/시간",
       "fr": "Date/heure la plus récente à laquelle l'appareil a communiqué avec nos serveurs",
-      "tr": "Cihazın sunucularımızla iletişim kurduğu en son tarih/saat"
+      "tr": "Cihazın sunucularımızla iletişim kurduğu en son tarih/saat",
+      "zh-CN": "设备最近一次与我们的服务器通信的日期/时间"
     },
     "The total number of seconds the user's device has had your app open": {
       "ja": "ユーザーのデバイスがアプリを開いていた合計秒数",
@@ -10661,7 +10698,8 @@
       "pt": "O número total de segundos em que o dispositivo do usuário teve seu app aberto",
       "ko": "사용자 기기에서 앱이 열려 있던 총 초 수",
       "fr": "Le nombre total de secondes durant lesquelles l'appareil de l'utilisateur a eu votre app ouverte",
-      "tr": "Kullanıcının cihazının uygulamanızı açık tuttuğu toplam saniye sayısı"
+      "tr": "Kullanıcının cihazının uygulamanızı açık tuttuğu toplam saniye sayısı",
+      "zh-CN": "用户设备打开您的应用的总秒数"
     },
     "Total Duration": {
       "ja": "合計時間",
@@ -10669,7 +10707,8 @@
       "pt": "Duração total",
       "ko": "총 기간",
       "fr": "Durée totale",
-      "tr": "Toplam süre"
+      "tr": "Toplam süre",
+      "zh-CN": "总时长"
     },
     "Total number of times the device has opened your app or website": {
       "ja": "デバイスがあなたのアプリまたはウェブサイトを開いた合計回数",
@@ -10677,7 +10716,8 @@
       "pt": "Número total de vezes que o dispositivo abriu seu app ou site",
       "ko": "기기가 앱 또는 웹사이트를 연 총 횟수",
       "fr": "Nombre total de fois où l'appareil a ouvert votre app ou site web",
-      "tr": "Cihazın uygulamanızı veya web sitenizi açtığı toplam sayı"
+      "tr": "Cihazın uygulamanızı veya web sitenizi açtığı toplam sayı",
+      "zh-CN": "设备打开您的应用或网站的总次数"
     },
     "User Tag": {
       "ja": "ユーザータグ",
@@ -10685,7 +10725,8 @@
       "pt": "Tag de usuário",
       "ko": "사용자 태그",
       "fr": "Tag utilisateur",
-      "tr": "Kullanıcı etiketi"
+      "tr": "Kullanıcı etiketi",
+      "zh-CN": "用户标签"
     },
     "Version of your app": {
       "ja": "あなたのアプリのバージョン",
@@ -10693,7 +10734,8 @@
       "pt": "Versão do seu app",
       "ko": "앱 버전",
       "fr": "Version de votre app",
-      "tr": "Uygulamanızın sürümü"
+      "tr": "Uygulamanızın sürümü",
+      "zh-CN": "您的应用版本"
     },
     "hours ago": {
       "ja": "時間前",
@@ -10701,7 +10743,8 @@
       "pt": "horas atrás",
       "ko": "시간 전",
       "fr": "il y a quelques heures",
-      "tr": "saat önce"
+      "tr": "saat önce",
+      "zh-CN": "小时前"
     },
     "Current Period": {
       "ja": "現在の期間",
@@ -10709,7 +10752,8 @@
       "pt": "Período atual",
       "ko": "현재 기간",
       "fr": "Période actuelle",
-      "tr": "Mevcut dönem"
+      "tr": "Mevcut dönem",
+      "zh-CN": "当前周期"
     },
     "Previous Period": {
       "ja": "前回の期間",
@@ -10717,7 +10761,8 @@
       "pt": "Período anterior",
       "ko": "이전 기간",
       "fr": "Période précédente",
-      "tr": "Önceki dönem"
+      "tr": "Önceki dönem",
+      "zh-CN": "上一周期"
     },
     "Current Period:": {
       "ja": "現在の期間:",
@@ -10725,7 +10770,8 @@
       "pt": "Período atual:",
       "ko": "현재 기간:",
       "fr": "Période actuelle :",
-      "tr": "Mevcut dönem:"
+      "tr": "Mevcut dönem:",
+      "zh-CN": "当前周期:"
     },
     "Current": {
       "ja": "現在",
@@ -10733,7 +10779,8 @@
       "pt": "Atual",
       "ko": "현재",
       "fr": "Actuel",
-      "tr": "Mevcut"
+      "tr": "Mevcut",
+      "zh-CN": "当前"
     },
     "SMS / MMS / RCS Segments": {
       "ja": "SMS / MMS / RCSセグメント",
@@ -10741,7 +10788,8 @@
       "pt": "Segmentos SMS / MMS / RCS",
       "ko": "SMS / MMS / RCS 세그먼트",
       "fr": "Segments SMS / MMS / RCS",
-      "tr": "SMS / MMS / RCS segmentleri"
+      "tr": "SMS / MMS / RCS segmentleri",
+      "zh-CN": "SMS / MMS / RCS Segment"
     },
     "To see your usage, go to your Twilio dashboard, or switch to": {
       "ja": "使用状況を確認するには、Twilioダッシュボードに移動するか、以下に切り替えてください:",
@@ -10749,7 +10797,8 @@
       "pt": "Para ver seu uso, acesse seu painel do Twilio ou alterne para",
       "ko": "사용량을 확인하려면 Twilio 대시보드로 이동하거나 다음으로 전환하세요",
       "fr": "Pour voir votre utilisation, allez sur votre tableau de bord Twilio, ou basculez vers",
-      "tr": "Kullanımınızı görmek için Twilio panonuza gidin veya şuna geçin:"
+      "tr": "Kullanımınızı görmek için Twilio panonuza gidin veya şuna geçin:",
+      "zh-CN": "要查看您的使用情况，请转到您的 Twilio 仪表板，或切换到"
     },
     "as your SMS provider.": {
       "ja": "をSMSプロバイダーとして。",
@@ -10757,7 +10806,8 @@
       "pt": "como seu provedor de SMS.",
       "ko": "SMS 공급자로.",
       "fr": "comme votre fournisseur SMS.",
-      "tr": "SMS sağlayıcınız olarak."
+      "tr": "SMS sağlayıcınız olarak.",
+      "zh-CN": "作为您的 SMS 提供商。"
     },
     "Application Level Usage": {
       "ja": "アプリケーションレベルの使用状況",
