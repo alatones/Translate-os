@@ -13,350 +13,400 @@
       "ja": "+ 作成...",
       "pt": "+ Criar...",
       "ko": "+ 만들기...",
-      "fr": "+ Créer..."
+      "fr": "+ Créer...",
+      "tr": "+ Oluştur..."
     },
     "A/B": {
       "es": "A/B",
       "ja": "A/B",
       "pt": "A/B",
       "ko": "A/B",
-      "fr": "A/B"
+      "fr": "A/B",
+      "tr": "A/B"
     },
     "A/B Tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
       "pt": "Testes A/B",
       "ko": "A/B 테스트",
-      "fr": "Tests A/B"
+      "fr": "Tests A/B",
+      "tr": "A/B testleri"
     },
     "A/B tests": {
       "es": "Pruebas A/B",
       "ja": "A/Bテスト",
       "pt": "Testes A/B",
       "ko": "A/B 테스트",
-      "fr": "Tests A/B"
+      "fr": "Tests A/B",
+      "tr": "A/B testleri"
     },
     "Account": {
       "es": "Cuenta",
       "ja": "アカウント",
       "pt": "Conta",
       "ko": "계정",
-      "fr": "Compte"
+      "fr": "Compte",
+      "tr": "Hesap"
     },
     "Action Buttons": {
       "es": "Botones de acción",
       "ja": "アクションボタン",
       "pt": "Botões de ação",
       "ko": "액션 버튼",
-      "fr": "Boutons d'action"
+      "fr": "Boutons d'action",
+      "tr": "İşlem düğmeleri"
     },
     "Actions": {
       "es": "Acciones",
       "ja": "操作",
       "pt": "Ações",
       "ko": "작업",
-      "fr": "Actions"
+      "fr": "Actions",
+      "tr": "İşlemler"
     },
     "Activate": {
       "es": "Activar",
       "ja": "有効化",
       "pt": "Ativar",
       "ko": "활성화",
-      "fr": "Activer"
+      "fr": "Activer",
+      "tr": "Etkinleştir"
     },
     "Active": {
       "es": "Activo",
       "ja": "アクティブ",
       "pt": "Ativo",
       "ko": "활성",
-      "fr": "Actif"
+      "fr": "Actif",
+      "tr": "Aktif"
     },
     "Active Audience": {
       "es": "Audiencia activa",
       "ja": "アクティブオーディエンス",
       "pt": "Público ativo",
       "ko": "활성 대상",
-      "fr": "Audience active"
+      "fr": "Audience active",
+      "tr": "Aktif hedef kitle"
     },
     "Activity for": {
       "es": "Actividad de",
       "ja": "アクティビティ：",
       "pt": "Atividade de",
       "ko": "활동 내역:",
-      "fr": "Activité pour"
+      "fr": "Activité pour",
+      "tr": "Etkinlik:"
     },
     "Add": {
       "es": "Agregar",
       "ja": "追加",
       "pt": "Adicionar",
       "ko": "추가",
-      "fr": "Ajouter"
+      "fr": "Ajouter",
+      "tr": "Ekle"
     },
     "Add data through mobile or web SDKs": {
       "es": "Agrega datos a través de SDKs móviles o web",
       "ja": "モバイルまたはウェブSDKでデータを追加",
       "pt": "Adicione dados via SDKs móveis ou web",
       "ko": "모바일 또는 웹 SDK를 통해 데이터 추가",
-      "fr": "Ajoutez des données via les SDK mobile ou web"
+      "fr": "Ajoutez des données via les SDK mobile ou web",
+      "tr": "Mobil veya web SDK'leri aracılığıyla veri ekleyin"
     },
     "Add Filter": {
       "es": "Agregar filtro",
       "ja": "フィルターを追加",
       "pt": "Adicionar filtro",
       "ko": "필터 추가",
-      "fr": "Ajouter un filtre"
+      "fr": "Ajouter un filtre",
+      "tr": "Filtre ekle"
     },
     "Add filter": {
       "es": "Agregar filtro",
       "ja": "フィルターを追加",
       "pt": "Adicionar filtro",
       "ko": "필터 추가",
-      "fr": "Ajouter un filtre"
+      "fr": "Ajouter un filtre",
+      "tr": "Filtre ekle"
     },
     "Add outcome": {
       "es": "Agregar resultado",
       "ja": "アウトカムを追加",
       "pt": "Adicionar resultado",
       "ko": "결과 추가",
-      "fr": "Ajouter un résultat"
+      "fr": "Ajouter un résultat",
+      "tr": "Sonuç ekle"
     },
     "Add Segment": {
       "es": "Agregar segmento",
       "ja": "セグメントを追加",
       "pt": "Adicionar segmento",
       "ko": "세그먼트 추가",
-      "fr": "Ajouter un segment"
+      "fr": "Ajouter un segment",
+      "tr": "Segment ekle"
     },
     "Add User": {
       "es": "Agregar usuario",
       "ja": "ユーザーを追加",
       "pt": "Adicionar usuário",
       "ko": "사용자 추가",
-      "fr": "Ajouter un utilisateur"
+      "fr": "Ajouter un utilisateur",
+      "tr": "Kullanıcı ekle"
     },
     "Add Webhook": {
       "es": "Agregar webhook",
       "ja": "Webhookを追加",
       "pt": "Adicionar webhook",
       "ko": "웹훅 추가",
-      "fr": "Ajouter un webhook"
+      "fr": "Ajouter un webhook",
+      "tr": "Webhook ekle"
     },
     "Additional Data": {
       "es": "Datos adicionales",
       "ja": "追加データ",
       "pt": "Dados adicionais",
       "ko": "추가 데이터",
-      "fr": "Données supplémentaires"
+      "fr": "Données supplémentaires",
+      "tr": "Ek veriler"
     },
     "Additional Settings": {
       "es": "Configuración adicional",
       "ja": "詳細設定",
       "pt": "Configurações adicionais",
       "ko": "추가 설정",
-      "fr": "Paramètres supplémentaires"
+      "fr": "Paramètres supplémentaires",
+      "tr": "Ek ayarlar"
     },
     "Admin": {
       "es": "Administrador",
       "ja": "管理者",
       "pt": "Administrador",
       "ko": "관리자",
-      "fr": "Administrateur"
+      "fr": "Administrateur",
+      "tr": "Yönetici"
     },
     "All": {
       "es": "Todo",
       "ja": "すべて",
       "pt": "Tudo",
       "ko": "전체",
-      "fr": "Tout"
+      "fr": "Tout",
+      "tr": "Tümü"
     },
     "All Apps": {
       "es": "Todas las apps",
       "ja": "全アプリ",
       "pt": "Todos os apps",
       "ko": "모든 앱",
-      "fr": "Toutes les apps"
+      "fr": "Toutes les apps",
+      "tr": "Tüm uygulamalar"
     },
     "All Platforms": {
       "es": "Todas las plataformas",
       "ja": "全プラットフォーム",
       "pt": "Todas as plataformas",
       "ko": "모든 플랫폼",
-      "fr": "Toutes les plateformes"
+      "fr": "Toutes les plateformes",
+      "tr": "Tüm platformlar"
     },
     "All Time": {
       "es": "Todo el tiempo",
       "ja": "全期間",
       "pt": "Todo o período",
       "ko": "전체 기간",
-      "fr": "Depuis le début"
+      "fr": "Depuis le début",
+      "tr": "Tüm zamanlar"
     },
     "All Users": {
       "es": "Todos los usuarios",
       "ja": "全ユーザー",
       "pt": "Todos os usuários",
       "ko": "모든 사용자",
-      "fr": "Tous les utilisateurs"
+      "fr": "Tous les utilisateurs",
+      "tr": "Tüm kullanıcılar"
     },
     "All-time count": {
       "es": "Recuento total",
       "ja": "累計カウント",
       "pt": "Contagem total",
       "ko": "전체 기간 수",
-      "fr": "Total cumulé"
+      "fr": "Total cumulé",
+      "tr": "Toplam sayı"
     },
     "Allowed Origins": {
       "es": "Orígenes permitidos",
       "ja": "許可されたオリジン",
       "pt": "Origens permitidas",
       "ko": "허용된 출처",
-      "fr": "Origines autorisées"
+      "fr": "Origines autorisées",
+      "tr": "İzin verilen kaynaklar"
     },
     "Alternatives": {
       "es": "Alternativas",
       "ja": "代替手段",
       "pt": "Alternativas",
       "ko": "대안",
-      "fr": "Alternatives"
+      "fr": "Alternatives",
+      "tr": "Alternatifler"
     },
     "Amount Spent": {
       "es": "Monto gastado",
       "ja": "消費金額",
       "pt": "Valor gasto",
       "ko": "지출 금액",
-      "fr": "Montant dépensé"
+      "fr": "Montant dépensé",
+      "tr": "Harcanan tutar"
     },
     "Android": {
       "es": "Android",
       "ja": "Android",
       "pt": "Android",
       "ko": "안드로이드",
-      "fr": "Android"
+      "fr": "Android",
+      "tr": "Android"
     },
     "Announce and send follow-up reminders for sales.": {
       "es": "Anuncia y envía recordatorios de seguimiento para ventas.",
       "ja": "セール告知とフォローアップリマインダーを送信。",
       "pt": "Anuncie e envie lembretes de acompanhamento para vendas.",
       "ko": "영업을 위한 공지 및 후속 알림을 보내세요.",
-      "fr": "Annoncez et envoyez des rappels de suivi pour les ventes."
+      "fr": "Annoncez et envoyez des rappels de suivi pour les ventes.",
+      "tr": "Satışlar için duyuru yapın ve takip hatırlatıcıları gönderin."
     },
     "Any/English": {
       "es": "Cualquiera/Inglés",
       "ja": "任意/英語",
       "pt": "Qualquer/Inglês",
       "ko": "모두/영어",
-      "fr": "Tout/Anglais"
+      "fr": "Tout/Anglais",
+      "tr": "Herhangi biri/İngilizce"
     },
     "API": {
       "es": "API",
       "ja": "API",
       "pt": "API",
       "ko": "API",
-      "fr": "API"
+      "fr": "API",
+      "tr": "API"
     },
     "API Reference": {
       "es": "Referencia de API",
       "ja": "APIリファレンス",
       "pt": "Referência de API",
       "ko": "API 레퍼런스",
-      "fr": "Référence API"
+      "fr": "Référence API",
+      "tr": "API referansı"
     },
     "App ID": {
       "es": "ID de la app",
       "ja": "アプリID",
       "pt": "ID do app",
       "ko": "앱 ID",
-      "fr": "ID de l'app"
+      "fr": "ID de l'app",
+      "tr": "Uygulama ID"
     },
     "App Name": {
       "es": "Nombre de la app",
       "ja": "アプリ名",
       "pt": "Nome do app",
       "ko": "앱 이름",
-      "fr": "Nom de l'app"
+      "fr": "Nom de l'app",
+      "tr": "Uygulama adı"
     },
     "App Version": {
       "es": "Versión de la app",
       "ja": "アプリバージョン",
       "pt": "Versão do app",
       "ko": "앱 버전",
-      "fr": "Version de l'app"
+      "fr": "Version de l'app",
+      "tr": "Uygulama sürümü"
     },
     "App version": {
       "es": "Versión de la app",
       "ja": "アプリバージョン",
       "pt": "Versão do app",
       "ko": "앱 버전",
-      "fr": "Version de l'app"
+      "fr": "Version de l'app",
+      "tr": "Uygulama sürümü"
     },
     "Apply": {
       "es": "Aplicar",
       "ja": "適用",
       "pt": "Aplicar",
       "ko": "적용",
-      "fr": "Appliquer"
+      "fr": "Appliquer",
+      "tr": "Uygula"
     },
     "Apr": {
       "es": "abr",
       "ja": "4月",
       "pt": "abr",
       "ko": "4월",
-      "fr": "avr"
+      "fr": "avr",
+      "tr": "nis"
     },
     "April": {
       "es": "abril",
       "ja": "4月",
       "pt": "abril",
       "ko": "4월",
-      "fr": "avril"
+      "fr": "avril",
+      "tr": "nisan"
     },
     "Archive": {
       "es": "Archivar",
       "ja": "アーカイブ",
       "pt": "Arquivar",
       "ko": "보관",
-      "fr": "Archiver"
+      "fr": "Archiver",
+      "tr": "Arşivle"
     },
     "Archived": {
       "es": "Archivado",
       "ja": "アーカイブ済み",
       "pt": "Arquivado",
       "ko": "보관됨",
-      "fr": "Archivé"
+      "fr": "Archivé",
+      "tr": "Arşivlendi"
     },
     "Are you sure?": {
       "es": "¿Estás seguro?",
       "ja": "よろしいですか？",
       "pt": "Tem certeza?",
       "ko": "정말 하시겠습니까?",
-      "fr": "Êtes-vous sûr ?"
+      "fr": "Êtes-vous sûr ?",
+      "tr": "Emin misiniz?"
     },
     "Attempted": {
       "es": "Intentados",
       "ja": "試行数",
       "pt": "Tentativas",
       "ko": "시도됨",
-      "fr": "Tentés"
+      "fr": "Tentés",
+      "tr": "Denendi"
     },
     "Attempted Events": {
       "es": "Eventos intentados",
       "ja": "試行イベント数",
       "pt": "Eventos tentados",
       "ko": "시도된 이벤트",
-      "fr": "Événements tentés"
+      "fr": "Événements tentés",
+      "tr": "Denenen etkinlikler"
     },
     "Attempted Updates": {
       "es": "Actualizaciones intentadas",
       "ja": "試行済み更新",
       "pt": "Atualizações tentadas",
       "ko": "시도된 업데이트",
-      "fr": "Mises à jour tentées"
+      "fr": "Mises à jour tentées",
+      "tr": "Denenen güncellemeler"
     },
     "Audience": {
       "es": "Audiencia",
       "ja": "オーディエンス",
       "pt": "Público",
       "ko": "대상",
-      "fr": "Audience"
+      "fr": "Audience",
+      "tr": "Hedef kitle"
     },
     "Audit Logs": {
       "es": "Registros de auditoría",
