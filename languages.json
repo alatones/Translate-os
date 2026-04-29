@@ -7213,350 +7213,400 @@
       "es": "debe",
       "pt": "deve",
       "ko": "해야 함",
-      "fr": "doit"
+      "fr": "doit",
+      "tr": "olmalı"
     },
     "should not": {
       "ja": "次でない場合",
       "es": "no debe",
       "pt": "não deve",
       "ko": "하지 않아야 함",
-      "fr": "ne doit pas"
+      "fr": "ne doit pas",
+      "tr": "olmamalı"
     },
     "Expand navigation": {
       "ja": "ナビゲーションを展開",
       "es": "Expandir navegación",
       "pt": "Expandir navegação",
       "ko": "탐색 확장",
-      "fr": "Développer la navigation"
+      "fr": "Développer la navigation",
+      "tr": "Gezinmeyi genişlet"
     },
     "Messages sent through our API or WordPress Plugin can be found in": {
       "ja": "APIまたはWordPressプラグインを通じて送信されたメッセージは次で確認できます:",
       "es": "Los mensajes enviados a través de nuestra API o el plugin de WordPress se pueden encontrar en",
       "pt": "As mensagens enviadas pela nossa API ou plugin do WordPress podem ser encontradas em",
       "ko": "API 또는 WordPress 플러그인을 통해 발송된 메시지는 다음에서 확인할 수 있습니다",
-      "fr": "Les messages envoyés via notre API ou le plugin WordPress se trouvent dans"
+      "fr": "Les messages envoyés via notre API ou le plugin WordPress se trouvent dans",
+      "tr": "API'miz veya WordPress eklentisi aracılığıyla gönderilen mesajlar şurada bulunabilir:"
     },
     "Messages sent through our API can be found in": {
       "ja": "APIを通じて送信されたメッセージは次で確認できます:",
       "es": "Los mensajes enviados a través de nuestra API se pueden encontrar en",
       "pt": "As mensagens enviadas pela nossa API podem ser encontradas em",
       "ko": "API를 통해 발송된 메시지는 다음에서 확인할 수 있습니다",
-      "fr": "Les messages envoyés via notre API se trouvent dans"
+      "fr": "Les messages envoyés via notre API se trouvent dans",
+      "tr": "API'miz aracılığıyla gönderilen mesajlar şurada bulunabilir:"
     },
     "Save & Exit": {
       "ja": "保存して終了",
       "es": "Guardar y salir",
       "pt": "Salvar e sair",
       "ko": "저장 후 종료",
-      "fr": "Enregistrer et quitter"
+      "fr": "Enregistrer et quitter",
+      "tr": "Kaydet ve çık"
     },
     "Block editor": {
       "ja": "ブロックエディター",
       "es": "Editor de bloques",
       "pt": "Editor de blocos",
       "ko": "블록 편집기",
-      "fr": "Éditeur par blocs"
+      "fr": "Éditeur par blocs",
+      "tr": "Blok düzenleyici"
     },
     "Fold line": {
       "ja": "行を折りたたむ",
       "es": "Plegar línea",
       "pt": "Recolher linha",
       "ko": "줄 접기",
-      "fr": "Replier la ligne"
+      "fr": "Replier la ligne",
+      "tr": "Satırı katla"
     },
     "Advanced options": {
       "ja": "詳細オプション",
       "es": "Opciones avanzadas",
       "pt": "Opções avançadas",
       "ko": "고급 옵션",
-      "fr": "Options avancées"
+      "fr": "Options avancées",
+      "tr": "Gelişmiş seçenekler"
     },
     "Add click action": {
       "ja": "クリックアクションを追加",
       "es": "Agregar acción de clic",
       "pt": "Adicionar ação de clique",
       "ko": "클릭 액션 추가",
-      "fr": "Ajouter une action de clic"
+      "fr": "Ajouter une action de clic",
+      "tr": "Tıklama eylemi ekle"
     },
     "Margin bottom": {
       "ja": "下のマージン",
       "es": "Margen inferior",
       "pt": "Margem inferior",
       "ko": "아래쪽 여백",
-      "fr": "Marge inférieure"
+      "fr": "Marge inférieure",
+      "tr": "Alt kenar boşluğu"
     },
     "Margin left": {
       "ja": "左のマージン",
       "es": "Margen izquierdo",
       "pt": "Margem esquerda",
       "ko": "왼쪽 여백",
-      "fr": "Marge gauche"
+      "fr": "Marge gauche",
+      "tr": "Sol kenar boşluğu"
     },
     "Margin right": {
       "ja": "右のマージン",
       "es": "Margen derecho",
       "pt": "Margem direita",
       "ko": "오른쪽 여백",
-      "fr": "Marge droite"
+      "fr": "Marge droite",
+      "tr": "Sağ kenar boşluğu"
     },
     "Margin top": {
       "ja": "上のマージン",
       "es": "Margen superior",
       "pt": "Margem superior",
       "ko": "위쪽 여백",
-      "fr": "Marge supérieure"
+      "fr": "Marge supérieure",
+      "tr": "Üst kenar boşluğu"
     },
     "Text alignment": {
       "ja": "テキストの配置",
       "es": "Alineación del texto",
       "pt": "Alinhamento do texto",
       "ko": "텍스트 정렬",
-      "fr": "Alignement du texte"
+      "fr": "Alignement du texte",
+      "tr": "Metin hizalaması"
     },
     "Dismiss on click": {
       "ja": "クリックで閉じる",
       "es": "Descartar al hacer clic",
       "pt": "Descartar ao clicar",
       "ko": "클릭 시 닫기",
-      "fr": "Ignorer au clic"
+      "fr": "Ignorer au clic",
+      "tr": "Tıklayınca kapat"
     },
     "Image upload input": {
       "ja": "画像アップロード入力",
       "es": "Entrada de carga de imagen",
       "pt": "Entrada de upload de imagem",
       "ko": "이미지 업로드 입력",
-      "fr": "Entrée de téléversement d'image"
+      "fr": "Entrée de téléversement d'image",
+      "tr": "Görsel yükleme girişi"
     },
     "Select image": {
       "ja": "画像を選択",
       "es": "Seleccionar imagen",
       "pt": "Selecionar imagem",
       "ko": "이미지 선택",
-      "fr": "Sélectionner une image"
+      "fr": "Sélectionner une image",
+      "tr": "Görsel seç"
     },
     "or paste local path or URL": {
       "ja": "またはローカルパスやURLを貼り付け",
       "es": "o pega la ruta local o URL",
       "pt": "ou cole o caminho local ou URL",
       "ko": "또는 로컬 경로나 URL 붙여넣기",
-      "fr": "ou collez un chemin local ou une URL"
+      "fr": "ou collez un chemin local ou une URL",
+      "tr": "veya yerel yolu ya da URL'yi yapıştırın"
     },
     "Center aligned": {
       "ja": "中央揃え",
       "es": "Centrado",
       "pt": "Centralizado",
       "ko": "가운데 정렬",
-      "fr": "Aligné au centre"
+      "fr": "Aligné au centre",
+      "tr": "Ortalanmış"
     },
     "Font family": {
       "ja": "フォントファミリー",
       "es": "Familia de fuentes",
       "pt": "Família de fontes",
       "ko": "글꼴 종류",
-      "fr": "Famille de police"
+      "fr": "Famille de police",
+      "tr": "Yazı tipi ailesi"
     },
     "Font size": {
       "ja": "フォントサイズ",
       "es": "Tamaño de fuente",
       "pt": "Tamanho da fonte",
       "ko": "글꼴 크기",
-      "fr": "Taille de la police"
+      "fr": "Taille de la police",
+      "tr": "Yazı tipi boyutu"
     },
     "Format": {
       "ja": "フォーマット",
       "es": "Formato",
       "pt": "Formato",
       "ko": "서식",
-      "fr": "Format"
+      "fr": "Format",
+      "tr": "Format"
     },
     "Left aligned": {
       "ja": "左揃え",
       "es": "Alineado a la izquierda",
       "pt": "Alinhado à esquerda",
       "ko": "왼쪽 정렬",
-      "fr": "Aligné à gauche"
+      "fr": "Aligné à gauche",
+      "tr": "Sola hizalanmış"
     },
     "Right aligned": {
       "ja": "右揃え",
       "es": "Alineado a la derecha",
       "pt": "Alinhado à direita",
       "ko": "오른쪽 정렬",
-      "fr": "Aligné à droite"
+      "fr": "Aligné à droite",
+      "tr": "Sağa hizalanmış"
     },
     "Specific time": {
       "ja": "特定の時刻",
       "es": "Hora específica",
       "pt": "Horário específico",
       "ko": "특정 시간",
-      "fr": "Heure spécifique"
+      "fr": "Heure spécifique",
+      "tr": "Belirli zaman"
     },
     "System Font (Default)": {
       "ja": "システムフォント (デフォルト)",
       "es": "Fuente del sistema (predeterminada)",
       "pt": "Fonte do sistema (padrão)",
       "ko": "시스템 글꼴 (기본)",
-      "fr": "Police système (par défaut)"
+      "fr": "Police système (par défaut)",
+      "tr": "Sistem yazı tipi (varsayılan)"
     },
     "Text formatting": {
       "ja": "テキスト書式",
       "es": "Formato de texto",
       "pt": "Formatação de texto",
       "ko": "텍스트 서식",
-      "fr": "Formatage du texte"
+      "fr": "Formatage du texte",
+      "tr": "Metin biçimlendirme"
     },
     "Toggle bold": {
       "ja": "太字を切り替え",
       "es": "Alternar negrita",
       "pt": "Alternar negrito",
       "ko": "굵게 전환",
-      "fr": "Basculer en gras"
+      "fr": "Basculer en gras",
+      "tr": "Kalını aç/kapat"
     },
     "Toggle italic": {
       "ja": "斜体を切り替え",
       "es": "Alternar cursiva",
       "pt": "Alternar itálico",
       "ko": "기울임 전환",
-      "fr": "Basculer en italique"
+      "fr": "Basculer en italique",
+      "tr": "İtaliği aç/kapat"
     },
     "Toggle underline": {
       "ja": "下線を切り替え",
       "es": "Alternar subrayado",
       "pt": "Alternar sublinhado",
       "ko": "밑줄 전환",
-      "fr": "Basculer le soulignement"
+      "fr": "Basculer le soulignement",
+      "tr": "Altı çizgiyi aç/kapat"
     },
     "Unfold line": {
       "ja": "行を展開",
       "es": "Desplegar línea",
       "pt": "Expandir linha",
       "ko": "줄 펼치기",
-      "fr": "Déplier la ligne"
+      "fr": "Déplier la ligne",
+      "tr": "Satırı aç"
     },
     "Clear input": {
       "ja": "入力をクリア",
       "es": "Borrar entrada",
       "pt": "Limpar entrada",
       "ko": "입력 지우기",
-      "fr": "Effacer l'entrée"
+      "fr": "Effacer l'entrée",
+      "tr": "Girişi temizle"
     },
     "Onesignal in app message preview": {
       "ja": "OneSignalインアプリメッセージのプレビュー",
       "es": "Vista previa del mensaje in-app de OneSignal",
       "pt": "Pré-visualização da mensagem in-app do OneSignal",
       "ko": "OneSignal 인앱 메시지 미리보기",
-      "fr": "Aperçu du message in-app OneSignal"
+      "fr": "Aperçu du message in-app OneSignal",
+      "tr": "OneSignal in-app mesaj önizlemesi"
     },
     "4. Triggers": {
       "ja": "4. トリガー",
       "es": "4. Disparadores",
       "pt": "4. Gatilhos",
       "ko": "4. 트리거",
-      "fr": "4. Déclencheurs"
+      "fr": "4. Déclencheurs",
+      "tr": "4. Tetikleyiciler"
     },
     "5. Schedule": {
       "ja": "5. スケジュール",
       "es": "5. Programación",
       "pt": "5. Programação",
       "ko": "5. 일정",
-      "fr": "5. Planification"
+      "fr": "5. Planification",
+      "tr": "5. Planlama"
     },
     "Alternate close icon": {
       "ja": "代替の閉じるアイコン",
       "es": "Icono de cerrar alternativo",
       "pt": "Ícone de fechar alternativo",
       "ko": "대체 닫기 아이콘",
-      "fr": "Icône de fermeture alternative"
+      "fr": "Icône de fermeture alternative",
+      "tr": "Alternatif kapat simgesi"
     },
     "Background": {
       "ja": "背景",
       "es": "Fondo",
       "pt": "Fundo",
       "ko": "배경",
-      "fr": "Arrière-plan"
+      "fr": "Arrière-plan",
+      "tr": "Arka plan"
     },
     "Background color": {
       "ja": "背景色",
       "es": "Color de fondo",
       "pt": "Cor de fundo",
       "ko": "배경색",
-      "fr": "Couleur d'arrière-plan"
+      "fr": "Couleur d'arrière-plan",
+      "tr": "Arka plan rengi"
     },
     "Background image": {
       "ja": "背景画像",
       "es": "Imagen de fondo",
       "pt": "Imagem de fundo",
       "ko": "배경 이미지",
-      "fr": "Image d'arrière-plan"
+      "fr": "Image d'arrière-plan",
+      "tr": "Arka plan görseli"
     },
     "Border color": {
       "ja": "ボーダーの色",
       "es": "Color del borde",
       "pt": "Cor da borda",
       "ko": "테두리 색상",
-      "fr": "Couleur de la bordure"
+      "fr": "Couleur de la bordure",
+      "tr": "Kenarlık rengi"
     },
     "Border weight": {
       "ja": "ボーダーの太さ",
       "es": "Grosor del borde",
       "pt": "Espessura da borda",
       "ko": "테두리 두께",
-      "fr": "Épaisseur de la bordure"
+      "fr": "Épaisseur de la bordure",
+      "tr": "Kenarlık kalınlığı"
     },
     "Button 1": {
       "ja": "ボタン1",
       "es": "Botón 1",
       "pt": "Botão 1",
       "ko": "버튼 1",
-      "fr": "Bouton 1"
+      "fr": "Bouton 1",
+      "tr": "Düğme 1"
     },
     "Button background": {
       "ja": "ボタンの背景",
       "es": "Fondo del botón",
       "pt": "Fundo do botão",
       "ko": "버튼 배경",
-      "fr": "Arrière-plan du bouton"
+      "fr": "Arrière-plan du bouton",
+      "tr": "Düğme arka planı"
     },
     "Button text": {
       "ja": "ボタンのテキスト",
       "es": "Texto del botón",
       "pt": "Texto do botão",
       "ko": "버튼 텍스트",
-      "fr": "Texte du bouton"
+      "fr": "Texte du bouton",
+      "tr": "Düğme metni"
     },
     "Click Here": {
       "ja": "ここをクリック",
       "es": "Haz clic aquí",
       "pt": "Clique aqui",
       "ko": "여기를 클릭",
-      "fr": "Cliquez ici"
+      "fr": "Cliquez ici",
+      "tr": "Buraya tıklayın"
     },
     "Close button": {
       "ja": "閉じるボタン",
       "es": "Botón de cerrar",
       "pt": "Botão de fechar",
       "ko": "닫기 버튼",
-      "fr": "Bouton de fermeture"
+      "fr": "Bouton de fermeture",
+      "tr": "Kapat düğmesi"
     },
     "Color": {
       "ja": "色",
       "es": "Color",
       "pt": "Cor",
       "ko": "색상",
-      "fr": "Couleur"
+      "fr": "Couleur",
+      "tr": "Renk"
     },
     "Corner radius": {
       "ja": "角の丸み",
       "es": "Radio de la esquina",
       "pt": "Raio do canto",
       "ko": "모서리 반경",
-      "fr": "Rayon des coins"
+      "fr": "Rayon des coins",
+      "tr": "Köşe yarıçapı"
     },
     "Dismiss after certain amount of time": {
       "ja": "一定時間後に閉じる",
       "es": "Descartar después de cierto tiempo",
       "pt": "Descartar após determinado tempo",
       "ko": "일정 시간 후 닫기",
-      "fr": "Ignorer après un certain délai"
+      "fr": "Ignorer après un certain délai",
+      "tr": "Belirli bir süre sonra kapat"
     },
     "Drop shadow X": {
       "ja": "ドロップシャドウX",
