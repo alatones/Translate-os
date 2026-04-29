@@ -10413,350 +10413,400 @@
       "es": "Teléfono",
       "pt": "Telefone",
       "ko": "전화",
-      "fr": "Téléphone"
+      "fr": "Téléphone",
+      "tr": "Telefon"
     },
     "Total session duration": {
       "ja": "合計セッション時間",
       "es": "Duración total de la sesión",
       "pt": "Duração total da sessão",
       "ko": "총 세션 시간",
-      "fr": "Durée totale de session"
+      "fr": "Durée totale de session",
+      "tr": "Toplam oturum süresi"
     },
     "Total sessions": {
       "ja": "合計セッション数",
       "es": "Total de sesiones",
       "pt": "Total de sessões",
       "ko": "총 세션",
-      "fr": "Total des sessions"
+      "fr": "Total des sessions",
+      "tr": "Toplam oturum"
     },
     "User has not been in any Journey": {
       "ja": "ユーザーはどのジャーニーにも参加していません",
       "es": "El usuario no ha estado en ningún Journey",
       "pt": "O usuário não esteve em nenhum Journey",
       "ko": "사용자가 어떤 저니에도 참여하지 않았습니다",
-      "fr": "L'utilisateur n'a été dans aucun Journey"
+      "fr": "L'utilisateur n'a été dans aucun Journey",
+      "tr": "Kullanıcı hiçbir Journey'de bulunmadı"
     },
     "View all": {
       "ja": "すべて表示",
       "es": "Ver todo",
       "pt": "Ver tudo",
       "ko": "전체 보기",
-      "fr": "Tout voir"
+      "fr": "Tout voir",
+      "tr": "Tümünü görüntüle"
     },
     "Override frequency capping settings (": {
       "ja": "頻度制限設定を上書き (",
       "es": "Anular configuración de límite de frecuencia (",
       "pt": "Substituir configurações de limite de frequência (",
       "ko": "빈도 제한 설정 재정의 (",
-      "fr": "Remplacer les paramètres de plafonnement de fréquence ("
+      "fr": "Remplacer les paramètres de plafonnement de fréquence (",
+      "tr": "Frekans sınırı ayarlarını geçersiz kıl ("
     },
     "Override throttling settings (": {
       "ja": "スロットリング設定を上書き (",
       "es": "Anular configuración de limitación (",
       "pt": "Substituir configurações de limitação (",
       "ko": "쓰로틀링 설정 재정의 (",
-      "fr": "Remplacer les paramètres de limitation ("
+      "fr": "Remplacer les paramètres de limitation (",
+      "tr": "Sınırlama ayarlarını geçersiz kıl ("
     },
     "per minute)": {
       "ja": "/分)",
       "es": "por minuto)",
       "pt": "por minuto)",
       "ko": "/분)",
-      "fr": "par minute)"
+      "fr": "par minute)",
+      "tr": "dakikada)"
     },
     "Drive more engagement with additional automations, channels, and features in Journeys.": {
       "ja": "ジャーニーの追加の自動化、チャネル、機能でエンゲージメントを高めます。",
       "es": "Aumenta el engagement con más automatizaciones, canales y funciones en Journeys.",
       "pt": "Aumente o engajamento com mais automações, canais e recursos em Journeys.",
       "ko": "저니의 추가 자동화, 채널 및 기능으로 참여도를 높이세요.",
-      "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Journeys."
+      "fr": "Boostez l'engagement avec plus d'automatisations, de canaux et de fonctionnalités dans Journeys.",
+      "tr": "Journeys'teki ek otomasyonlar, kanallar ve özelliklerle daha fazla etkileşim sağlayın."
     },
     "Try Journeys": {
       "ja": "ジャーニーを試す",
       "es": "Probar Journeys",
       "pt": "Experimentar Journeys",
       "ko": "저니 사용해보기",
-      "fr": "Essayer Journeys"
+      "fr": "Essayer Journeys",
+      "tr": "Journeys'i deneyin"
     },
     "New Automated Push": {
       "ja": "新しい自動プッシュ",
       "es": "Nuevo push automatizado",
       "pt": "Novo push automatizado",
       "ko": "새 자동화 푸시",
-      "fr": "Nouveau push automatisé"
+      "fr": "Nouveau push automatisé",
+      "tr": "Yeni otomatik push"
     },
     "HubSpot Integration Metrics": {
       "ja": "HubSpot統合メトリクス",
       "es": "Métricas de integración con HubSpot",
       "pt": "Métricas de integração com HubSpot",
       "ko": "HubSpot 통합 지표",
-      "fr": "Métriques d'intégration HubSpot"
+      "fr": "Métriques d'intégration HubSpot",
+      "tr": "HubSpot entegrasyon metrikleri"
     },
     "Last event received:": {
       "ja": "最後に受信したイベント:",
       "es": "Último evento recibido:",
       "pt": "Último evento recebido:",
       "ko": "마지막 수신 이벤트:",
-      "fr": "Dernier événement reçu :"
+      "fr": "Dernier événement reçu :",
+      "tr": "Son alınan etkinlik:"
     },
     "3. Delivery Schedule": {
       "ja": "3. 配信スケジュール",
       "es": "3. Programación de entrega",
       "pt": "3. Agendamento de entrega",
       "ko": "3. 전달 일정",
-      "fr": "3. Planification d'envoi"
+      "fr": "3. Planification d'envoi",
+      "tr": "3. Gönderim planı"
     },
     "After a certain amount of time": {
       "ja": "一定時間後",
       "es": "Después de cierto tiempo",
       "pt": "Após um determinado tempo",
       "ko": "일정 시간 후",
-      "fr": "Au bout d'un certain délai"
+      "fr": "Au bout d'un certain délai",
+      "tr": "Belirli bir süre sonra"
     },
     "Deliver to users more than once?": {
       "ja": "ユーザーに複数回配信しますか？",
       "es": "¿Entregar a los usuarios más de una vez?",
       "pt": "Entregar aos usuários mais de uma vez?",
       "ko": "사용자에게 여러 번 전달하시겠습니까?",
-      "fr": "Livrer aux utilisateurs plus d'une fois ?"
+      "fr": "Livrer aux utilisateurs plus d'une fois ?",
+      "tr": "Kullanıcılara birden fazla kez teslim et?"
     },
     "If the user returns to the app": {
       "ja": "ユーザーがアプリに戻った場合",
       "es": "Si el usuario regresa a la aplicación",
       "pt": "Se o usuário retornar ao aplicativo",
       "ko": "사용자가 앱으로 돌아오면",
-      "fr": "Si l'utilisateur revient sur l'app"
+      "fr": "Si l'utilisateur revient sur l'app",
+      "tr": "Kullanıcı uygulamaya geri dönerse"
     },
     "Make Active": {
       "ja": "アクティブにする",
       "es": "Hacer activo",
       "pt": "Tornar ativo",
       "ko": "활성화",
-      "fr": "Activer"
+      "fr": "Activer",
+      "tr": "Aktif yap"
     },
     "My Message": {
       "ja": "マイメッセージ",
       "es": "Mi mensaje",
       "pt": "Minha mensagem",
       "ko": "내 메시지",
-      "fr": "Mon message"
+      "fr": "Mon message",
+      "tr": "Mesajım"
     },
     "Select...": {
       "ja": "選択...",
       "es": "Seleccionar...",
       "pt": "Selecionar...",
       "ko": "선택...",
-      "fr": "Sélectionner..."
+      "fr": "Sélectionner...",
+      "tr": "Seç..."
     },
     "Send Test": {
       "ja": "テストを送信",
       "es": "Enviar prueba",
       "pt": "Enviar teste",
       "ko": "테스트 발송",
-      "fr": "Envoyer un test"
+      "fr": "Envoyer un test",
+      "tr": "Test gönder"
     },
     "What template do you want to send?": {
       "ja": "どのテンプレートを送信しますか？",
       "es": "¿Qué plantilla quieres enviar?",
       "pt": "Qual modelo você quer enviar?",
       "ko": "어떤 템플릿을 발송하시겠습니까?",
-      "fr": "Quel modèle voulez-vous envoyer ?"
+      "fr": "Quel modèle voulez-vous envoyer ?",
+      "tr": "Hangi şablonu göndermek istiyorsunuz?"
     },
     "create a new template here": {
       "ja": "ここで新しいテンプレートを作成",
       "es": "crear una nueva plantilla aquí",
       "pt": "criar um novo modelo aqui",
       "ko": "여기서 새 템플릿 만들기",
-      "fr": "créer un nouveau modèle ici"
+      "fr": "créer un nouveau modèle ici",
+      "tr": "burada yeni bir şablon oluşturun"
     },
     "Collapse row": {
       "ja": "行を折りたたむ",
       "es": "Contraer fila",
       "pt": "Recolher linha",
       "ko": "행 접기",
-      "fr": "Réduire la ligne"
+      "fr": "Réduire la ligne",
+      "tr": "Satırı daralt"
     },
     "Copy code": {
       "ja": "コードをコピー",
       "es": "Copiar código",
       "pt": "Copiar código",
       "ko": "코드 복사",
-      "fr": "Copier le code"
+      "fr": "Copier le code",
+      "tr": "Kodu kopyala"
     },
     "Open Data menu": {
       "ja": "データメニューを開く",
       "es": "Abrir menú de datos",
       "pt": "Abrir menu de dados",
       "ko": "데이터 메뉴 열기",
-      "fr": "Ouvrir le menu Données"
+      "fr": "Ouvrir le menu Données",
+      "tr": "Veri menüsünü aç"
     },
     "Awaiting Double Opt-In": {
       "ja": "ダブルオプトイン待機中",
       "es": "Esperando doble opt-in",
       "pt": "Aguardando opt-in duplo",
       "ko": "이중 옵트인 대기 중",
-      "fr": "En attente du double opt-in"
+      "fr": "En attente du double opt-in",
+      "tr": "Çift onay bekleniyor"
     },
     "Italian": {
       "ja": "イタリア語",
       "es": "Italiano",
       "pt": "Italiano",
       "ko": "이탈리아어",
-      "fr": "Italien"
+      "fr": "Italien",
+      "tr": "İtalyanca"
     },
     ".wav, .aiff, .caf": {
       "ja": ".wav、.aiff、.caf",
       "es": ".wav, .aiff, .caf",
       "pt": ".wav, .aiff, .caf",
       "ko": ".wav, .aiff, .caf",
-      "fr": ".wav, .aiff, .caf"
+      "fr": ".wav, .aiff, .caf",
+      "tr": ".wav, .aiff, .caf"
     },
     "Amplitude is": {
       "ja": "Amplitude:",
       "es": "Amplitude es",
       "pt": "Amplitude é",
       "ko": "Amplitude:",
-      "fr": "Amplitude est"
+      "fr": "Amplitude est",
+      "tr": "Amplitude şudur:"
     },
     "Journey Updated": {
       "ja": "ジャーニーが更新されました",
       "es": "Journey actualizado",
       "pt": "Journey atualizado",
       "ko": "저니가 업데이트됨",
-      "fr": "Journey mis à jour"
+      "fr": "Journey mis à jour",
+      "tr": "Journey güncellendi"
     },
     "Journey Created": {
       "ja": "ジャーニーが作成されました",
       "es": "Journey creado",
       "pt": "Journey criado",
       "ko": "저니가 생성됨",
-      "fr": "Journey créé"
+      "fr": "Journey créé",
+      "tr": "Journey oluşturuldu"
     },
     "Editor": {
       "ja": "エディター",
       "es": "Editor",
       "pt": "Editor",
       "ko": "편집자",
-      "fr": "Éditeur"
+      "fr": "Éditeur",
+      "tr": "Editör"
     },
     "Search by Email": {
       "ja": "メールで検索",
       "es": "Buscar por correo",
       "pt": "Pesquisar por email",
       "ko": "이메일로 검색",
-      "fr": "Rechercher par email"
+      "fr": "Rechercher par email",
+      "tr": "Email'e göre ara"
     },
     "App role": {
       "ja": "アプリの役割",
       "es": "Rol de app",
       "pt": "Função no app",
       "ko": "앱 역할",
-      "fr": "Rôle de l'app"
+      "fr": "Rôle de l'app",
+      "tr": "Uygulama rolü"
     },
     "Date & time": {
       "ja": "日付と時刻",
       "es": "Fecha y hora",
       "pt": "Data e hora",
       "ko": "날짜 및 시간",
-      "fr": "Date et heure"
+      "fr": "Date et heure",
+      "tr": "Tarih ve saat"
     },
     "Export Created": {
       "ja": "エクスポートが作成されました",
       "es": "Exportación creada",
       "pt": "Exportação criada",
       "ko": "내보내기 생성됨",
-      "fr": "Export créé"
+      "fr": "Export créé",
+      "tr": "Dışa aktarma oluşturuldu"
     },
     "Item name": {
       "ja": "項目名",
       "es": "Nombre del elemento",
       "pt": "Nome do item",
       "ko": "항목 이름",
-      "fr": "Nom de l'élément"
+      "fr": "Nom de l'élément",
+      "tr": "Öğe adı"
     },
     "Item type": {
       "ja": "項目タイプ",
       "es": "Tipo de elemento",
       "pt": "Tipo de item",
       "ko": "항목 유형",
-      "fr": "Type d'élément"
+      "fr": "Type d'élément",
+      "tr": "Öğe türü"
     },
     "Last 48 hours": {
       "ja": "過去48時間",
       "es": "Últimas 48 horas",
       "pt": "Últimas 48 horas",
       "ko": "지난 48시간",
-      "fr": "Dernières 48 heures"
+      "fr": "Dernières 48 heures",
+      "tr": "Son 48 saat"
     },
     "Segment Created": {
       "ja": "セグメントが作成されました",
       "es": "Segmento creado",
       "pt": "Segmento criado",
       "ko": "세그먼트 생성됨",
-      "fr": "Segment créé"
+      "fr": "Segment créé",
+      "tr": "Segment oluşturuldu"
     },
     "Source": {
       "ja": "ソース",
       "es": "Fuente",
       "pt": "Origem",
       "ko": "소스",
-      "fr": "Source"
+      "fr": "Source",
+      "tr": "Kaynak"
     },
     "Template Created": {
       "ja": "テンプレートが作成されました",
       "es": "Plantilla creada",
       "pt": "Modelo criado",
       "ko": "템플릿 생성됨",
-      "fr": "Modèle créé"
+      "fr": "Modèle créé",
+      "tr": "Şablon oluşturuldu"
     },
     "User action": {
       "ja": "ユーザーアクション",
       "es": "Acción del usuario",
       "pt": "Ação do usuário",
       "ko": "사용자 작업",
-      "fr": "Action de l'utilisateur"
+      "fr": "Action de l'utilisateur",
+      "tr": "Kullanıcı eylemi"
     },
     "Disable App": {
       "ja": "アプリを無効化",
       "es": "Desactivar app",
       "pt": "Desativar app",
       "ko": "앱 비활성화",
-      "fr": "Désactiver l'app"
+      "fr": "Désactiver l'app",
+      "tr": "Uygulamayı devre dışı bırak"
     },
     "You may disable this app to prevent new and scheduled notifications from being delivered. Apps you manually disable can be instantly re-enabled at any time.": {
       "ja": "このアプリを無効化すると、新規および予約済みの通知が配信されなくなります。手動で無効化したアプリはいつでもすぐに再有効化できます。",
       "es": "Puedes desactivar esta app para evitar que se envíen notificaciones nuevas y programadas. Las apps que desactives manualmente pueden volver a activarse al instante en cualquier momento.",
       "pt": "Você pode desativar este app para evitar que notificações novas e agendadas sejam entregues. Apps que você desativar manualmente podem ser reativados instantaneamente a qualquer momento.",
       "ko": "이 앱을 비활성화하면 새 알림 및 예약된 알림이 전달되지 않습니다. 수동으로 비활성화한 앱은 언제든지 즉시 다시 활성화할 수 있습니다.",
-      "fr": "Vous pouvez désactiver cette app pour empêcher la livraison de nouvelles notifications et celles planifiées. Les apps que vous désactivez manuellement peuvent être réactivées instantanément à tout moment."
+      "fr": "Vous pouvez désactiver cette app pour empêcher la livraison de nouvelles notifications et celles planifiées. Les apps que vous désactivez manuellement peuvent être réactivées instantanément à tout moment.",
+      "tr": "Yeni ve planlanan bildirimlerin teslim edilmesini engellemek için bu uygulamayı devre dışı bırakabilirsiniz. Manuel olarak devre dışı bıraktığınız uygulamalar istediğiniz zaman anında yeniden etkinleştirilebilir."
     },
     "Add Channel": {
       "ja": "チャネルを追加",
       "es": "Agregar canal",
       "pt": "Adicionar canal",
       "ko": "채널 추가",
-      "fr": "Ajouter un canal"
+      "fr": "Ajouter un canal",
+      "tr": "Kanal ekle"
     },
     "Allow push throttle override on creation": {
       "ja": "作成時にプッシュスロットルの上書きを許可",
       "es": "Permitir anulación de la limitación de push al crear",
       "pt": "Permitir substituição de limite de push na criação",
       "ko": "생성 시 푸시 쓰로틀 재정의 허용",
-      "fr": "Autoriser le remplacement de la limitation push à la création"
+      "fr": "Autoriser le remplacement de la limitation push à la création",
+      "tr": "Oluşturma sırasında push sınırlamasının geçersiz kılınmasına izin ver"
     },
     "Campaign": {
       "ja": "キャンペーン",
       "es": "Campaña",
       "pt": "Campanha",
       "ko": "캠페인",
-      "fr": "Campagne"
+      "fr": "Campagne",
+      "tr": "Kampanya"
     },
     "Medium": {
       "ja": "メディア",
       "es": "Medio",
       "pt": "Meio",
       "ko": "매체",
-      "fr": "Moyen"
+      "fr": "Moyen",
+      "tr": "Orta"
     },
     "Messages per minute": {
       "ja": "毎分のメッセージ数",
