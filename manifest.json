@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "OneSignal Dashboard Translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate the OneSignal dashboard UI into Japanese, Spanish, Portuguese, Korean, French, Turkish, or Simplified Chinese.",
   "permissions": ["storage", "activeTab", "contextMenus", "alarms"],
   "host_permissions": [
