@@ -12,6 +12,23 @@ When in doubt, prefer the existing pattern in `languages.json` over inventing
 a new one. Consistency across the dashboard outweighs any single phrase being
 maximally elegant.
 
+## Always fill in every supported language
+
+When adding a **new English source key** to `languages.json`, provide a
+translation for **every supported language** (`ja`, `es`, `pt`, `ko`, `fr`,
+`tr`, `zh-CN`) — not just the one that surfaced the missing string in the
+ledger.
+
+Missing-language entries silently fall through to English at runtime, so
+the extension keeps working — but the dashboard ends up half-translated
+for users on other languages, and that inconsistency is invisible to
+maintainers until those users notice. The cost of writing six more
+translations up front is much lower than the cost of tracking down
+which entries still need filling later.
+
+If you genuinely don't know a translation for a language, leave a `TODO`
+comment in the commit and flag it explicitly — don't omit silently.
+
 ## Before committing
 
 Run `./validate.py` after every edit to `languages.json` or `glossary.json`.

@@ -13672,88 +13672,256 @@
       "zh-CN": "失败"
     },
     "(tag will be removed)": {
-      "ja": "（タグは削除されます）"
+      "ja": "（タグは削除されます）",
+      "es": "(la etiqueta será eliminada)",
+      "pt": "(a tag será removida)",
+      "ko": "(태그가 제거됩니다)",
+      "fr": "(le tag sera supprimé)",
+      "tr": "(etiket kaldırılacak)",
+      "zh-CN": "（标签将被移除）"
     },
     "Add Tag": {
-      "ja": "タグを追加"
+      "ja": "タグを追加",
+      "es": "Agregar etiqueta",
+      "pt": "Adicionar tag",
+      "ko": "태그 추가",
+      "fr": "Ajouter un tag",
+      "tr": "Etiket ekle",
+      "zh-CN": "添加标签"
     },
     "Add a note or comment...": {
-      "ja": "メモまたはコメントを追加..."
+      "ja": "メモまたはコメントを追加...",
+      "es": "Agregar una nota o comentario...",
+      "pt": "Adicionar uma nota ou comentário...",
+      "ko": "메모 또는 댓글 추가...",
+      "fr": "Ajouter une note ou un commentaire...",
+      "tr": "Not veya yorum ekle...",
+      "zh-CN": "添加备注或评论..."
     },
     "Can a user re-enter a Journey after exiting or finishing?": {
-      "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？"
+      "ja": "ユーザーは退出または完了後にジャーニーに再度入ることができますか？",
+      "es": "¿Puede un usuario volver a entrar a un Journey después de salir o terminar?",
+      "pt": "Um usuário pode entrar novamente em um Journey após sair ou concluir?",
+      "ko": "사용자가 종료하거나 완료한 후에 저니에 다시 진입할 수 있나요?",
+      "fr": "Un utilisateur peut-il entrer à nouveau dans un Journey après en être sorti ou l'avoir terminé ?",
+      "tr": "Kullanıcı çıktıktan veya tamamladıktan sonra bir Journey'e tekrar girebilir mi?",
+      "zh-CN": "用户在退出或完成后能否重新进入 Journey？"
     },
     "Days": {
-      "ja": "日"
+      "ja": "日",
+      "es": "Días",
+      "pt": "Dias",
+      "ko": "일",
+      "fr": "Jours",
+      "tr": "Gün",
+      "zh-CN": "天"
     },
     "Message Template": {
-      "ja": "メッセージテンプレート"
+      "ja": "メッセージテンプレート",
+      "es": "Plantilla de mensaje",
+      "pt": "Modelo de mensagem",
+      "ko": "메시지 템플릿",
+      "fr": "Modèle de message",
+      "tr": "Mesaj şablonu",
+      "zh-CN": "消息模板"
     },
     "No, they can receive this only once": {
-      "ja": "いいえ、これは一度だけ受信できます"
+      "ja": "いいえ、これは一度だけ受信できます",
+      "es": "No, solo pueden recibirlo una vez",
+      "pt": "Não, eles só podem recebê-lo uma vez",
+      "ko": "아니요, 한 번만 받을 수 있습니다",
+      "fr": "Non, ils ne peuvent le recevoir qu'une seule fois",
+      "tr": "Hayır, bunu yalnızca bir kez alabilirler",
+      "zh-CN": "否，只能接收一次"
     },
     "Note": {
-      "ja": "メモ"
+      "ja": "メモ",
+      "es": "Nota",
+      "pt": "Nota",
+      "ko": "메모",
+      "fr": "Note",
+      "tr": "Not",
+      "zh-CN": "备注"
     },
     "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.": {
-      "ja": "Enter キーまたはスペースキーを押してノードを選択します。その後、矢印キーでノードを移動できます。Delete キーで削除、Escape キーでキャンセルできます。"
+      "ja": "Enter キーまたはスペースキーを押してノードを選択します。その後、矢印キーでノードを移動できます。Delete キーで削除、Escape キーでキャンセルできます。",
+      "es": "Presiona Enter o Espacio para seleccionar un nodo. Luego puedes usar las teclas de flecha para mover el nodo. Presiona Suprimir para eliminarlo y Escape para cancelar.",
+      "pt": "Pressione Enter ou Espaço para selecionar um nó. Depois você pode usar as teclas de seta para mover o nó. Pressione Delete para removê-lo e Esc para cancelar.",
+      "ko": "Enter 또는 스페이스 바를 눌러 노드를 선택하세요. 그런 다음 화살표 키로 노드를 이동할 수 있습니다. 삭제하려면 Delete 키를, 취소하려면 Esc 키를 누르세요.",
+      "fr": "Appuyez sur Entrée ou Espace pour sélectionner un nœud. Vous pouvez ensuite utiliser les touches fléchées pour déplacer le nœud. Appuyez sur Suppr pour le supprimer et sur Échap pour annuler.",
+      "tr": "Bir düğüm seçmek için Enter veya boşluk tuşuna basın. Ardından ok tuşlarıyla düğümü hareket ettirebilirsiniz. Kaldırmak için Delete tuşuna, iptal etmek için Esc tuşuna basın.",
+      "zh-CN": "按 Enter 或空格键选择节点。然后可以使用方向键移动节点。按 Delete 键移除，按 Esc 键取消。"
     },
     "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel.": {
-      "ja": "Enter キーまたはスペースキーを押してエッジを選択します。その後、Delete キーで削除、Escape キーでキャンセルできます。"
+      "ja": "Enter キーまたはスペースキーを押してエッジを選択します。その後、Delete キーで削除、Escape キーでキャンセルできます。",
+      "es": "Presiona Enter o Espacio para seleccionar una arista. Luego puedes presionar Suprimir para eliminarla o Escape para cancelar.",
+      "pt": "Pressione Enter ou Espaço para selecionar uma aresta. Depois você pode pressionar Delete para removê-la ou Esc para cancelar.",
+      "ko": "Enter 또는 스페이스 바를 눌러 엣지를 선택하세요. 그런 다음 삭제하려면 Delete 키를, 취소하려면 Esc 키를 누르세요.",
+      "fr": "Appuyez sur Entrée ou Espace pour sélectionner une arête. Vous pouvez ensuite appuyer sur Suppr pour la supprimer ou sur Échap pour annuler.",
+      "tr": "Bir kenar seçmek için Enter veya boşluk tuşuna basın. Ardından kaldırmak için Delete tuşuna, iptal etmek için Esc tuşuna basabilirsiniz.",
+      "zh-CN": "按 Enter 或空格键选择边。然后可以按 Delete 键移除，或按 Esc 键取消。"
     },
     "Push Notification": {
-      "ja": "プッシュ通知"
+      "ja": "プッシュ通知",
+      "es": "Notificación push",
+      "pt": "Notificação push",
+      "ko": "푸시 알림",
+      "fr": "Notification push",
+      "tr": "Push bildirimi",
+      "zh-CN": "Push 通知"
     },
     "Send push notification": {
-      "ja": "プッシュ通知を送信"
+      "ja": "プッシュ通知を送信",
+      "es": "Enviar notificación push",
+      "pt": "Enviar notificação push",
+      "ko": "푸시 알림 전송",
+      "fr": "Envoyer la notification push",
+      "tr": "Push bildirimi gönder",
+      "zh-CN": "发送 Push 通知"
     },
     "Set a Push Goal": {
-      "ja": "プッシュ目標を設定"
+      "ja": "プッシュ目標を設定",
+      "es": "Establecer un objetivo de push",
+      "pt": "Definir um objetivo de push",
+      "ko": "푸시 목표 설정",
+      "fr": "Définir un objectif de push",
+      "tr": "Push hedefi belirle",
+      "zh-CN": "设置 Push 目标"
     },
     "Specify Tags": {
-      "ja": "タグを指定"
+      "ja": "タグを指定",
+      "es": "Especificar etiquetas",
+      "pt": "Especificar tags",
+      "ko": "태그 지정",
+      "fr": "Spécifier les tags",
+      "tr": "Etiketleri belirt",
+      "zh-CN": "指定标签"
     },
     "TIP:": {
-      "ja": "ヒント："
+      "ja": "ヒント：",
+      "es": "CONSEJO:",
+      "pt": "DICA:",
+      "ko": "팁:",
+      "fr": "ASTUCE :",
+      "tr": "İPUCU:",
+      "zh-CN": "提示："
     },
     "Tag User": {
-      "ja": "ユーザーをタグ付け"
+      "ja": "ユーザーをタグ付け",
+      "es": "Etiquetar usuario",
+      "pt": "Aplicar Tag ao usuário",
+      "ko": "사용자 태그 지정",
+      "fr": "Tagger l'utilisateur",
+      "tr": "Kullanıcıyı etiketle",
+      "zh-CN": "为用户添加标签"
     },
     "Time Window": {
-      "ja": "時間枠"
+      "ja": "時間枠",
+      "es": "Ventana de tiempo",
+      "pt": "Janela de tempo",
+      "ko": "시간 범위",
+      "fr": "Fenêtre temporelle",
+      "tr": "Zaman aralığı",
+      "zh-CN": "时间窗口"
     },
     "To pick up a draggable item, press the space bar.\n    While dragging, use the arrow keys to move the item.\n    Press space again to drop the item in its new position, or press escape to cancel.": {
-      "ja": "ドラッグ可能なアイテムを取得するには、スペースキーを押します。\n    ドラッグ中は、矢印キーでアイテムを移動できます。\n    スペースキーをもう一度押して新しい位置にドロップするか、Escape キーでキャンセルします。"
+      "ja": "ドラッグ可能なアイテムを取得するには、スペースキーを押します。\n    ドラッグ中は、矢印キーでアイテムを移動できます。\n    スペースキーをもう一度押して新しい位置にドロップするか、Escape キーでキャンセルします。",
+      "es": "Para tomar un elemento arrastrable, presiona la barra espaciadora.\n    Mientras arrastras, usa las teclas de flecha para mover el elemento.\n    Presiona Espacio nuevamente para soltar el elemento en su nueva posición, o presiona Escape para cancelar.",
+      "pt": "Para pegar um item arrastável, pressione a barra de espaço.\n    Enquanto arrasta, use as teclas de seta para mover o item.\n    Pressione Espaço novamente para soltar o item em sua nova posição, ou pressione Esc para cancelar.",
+      "ko": "드래그 가능한 항목을 잡으려면 스페이스 바를 누르세요.\n    드래그하는 동안 화살표 키로 항목을 이동할 수 있습니다.\n    새 위치에 항목을 놓으려면 스페이스 바를 다시 누르고, 취소하려면 Esc 키를 누르세요.",
+      "fr": "Pour saisir un élément déplaçable, appuyez sur la barre d'espace.\n    Pendant le déplacement, utilisez les touches fléchées pour déplacer l'élément.\n    Appuyez à nouveau sur Espace pour déposer l'élément à sa nouvelle position, ou sur Échap pour annuler.",
+      "tr": "Sürüklenebilir bir öğeyi almak için boşluk tuşuna basın.\n    Sürükleme sırasında, öğeyi hareket ettirmek için ok tuşlarını kullanın.\n    Öğeyi yeni konumuna bırakmak için boşluk tuşuna tekrar basın veya iptal etmek için Esc tuşuna basın.",
+      "zh-CN": "要拾起可拖动项目，请按空格键。\n    拖动时使用方向键移动项目。\n    再次按空格键将项目放到新位置，或按 Esc 键取消。"
     },
     "Users only receive messages from this Journey once.": {
-      "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。"
+      "ja": "ユーザーはこのジャーニーから一度だけメッセージを受信します。",
+      "es": "Los usuarios solo reciben mensajes de este Journey una vez.",
+      "pt": "Os usuários recebem mensagens deste Journey apenas uma vez.",
+      "ko": "사용자는 이 저니로부터 메시지를 한 번만 받습니다.",
+      "fr": "Les utilisateurs ne reçoivent les messages de ce Journey qu'une seule fois.",
+      "tr": "Kullanıcılar bu Journey'den mesajları yalnızca bir kez alır.",
+      "zh-CN": "用户只会从此 Journey 收到一次消息。"
     },
     "Users re-enter the Journey after a period of time if they match the entry rules.": {
-      "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。"
+      "ja": "ユーザーが入場ルールに一致する場合、一定期間後にジャーニーに再度入ります。",
+      "es": "Los usuarios vuelven a entrar al Journey después de un período de tiempo si coinciden con las reglas de entrada.",
+      "pt": "Os usuários entram novamente no Journey após um período de tempo se corresponderem às regras de entrada.",
+      "ko": "사용자가 진입 규칙과 일치하는 경우 일정 기간 후에 저니에 다시 진입합니다.",
+      "fr": "Les utilisateurs entrent à nouveau dans le Journey après un certain temps s'ils correspondent aux règles d'entrée.",
+      "tr": "Kullanıcılar giriş kurallarıyla eşleşirlerse belirli bir süre sonra Journey'e tekrar girerler.",
+      "zh-CN": "如果用户匹配进入规则，他们将在一段时间后重新进入 Journey。"
     },
     "Wait": {
-      "ja": "待機"
+      "ja": "待機",
+      "es": "Esperar",
+      "pt": "Aguardar",
+      "ko": "대기",
+      "fr": "Attendre",
+      "tr": "Bekle",
+      "zh-CN": "等待"
     },
     "Yes, after a certain amount of time": {
-      "ja": "はい、一定時間後"
+      "ja": "はい、一定時間後",
+      "es": "Sí, después de cierto tiempo",
+      "pt": "Sim, após um determinado tempo",
+      "ko": "예, 일정 시간 후",
+      "fr": "Oui, après un certain temps",
+      "tr": "Evet, belirli bir süre sonra",
+      "zh-CN": "是，在一定时间之后"
     },
     "This message will": {
-      "ja": "このメッセージは"
+      "ja": "このメッセージは",
+      "es": "Este mensaje",
+      "pt": "Esta mensagem",
+      "ko": "이 메시지는",
+      "fr": "Ce message",
+      "tr": "Bu mesaj",
+      "zh-CN": "此消息将"
     },
     "send immediately": {
-      "ja": "すぐに送信"
+      "ja": "すぐに送信",
+      "es": "se enviará inmediatamente",
+      "pt": "será enviada imediatamente",
+      "ko": "즉시 전송됩니다",
+      "fr": "sera envoyé immédiatement",
+      "tr": "hemen gönderilecek",
+      "zh-CN": "立即发送"
     },
     "once the user reaches this step.": {
-      "ja": "ユーザーがこのステップに到達した時点で送信"
+      "ja": "ユーザーがこのステップに到達した時点で送信",
+      "es": "una vez que el usuario llegue a este paso.",
+      "pt": "assim que o usuário chegar a esta etapa.",
+      "ko": "사용자가 이 단계에 도달하면.",
+      "fr": "une fois que l'utilisateur atteint cette étape.",
+      "tr": "kullanıcı bu adıma ulaştığında.",
+      "zh-CN": "当用户到达此步骤时。"
     },
     "To manage what days and times this message sends at, add a": {
-      "ja": "このメッセージの送信日時を管理するには、"
+      "ja": "このメッセージの送信日時を管理するには、",
+      "es": "Para administrar los días y horas en que se envía este mensaje, agrega una",
+      "pt": "Para gerenciar os dias e horários em que esta mensagem é enviada, adicione uma",
+      "ko": "이 메시지가 전송되는 요일과 시간을 관리하려면, ",
+      "fr": "Pour gérer les jours et heures auxquels ce message est envoyé, ajoutez une",
+      "tr": "Bu mesajın gönderildiği gün ve saatleri yönetmek için, bir",
+      "zh-CN": "要管理此消息的发送日期和时间，请添加"
     },
     "action and/or a": {
-      "ja": "アクション、または"
+      "ja": "アクション、または",
+      "es": "acción y/o una",
+      "pt": "ação e/ou uma",
+      "ko": "액션 및/또는",
+      "fr": "action et/ou une",
+      "tr": "eylemi ve/veya bir",
+      "zh-CN": "操作和/或"
     },
     "action to your Journey before this message step.": {
-      "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。"
+      "ja": "アクションをこのメッセージステップの前にジャーニーに追加してください。",
+      "es": "acción a tu Journey antes de este paso de mensaje.",
+      "pt": "ação ao seu Journey antes desta etapa de mensagem.",
+      "ko": "액션을 이 메시지 단계 이전에 저니에 추가하세요.",
+      "fr": "action à votre Journey avant cette étape de message.",
+      "tr": "eylemini bu mesaj adımından önce Journey'inize ekleyin.",
+      "zh-CN": "操作添加到您的 Journey 中，在此消息步骤之前。"
     }
   },
   "patterns": [
