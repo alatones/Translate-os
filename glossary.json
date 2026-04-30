@@ -667,7 +667,11 @@
         "Silin",
         "Silme"
       ],
-      "zh-CN": "删除"
+      "zh-CN": "删除",
+      "_skip_keys": [
+        "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
+        "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
+      ]
     },
     "Edit": {
       "ja": "編集",
@@ -807,7 +811,10 @@
         "Ekleyin",
         "Eklendi"
       ],
-      "zh-CN": "添加"
+      "zh-CN": "添加",
+      "_skip_keys": [
+        "To manage what days and times this message sends at, add a"
+      ]
     },
     "Remove": {
       "ja": "削除",
@@ -832,6 +839,10 @@
       "zh-CN": [
         "移除",
         "删除"
+      ],
+      "_skip_keys": [
+        "Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel.",
+        "Press enter or space to select an edge. You can then press delete to remove it or escape to cancel."
       ]
     },
     "Update": {
