@@ -4,8 +4,12 @@
 
 > **This is an unofficial, community-maintained browser extension. It
 > is not produced, endorsed, or supported by OneSignal Inc.**
-> "OneSignal" is a trademark of OneSignal Inc. and is used only to
-> describe the dashboard this extension translates.
+>
+> "OneSignal" is a trademark of OneSignal Inc. The name is used in
+> this project under the doctrine of nominative fair use — solely
+> to identify the dashboard the extension is designed to translate.
+> No association, sponsorship, or endorsement by OneSignal Inc. is
+> implied or claimed.
 
 The OneSignal Dashboard Translator is a Chrome/Edge browser extension
 that translates the OneSignal admin dashboard
